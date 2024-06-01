@@ -2,11 +2,26 @@
 title: Low Bar Brawlers
 description: 
 published: true
-date: 2024-05-29T19:30:00.845Z
+date: 2024-06-01T19:12:41.466Z
 tags: home
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
 ---
 
-# Header
-Your content here
+# Low Bar Brawlers
+Eleven adventures ventured out into an unknown world on a dangerous quest, this is the story of their chaotic journey.
+
+## Characters
+- Bazzert 
+> 	Druid
+>   Level 8
+{.is-success}
+
+![bazzdos.webp](/characters/bazzdos.webp)
+
+---
+- Spoops
+>	Paladin
+> Level 20 Boon 10
+{.is-success}
+
