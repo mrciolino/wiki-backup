@@ -2,14 +2,13 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:18:48.627Z
+date: 2024-06-02T14:21:56.935Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
 ---
 
 # Sessions
-
 
 ## Sessions 1
 
@@ -38,7 +37,9 @@ Will anyone remember that they were called to the pub for an unknown reason by a
 Who knows next time on Low Bar Brawlers. The bar get lowered.
 
 ## Session 2
-<span style="color:gray">some *blue* text</span>.
+
+some *blue* text.
+
 ###### January 15 2020
 
 Our heroes woke up rested in the basement of the Fort Suro guard barracks, but drakham was chained up as the guards were convinced he summoned the demon in pope's pub. Our heroes went up to confont the captain of the guards and then instantly tried to steal and beg him for money and equipment after getting 3.50 and three daggers they pissed off the captain and left shortly afterwards. they explored fort suro but after that quick look around they went deep into the mines and are fighting for their lives surrounded and besieged by a whole den full of goblins and their wolves. Will they survive? Will they help Freedom? Why is Gilthur starting to hulk out? These questions answered next time in Low Bar Brawlers!
