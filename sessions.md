@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:42:21.779Z
+date: 2024-06-02T14:46:43.048Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -13,19 +13,19 @@ Recaps from the end of some sessions.
 
 
 
-- [Session 1 - January 8, 2020](#january-8,-2020)
+- [Session 1 - January 8, 2020](#session-1)
 - [Session 2 - January 15, 2020](#session-2)
 - [Session 3 - WTF - January 22, 2020](#session-3-wtf)
-- [Session 4 - Guardison - January 29, 2020](#session-4---guardison)
+- [Session 4 - Guardison - January 29, 2020](#session-4-guardison)
 - [Session 5 - Badger Badger Badger - February 5, 2020](#session-5-badger-badger-badger)
-- [Session 6 - My God It Went So WRONG - February 12, 2020](#session-6---my-god-it-went-so-wrong)
-- [Session 7 - Boats and Hoes - February 19, 2020](#session-7---boats-and-hoes)
-- [Session 8 - Hello Allford - February 26, 2020](#session-8---hello-allford)
-- [Session 9 - Dungeon Trekking - March 4, 2020](#session-9---dungeon-trekking)
-- [Session 10 - Shitty Pirate Revelations - March 11, 2020](#session-10---shitty-pirate-revelations)
-- [Session 11 - Leaving Allford - March 18, 2020](#session-11---leaving-allford)
-- [Session 12 - Cults - March 26, 2020](#session-12---cults)
-- [Session 13 - Grief and Shopping - March 29, 2020](#session-13---grief-and-shopping)
+- [Session 6 - My God It Went So WRONG - February 12, 2020](#session-6-my-god-it-went-so-wrong)
+- [Session 7 - Boats and Hoes - February 19, 2020](#session-7-boats-and-hoes)
+- [Session 8 - Hello Allford - February 26, 2020](#session-8-hello-allford)
+- [Session 9 - Dungeon Trekking - March 4, 2020](#session-9-dungeon-trekking)
+- [Session 10 - Shitty Pirate Revelations - March 11, 2020](#session-10-shitty-pirate-revelations)
+- [Session 11 - Leaving Allford - March 18, 2020](#session-11-leaving-allford)
+- [Session 12 - Cults - March 26, 2020](#session-12-cults)
+- [Session 13 - Grief and Shopping - March 29, 2020](#session-13-grief-and-shopping)
 - [Session 18 - April 18, 2020](#session-18)
 
 
@@ -74,7 +74,7 @@ But like the fucking gambler he is Drakham used his tides of chaos to get himsel
 
 look its 1153 and I just can't even with the bad luck of 3 consecutive ones which lead to 2 people dying and then 3 consecutive crit 20s to bring everyone back to life.
 
-## Session 4 - Guardison
+## Session 4 - Guardison <a id='session-4-guardison'></a>
 ###### January 29, 2020
 
 So with the goblins defeated and their spoils looted the party collects their rewards from captain guardison in the fort suro barracks and after narrowly deciding against violence our brave few go and join a caravan as an escort. But before they take off in the morning they sleep in pope's pub for free and Otto is disturbed out of his sleep by
@@ -171,7 +171,7 @@ Comments
 
 You forgot the impending bear war because the king hates bears. 
 
-## Boats and Hoes
+## Session 7 - Boats and Hoes <a id='session-7-boats-and-hoes'></a>
 ###### February 19 2020
 
 You all woke up on a trading ship
@@ -196,7 +196,7 @@ All of pirates are dead and the fighting is over. After witnessing (and accident
 
 The first shot knocks Freedom deep into the ship, before Drakham casts reduce on the size of the cannon. Hearing Freedom moving below, Krorg and Bomb decide to gain the high ground in the fight by climbing the ship's mast. Drakham successfully charms Krorg to climb back down to the deck. Krorg agrees to surrender, but his sudden change in nature causes him to be bitten by Bomb, ending the spell. Off the side of the ship, Freedom appears while riding a large dragon turtle, about to head off to destroy the remaining pirate ships. Krorg thanks Bomb for saving him, and decides to leave Bomb behind to the safety of the Low Bar Brawlers. Then Krorg runs and dives off of the mast into the water, catching the dragon turtle's tail before being dragged off into the horizon...
 
-## Hello Allford
+## Session 8 - Hello Allford <a id='session-8-hello-allford'></a>
 ###### February 26 2020
 
 We get back after the pirate fight and after Freedom and Krorg jump on to a dragon turtle
@@ -221,7 +221,7 @@ What is next for our "Stalwart" adventurers more ASS? more GAS? more EXPLOSIONS?
 
 Next time on Low Bar Brawlers!
 
-## Session 9 Dungeon Trekking
+## Session 9 - Dungeon Trekking <a id='session-9-dungeon-trekking'></a>
 ###### March 4 2020
 
 So we pick up right with Spoops exploring Allford and seems to piss off everyone and learns that the undead are hated because of a decades long conflict that ended 25 years ago called the necrotic wars and that to this day people hate the undead
@@ -242,7 +242,7 @@ Whats up next more spiders, Freedom, Kung Pow Chicken with a side of rice?
 
 Who knows, Next Time on Low Bar Brawlers
 
-## Shitty Pirate Revelations
+## Session 10 - Shitty Pirate Revelations <a id='session-10-shitty-pirate-revelations'></a>
 ###### March 11 2020
 
 We pick back up in the Sewers where Krorg has just reunited with the party, and has a pirate crew accompanying him. This pirate crew came together after the pirate boarding at sea gone wrong as Krorg ended up marooned on shore with Nathar and looking to kill Freedom. They met with the Pirate King and added Dave Bones, Darfallen, and Xialethia to the Freedom kill team. The followed Freedom and found his clues pointing to Illiard Tower in Allford. They burst into the city sewers to enter the tower at its weakest point to avoid the defenses Freedom would put up, little did they know the defenses they were avoiding didn't exist and they were heading for a trap. Luckily they ran into the rest of the party who happened to be in the same sewer system. after reuniting Krorg had his new crew dispel the firewall the group moves forward and searches the next room only to find gibbets filled with corpses.
@@ -354,7 +354,7 @@ LOW BAR BRAWLERS
 
 [Image of Season 1 Poster]
 
-## Session 13 Grief and shopping
+## Session 13 - Grief and Shopping <a id='session-13-grief-and-shopping'></a>
 ###### March 29 2020
 
 We return after the fight with the cultists and Bomb the bear is dead. Drakham and Spoops are arguing over what to do with Bomb as Krorg sleeps. They enter into a mexican standoff, Drakham clutching his last grande and Spoops with rope threatening to take Bomb's corpse. Eventually Krorg wakes up and decicdes to bury Bomb Spoops goes along as he was charmed by Drakham. Drakham used a patch from his cloak to excavate a 10 by 10 by 10ft hole to bury bomb and after some kind words the group bury bomb with the cultists. But there were too many cultists for the hole and so you guys burned the corpses and then finished the burial. After the funeral you return back to the mission at hand to search for artifacts and weapons belonging to the old Liches of the necrotic wars. Along they way you Bazzert finds a coo, looking gem and gathers a bunch of random ingredients that aren't that suspicious for a druid to gather but did so in a suspicious manner and has up to this point the morning after the session hasn't yet told me the DM what he plans to do with it so I'll keep my eye on him.
