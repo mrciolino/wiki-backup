@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:52:12.706Z
+date: 2024-06-02T14:52:35.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -301,7 +301,7 @@ LOW BAR BRAWLERS!
 
 [Image of Season 1 Poster]
 
-## Session 11/12 Cults <a id='Session 11/12 Cults'></a>
+## Session 11/12 Cults <a id='session 11/12 cults'></a>
 ###### March 26 2020
 
 We come back to our heroes with Bazzert and Krorg in an underwater cave with Bazzert's master Ayod. He has come to tell his estranged student Bazeert that some stars are disappearing from the sky and he doesn't know why. Then Ayod helps train Bazzert to read the weird book.
