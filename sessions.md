@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:36:51.380Z
+date: 2024-06-02T14:37:08.061Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
