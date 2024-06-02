@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:47:33.477Z
+date: 2024-06-02T14:50:36.003Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -16,13 +16,13 @@ Recaps from the end of some sessions.
 - [Session 3 - WTF - January 22, 2020](#session-3-wtf)
 - [Session 4 - Guardison - January 29, 2020](#session-4-guardison)
 - [Session 5 - Badger Badger Badger - February 5, 2020](#session-5-badger-badger-badger)
-- [Session 6 - My God It Went So WRONG - February 12, 2020](#session-6-my-god-it-went-so-wrong)
-- [Session 7 - Boats and Hoes - February 19, 2020](#session-7-boats-and-hoes)
-- [Session 8 - Hello Allford - February 26, 2020](#session-8-hello-allford)
+- [Session 6 - My God It Went So WRONG - February 12, 2020](#my-god-it-went-so-wrong)
+- [Session 7 - Boats and Hoes - February 19, 2020](#boats-and-hoes)
+- [Session 8 - Hello Allford - February 26, 2020](#hello-allford)
 - [Session 9 - Dungeon Trekking - March 4, 2020](#session-9-dungeon-trekking)
-- [Session 10 - Shitty Pirate Revelations - March 11, 2020](#session-10-shitty-pirate-revelations)
-- [Session 11 - Leaving Allford - March 18, 2020](#session-11-leaving-allford)
-- [Session 12 - Cults - March 26, 2020](#session-12-cults)
+- [Session 10 - Shitty Pirate Revelations - March 11, 2020](#shitty-pirate-revelations)
+- [Session 11 - Leaving Allford - March 18, 2020](#leaving-allford)
+- [Session 12 - Cults - March 26, 2020](#session-11/12-cults)
 - [Session 13 - Grief and Shopping - March 29, 2020](#session-13-grief-and-shopping)
 - [Session 18 - April 18, 2020](#session-18)
 
@@ -71,7 +71,7 @@ But like the fucking gambler he is Drakham used his tides of chaos to get himsel
 
 look its 1153 and I just can't even with the bad luck of 3 consecutive ones which lead to 2 people dying and then 3 consecutive crit 20s to bring everyone back to life.
 
-## Session 4 - Guardison
+## Session 4 - Guardison <a id='Session 4 - Guardison'></a>
 ###### January 29, 2020
 
 So with the goblins defeated and their spoils looted the party collects their rewards from captain guardison in the fort suro barracks and after narrowly deciding against violence our brave few go and join a caravan as an escort. But before they take off in the morning they sleep in pope's pub for free and Otto is disturbed out of his sleep by
@@ -95,7 +95,6 @@ ALL OF THIS ANSWERED NEXT TIME ON...
 LOW BAR BRAWLERS
 
 ![Image of Season 1 Poster]
-
 
 
 ## Session 5 Badger Badger Badger
