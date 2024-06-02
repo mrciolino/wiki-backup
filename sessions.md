@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:39:31.003Z
+date: 2024-06-02T14:42:21.779Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -27,6 +27,7 @@ Recaps from the end of some sessions.
 - [Session 12 - Cults - March 26, 2020](#session-12---cults)
 - [Session 13 - Grief and Shopping - March 29, 2020](#session-13---grief-and-shopping)
 - [Session 18 - April 18, 2020](#session-18)
+
 
 ## Session 1
 ###### January 8, 2020
@@ -58,7 +59,7 @@ Who knows next time on Low Bar Brawlers. The bar get lowered.
 
 Our heroes woke up rested in the basement of the Fort Suro guard barracks, but drakham was chained up as the guards were convinced he summoned the demon in pope's pub. Our heroes went up to confront the captain of the guards and then instantly tried to steal and beg him for money and equipment after getting 3.50 and three daggers they pissed off the captain and left shortly afterwards. they explored fort suro but after that quick look around they went deep into the mines and are fighting for their lives surrounded and besieged by a whole den full of goblins and their wolves. Will they survive? Will they help Freedom? Why is Gilthur starting to hulk out? These questions answered next time in Low Bar Brawlers!
 
-## Session 3 - WTF
+## Session 3 - WTF <a id='Session 3 - WTF'></a>
 ###### January 22, 2020
 
 I dispensing with the story
