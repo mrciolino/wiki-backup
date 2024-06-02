@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:50:36.003Z
+date: 2024-06-02T14:52:12.706Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -24,7 +24,7 @@ Recaps from the end of some sessions.
 - [Session 11 - Leaving Allford - March 18, 2020](#leaving-allford)
 - [Session 12 - Cults - March 26, 2020](#session-11/12-cults)
 - [Session 13 - Grief and Shopping - March 29, 2020](#session-13-grief-and-shopping)
-- [Session 18 - April 18, 2020](#session-18)
+- [Session 18 - April 18, 2020](#sesiion-18)
 
 ## Session 1
 ###### January 8, 2020
@@ -301,7 +301,7 @@ LOW BAR BRAWLERS!
 
 [Image of Season 1 Poster]
 
-## Session 11/12 Cults
+## Session 11/12 Cults <a id='Session 11/12 Cults'></a>
 ###### March 26 2020
 
 We come back to our heroes with Bazzert and Krorg in an underwater cave with Bazzert's master Ayod. He has come to tell his estranged student Bazeert that some stars are disappearing from the sky and he doesn't know why. Then Ayod helps train Bazzert to read the weird book.
