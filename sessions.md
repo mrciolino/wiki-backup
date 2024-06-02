@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:37:08.061Z
+date: 2024-06-02T14:38:36.313Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -17,7 +17,7 @@ Recaps from the end of some sessions.
 - [Session 2 - January 15, 2020](#session-2)
 - [Session 3 - WTF - January 22, 2020](#session-3---wtf)
 - [Session 4 - Guardison - January 29, 2020](#session-4---guardison)
-- [Session 5 - Badger Badger Badger - February 5, 2020](#session-5---badger-badger-badger)
+- [Session 5 - Badger Badger Badger - February 5, 2020](#session-5-badger-badger-badger)
 - [Session 6 - My God It Went So WRONG - February 12, 2020](#session-6---my-god-it-went-so-wrong)
 - [Session 7 - Boats and Hoes - February 19, 2020](#session-7---boats-and-hoes)
 - [Session 8 - Hello Allford - February 26, 2020](#session-8---hello-allford)
