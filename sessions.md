@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2024-06-02T14:53:25.467Z
+date: 2024-06-04T02:40:41.383Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -371,3 +371,5 @@ Oh yeah I forgot to mention the Illiard job with Beholder in the king's vault, d
 ###### April 18 2020
 
 [Indecipherable]
+
+i dot knoe i m drunj and krorg jut swindled the pirTE KING ito making th pirate king vunlerable on the demon soul front as he can claim his BF and kix that for himslef 'oh yay cBreezy showed up and wad diapaointing but ultinating a good thing to get  LWAFUL GOOOD perason
