@@ -2,7 +2,7 @@
 title: Krorg
 description: 
 published: true
-date: 2024-06-05T02:21:39.435Z
+date: 2024-06-05T02:30:20.586Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T02:39:23.003Z
@@ -29,7 +29,7 @@ During the 3 year time skip, Krorg was hard at work refinancing the struggling n
 During his rise to king, Krorg had made many enemies and many people wanted him dead. He was eventually betrayed by several key figures, who acted after Krorg had sent most of his old party away to the southern continent to assassinate Os. An anti-Krorgist coalition consisting of pirate captains, old nobles, and Krorg's inlaws revealed his location to Darmouth, and lowered the city's defenses to allow her and her pet inside. As Krorg was communicating with the party via speaking stone as they captured Os, Darmouth broke in and attacked. With all of his guards gone, Krorg attempted to reason with, bribe, and eventually seduce Darmouth, who ended up feeding him to her pet. Darmouth renegged on her promise to only kill Krorg, and opened Alford to slaughter by her bone spiders. 
 
 # ...is Never the End
-Somehow Krorg has returned from beyond the grave under the pseudonym "The Prophet of Profit"
+Somehow Krorg has returned from beyond the grave under the pseudonym "The Prophet of Profit" and amassed a large following of people on a crusade to destroy all gold. But once again he overplayed his hand and earned the wrath of Zeus.
 
 # Stats
 ## Personality Traits
