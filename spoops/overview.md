@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-06-06T02:21:32.985Z
+date: 2024-06-06T02:36:01.294Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -29,8 +29,7 @@ Spoops is an ancient Primordial entity who first awoke in timeless time within h
 ---
 
 # Time of Troubles
-
-
+For a time Spoops was known as Myrkul and adventured with Bane and Bhaal before their ascention to Godhood. During this period of time, Spoops and his allies were responsible for the events which led to the Time of Troubles. At the end of these events, Spoops's Avatar was destroyed by Cyric who seized much of his domain of Death. Then Spoops was suddenly confronted by AO who without a word, threw Spoops into the sea of a world in the mortal realm. However, while Spoops was indeed thrown down to the mortal realm, his inseperable connection to the Well of Souls remained. This resulted in the Splitting of his essence into two entities: Ry-ann the God who retained domain over Souls and Godly knowledge, and Spoops the Skeleton whos memories were replaced by knowledge of the very thing AO cast him into, water.
 
 
 # Glubglub The Immortal's Invasion
