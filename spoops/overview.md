@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-06-06T00:34:20.805Z
+date: 2024-06-06T02:00:54.437Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -28,4 +28,7 @@ Spoops is an ancient Primordial entity who first awoke in timeless time within h
 
 
 ---
+
+# Stats
+## Personality Traits
 
