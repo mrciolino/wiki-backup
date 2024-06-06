@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-06-06T03:59:53.009Z
+date: 2024-06-06T23:59:50.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -10,8 +10,10 @@ dateCreated: 2024-06-01T22:42:52.715Z
 
 # Spoops
 # Tabs {.tabset}
+## Spoops, God of Souls
+![spoops_icon.png](/characters/spoops/spoops_icon.png)
 ## Spoops, Skeleton Lost at Sea
-![spoops.webp](/characters/spoops.webp)
+![skelly_spoops.png](/characters/spoops/skelly_spoops.png)
 ## Spoops, Paladin
 ![paladin_spoops.jpg](/characters/spoops/paladin_spoops.jpg)
 ## Spoops, Grandmaster Paladin
