@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-06-06T23:59:50.364Z
+date: 2024-06-07T00:12:26.425Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -40,10 +40,10 @@ After losing his memories and washing ashore in an unfamiliar land, Spoops lived
 
 
 # Lich Wars
-
-
+Spoops found himself washed ashore in a new world engulfed in war. As a group of Liches waged war on the world, Spoops found himself on the side of the living. After washing ashore, despite being a skeleton in a time when the undead were of particular concern, Spoops used his quick wit and determination to befriend the local community. However after his new home was demolished by the command of the Liches, he swore vengeance and departed with a surviving cleric to join up with the Paladins in the nearest city. Over many years, Spoops worked his way up to the level of Grandmaster Paladin. Commanding the forces of a legion of paladins, they departed in their ships accross the sea to meet their enemies in battle. However a rogue cell of paladins existed within the order who sought Spoops' downfall. During their voyage, they saw their opportunity to strike as Spoops contemplated the movements of the waves. With a deft hand they struck Spoops down, leaving him murdered and sinking into the depths of the sea.
 
 # The Low Bar Brawlers
+
 
 
 # Timeskip
