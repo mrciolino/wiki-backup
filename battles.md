@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-06-04T02:31:09.110Z
+date: 2024-06-10T23:47:35.091Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -12,10 +12,10 @@ dateCreated: 2024-06-03T12:56:16.826Z
 
 ## Glub Glub
 ###### June 3rd, 2024
-After Bazzdos decieded to explore Spoops' leather bag stomach (that he picked up early in the campaing) while Spoops "went big" (2^10 Enlarge), he found a portal to the elemental plane of water. On the other side of the portal Glub Glub showed himself and was able to dominate person Bazzdos. Glub Glub used this opprunity to create not only speaking stone enchjanced steel armour for his crab army but also decided to use bassdos' expiermental laser lens. Bazzdos crafted all of these items in his forge plane and was able to convert the laser lens to be used with a lightning rod.
+After Bazzdos decided to explore Spoops' leather bag stomach (which he picked up early in the campaign) while Spoops "went big" (using a 2^10 Enlarge spell), he discovered a portal to the Elemental Plane of Water. On the other side, Glub Glub appeared and used Dominate Person on Bazzdos. Glub Glub seized this opportunity to have Bazzdos create enchanted steel armor for his crab army and adapt Bazzdos' experimental laser lens. In his forge plane, Bazzdos converted the laser lens to be used with a lightning rod.
 
-The party after relasing bazzdos hasnt been around for a while decided to go visit bazzdos in the forge dimension and asked him what he was doing. He told the party in good faith that glub glub (an enemy of spoops) employed his help to forge magical items for glub glubs army. The party relized that this Bazzdos was dominated and casted a cantrip on him to break him out of the spell. The party deciceded that we should retrieved the laser lens tech back from glub glub and proceeded to leave the forge dimension to go back into the elemental plane of fire.
+After releasing Bazzdos, who had been absent for a while, the party decided to visit him in the forge dimension to check on his activities. Bazzdos confessed that Glub Glub, an enemy of Spoops, had compelled him to forge magical items for Glub Glub's army. Realizing that Bazzdos was dominated, the party used a cantrip to break the spell. They decided to retrieve the laser lens technology from Glub Glub and proceeded to leave the forge dimension, heading back to the Elemental Plane of Fire.
 
-They open the door and a laser attack from glub glubs claw come right at them. Spoops is able to use his mechincal mirror sheild to redirect the attack the the appendege the laser is attached to, dropping it to the ground. We fought a long battle, spoops got big, adayln cast a acolpolitic storm, bazzdos was banish to windows xp, and breezy went ham with spagaetti. We kill the main glub glub but his multiple parts (34) regrow. So we took the laser and left. 
+As they opened the door, they were met with a laser attack from Glub Glub's claw. Spoops used his mechanical mirror shield to redirect the attack back at the appendage, severing it. A fierce battle ensued: Spoops enlarged himself, Adayln cast an apocalyptic storm, Bazzdos was banished to a Windows XP-themed plane, and Breezy unleashed a spaghetti attack. Though they defeated the main Glub Glub, his multiple parts (34 in total) began to regenerate. The party decided to take the laser and leave.
 
-MISC: Space laser was created and tested. FTW
+Miscellaneous: The space laser was created and tested. FTW!
