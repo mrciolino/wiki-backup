@@ -1,12 +1,20 @@
 ---
-title: Villians
+title: Characters
 description: 
 published: true
-date: 2024-06-13T15:28:14.708Z
+date: 2024-06-13T16:03:06.182Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
 ---
+
+# Allies
+Tony Mozzarella
+Bomb the Bear
+Lucidel Illiard
+Josh the Drake
+Doom Slayer
+Mechatarasque
 
 # Villians
 Various individuals and organizations that the party has fought against.
