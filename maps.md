@@ -2,7 +2,7 @@
 title: Maps
 description: 
 published: true
-date: 2024-06-03T13:03:30.355Z
+date: 2024-06-13T15:59:04.234Z
 tags: maps
 editor: markdown
 dateCreated: 2024-06-03T12:57:20.247Z
@@ -12,3 +12,7 @@ dateCreated: 2024-06-03T12:57:20.247Z
 
 An interactive version of the map information can be found at the Low Bar Brawlers website: [Low Bar Brawlers Map](https://www.lowbarbrawlers.com/#maps) 
 
+## Original World
+![map.png](/map.png)
+
+## 2nd World
