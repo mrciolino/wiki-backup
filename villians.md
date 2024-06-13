@@ -2,7 +2,7 @@
 title: Villians
 description: 
 published: true
-date: 2024-06-11T05:28:08.277Z
+date: 2024-06-13T15:28:14.708Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -10,6 +10,10 @@ dateCreated: 2024-06-03T12:57:02.680Z
 
 # Villians
 Various individuals and organizations that the party has fought against.
+
+- [Virian Rathwing](#virian-rathwing)
+- [Dave Bones](#dave-bones)
+- [Darmuth](#darmuth)
 
 ## Virian Rathwing
 ![wrath.png](/wrath.png)
