@@ -2,7 +2,7 @@
 title: Krorgs Hometown
 description: Place up north
 published: true
-date: 2024-06-11T04:53:27.682Z
+date: 2024-06-14T17:57:06.169Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-06T07:11:45.032Z
@@ -16,7 +16,7 @@ Formerly known as **North Geskoworm**, it is a village in the far north of the w
 # History
 North Geskoworm was founded by gnomish exiles who were sent away to live in the arctic as punishment for being really annoying. They named their village North Geskoworm because it was in the far north, and Geskoworm was a combination of 9 letters that sounded cool. Over time the harsh climate froze the joyful smiles and temperment that was common amoung these gnomes, and rarely a laugh was heard nor a joke told. So North Geskoworm was split between the optimistic gnomes who sought to preserve their former spirits, and the pessimistic gnomes who just try to make it by surviving. 
 
-One day a half-gnome named [Gilthur](/krorg/overview) tried his luck at becoming the new chief, but his jokes were so bad and foul that he was exiled forever, never to return until he told the funniest joke ever. So shameful and terrible was his humor that the villagers united together to cast an obscuring spell over the village, so that nobody would remember it as the place where Gilthur came from. From then on, North Geskoworm was called Krorg's Hometown.
+One day a half-gnome named [Gilthur](/krorg/overview) tried his luck at becoming the new chief, but his jokes were so bad and foul that he was exiled forever, never to return until he told the funniest joke ever. So shameful and terrible was his humor that the villagers united together to cast an obscuring spell over the village, so that nobody would remember it as the place where Gilthur came from. From then on, North Geskoworm was called Krorg's Hometown. Ironically this backfired after Gilthur adopted the name Krorg.
 ![ng.gif](/ng.gif)
 ^Powerful^ ^Gnomish^ ^Magic^
 
@@ -24,7 +24,9 @@ One day a half-gnome named [Gilthur](/krorg/overview) tried his luck at becoming
 Located far to the north, Krorg's Hometown is in a very cold tundra. There isn't much else in the area, nor useful natural resources. 
 
 # Population
-The population is almost entirely gnomes, totally about 500. There are the occasional wanderers, vagabonds, and tourists who visit. The town attracts tourists because of its strange gnomish culture. For example, every year they decide who the next supreme dictator will be based on a comedy show. 
+The population is almost entirely gnomes, totally about 500. There are the occasional wanderers, vagabonds, and tourists who visit. The town attracts tourists because of its strange gnomish culture. For example, every year they decide who the next supreme dictator will be based on a comedy show.
+
+Krorg's Hometown is politically separated into the collectivist traditionalist optimist faction who seek to preserve their former ways of life in a hostile environment, and the individualist progressive pessimist faction who seek to focus on the adaptation of society to fit the new environment. The optimists hold political power while the pessimists avoid the government in favor of doing things for themselves. 
 
 # Government
 Krorg's Hometown is ruled by a bizzarre system where absolute power is given to whoever can tell the best joke. I think the word "Ridiocracy" would best describe this. Being unfunny is seen as a particularly capital offense usually dealt with via death (tied to a tree until you freeze to death) or banishment (freeze out in the wastes). 
@@ -46,7 +48,7 @@ Something about Gond?
 Despite its general unimportance, it did get attacked by Ithillids. There's also the wandering Yeti who eat stray gnomes.
 
 # Lore and Myths
-The optimist faction (the ones in charge) pray for the favor of Garl Glittergold.
+The optimist faction (the ones in charge) pray for the favor of Garl Glittergold. They also have a tradition of choosing last names based on feats accomplished during the transition from childhood to adulthood. 
   
 # Gallery
 ![k.png](/k.png){.align-center}
