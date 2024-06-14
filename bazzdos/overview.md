@@ -2,15 +2,14 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-06-10T23:59:23.274Z
+date: 2024-06-14T02:45:17.928Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
 ---
 
 # Bazzdos
-Your content here
-
+Found by the party in a room deep underground.
 
 # Tabs {.tabset}
 ## Bazzdos
