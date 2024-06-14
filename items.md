@@ -2,7 +2,7 @@
 title: Items
 description: 
 published: true
-date: 2024-06-11T00:09:10.737Z
+date: 2024-06-14T00:07:21.773Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -31,4 +31,5 @@ A sword capable of slaying deities and other divine beings.
 A tome containing spells that bring instant death to foes.
 
 ### Rocket Gauntlets
-Gauntlets that provide enhanced strength and the ability to launch explosive projectiles.
+Gauntlets that provide enhanced strength and the ability to launch explosive projectiles. <img style="float: right;" src="/characters/bazzert/bazzdosgaunlet.png">
+
