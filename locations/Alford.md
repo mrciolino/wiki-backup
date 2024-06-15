@@ -2,14 +2,14 @@
 title: Alford
 description: An important city to Season 1-2
 published: true
-date: 2024-06-14T18:34:28.825Z
+date: 2024-06-15T04:03:06.809Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-14T18:34:28.825Z
 ---
 
 # Overview
-
+Alford is a city state north on the Dragon Sea
     Brief description
     Location within the game world
     Significance in the game's storyline
