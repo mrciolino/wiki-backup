@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-06-15T02:42:19.895Z
+date: 2024-06-15T02:47:48.391Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -31,6 +31,8 @@ escape with gust of wing + raided the horde
 
 ## Fywick Bone Crab
 
+## Alford
+Inferno's destruction, draakam's spider potion, and the pirate raid
 
 ## Krogs Hometown Ithilid Assault
 Assault from the ithilid space laser and the downfall of the mech tarsque
