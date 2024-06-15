@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-06-15T02:47:48.391Z
+date: 2024-06-15T02:49:50.454Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -29,7 +29,8 @@ Bomb the bear death + arrow threw the eye
 ## Dragon Turtle
 escape with gust of wing + raided the horde
 
-## Fywick Bone Crab
+## Fywick Bone Monstraucity
+Darmuths pet which tracked us across the world to our last stand at fywick.
 
 ## Alford
 Inferno's destruction, draakam's spider potion, and the pirate raid
@@ -47,4 +48,5 @@ Burning of the town, party was inprisioned and freedom burned the town down.
 
 ## 
 
-# Town we Burned
+# Towns Burned
+Alford, Kaltrazar Bay
