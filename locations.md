@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-06-15T02:44:40.430Z
+date: 2024-06-15T04:02:28.293Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-03T12:55:44.366Z
 
 # Locations
 
-Alford
+[Alford](/locations/Alford)
 
 Hastow
 
