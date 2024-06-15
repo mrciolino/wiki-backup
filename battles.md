@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-06-13T15:57:09.924Z
+date: 2024-06-15T02:42:19.895Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -34,3 +34,15 @@ escape with gust of wing + raided the horde
 
 ## Krogs Hometown Ithilid Assault
 Assault from the ithilid space laser and the downfall of the mech tarsque
+
+## Bar Brawl (The First Fight)
+Where we got the name from.  Lucina summoned and otto hertzog hunted os. The rest of the party joined the brawl.
+
+## Gaurdisons Qeust (Goblin Cave)
+
+## Katrazar Bay Burning (Prison)
+Burning of the town, party was inprisioned and freedom burned the town down. 
+
+## 
+
+# Town we Burned
