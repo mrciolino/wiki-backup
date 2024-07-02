@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-06-15T02:49:50.454Z
+date: 2024-07-02T03:39:47.545Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -30,7 +30,8 @@ Bomb the bear death + arrow threw the eye
 escape with gust of wing + raided the horde
 
 ## Fywick Bone Monstraucity
-Darmuths pet which tracked us across the world to our last stand at fywick.
+(50 feet tall, made of bone, bone devil picture)
+We found an underground ritual site with red blood roots underneath Fort Suro. (During this time, we drew from the deck of many things getting drakham turned purple, breezy went blind and got thermal vision, spoops get free real-estate). Darmuth became aware of the party and sent her pet after us (little did we know). We travel in an armored carriage (from illiard cousin in kaltrazar bay) traveling west from kaltrazar to fywick. We are traveling in the carriage through north west of kaltrazar bay (dry lands). We see the bone devil in the distance and we try to get away so we get Kat to bring down the flying ship (leaving the carriage behind). We decided to go to fywick but take a route to the massive lake of fywick and then to fywick. We arrive with the ship to fywick to the first time. * Cat Mafia intro* We know of the oracle and spoops and drakham go to the oracle. They speak to a maid and set a meeting with the oracle.  * tony motzerlla fucking the oracle gets us the meeting *. The oracle is Goliath. We originally sought the oracles advice on how to beat dramuth. We coinvice the oracle to give us key info about fighting darmuth (where to look in ruins (ashelfs homeland, fortress of tiamat). For the battle against the bone devil she gets her army ready at the wall along the bay and a seagate. We post up at the sea gate, but Os is gets surgery from Rolinduo to get the shield generator installed into Os’s heart. This was a heavily risky surgery. He steps out of the castle and strums his guitar. This would allow him to force a giant force field as the bone devil arrived to fywick. Federina betrays the party and the shield goes down and the bone devil is getting in. Spoops steps out with infernos great sword and in his other hand earth terror, and the goose dagger in his mouth, “peace was never an option”. Spoops leg gets bit off but eh devil but he gets into his throat and sword tornados the bone devil died. The party pulled a hurt and acid burned spoops out of the water and naracuss  applied sovereign glue to put the knife leg on to spoops.
 
 ## Alford
 Inferno's destruction, draakam's spider potion, and the pirate raid
