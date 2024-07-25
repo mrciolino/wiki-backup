@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-01T01:04:47.557Z
+date: 2024-07-25T23:40:51.473Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-03T12:55:44.366Z
 
 # Locations
 
-[Alford](/locations/Alford)
+[Allford](/locations/Alford)
 
 ## Fort Suro (Population 142)
 Owes allegiance to the King of Kaltrazar Bay in the Kingdom of Kaltrazar, has an iron mine, located on the main road out of Kaltrazar Bay
