@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-06-13T16:04:22.956Z
+date: 2024-07-25T23:36:53.225Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -23,7 +23,7 @@ Various individuals and organizations that the party has fought against.
 - [Dave Bones](#dave-bones)
 - [Darmuth](#darmuth)
 
-## Virian Rathwing
+## Veerian Rathwing
 ![wrath.png](/wrath.png)
 ### Background
 An evil draconic sorcerer with large bat wings. He is the descendant of both Darmuth and Inferno. He was encouraged by Darmuth to commit acts of greater and greater evil, which he happily obliged.
