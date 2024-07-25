@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-25T23:40:51.473Z
+date: 2024-07-25T23:41:51.068Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
