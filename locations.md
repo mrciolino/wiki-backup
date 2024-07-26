@@ -2,13 +2,25 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-26T01:10:04.902Z
+date: 2024-07-26T01:13:38.889Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
 ---
 
 # Locations
+
+## Continents
+Light Blue: Ashenor, for the ash mountains (Top Arctic Area)
+Red: Kairnheim. "deadlands" (The area we started in)
+DarkBlue: Heltollán, Helmaer's Tunnel (he failed to go through the ice wall) (Southern Continent)
+Black: White Wastes: completely barren arctic wasteland with a major ice wall (Southern Arctic)
+Yellow: Wyrmford, place where the dragons crossed (The place that contains Alford)
+Purple: Dracofel: The place where dragons die (The arcipelago south east of Wymford)
+Orange: Felldora The large area to the right of the map
+Brown: Felldun The large area to the left of the map
+Green: Druidia The small bit that hangs beneath Felldun
+
 
 [Allford](/locations/Alford)
 
