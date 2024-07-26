@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-25T23:41:51.068Z
+date: 2024-07-26T01:10:04.902Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -51,13 +51,17 @@ Hastow
 
 Kaltrazar Bag
 
-## Gothreithon (Os' Region)
-Group of towns under the leadership of Os'.
+## Gothriathon
+A dwarven hold Group of towns under the leadership of Os'.
 
 ## The Red Keep
-Home of the Bazzvrah assassination group. 
+Home of the Bazzvrah assassination Clan. 
 
 ## Wegate
+A city-state in the East within a semi-arid landscape, filled with Yuan-ti and others zealous in the worship of a somewhat forgotten god called Ryann.
+
+## Saragassa
+A city in the northern dragon sea, a haven of pirates and a base of raiding commerce, surrounded by thick jungle and unexplored ruins that keep most away but those seeking to do business with or join the pirates.
 
 
 
