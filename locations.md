@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-26T01:13:38.889Z
+date: 2024-07-26T02:05:21.710Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -58,6 +58,16 @@ Owes allegiance to the King of Kaltrazar Bay in the Kingdom of Kaltrazar, has an
 Fishing village
 Senior Gaurdison
 
+## Fywick (Population 54,271)
+
+Organizations
+- Wheel Mafia
+  - Motzerlla Mafia (Tony Motzerlla as the leader)
+  - Guda Guild
+  - Chedder Cobal
+  - Provolone Party
+  - Swiss Syndicate
+- Bartenders Guild (PC Meade is a member)
 
 Hastow
 
