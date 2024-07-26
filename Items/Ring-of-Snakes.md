@@ -2,7 +2,7 @@
 title: Ring of Snakes
 description: Ring of Snakes Descriptions
 published: true
-date: 2024-07-26T01:55:56.179Z
+date: 2024-07-26T23:54:59.930Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-26T01:41:44.691Z
@@ -18,4 +18,4 @@ While the ring will generally summon normal snakes,the ring's definition of snak
 
 ## History
 
-The ring was first acquired by Spoops
+The ring is worn by Spoops.
