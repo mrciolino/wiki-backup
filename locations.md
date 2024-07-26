@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-26T02:05:21.710Z
+date: 2024-07-26T02:06:47.469Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -58,7 +58,7 @@ Owes allegiance to the King of Kaltrazar Bay in the Kingdom of Kaltrazar, has an
 Fishing village
 Senior Gaurdison
 
-## Fywick (Population 54,271)
+## Fywick (Population 54,271) [Fywick](/locations/Fywick)
 
 Organizations
 - Wheel Mafia
