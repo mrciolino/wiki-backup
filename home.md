@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2024-07-26T01:15:03.077Z
+date: 2024-07-26T01:15:09.738Z
 tags: home
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -15,7 +15,7 @@ Eleven adventures ventured out into an unknown world on a dangerous quest, this 
 ![map.png](/map.png)
 The starting world of the campagin
 
-** add fort suro and the continent to the map **
+TODO: add fort suro and the continent to the map **
 
 ## Ereriad
 ![ereriad.png](/maps/ereriad.png)
