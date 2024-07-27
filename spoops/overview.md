@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-07-27T16:35:11.837Z
+date: 2024-07-27T23:27:46.496Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -42,11 +42,13 @@ After losing his memories and washing ashore in an unfamiliar land, Spoops lived
 # Lich Wars
 Spoops found himself washed ashore in a new world engulfed in war. As a group of Liches waged war on the world, Spoops found himself on the side of the living. After washing ashore, despite being a skeleton in a time when the undead were of particular concern, Spoops used his quick wit and determination to befriend the local community. However after his new home was demolished by the command of the Liches, he swore vengeance and departed with a surviving cleric to join up with the Paladins in the nearest city. Over many years, Spoops worked his way up to the level of Grandmaster Paladin. Commanding the forces of a legion of paladins, they departed in their ships accross the sea to meet their enemies in battle. However a rogue cell of paladins existed within the order who sought Spoops' downfall. During their voyage, they saw their opportunity to strike as Spoops contemplated the movements of the waves. With a deft hand they struck Spoops down, leaving him murdered and sinking into the depths of the sea.
 
-# The Darmuth Saga
+# Arrival to the Modern Era (Start of the Low Bar Brawlers)
 Spoops once again found himself washed ashore missing most of his memories. This time he was not far from where he last sank into the sea, still finding himself within the kingdom of Kaltrussar. He remembered that he was a Paladin, and was wearing some of his basic gear. He dried himself off in the sun before walking into the nearest tavern for a drink. It was in this tavern that he finds himself joining up with 10 others to form the Low Bar Brawlers.
 
 
-# Timeskip
+# Timeskip Arc
+
+After the fall of Altricia to Darmuth and the death of Krorg at her hands. The party split up to gather their strength and take care of their own individual tasks before reuniting to face Darmuth again. 
 
 
 # Founding of Mortis Lux
