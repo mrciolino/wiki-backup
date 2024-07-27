@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-07-27T23:27:46.496Z
+date: 2024-07-27T23:35:02.359Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -52,6 +52,8 @@ After the fall of Altricia to Darmuth and the death of Krorg at her hands. The p
 
 
 # Founding of Mortis Lux
+After the fall of Darmuth, and the realization that she was only the vanguard in what was almost a world-shattering invasion. Spoops and the rest of the party looked to the sky and saw the massive crack above altricia. They had prevented something massive from shattering the world's crystal sphere, but the enemy was still out there in the Astral Plane, coming for their world. 
+Spoops suggested to the party that this task was bigger than just the Low Bar Brawlers, and a larger organization would be needed to face their true enemy, dubbed the Ithilids and their Creature. He suggested they seek out their old allies and forge an alliance led by the Low Bar Brawlers, to combat the Ithilids wherever they were on any plane. The party agreed, and set to work recruiting members from multiple worlds and planes. 
 
 
 # Stats
