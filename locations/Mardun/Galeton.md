@@ -2,13 +2,14 @@
 title: Galeton
 description: A fishing town near the city of Kaltrussar.
 published: true
-date: 2024-07-28T16:44:26.303Z
+date: 2024-07-28T16:45:48.114Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:44:26.303Z
 ---
 
 # Galeton
+Galeton is a fishing town near the city of Kaltrussar Bay. The Town is a fishing village of the Kingdom of Kaltrussar.
 
 ## Information
 - Population: 236
