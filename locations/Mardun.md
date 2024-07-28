@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2024-07-28T21:31:47.905Z
+date: 2024-07-28T21:32:01.627Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -34,7 +34,4 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 - [Wegate](/locations/Mardun/Wegate)
 - [The Red Keep](/locations/Mardun/Red-Keep)
 
-
-## The Red Keep
-Home of the Bazzvrah assassination Clan. 
 
