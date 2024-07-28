@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-28T16:20:50.291Z
+date: 2024-07-28T16:23:33.702Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-03T12:55:44.366Z
 # Locations
 
 ## World: Mardun
-[Mardun](/locations/Mardun) is the first world of the Low Bar Brawlers campaign. It is the home of locations such as Fort Suro and Allford/Alltricia, and the main world that "The Darmuth Saga" takes place in.
+[Mardun](/locations/Mardun) is the first world of the Low Bar Brawlers campaign. It is the home of locations such as Fort Suro and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
 
 
 
@@ -26,6 +26,7 @@ Orange: Felldora The large area to the right of the map
 Brown: Felldun The large area to the left of the map
 Green: Druidia The small bit that hangs beneath Felldun
 
+## Cities and Towns
 
 [Allford](/locations/Mardun/Allford)
 
