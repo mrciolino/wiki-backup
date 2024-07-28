@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2024-07-28T16:24:08.535Z
+date: 2024-07-28T16:28:10.320Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -22,9 +22,10 @@ Orange: Felldora The large area to the right of the map
 Brown: Felldun The large area to the left of the map
 Green: Druidia The small bit that hangs beneath Felldun
 
-## Cities and Towns
-
-[Allford](/locations/Mardun/Allford)
+## List of Cities and Towns
+- [Allford](/locations/Mardun/Allford)
+- [Fort-Suro](/locations/Mardun/Fort-Suro)
+- [Fywick](/locations/Mardun/Fywick)
 
 
 ## Fort Suro (Population 142)
