@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2024-07-28T21:28:40.489Z
+date: 2024-07-28T21:31:25.248Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -32,6 +32,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 - [Saragassa](/locations/Mardun/Saragassa)
 - [Kaltrosar](/locations/Mardun/Kaltrosar)
 - [Wegate](/locations/Mardun/Wegate)
+- 
 
 
 ## The Red Keep
