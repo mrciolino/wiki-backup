@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-26T02:06:47.469Z
+date: 2024-07-28T16:16:15.897Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -10,7 +10,12 @@ dateCreated: 2024-06-03T12:55:44.366Z
 
 # Locations
 
-## Continents
+## World: Mardun
+Mardun[Mardun](/locations/Mardun) is the first world of the Low Bar Brawlers campaign. It is the home of locations such as Fort Suro and Allford/Alltricia, and the main world that "The Darmuth Saga" takes place in.
+
+
+
+### Continents
 Light Blue: Ashenor, for the ash mountains (Top Arctic Area)
 Red: Kairnheim. "deadlands" (The area we started in)
 DarkBlue: Heltollán, Helmaer's Tunnel (he failed to go through the ice wall) (Southern Continent)
