@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2024-07-28T19:23:00.537Z
+date: 2024-07-28T19:23:20.039Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -28,7 +28,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 - [North Geskoworm / Krorg's Hometown](/locations/Mardun/north_geskoworm)
 - [Galeton](/locations/Mardun/Galeton)
 - [Hastow](/locations/Mardun/Hastow)
-- 
+- [Gothriathon](/locations/Mardun/Gothriathon)
 
 
 Kaltrazar Bay
