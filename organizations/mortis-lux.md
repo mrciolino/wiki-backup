@@ -2,7 +2,7 @@
 title: Mortis Lux
 description: A massive multi-planar organization started to combat the Ithilid threat
 published: true
-date: 2024-07-28T23:04:45.637Z
+date: 2024-07-28T23:09:36.578Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T23:04:45.637Z
@@ -87,5 +87,11 @@ Lead by Gnomio the Weaponsmith, the corp is tasked by bazzdows to assist with bu
 
 
 # Location(s)
+The organization has bases operating on multiple worlds and planes. They also maintain a presence in various locations in the Astral sea. 
 
+## Headquarters
+The capital of Mortis Lux is a flying city within a demiplane, created by Adalynn.
+
+## Shipyard
+Mortis Lux produces their Spelljammer ships at the Wegate Southern Docks. 
 
