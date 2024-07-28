@@ -2,7 +2,7 @@
 title: Mortis Lux
 description: A massive multi-planar organization started to combat the Ithilid threat
 published: true
-date: 2024-07-28T23:09:36.578Z
+date: 2024-07-28T23:12:17.016Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T23:04:45.637Z
@@ -94,4 +94,7 @@ The capital of Mortis Lux is a flying city within a demiplane, created by Adalyn
 
 ## Shipyard
 Mortis Lux produces their Spelljammer ships at the Wegate Southern Docks. 
+
+## Tu'narath
+The former city of the githyanki now mostly devoid of life aside from some dragons and agents of Mortis Lux. It is property of Mortis Lux through Spoops, and has been raised as an undead servant of Spoops. 
 
