@@ -2,7 +2,7 @@
 title: Fort Suro
 description: Fort Suro Description
 published: true
-date: 2024-07-28T18:53:00.284Z
+date: 2024-07-28T18:53:37.570Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-26T01:44:16.513Z
@@ -12,6 +12,7 @@ dateCreated: 2024-07-26T01:44:16.513Z
 Fort Suro owes allegiance to the King of Kaltrussar Bay in the Kingdom of Kaltrussar. It is located on the main road out of Kaltrussar Bay. The town serves as an important mine and military fort for the Kingdom of Kaltrussar
 
 ## Key Information
+- Population: 142
 - Has a mine
 - Kingdom of Kaltrussar military Fort
 - The Tavern was the starting location of the LBB campaign.
