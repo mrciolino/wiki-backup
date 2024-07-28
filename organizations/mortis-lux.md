@@ -2,7 +2,7 @@
 title: Mortis Lux
 description: A massive multi-planar organization started to combat the Ithilid threat
 published: true
-date: 2024-07-28T23:12:17.016Z
+date: 2024-07-28T23:17:50.822Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T23:04:45.637Z
@@ -30,6 +30,7 @@ The War Council is the next highest Authority under the Highlords. Most seats at
 - Lucidel Illiard, Individually appointed by the Highlords
 - King Lancel Highhold, Representing the Dwarven City of Highhold and Magic College of Highhold
 - Archmage Antonides, Representing the Magic College of Porthy
+- Kathor, Representing the Gith Serai, and many Gith Yankii Survivors
 
 
 # Members
@@ -55,6 +56,7 @@ Individuals can also join Mortis Lux as Members. The Highlords may directly appo
 - Vesrahaan
 - Aphyr the Mighty
 - Maria Luigi
+- Mecha Terrasque
 
 
 ## Notable Groups
@@ -72,6 +74,8 @@ Individuals can also join Mortis Lux as Members. The Highlords may directly appo
 - Dwarven City of Highhold
 	- Professors of the Magic College of Highhold
   - Army of Highhold
+- Gith Yankii
+- Gith Serai
 
 
 ### Corps of Engineers
