@@ -2,7 +2,7 @@
 title: Fywick
 description: Fywick City
 published: true
-date: 2024-07-28T19:05:14.286Z
+date: 2024-07-28T19:12:40.239Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-26T02:02:40.661Z
@@ -17,6 +17,7 @@ dateCreated: 2024-07-26T02:02:40.661Z
 - The Oracle of Fywick
 - Tony Mozzarella
 - Lord Kippers
+- Meade
 
 ## Organizations
 - Fywick Government
