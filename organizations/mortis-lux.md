@@ -2,7 +2,7 @@
 title: Mortis Lux
 description: A massive multi-planar organization started to combat the Ithilid threat
 published: true
-date: 2024-07-28T23:17:50.822Z
+date: 2024-07-28T23:24:08.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T23:04:45.637Z
@@ -30,7 +30,7 @@ The War Council is the next highest Authority under the Highlords. Most seats at
 - Lucidel Illiard, Individually appointed by the Highlords
 - King Lancel Highhold, Representing the Dwarven City of Highhold and Magic College of Highhold
 - Archmage Antonides, Representing the Magic College of Porthy
-- Kathor, Representing the Gith Serai, and many Gith Yankii Survivors
+- Gith Anarch Kathor, Representing the Gith Serai, and many Gith Yankii Survivors
 
 
 # Members
@@ -57,6 +57,8 @@ Individuals can also join Mortis Lux as Members. The Highlords may directly appo
 - Aphyr the Mighty
 - Maria Luigi
 - Mecha Terrasque
+- Not Interesting
+- Martin Martinique Del La Velasco
 
 
 ## Notable Groups
@@ -82,12 +84,13 @@ Individuals can also join Mortis Lux as Members. The Highlords may directly appo
 Lead by Gnomio the Weaponsmith, the corp is tasked by bazzdows to assist with building weapons, armor, equipment, and more for the army.
 
 
-# Allies
+# Allies and Associates
 - Gothriathon
 - Council of Gods
 - The Raven Queen
 - The Tree of Knowledge and their associates
 - Inferno
+- Astral Dwarf Clans
 
 
 # Location(s)
