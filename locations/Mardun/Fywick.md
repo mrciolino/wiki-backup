@@ -2,24 +2,22 @@
 title: Fywick
 description: Fywick City
 published: true
-date: 2024-07-28T19:12:40.239Z
+date: 2024-07-28T19:13:50.625Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-26T02:02:40.661Z
 ---
 
-# Fywick
-
-## Key Information
+# Key Information
 - Population: 54,271
 
-## Notable Characters
+# Notable Characters
 - The Oracle of Fywick
 - Tony Mozzarella
 - Lord Kippers
 - Meade
 
-## Organizations
+# Organizations
 - Fywick Government
 	- Leader: The Oracle of Fywick
 	- Fywicker City Council:
@@ -36,5 +34,5 @@ dateCreated: 2024-07-26T02:02:40.661Z
 	- Member: Meade
 
 
-## Events
+# Events
 
