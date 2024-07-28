@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2024-07-28T21:31:25.248Z
+date: 2024-07-28T21:31:47.905Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -23,7 +23,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 
 # List of Cities and Towns
 - [Allford / Alltricia](/locations/Mardun/Allford)
-- [Fort-Suro](/locations/Mardun/Fort-Suro)
+- [Fort Suro](/locations/Mardun/Fort-Suro)
 - [Fywick](/locations/Mardun/Fywick)
 - [North Geskoworm / Krorg's Hometown](/locations/Mardun/north_geskoworm)
 - [Galeton](/locations/Mardun/Galeton)
@@ -32,7 +32,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 - [Saragassa](/locations/Mardun/Saragassa)
 - [Kaltrosar](/locations/Mardun/Kaltrosar)
 - [Wegate](/locations/Mardun/Wegate)
-- 
+- [The Red Keep](/locations/Mardun/Red-Keep)
 
 
 ## The Red Keep
