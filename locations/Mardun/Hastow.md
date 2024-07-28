@@ -2,26 +2,25 @@
 title: Hastow
 description: Home to Narascus' Sect of the Church of the Soul Warden
 published: true
-date: 2024-07-28T19:12:56.816Z
+date: 2024-07-28T19:15:19.144Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T19:12:56.816Z
 ---
 
-# Hastow
 Hastow is home to the Narascene Church: Narascus'sect of the Church of the Soul Warden.
 
-## Key Information
+# Key Information
 - Population: 
 
-## Notable Characters
+# Notable Characters
 - Narascus
 
-## Organizations
+# Organizations
 - Narascene Church: Narascus' Sect of the Church of the Soul Warden.
 	- Leader: Narascus
 	- Narascene Clerics
 
-## Events
+# Events
 
 
