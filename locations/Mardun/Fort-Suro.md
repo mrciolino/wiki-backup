@@ -2,29 +2,28 @@
 title: Fort Suro
 description: Fort Suro Description
 published: true
-date: 2024-07-28T18:53:37.570Z
+date: 2024-07-28T19:14:42.117Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-26T01:44:16.513Z
 ---
 
-# Fort Suro
 Fort Suro owes allegiance to the King of Kaltrussar Bay in the Kingdom of Kaltrussar. It is located on the main road out of Kaltrussar Bay. The town serves as an important mine and military fort for the Kingdom of Kaltrussar
 
-## Key Information
+# Key Information
 - Population: 142
 - Has a mine
 - Kingdom of Kaltrussar military Fort
 - The Tavern was the starting location of the LBB campaign.
 
 
-## Notable Characters
+# Notable Characters
 - Bomb The Bear
 - Guardison the Guard
 - Lokunai the Demon
 - Freedom
 
-## Events
+# Events
 - Starting location of the campaign.
 - In the tavern, 12 of us (Nick, Michelle, Carson, Dan, Matt, Spoon, Sean, Cat, Breezy, Stef, Peter, Pope) met during Session 0.
 - We were all called to meet a mysterious caller at the tavern (letters for a lucrative adventuring job) and sat down together.
