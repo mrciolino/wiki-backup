@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2024-07-28T19:38:54.307Z
+date: 2024-07-28T19:38:58.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -39,7 +39,3 @@ Home of the Bazzvrah assassination Clan.
 
 ## Wegate
 A city-state in the East within a semi-arid landscape, filled with Yuan-ti and others zealous in the worship of a somewhat forgotten god called Ryann.
-
-
-
-[Krorg's Hometown](/locations/north_geskoworm)
