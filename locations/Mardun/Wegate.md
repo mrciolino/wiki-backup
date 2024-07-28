@@ -2,7 +2,7 @@
 title: Wegate
 description: The theocratic nation and city of Wegate
 published: true
-date: 2024-07-28T21:26:27.042Z
+date: 2024-07-28T21:28:24.090Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T21:22:04.389Z
@@ -16,6 +16,7 @@ Prior to Vesrahan's rebellion, the city had a large population of faithful follo
 - Population: 
 - The largest import aside from ship building materials is corpses.
 - The Shipwrights of Wegate are experts in spelljammer construction.
+- The environment is semi-arid, the region is a patchwork of oasis and desert.
 
 
 # Notable Characters
