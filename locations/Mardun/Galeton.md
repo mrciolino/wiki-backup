@@ -2,25 +2,24 @@
 title: Galeton
 description: A fishing town near the city of Kaltrussar.
 published: true
-date: 2024-07-28T16:47:40.707Z
+date: 2024-07-28T19:14:16.070Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:44:26.303Z
 ---
 
-# Galeton
 Galeton is a fishing town near the city of Kaltrussar Bay. The Town is a fishing village of the Kingdom of Kaltrussar.
 
-## Key Information
+# Key Information
 - Population: 236
 - Fishing Village
 
-## Notable Characters
+# Notable Characters
 - Gaurdison Senior, father of the Guardison met by LBB from Fort Suro.
 - The Yellow Lobster, Frederina's warlock patron.
 - The Badger Spirit
 
-## Events
+# Events
 - On the way to the village, some bandits attempt to rob us on the highway. Some party members sneak around and find the bandit stash. Os plays a song to distract the bandits.
 - This is where Spoops gets the Wind Amulet and we discover a nature shrine with many badgers. Here, we meet Senior Gaurdison (father of the previous Gaurdison).
 - The tavern in the fishing village is called "The Wispy Rat."
