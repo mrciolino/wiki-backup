@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-28T19:26:46.002Z
+date: 2024-07-28T21:39:21.381Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -18,3 +18,10 @@ Ereriad is the second world of the Low Bar Brawlers campaign. It is visited by t
 
 # World: Dolarion
 Dolarion was a world visited by Spoops and Bane. Spoops spent some time here training goblins and freeing them from an oppressive regime. It was also the prison of the Titan Iapetus before he was freed when the world was destroyed by Spoops and Bane.
+
+# Demiplane: Mortis Lux Flying City
+The capital city of Mortis Lux. This city exists as a flying island fortress within a demiplane created by the Archmage Adalynn. Access to and from the city is completely at the discretion of Adalynn, as the realm exists as a part of her soul. 
+
+# Demiplane: The Forge Dimention
+The Forge Dimention exists within the Plane of Fire, it is owned by Forgemaster Bazzdos. Some of the most powerful artifacts in the universe have been crafted in this realm.
+
