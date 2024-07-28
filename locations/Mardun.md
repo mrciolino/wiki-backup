@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2024-07-28T16:36:16.655Z
+date: 2024-07-28T16:47:51.542Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -27,7 +27,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 - [Fort-Suro](/locations/Mardun/Fort-Suro)
 - [Fywick](/locations/Mardun/Fywick)
 - [North Geskoworm / Krorg's Hometown](/locations/Mardun/north_geskoworm)
-- 
+- [Galeton](/locations/Mardun/Galeton)
 
 
 ## Fort Suro (Population 142)
@@ -48,21 +48,6 @@ Owes allegiance to the King of Kaltrazar Bay in the Kingdom of Kaltrazar, has an
 - The goblin captain on our way out rolls a cannon out and fires it at us, but we are still in the cave, so we dodge out of the way.
 - We take the captain alive and stuff him into the cannon to bring him back to the guard. He says the merchant transport is going to a fishing village, and we join them on the journey.
 
-
-## Galeton (Population 236)
-
-- On the way to the village, some bandits attempt to rob us on the highway. Some party members sneak around and find the bandit stash. Os plays a song to distract the bandits.
-- This is where Spoops gets the Wind Amulet and we discover a nature shrine with many badgers. Here, we meet Senior Gaurdison (father of the previous Gaurdison).
-- The tavern in the fishing village is called "The Wispy Rat."
-- We receive gold for protecting a merchant caravan.
-- Kat, Os, and Drakham hang around the docks. Kat's patron, a yellow lobster, appears to Kat. A void portal opens, and Os and Drakham join Kat in jumping into the void, encountering lots of teeth and evil patron vibes.
-- Federina accepts servitude to her patron. Os and Drakham agree to help her as well.
-- The Wind Amulet needs to be recovered so Gaurdison can man the lighthouse, but Spoops really wants it. We go to get it; Drakham gets it first and places it in a lockbox at the nature shrine. Spoops breaks into the lockbox, angering the spirit who summons badgers. In response, Federina sets the forest on fire.
-- Crow helps us stop the fire from burning the town. After that, we follow the merchant caravan to the big city, Kaltrazar Bay.
-
-### Key Elements
-Fishing village
-Senior Gaurdison
 
 ## Fywick (Population 54,271) [Fywick](/locations/Fywick)
 
