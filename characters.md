@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-07-25T23:36:53.225Z
+date: 2024-07-29T01:03:31.777Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -54,6 +54,7 @@ Tried to betray the party during the Pirate Raid and was killed, but has come ba
 ### Fate
 - Dropped into a volcano by Os
 ## Zeus
+![zeus.jpg](/zeus.jpg)
 ### Background
 Chief among the olympians, and the most powerful god. He is incredibly egotistical and prideful. Such vices lead to him being swindled by the Prophet of Profit, and so he directed his anger towards a duel with Spoops, ending with him being exposed to the Far Realms. 
 ### Powers
