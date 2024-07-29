@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-07-29T00:52:59.500Z
+date: 2024-07-29T00:59:34.861Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -48,7 +48,7 @@ Spoops once again found himself washed ashore missing most of his memories. This
 
 # Timeskip Arc
 
-After the fall of Altricia to Darmuth and the death of Krorg at her hands. The party split up to gather their strength and take care of their own individual tasks before reuniting to face Darmuth again. 
+After the fall of Altricia to Darmuth and the death of Krorg at her hands. The party split up to gather their strength and take care of their own individual tasks before reuniting to face Darmuth again. Spoops spent two years working with Vesrahaan in Wegate forming the rebel army, and spreading worship of Spoops/Ry-ann among the population.
 
 
 # Founding of Mortis Lux
