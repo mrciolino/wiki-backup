@@ -2,13 +2,18 @@
 title: Characters
 description: 
 published: true
-date: 2024-07-29T01:03:31.777Z
+date: 2024-07-31T13:51:49.054Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
 ---
 
 # Allies
+
+## Gilembror 
+
+A stone statue inside of the Realm of Fire. A portion of which is used as the "Forge Dimension" for [Bazzdos](/characters/bazzdos).
+
 Tony Mozzarella
 Bomb the Bear
 Lucidel Illiard
