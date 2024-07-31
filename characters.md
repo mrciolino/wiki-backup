@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-07-31T13:51:56.718Z
+date: 2024-07-31T13:54:16.921Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
