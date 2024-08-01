@@ -2,53 +2,62 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2024-07-01T01:05:07.308Z
+date: 2024-08-01T00:39:30.472Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
 ---
 
-# Organizations
+Many different kinds of organizations can be found in the Low Bar Brawlers universe. 
 
-## Pirates
-Started at the former pirate capital of Saragossa in the Dragon Sea, the pirate crew was apart of the raid of the Pirate Raid of Alford by the party. 
+# Alliances
+- Council of gods
+- Pirate kingdom
+- Mortis lux
+- Low Bar Brawlers
 
-### Members
-Dave Bones
-Nathar
-Darfellan
-Xiphalia
+# Gangs
+- Mafia of fywick
+- Tabxi Mafia of Fywick
+- Red keep
 
-## Others
+# Enemies
+- Ithilid
 
-Ithilid
-Ilithid
+# Races
+- Ilithid
 
-Mafia of fywick
-Tabxi group of fywick **
-Mortis lux
-LBB
-Dave bones crew
-Pirate kingdom
-Clerics of naracus 
-Cult of Wegate (worship Ryan-spoops)
-Red keep
-Barist paladins**
-Githyaink - githzuri **
-Astral dwarves ** bargained with for some minerals (they mine the Astroids)
-College of porthy
-College of highhold
-Parrot shogunit
-Vampires in the west fighting samurai **
-Maroots
-Assassins guild (library dimension)
-Adventures guild (office in fywick** )
-Robin Trading company (brought us across the sea after kaltrazar bay caught fire)
-Council of gods
-Kingdom of Helirus 
-Army of the witch king (bane) 
-Holy nation of elephond*** Aphir the mighty
-Centaur Tribe (outside helirus)
-Archmage of Alford (illard)
-Cult of rathwing (pre darmuth)
-Gothrithon Region (cliffs of Dover)
+# Pirate Crews
+- Dave bones crew
+- Bugbear Pirate Crew
+
+# Nations and Tribes
+- Parrot Shogunate
+- Fywick
+- Githzerai (and Githyankii survivors)
+- Kingdom of Helares
+- Holy Nation of Elephond (Aphir The Mighty's Kingdom)
+- Wegate
+- Altricia
+- Gothriathon and the Cliffs of Dover Region
+- Fortress of the Vampire Tyrant (at war with the Samurai)
+- Centaur Tribe (Outside Helares)
+- Astral Dwarves Clans
+- Kingdom of Kaltrosar
+
+# Religious Groups
+- Clerics of naracus 
+- Cult of Wegate (worship Ryan-spoops)
+- Paladin Order of Spoops 
+- Inevitables
+- Army of The Witch King (Servants of Bane)
+- Cult of Rathwing
+
+# Colleges
+- Magic College of Porthy
+- Magic College of Highhold
+
+# Guilds and Companies
+- Robin Trading company (brought the LBB across the sea after Kaltrosar Bay caught fire)
+- Assassins guild (Library Dimension)
+- Adventures guild (Fywick Main Office)
