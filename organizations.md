@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2024-08-01T00:39:30.472Z
+date: 2024-08-01T00:42:59.223Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -13,7 +13,7 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 # Alliances
 - Council of gods
 - Pirate kingdom
-- Mortis lux
+- [Mortis Lux](/organizations/mortis-lux)
 - Low Bar Brawlers
 
 # Gangs
