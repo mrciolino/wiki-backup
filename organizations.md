@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2024-08-01T01:32:44.181Z
+date: 2024-08-01T01:32:50.394Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -19,7 +19,7 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 # Gangs
 - Fywick Mafia
 - Tabxi Mafia of Fywick
-- Red keep
+- Red Keep
 
 # Enemies
 - Ithilid
