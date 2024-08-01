@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2024-08-01T00:46:51.929Z
+date: 2024-08-01T01:32:44.181Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -17,7 +17,7 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 - Low Bar Brawlers
 
 # Gangs
-- Mafia of fywick
+- Fywick Mafia
 - Tabxi Mafia of Fywick
 - Red keep
 
@@ -42,11 +42,11 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 - Gothriathon and the Cliffs of Dover Region
 - Fortress of the Vampire Tyrant (at war with the Samurai)
 - Centaur Tribe (Outside Helares)
-- Astral Dwarves Clans
+- Astral Dwarf Clans
 - Kingdom of Kaltrosar
 
 # Religious Groups
-- Clerics of naracus 
+- Narascene Clerics
 - Cult of Wegate (worship Ryan-spoops)
 - Paladin Order of Spoops 
 - Inevitables
@@ -58,6 +58,6 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 - Magic College of Highhold
 
 # Guilds and Companies
-- Robin Trading company (brought the LBB across the sea after Kaltrosar Bay caught fire)
-- Assassins guild (Library Dimension)
-- Adventures guild (Fywick Main Office)
+- Robin Trading Company (Ferried the LBB across the sea after Kaltrosar Bay caught fire)
+- Assassins Guild (Library Dimension)
+- Adventurers Guild (Fywick Main Office)
