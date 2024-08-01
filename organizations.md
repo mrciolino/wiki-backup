@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2024-08-01T00:42:59.223Z
+date: 2024-08-01T00:46:51.929Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -12,7 +12,7 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 
 # Alliances
 - Council of gods
-- Pirate kingdom
+- Pirate Kingdom of Saragassa
 - [Mortis Lux](/organizations/mortis-lux)
 - Low Bar Brawlers
 
@@ -28,7 +28,7 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 - Ilithid
 
 # Pirate Crews
-- Dave bones crew
+- [Dave Bones Pirate Crew](/organizations/dave-bones-crew)
 - Bugbear Pirate Crew
 
 # Nations and Tribes
