@@ -2,13 +2,25 @@
 title: Characters
 description: 
 published: true
-date: 2024-07-31T13:54:16.921Z
+date: 2024-08-05T00:50:42.103Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
 ---
 
+# Player Characters
+- [Spoops](/characters/spoops)
+- [Bazzdos](/characters/bazzdos)
+- [Breezy-e](/characters/breezy)
+- [Adalynn](/characters/adalynn)
+- [Elira Aniveshak](/characters/elira)
+- [krorg](/characters/krorg)
+- [Os Vrtnica](/characters/os)
+- [Meade](/characters/meade)
+
+
 # Allies
+- [oracle-of-fywick](/characters/oracle-of-fywick)
 
 ## Gilembror 
 
@@ -26,7 +38,7 @@ Various individuals and organizations that the party has fought against.
 
 - [Virian Rathwing](#virian-rathwing)
 - [Dave Bones](#dave-bones)
-- [Darmuth](#darmuth)
+- [Darmuth](/characters/Darmuth)
 
 ## Veerian Rathwing
 ![wrath.png](/wrath.png)
