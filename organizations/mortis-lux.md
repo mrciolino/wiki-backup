@@ -2,7 +2,7 @@
 title: Mortis Lux
 description: A massive multi-planar organization started to combat the Ithilid threat
 published: true
-date: 2024-07-28T23:24:08.349Z
+date: 2024-08-05T18:33:56.852Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T23:04:45.637Z
@@ -13,18 +13,19 @@ Mortis Lux was started by members of the Low Bar Brawlers in response to existen
 # Leadership
 Mortis Lux's Highest Authority are the Highlords. They have final say and control over the organization and all it's assets. When the Highlord's are absent, a Regent manages the affairs of the organization in their stead. A Regent may be appointed by the Highlords, or in their absence, a vote by the War Council. The Regent is granted access and permission befitting their role.
 ## Highlords
-- Spoops
-- Breezy-e
-- Bazzdos
-- Adalynn
-- Os Vrntica
+- [Spoops](/characters/spoops)
+- [Breezy-E](/characters/breezy)
+- [Bazzdos](/characters/bazzdos)
+- [Adalynn](/characters/adalynn)
+- [Os Vrntica](/characters/os)
+
 ## Regent
 - Lucidel Illiard
 
 ## War Council
 The War Council is the next highest Authority under the Highlords. Most seats at the War Council are occupied by leaders of member organizations. War Council members are appointed by the Highlords. The War Council and Highlords convene to make decicions for the organization, and to govern the bases and territories commonly owned by the organization. Each member of the War Council maintains different aspects and groups within the organization. 
 ### Council Members
-- Oracle of Fywick, Representing The City of Fywick and Fywick Mafias
+- [Oracle of Fywick](/characters/oracle-of-fywick), Representing The City of Fywick and Fywick Mafias
 - Bugbear Captain, Representing The Pirates of Saragassa
 - Kirkegaard, Representing the Unified Forces of Ry-ann
 - Lucidel Illiard, Individually appointed by the Highlords
