@@ -1,14 +1,14 @@
 ---
-title: Events
-description: Events 
+title: Spells
+description: A collection of Homebrew Spells and Important Spells in the Campaign
 published: true
-date: 2024-07-24T19:53:28.015Z
+date: 2024-08-05T18:51:47.699Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-02T02:44:08.561Z
 ---
 
-# Header
+# Spells
 Your content here
 
 ## The Disjuction of Godsbane
