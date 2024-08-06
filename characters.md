@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-08-06T20:12:38.308Z
+date: 2024-08-06T20:13:33.969Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -21,7 +21,7 @@ dateCreated: 2024-06-03T12:57:02.680Z
 
 # Allies
 - [Oracle of Fywick](/characters/oracle-of-fywick)
-- [Bane](/characters/bane)
+- [Bane](/characters/Bane)
 
 ## Gilembror 
 
