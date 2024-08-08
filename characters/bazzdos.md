@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-08-08T16:10:58.308Z
+date: 2024-08-08T16:12:19.004Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -12,15 +12,21 @@ dateCreated: 2024-06-02T04:58:07.552Z
 
 Found by the party in a room deep underground.
 
-## Tabs {.tabset}
-### Bazzdos
+# Tabset
+
+## Bazzdos
+
 ![spoops_icon.png](/characters/bazzert/img3.png)
-### Bazzdos, After Zeus Rebuild
+
+## Bazzdos, After Zeus Rebuild
+
 ![Zeus Rebuilt Bazzdos](/characters/bazzert/img2.png)
-### Bazzdos, Original
+
+## Bazzdos, Original
+
 ![Founder Bazzdos](/characters/bazzert/img1.png)
 
-## Bazzdos Character Sheet
+## Bazzdos Character Sheet ([PDF](/characters/bazzert/bazzdos___roll20_characters.pdf))
 
 **CLASS & LEVEL:** Armorer Artificer 20, Hexblade Warlock 1, Wizard 1
 
@@ -35,5 +41,3 @@ Found by the party in a room deep underground.
 | --- | --- | --- | --- | --- | --- |
 | **STRENGTH** | **DEXTERITY** | **CONSTITUTION** | **INTELLIGENCE** | **WISDOM** | **CHARISMA** |
 | **39** (+14) | **25** (+7) | **29** (+9) | **35** (+12) | **25** (+7) | **25** (+7) |
-
-[/characters/bazzert/bazzdos\_\_\_roll20\_characters.pdf](/characters/bazzert/bazzdos___roll20_characters.pdf)
