@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-08-08T16:12:52.744Z
+date: 2024-08-08T16:13:56.119Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -30,12 +30,11 @@ Found by the party in a room deep underground.
 
 **CLASS & LEVEL:** Armorer Artificer 20, Hexblade Warlock 1, Wizard 1
 
-###### **Stats**
-
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 | **BACKGROUND:** | **RACE:** | **ALIGNMENT:** | **SPEED:** | **ARMOR CLASS:** | **HITPOINTS:** | **INITIATIVE:** |
 | Artificial Intelligence | Skirmisher | Lawful | 55  | 50  | 270 | 7.25 |
+
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
