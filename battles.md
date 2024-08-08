@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-07-02T03:39:47.545Z
+date: 2024-08-08T16:22:27.991Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -47,7 +47,14 @@ Where we got the name from.  Lucina summoned and otto hertzog hunted os. The res
 ## Katrazar Bay Burning (Prison)
 Burning of the town, party was inprisioned and freedom burned the town down. 
 
-## 
+## Final Fight
+After preparing for months on end and talking with the Council of the Gods, Mortis Lux called together all of its forces to take on the Ithilid threat. 
+
+- Hunderds of thousand of undead zombies, skeletons and wights. 
+- Over 1,000 space fairing ships with magical gems (quartz, sapphire, ruby) for speed, defense and weaponary.
+- The pledged support of Odin, Thor, and Loki.
+
+**preparing the pods, spider queen, all of the troops(list), time chamber 3rd for lasers, spoops blade improvment, gith potions +++TODO**
 
 # Towns Burned
 Alford, Kaltrazar Bay
