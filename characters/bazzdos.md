@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-08-08T16:13:56.119Z
+date: 2024-08-08T16:15:45.949Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -10,7 +10,14 @@ dateCreated: 2024-06-02T04:58:07.552Z
 
 # Bazzdos
 
+ A powerfull warforged artificer with an almost indestrubtable body. 
+
+## Origins
+
 Found by the party in a room deep underground.
+
+## Gods
+Bazzdos has pledged to Hephestus, Gond, and Mrykul
 
 ## Tabset {.tabset}
 
