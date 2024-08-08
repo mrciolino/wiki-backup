@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-08-08T16:22:27.991Z
+date: 2024-08-08T16:27:06.094Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -55,6 +55,11 @@ After preparing for months on end and talking with the Council of the Gods, Mort
 - The pledged support of Odin, Thor, and Loki.
 
 **preparing the pods, spider queen, all of the troops(list), time chamber 3rd for lasers, spoops blade improvment, gith potions +++TODO**
+
+### The Battle
+After an inspirational speech from Spoops, the dawn of the final day came. As Mortis Lux's forces awoke, speaking stone calls from around Murdun came in, Fywick under attack, Kaltrazar Bay under attack, Gothrithon under attack. Mortis Lux dispatched 20 ships to each location for protection from the Tectechanlls and Dreadnaughts coming through the cracks in the sky at each location.
+
+While under attack leadership at mortis lux decided to go on the offensive and attack the Ithilid homeworld, a giant flesh creature the size of a moon. Mortis Lux stratgey was 3 fold, a vanguard squad to secure a foot hold on the ithilid homeworld, a support wave  +++ **PLAN HERE**
 
 # Towns Burned
 Alford, Kaltrazar Bay
