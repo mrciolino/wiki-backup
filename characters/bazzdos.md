@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-08-08T16:12:19.004Z
+date: 2024-08-08T16:12:52.744Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -12,17 +12,17 @@ dateCreated: 2024-06-02T04:58:07.552Z
 
 Found by the party in a room deep underground.
 
-# Tabset
+## Tabset {.tabset}
 
-## Bazzdos
+### Bazzdos
 
 ![spoops_icon.png](/characters/bazzert/img3.png)
 
-## Bazzdos, After Zeus Rebuild
+### Bazzdos, After Zeus Rebuild
 
 ![Zeus Rebuilt Bazzdos](/characters/bazzert/img2.png)
 
-## Bazzdos, Original
+### Bazzdos, Original
 
 ![Founder Bazzdos](/characters/bazzert/img1.png)
 
