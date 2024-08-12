@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2024-08-12T13:22:55.907Z
+date: 2024-08-12T13:27:22.770Z
 tags: meta
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -12,3 +12,4 @@ dateCreated: 2024-06-15T03:59:40.719Z
 
 1. Darmuth's section https://wiki.lowbarbrawlers.com/en/characters
 2. Adventurer's Guild https://wiki.lowbarbrawlers.com/en/organizations/Adventurer's-Guild
+3. https://wiki.lowbarbrawlers.com/en/characters/Gond
