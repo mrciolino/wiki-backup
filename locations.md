@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2024-07-28T23:26:45.824Z
+date: 2024-08-12T13:30:37.329Z
 tags: locations
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -23,5 +23,5 @@ Dolarion was a world visited by Spoops and Bane. Spoops spent some time here tra
 The capital city of [Mortis Lux](/organizations/mortis-lux). This city exists as a flying island fortress within a demiplane created by the Archmage Adalynn. Access to and from the city is completely at the discretion of Adalynn, as the realm exists as a part of her soul. 
 
 # Demiplane: The Forge Dimention
-The Forge Dimention exists within the Plane of Fire, it is owned by Forgemaster [Bazzdos](/characters/bazzdos). Some of the most powerful artifacts in the universe have been crafted in this realm.
+The [Forge Dimension](/locations/Forge-Dimension) exists within the Plane of Fire, it is owned by Forgemaster [Bazzdos](/characters/bazzdos). Some of the most powerful artifacts in the universe have been crafted in this realm.
 
