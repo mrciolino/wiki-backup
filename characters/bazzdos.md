@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-08-08T16:15:45.949Z
+date: 2024-08-14T19:52:51.585Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -32,6 +32,17 @@ Bazzdos has pledged to Hephestus, Gond, and Mrykul
 ### Bazzdos, Original
 
 ![Founder Bazzdos](/characters/bazzert/img1.png)
+
+## Factories
+Numerous manuduactirng, research and testing area were made to handle the requiment of Mortis Lux. 
+
+### Forge Dimension
+- Speaking Stone Factory
+- Network ...
+### Hephaestus Factory - Zeus Dimension
+- Optimizated the 
+### Potion Factory - Library Dimension
+ - Gith potions
 
 ## Bazzdos Character Sheet ([PDF](/characters/bazzert/bazzdos___roll20_characters.pdf))
 
