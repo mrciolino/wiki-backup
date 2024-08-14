@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-08-14T23:10:47.814Z
+date: 2024-08-14T23:12:16.774Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -44,7 +44,7 @@ Numerous manuduactirng, research and testing area were made to handle the requim
 ### Potion Factory - Library Dimension
  - Gith potions
 
-# Bazzdos Character Sheet ([PDF](/characters/bazzert/bazzdos___roll20_characters.pdf))
+#Character Sheet ([PDF](/characters/bazzert/bazzdos___roll20_characters.pdf))
 
 **CLASS & LEVEL:** Armorer Artificer 20, Hexblade Warlock 1, Wizard 1
 
