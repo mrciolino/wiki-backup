@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2024-08-14T23:12:16.774Z
+date: 2024-08-14T23:21:38.573Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -12,7 +12,7 @@ dateCreated: 2024-06-02T04:58:07.552Z
 
  A powerfull warforged artificer with an almost indestrubtable body. 
 
-# Origins
+## Origins
 
 Found by the party in a room deep underground.
 
@@ -20,17 +20,11 @@ Found by the party in a room deep underground.
 Bazzdos has pledged to Hephestus, Gond, and Mrykul
 
 ## Tabset {.tabset}
-
 ### Bazzdos
-
 ![spoops_icon.png](/characters/bazzert/img3.png)
-
 ### Bazzdos, After Zeus Rebuild
-
 ![Zeus Rebuilt Bazzdos](/characters/bazzert/img2.png)
-
 ### Bazzdos, Original
-
 ![Founder Bazzdos](/characters/bazzert/img1.png)
 
 # Factories
@@ -44,7 +38,7 @@ Numerous manuduactirng, research and testing area were made to handle the requim
 ### Potion Factory - Library Dimension
  - Gith potions
 
-#Character Sheet ([PDF](/characters/bazzert/bazzdos___roll20_characters.pdf))
+# Character Sheet ([PDF](/characters/bazzert/bazzdos___roll20_characters.pdf))
 
 **CLASS & LEVEL:** Armorer Artificer 20, Hexblade Warlock 1, Wizard 1
 
