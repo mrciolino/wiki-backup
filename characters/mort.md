@@ -1,8 +1,8 @@
 ---
-title: Krorg
-description: 
+title: Mort
+description: Old man assassin
 published: true
-date: 2024-08-17T22:01:05.882Z
+date: 2024-08-17T22:01:33.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T22:01:05.882Z
