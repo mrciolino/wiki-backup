@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2024-08-01T01:32:50.394Z
+date: 2024-08-17T21:12:14.362Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -61,3 +61,4 @@ Many different kinds of organizations can be found in the Low Bar Brawlers unive
 - Robin Trading Company (Ferried the LBB across the sea after Kaltrosar Bay caught fire)
 - Assassins Guild (Library Dimension)
 - Adventurers Guild (Fywick Main Office)
+- [The Bartender's Guild](/organizations/bartenders_guild)
