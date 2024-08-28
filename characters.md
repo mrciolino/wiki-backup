@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-08-06T20:14:11.448Z
+date: 2024-08-28T03:25:22.872Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -58,17 +58,20 @@ Shot to death by Breezy-E at the end of the Pirate Raid.
 ### Background
 A cruel pirate captain who served the original Pirate King. Dave Bones would sacrifice his crewmates to protect himself or to further his own goals. Holds the reputation of being one of the worst pirates of all time. 
 ### Powers
-He started off as a normal human but was transformed into a vengeful spirit hellbent on getting revenge against the party for killing him.
+He started off as a normal human but was transformed into a vengeful spirit hellbent on getting revenge against the party for killing him. 
 ### Evil Deeds
 - Constantly betrayed his crewmates
+- Betrayed the party during the Pirate Raid
 ### Fate
-Tried to betray the party during the Pirate Raid and was killed, but has come back again several times. 
+Tried to betray the party during the Pirate Raid and was killed, but has come back again several times. Even though the party has destroyed his soul and scattered his atoms, he is still able to return as long as he is remembered by the living. For some reason his focus has become to kill Krorgfrey, resulting in Knott Emportent killing him so many times that he was able to fill a jar with a grain of sand for each kill. 
 ## Darmuth
 ![dar.png](/dar.png)
 ### Background
+Once the lover of Inferno, she became a lich and sought to render all of Mardun vulnerable to Illithid invasion. 
 ### Powers
 ### Evil Deeds
 - Killed [Krorg](/krorg/overview) and destroyed Altricia
+- Encouraged Rathwing to spread death and chaos
 ### Fate
 - Dropped into a volcano by Os
 ## Zeus
