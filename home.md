@@ -2,8 +2,8 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2024-08-28T03:15:18.201Z
-tags: home
+date: 2024-08-28T03:40:29.295Z
+tags: home, needs some work
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
 ---
