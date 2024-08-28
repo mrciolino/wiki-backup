@@ -2,8 +2,8 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2024-08-25T21:01:43.069Z
-tags: 
+date: 2024-08-28T03:41:31.101Z
+tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
 ---
