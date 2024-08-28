@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2024-08-28T03:25:22.872Z
+date: 2024-08-28T03:26:53.215Z
 tags: villians
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -17,11 +17,13 @@ dateCreated: 2024-06-03T12:57:02.680Z
 - [krorg](/characters/krorg)
 - [Os Vrtnica](/characters/os)
 - [Meade](/characters/meade)
+- [Mort](/characters/mort)
 
 
 # Allies
 - [Oracle of Fywick](/characters/oracle-of-fywick)
 - [Bane](/characters/bane)
+- Knott Emportent
 
 ## Gilembror 
 
