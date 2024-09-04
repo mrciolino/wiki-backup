@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2024-08-08T16:27:06.094Z
+date: 2024-09-04T23:25:43.490Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -60,6 +60,8 @@ After preparing for months on end and talking with the Council of the Gods, Mort
 After an inspirational speech from Spoops, the dawn of the final day came. As Mortis Lux's forces awoke, speaking stone calls from around Murdun came in, Fywick under attack, Kaltrazar Bay under attack, Gothrithon under attack. Mortis Lux dispatched 20 ships to each location for protection from the Tectechanlls and Dreadnaughts coming through the cracks in the sky at each location.
 
 While under attack leadership at mortis lux decided to go on the offensive and attack the Ithilid homeworld, a giant flesh creature the size of a moon. Mortis Lux stratgey was 3 fold, a vanguard squad to secure a foot hold on the ithilid homeworld, a support wave  +++ **PLAN HERE**
+
+The vanguard squad led by breezy E was sent down onto the planet. A lack of targeted guidence lands the vanguard group in the middle of nowhere with no city or point of interest in sight. However, they stubmle upon Krorgfrey (why krorg frey here) who after some itnergrations, leds us to the ...
 
 # Towns Burned
 Alford, Kaltrazar Bay
