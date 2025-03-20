@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-20T15:05:09.966Z
+date: 2025-03-20T20:57:17.727Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -72,29 +72,26 @@ List of characters from both campaign and some information about them.
 
 ---
 
+
 ### **Non-Player Characters**  
 
 | Name | Link | Race | Class | Background | Notable Traits |  
 |------|------|------|-------|------------|----------------|  
-| Professor Ozdemir | [Professor Ozdemir](/npcs/professor-osdemir) | Dark Elf | Sorcerer | Professor at RVASSS | Mysterious, powerful, mentor figure. |  
-| Professor Hans | [Professor Hans](/npcs/professor-hans) | Human | Swordmaster | History Enthusiast | Boisterous, knowledgeable, extravagant. |  
-| Professor Alressa Rose | [Professor Alressa Rose](/npcs/professor-alressa-rose) | Human | Divination Professor | Divination Expert | Meek but powerful, empathetic, disapproving of Goopy. |  
-| Professor Chester | [Professor Chester](/npcs/professor-chester) | Kenku | Illusion Professor | Illusionist | Crow-like, mysterious, abducted by Randy the Mimic. |  
-| Professor Lairgais | [Professor Lairgais](/npcs/professor-lairgais) | Tiefling | Evocation Professor | Fiery Personality | Passionate, intimidating, fiery temper. |  
-| Professor Golda | [Professor Golda](/npcs/professor-golda) | Dwarf | Associate of Professor Rose | Divination Assistant | Supportive, loyal, knowledgeable. |  
-| Professor Mekanor | [Professor Mekanor](/npcs/professor-mekanor) | Unknown | Master of Blades | Fled from the Red Archon | Mysterious, skilled, haunted by his past. |  
-| Professor Daryl | [Professor Daryl](/npcs/professor-daryl) | Human | Rowdy Professor | Royal Blood | Hard-drinking, rowdy, unpredictable. |  
-| Master Tanu | [Master Tanu](/npcs/master-tanu) | Half-Orc | Master of the Academy | Academy Leader | Commanding, wise, protective of the academy. |  
-| Professor Bovog Wormbrew | [Professor Bovog Wormbrew](/npcs/professor-bovog-wormbrew) | Dwarf | Artificer Professor | Artificer Expert | Gruff, skilled, shocking (literally). |  
-| Tadabar Soulfire | [Tadabar Soulfire](/npcs/tadabar-soulfire) | Unknown | Mysterious Figure | Associated with the Academy | Enigmatic, powerful, influential. |  
-| Gilbert | [Gilbert](/npcs/gilbert) | Human | Cult Leader | Former Student at RVASSS | Manipulative, dangerous, tied to blood magic. |  
-| Clara the Cleric | [Clara the Cleric](/npcs/clara-the-cleric) | Half-Dwarf | Cleric | Healer | Kind, empathetic, loyal to the Church of Mordredon. |  
-| Sergeant Lemrick | [Sergeant Lemrick](/npcs/sergeant-lemrick) | Human | City Guard | Thomas’s Former Boss | Stern, duty-bound, politically savvy. |  
-| Treebert | [Treebert](/npcs/treebert) | Wood Golem | Assistant | Helper at RVASSS | Tiny, helpful, brings breakfast. |  
-| Randy the Mimic | [Randy the Mimic](/npcs/randy-the-mimic) | Mimic | Shapeshifter | Former Dorm Chest | Friendly, deceptive, transforms into a winged creature. |  
-
----
-
-This table format provides a quick reference for all player and non-player characters, including their race, class, background, and notable traits, with links to their detailed profiles.
+| Professor Ozdemir | [Professor Ozdemir](/characters/professor-osdimir-lataniel-dera-vrentica) | [Dark Elf](/races/dark-elf) | [Sorcerer](/classes/sorcerer) | [Professor at RVASSS](/locations/rvasss) | Mysterious, powerful, mentor figure. |  
+| Professor Hans | [Professor Hans](/characters/professor-hans-drockstaken-von-nieselbeiser) | [Human](/races/human) | [Swordmaster](/classes/swordmaster) | [History Enthusiast](/backgrounds/history-enthusiast) | Boisterous, knowledgeable, extravagant. |  
+| Professor Alressa Rose | [Professor Alressa Rose](/characters/professor-alressa-rose) | [Human](/races/human) | [Divination Professor](/classes/divination-professor) | [Divination Expert](/backgrounds/divination-expert) | Meek but powerful, empathetic, disapproving of Goopy. |  
+| Professor Chester | [Professor Chester](/characters/professor-chester) | [Kenku](/races/kenku) | [Illusion Professor](/classes/illusion-professor) | [Illusionist](/backgrounds/illusion-expert) | Crow-like, mysterious, abducted by Randy the Mimic. |  
+| Professor Lairgais | [Professor Lairgais](/characters/professor-lairgais) | [Tiefling](/races/tiefling) | [Evocation Professor](/classes/evocation-professor) | [Fiery Personality](/backgrounds/fiery-personality) | Passionate, intimidating, fiery temper. |  
+| Professor Golda | [Professor Golda](/characters/professor-golda) | [Dwarf](/races/dwarf) | [Associate of Professor Rose](/classes/divination-associate) | [Divination Assistant](/backgrounds/associate-of-professor-rose) | Supportive, loyal, knowledgeable. |  
+| Professor Mekanor | [Professor Mekanor](/characters/professor-mekanor) | [Unknown](/races/unknown) | [Master of Blades](/classes/master-of-blades) | [Fled from the Red Archon](/backgrounds/fled-from-the-red-archon) | Mysterious, skilled, haunted by his past. |  
+| Professor Daryl | [Professor Daryl](/characters/professor-daryl-isosaria-torsine-rintegra) | [Human](/races/human) | [Rowdy Professor](/classes/rowdy-professor) | [Royal Blood](/backgrounds/royal-blood) | Hard-drinking, rowdy, unpredictable. |  
+| Master Tanu | [Master Tanu](/characters/master-tanu) | [Half-Orc](/races/half-orc) | [Master of the Academy](/classes/master-of-the-academy) | [Academy Leader](/backgrounds/headmaster-of-rvasss) | Commanding, wise, protective of the academy. |  
+| Professor Bovog Wormbrew | [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew) | [Dwarf](/races/dwarf) | [Artificer Professor](/classes/artificer-professor) | [Artificer Expert](/backgrounds/artificer-expert) | Gruff, skilled, shocking (literally). |  
+| Tadabar Soulfire | [Tadabar Soulfire](/characters/tadabar-soulfire) | [Unknown](/races/unknown) | [Mysterious Figure](/classes/mysterious-figure) | [Associated with the Academy](/backgrounds/associated-with-the-academy) | Enigmatic, powerful, influential. |  
+| Gilbert | [Gilbert](/characters/gilbert) | [Human](/races/human) | [Cult Leader](/classes/cult-leader) | [Former Student at RVASSS](/backgrounds/former-student-at-rvasss) | Manipulative, dangerous, tied to blood magic. |  
+| Clara the Cleric | [Clara the Cleric](/characters/clara-the-cleric) | [Half-Dwarf](/races/half-dwarf) | [Cleric](/classes/cleric) | [Healer](/backgrounds/healer) | Kind, empathetic, loyal to the [Church of Mordredon](/organizations/church-of-mordredon). |  
+| Sergeant Lemrick | [Sergeant Lemrick](/characters/sergeant-lemrick) | [Human](/races/human) | [City Guard](/classes/city-guard) | [Thomas’s Former Boss](/backgrounds/thomass-former-boss) | Stern, duty-bound, politically savvy. |  
+| Treebert | [Treebert](/characters/treebert) | [Wood Golem](/races/wood-golem) | [Assistant](/classes/assistant) | [Helper at RVASSS](/backgrounds/helper-at-rvasss) | Tiny, helpful, brings breakfast. |  
+| Randy the Mimic | [Randy the Mimic](/characters/randy-the-mimic) | [Mimic](/races/mimic) | [Shapeshifter](/classes/shape-shifter) | [Former Dorm Chest](/backgrounds/deceptive-creature) | Friendly, deceptive, transforms into a winged creature. |  
 
 
