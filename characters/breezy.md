@@ -10,3 +10,6 @@ dateCreated: 2024-06-02T12:24:11.695Z
 
 # Breezy-E 
 Your content here
+
+# Breezy-E 
+![breezy.webp](/characters/breezy/breezy.webp)

@@ -19,7 +19,7 @@ dateCreated: 2024-06-01T22:42:52.715Z
 ## Spoops, Grandmaster Paladin
 ![spoops_paladin_many_swords.png](/characters/spoops/spoops_paladin_many_swords.png)
 ## Spoops, Grandmaster Paladin Fully Equipped
-![spoops.webp](/characters/spoops.webp)
+![spoops.webp](/characters/spoops/spoops.webp)
 ## Spoops, Secret Technique of Ry-ann Feared Form
 ![skeleton_king_spoops.webp](/characters/spoops/skeleton_king_spoops.webp)
 

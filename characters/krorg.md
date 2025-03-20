@@ -10,11 +10,11 @@ dateCreated: 2024-06-03T02:39:23.003Z
 
 # Tabs {.tabset}
 ## Krorg Bearstealer
-![krorg.png](/krorg.png)
+![krorg.png](/characters/krorg/krorg.png)
 ## Krorg, King of Altricia
-![krorg2.webp](/krorg2.webp)
+![krorg2.webp](/characters/krorg/krorg2.webp)
 ## The Prophet of Profit
-![prophet.webp](/prophet.webp)
+![prophet.webp](/characters/krorg/prophet.webp)
 
 # Origin
 Krorg Bearstealer, formerly known as Gilthur, was an unusually large gnome. Born in the town of North Geskoworm to a single mother after his half-elf father skipped town when his child support payments became too numerous. As an adult Gilthur decided to become a bard and try his luck in the gnomish standup comedian circut. His career came to an end when he told a joke that was so foul and awful that it resulted in him being banished forever. Gilthur brought such shame to his people that they were forced to magically obscure the name of his place of birth, from North Geskoworm to Krorg's Hometown. Gilthur travelled south until he came across the party and joined them in their adventure.

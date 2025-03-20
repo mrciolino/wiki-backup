@@ -10,7 +10,7 @@ dateCreated: 2025-03-20T14:51:07.062Z
 
 
 ## Zeus
-![zeus.jpg](/zeus.jpg)
+![zeus.jpg](/characters/other/zeus.jpg)
 ### Background
 Chief among the olympians, and the most powerful god. He is incredibly egotistical and prideful. Such vices lead to him being swindled by the Prophet of Profit, and so he directed his anger towards a duel with Spoops, ending with him being exposed to the Far Realms. 
 ### Powers

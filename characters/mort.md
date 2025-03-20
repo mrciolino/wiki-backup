@@ -10,9 +10,9 @@ dateCreated: 2024-08-17T22:01:05.882Z
 
 # Tabs {.tabset}
 ## Mort
-![m.webp](/m.webp)
+![m.webp](/characters/mort/m.webp)
 ## The Promise of Death 
-![skull.webp](/skull.webp)
+![skull.webp](/characters/mort/skull.webp)
 
 # Origin
 "The Promise of Death" also known as "Mort" to the party, is an ancient Yugoloth assassin from Assassin Mountain. It was a contract demon that served as an agent to the mountain, often sent on the most difficult assassination missions. As a shapeshifter it would assume any number of appearances to better serve its goals, goals set forth by the mountain that were impossible to break or bend. TPoD was selected to serve forth Krorg's Conditional Contract to kill whoever was responsible for his death, and was dispatched to kill Darmuth after Krorg died. 

@@ -10,3 +10,6 @@ dateCreated: 2024-06-03T02:35:10.217Z
 
 # Elira 
 Also known as Aleria Anivishank
+
+### Elira
+![elira.webp](/characters/elira/elira.webp)

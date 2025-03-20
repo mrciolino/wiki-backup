@@ -13,3 +13,7 @@ dateCreated: 2024-06-02T12:22:08.226Z
 
 ##### Tragic End
 Due to a deteritating state of mind, Adalynn remains a unable to act or speak and is shuttered in her private quaters in the Castle. 
+
+<!-- add adalynn.webp -->
+### Adalynn
+![adalynn.webp](/characters/other/adalynn.webp)

@@ -9,7 +9,7 @@ dateCreated: 2024-08-07T21:46:23.750Z
 ---
 
 ## Veerian Rathwing
-![wrath.png](/wrath.png)
+![wrath.png](/characters/other/wrath.png)
 ### Background
 An evil draconic sorcerer with large bat wings. He is the descendant of both Darmuth and Inferno. He was encouraged by Darmuth to commit acts of greater and greater evil, which he happily obliged.
 ### Powers
