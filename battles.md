@@ -2,10 +2,28 @@
 title: Battles
 description: 
 published: true
-date: 2024-09-04T23:25:43.490Z
+date: 2025-03-20T15:42:39.567Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
+---
+
+# Battles Overview
+
+| Battle Name              | Date             | Season | Key Events Summary |
+|--------------------------|-----------------|--------|---------------------|
+| **Glub Glub**           | June 3rd, 2024  | 4      | Bazzdos dominated by Glub Glub, forced to craft for his army; party breaks the spell and fights Glub Glub; Spoops redirects laser attack; Glub Glub regenerates, forcing a retreat. |
+| **Darmuth**             | Unknown         | -      | Reveal of the brain, Os teleported into lava, and a wish cast. |
+| **Rathwing**           | Unknown         | -      | Bomb the bear, death by an arrow through the eye. |
+| **Dragon Turtle**      | Unknown         | -      | Escape with gust of wind; raided the horde. |
+| **Fywick Bone Monstrosity** | Unknown | -  | Encounter with a 50ft bone devil near Fort Suro; betrayal by Federina; Spoops loses a leg but defeats the creature. |
+| **Alford**             | Unknown         | -      | Inferno's destruction, Drakham's spider potion, pirate raid. |
+| **Krogs Hometown Ithilid Assault** | Unknown | - | Space laser attack and downfall of the mech tarrasque. |
+| **Bar Brawl (The First Fight)** | Unknown | -  | Party’s first battle; Lucina summoned; Otto Hertzog hunted Os. |
+| **Guardison's Quest (Goblin Cave)** | Unknown | - | Details unknown. |
+| **Kaltrazar Bay Burning (Prison)** | Unknown | - | Party imprisoned; town burned down in their escape. |
+| **Final Fight**         | Unknown         | -      | Massive battle against the Ithilid threat with an undead army, divine support, and space-faring ships. |
+
 ---
 
 # Battles
@@ -21,47 +39,68 @@ As they opened the door, they were met with a laser attack from Glub Glub's claw
 Miscellaneous: The space laser was created and tested. FTW!
 
 ## Darmuth
-Reveal of the brain and Os' teleportation into lava and the wish
+Reveal of the brain and Os' teleportation into lava and the wish.
 
 ## Rathwing
-Bomb the bear death + arrow threw the eye
+Bomb the bear, death by an arrow through the eye.
 
 ## Dragon Turtle
-escape with gust of wing + raided the horde
+Escape with gust of wind; raided the horde.
 
-## Fywick Bone Monstraucity
-(50 feet tall, made of bone, bone devil picture)
-We found an underground ritual site with red blood roots underneath Fort Suro. (During this time, we drew from the deck of many things getting drakham turned purple, breezy went blind and got thermal vision, spoops get free real-estate). Darmuth became aware of the party and sent her pet after us (little did we know). We travel in an armored carriage (from illiard cousin in kaltrazar bay) traveling west from kaltrazar to fywick. We are traveling in the carriage through north west of kaltrazar bay (dry lands). We see the bone devil in the distance and we try to get away so we get Kat to bring down the flying ship (leaving the carriage behind). We decided to go to fywick but take a route to the massive lake of fywick and then to fywick. We arrive with the ship to fywick to the first time. * Cat Mafia intro* We know of the oracle and spoops and drakham go to the oracle. They speak to a maid and set a meeting with the oracle.  * tony motzerlla fucking the oracle gets us the meeting *. The oracle is Goliath. We originally sought the oracles advice on how to beat dramuth. We coinvice the oracle to give us key info about fighting darmuth (where to look in ruins (ashelfs homeland, fortress of tiamat). For the battle against the bone devil she gets her army ready at the wall along the bay and a seagate. We post up at the sea gate, but Os is gets surgery from Rolinduo to get the shield generator installed into Os’s heart. This was a heavily risky surgery. He steps out of the castle and strums his guitar. This would allow him to force a giant force field as the bone devil arrived to fywick. Federina betrays the party and the shield goes down and the bone devil is getting in. Spoops steps out with infernos great sword and in his other hand earth terror, and the goose dagger in his mouth, “peace was never an option”. Spoops leg gets bit off but eh devil but he gets into his throat and sword tornados the bone devil died. The party pulled a hurt and acid burned spoops out of the water and naracuss  applied sovereign glue to put the knife leg on to spoops.
+## Fywick Bone Monstrosity
+A 50-foot-tall creature made of bone (bone devil-like in appearance). 
+
+The party discovered an underground ritual site with red blood roots beneath Fort Suro. During this time, they drew from the Deck of Many Things, resulting in Drakham turning purple, Breezy going blind but gaining thermal vision, and Spoops getting "free real estate." 
+
+Darmuth became aware of the party and sent her pet after them. They traveled in an armored carriage (obtained from Illiard's cousin in Kaltrazar Bay) westward. Spotting the bone devil in the distance, they attempted to flee and called Kat to bring down the flying ship, leaving the carriage behind. 
+
+Upon arriving in Fywick, they sought out the Oracle. *Tony Mozzarella's* questionable actions got them a meeting with the Goliath Oracle, who provided key intel on Darmuth, directing them to Ashelf's homeland and the Fortress of Tiamat. 
+
+For the battle against the bone devil, Fywick's army prepared defenses along the bay and a sea gate. Os underwent a risky surgery by Rolinduo to install a shield generator in his heart. As the battle began, Federina betrayed the party, causing the shield to fail and allowing the bone devil inside. 
+
+Spoops, wielding Inferno’s Greatsword, Earth Terror, and the Goose Dagger in his mouth, declared, “Peace was never an option.” In the fight, the bone devil bit off Spoops’ leg. Spoops retaliated by storming into its throat, unleashing a sword tornado, and killing it from the inside. The party retrieved Spoops' burned and injured body, and Naracuss used sovereign glue to attach a knife as his new leg.
 
 ## Alford
-Inferno's destruction, draakam's spider potion, and the pirate raid
+Inferno's destruction, Drakham's spider potion, and the pirate raid.
 
 ## Krogs Hometown Ithilid Assault
-Assault from the ithilid space laser and the downfall of the mech tarsque
+The Ithilid launched an assault with their space laser, leading to the downfall of the mech tarrasque.
 
 ## Bar Brawl (The First Fight)
-Where we got the name from.  Lucina summoned and otto hertzog hunted os. The rest of the party joined the brawl.
+This is where the party earned their name. Lucina was summoned, and Otto Hertzog hunted Os. The rest of the party joined the chaotic brawl.
 
-## Gaurdisons Qeust (Goblin Cave)
+## Guardison's Quest (Goblin Cave)
+Details unknown.
 
-## Katrazar Bay Burning (Prison)
-Burning of the town, party was inprisioned and freedom burned the town down. 
+## Kaltrazar Bay Burning (Prison)
+The party was imprisoned. In their escape, they burned down the town.
 
 ## Final Fight
-After preparing for months on end and talking with the Council of the Gods, Mortis Lux called together all of its forces to take on the Ithilid threat. 
+After months of preparation and discussions with the Council of the Gods, Mortis Lux assembled its forces for the ultimate battle against the Ithilid threat.
 
-- Hunderds of thousand of undead zombies, skeletons and wights. 
-- Over 1,000 space fairing ships with magical gems (quartz, sapphire, ruby) for speed, defense and weaponary.
-- The pledged support of Odin, Thor, and Loki.
+### Forces:
+- Hundreds of thousands of undead: zombies, skeletons, and wights.
+- Over 1,000 space-faring ships powered by magical gems (quartz, sapphire, ruby) for speed, defense, and weaponry.
+- Divine support from Odin, Thor, and Loki.
+- Preparations included:
+  - Spider Queen involvement.
+  - Training all troops (list pending).
+  - Time chamber session for laser enhancements.
+  - Spoops' blade improvement.
+  - Gith potions.
 
-**preparing the pods, spider queen, all of the troops(list), time chamber 3rd for lasers, spoops blade improvment, gith potions +++TODO**
+### The Battle:
+After an inspirational speech from Spoops, the final day arrived. Calls from speaking stones reported simultaneous attacks on Fywick, Kaltrazar Bay, and Gothrithon. Mortis Lux dispatched 20 ships to each city to fend off Tectechanlls and Dreadnaughts emerging from sky cracks.
 
-### The Battle
-After an inspirational speech from Spoops, the dawn of the final day came. As Mortis Lux's forces awoke, speaking stone calls from around Murdun came in, Fywick under attack, Kaltrazar Bay under attack, Gothrithon under attack. Mortis Lux dispatched 20 ships to each location for protection from the Tectechanlls and Dreadnaughts coming through the cracks in the sky at each location.
+To go on the offensive, Mortis Lux launched an assault on the Ithilid homeworld—a massive, moon-sized flesh creature. The attack had three phases:
+1. A vanguard squad to establish a foothold.
+2. A support wave.  
+3. **[PLAN TO BE FILLED IN]**  
 
-While under attack leadership at mortis lux decided to go on the offensive and attack the Ithilid homeworld, a giant flesh creature the size of a moon. Mortis Lux stratgey was 3 fold, a vanguard squad to secure a foot hold on the ithilid homeworld, a support wave  +++ **PLAN HERE**
+The vanguard squad, led by Breezy E, was deployed but landed in an uncharted area. They encountered Krorgfrey, who, after some interrogation, led them to **[NEXT LOCATION TO BE FILLED IN]**.
 
-The vanguard squad led by breezy E was sent down onto the planet. A lack of targeted guidence lands the vanguard group in the middle of nowhere with no city or point of interest in sight. However, they stubmle upon Krorgfrey (why krorg frey here) who after some itnergrations, leds us to the ...
+---
 
 # Towns Burned
-Alford, Kaltrazar Bay
+- Alford
+- Kaltrazar Bay
