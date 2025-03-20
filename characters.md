@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-20T15:04:13.098Z
+date: 2025-03-20T15:05:09.966Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -67,7 +67,7 @@ List of characters from both campaign and some information about them.
 | Goopy Globulon | [Goopy Globulon](/characters/goopy-globulon) | Plasmoid | Soulblade Fighter | Astral Drifter | Eccentric, enigmatic, haunted by visions of the future, dark past. |  
 | Thomas Stonebrook | [Thomas Stonebrook](/characters/thomas-stonebrook) | Human | Barbarian | Former Guard | Loyal, duty-bound, struggling with inadequacy, gambling addiction. |  
 | Breezy Bee | [Breezy Bee](/characters/breezy-bee) | Aarakocra | Sorcerer | Entertainer | Carefree, ambitious, gambling addiction, untapped magical potential. |  
-| Orin | [Orin](/characters/orin) | Deep Gnome | Soulknife Rogue | Bounty Hunter | Cautious, resourceful, driven by debt, mysterious. |  
+| Oran | [Oran](/characters/oran) | Deep Gnome | Soulknife Rogue | Bounty Hunter | Cautious, resourceful, driven by debt, mysterious. |  
 | Baloo | [Baloo](/characters/baloo) | Bugbear | Bard | Entertainer | Humorous, resilient, determined to change perceptions, gambling addiction. |  
 
 ---
