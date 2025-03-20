@@ -1,0 +1,17 @@
+#### **[Randy the Mimic](/characters/randy-the-mimic)**  
+- **Race:** [Mimic](/races/mimic)  
+- **Class:** [Shape-shifter](/classes/shape-shifter)  
+- **Background:** [Deceptive Creature](/backgrounds/deceptive-creature)  
+- **Key Traits:** Shape-shifting, deceptive, transforms into a winged creature.  
+- **Backstory:** Randy is a mimic that transforms into a winged creature and is known for its deceptive nature. It abducted [Professor Chester](/characters/professor-chester) but was captured by [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire).  
+- **Relationships:**  
+  - **Party:** Has a neutral relationship with the party but is seen as a potential threat.  
+  - **NPCs:** Abducted [Professor Chester](/characters/professor-chester) and was captured by [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire).  
+  - **Organizations:** Associated with the dangers within [RVASSS](/locations/rvasss).  
+- **Notable Actions/Dialogue:**  
+  - **[Session 4](/session/session-4):** Transformed into a winged creature and abducted [Professor Chester](/characters/professor-chester).  
+  - **[Session 4](/session/session-4):** Was captured by [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire) and frozen in ice.  
+- **Emotional Arcs:**  
+  - **[Session 4](/session/session-4):** Demonstrated its dangerous and deceptive nature.  
+- **Progression:**  
+  - **[Session 4](/session/session-4):** Revealed the hidden dangers within the academy.  

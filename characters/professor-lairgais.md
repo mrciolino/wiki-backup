@@ -1,0 +1,16 @@
+#### **[Professor Lairgais](/characters/professor-lairgais)**  
+- **Race:** [Half-Orc](/races/half-orc)  
+- **Class:** [Evocation Professor](/classes/evocation-professor)  
+- **Background:** [Fiery Personality](/backgrounds/fiery-personality)  
+- **Key Traits:** Fiery, passionate, skilled in evocation magic.  
+- **Backstory:** Professor Lairgais is an evocation expert at [RVASSS](/locations/rvasss) and is known for his fiery personality and powerful magic.  
+- **Relationships:**  
+  - **Party:** Has a neutral relationship with the party but respects their potential.  
+  - **NPCs:** Works closely with [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire) and other faculty members.  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 3](/session/session-3):** Assisted in the investigation of [Gilbert’s](/characters/gilbert) writings and the cult’s activities.  
+- **Emotional Arcs:**  
+  - **[Session 3](/session/session-3):** Showed concern over the growing threat of the cult.  
+- **Progression:**  
+  - **[Session 3](/session/session-3):** Played a key role in uncovering the cult’s activities.  

@@ -1,0 +1,16 @@
+#### **[Tadabar Soulfire](/characters/tadabar-soulfire)**  
+- **Race:** [Human](/races/human)  
+- **Class:** [Mysterious Figure](/classes/mysterious-figure)  
+- **Background:** [Associated with the Academy](/backgrounds/associated-with-the-academy)  
+- **Key Traits:** Mysterious, powerful, connected to the academy’s history.  
+- **Backstory:** Tadabar Soulfire is a mysterious figure associated with [RVASSS](/locations/rvasss) and is known for his powerful magic and deep connection to the academy’s history.  
+- **Relationships:**  
+  - **Party:** Has a neutral relationship with the party but respects their potential.  
+  - **NPCs:** Works closely with [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire) and other faculty members.  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 3](/session/session-3):** Assisted in the investigation of [Gilbert’s](/characters/gilbert) writings and the cult’s activities.  
+- **Emotional Arcs:**  
+  - **[Session 3](/session/session-3):** Showed concern over the growing threat of the cult.  
+- **Progression:**  
+  - **[Session 3](/session/session-3):** Played a key role in uncovering the cult’s activities.  

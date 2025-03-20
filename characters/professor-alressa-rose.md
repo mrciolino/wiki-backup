@@ -1,0 +1,17 @@
+#### **[Professor Alressa Rose](/characters/professor-alressa-rose)**  
+- **Race:** [Human](/races/human)  
+- **Class:** [Divination Professor](/classes/divination-professor)  
+- **Background:** [Divination Expert](/backgrounds/divination-expert)  
+- **Key Traits:** Meek but powerful, adorned in golden jewelry and crimson robes, deeply empathetic.  
+- **Backstory:** Professor Rose is a divination expert at [RVASSS](/locations/rvasss) and is known for her ability to peer into the minds and futures of others. She is deeply empathetic but can be harsh in her judgments.  
+- **Relationships:**  
+  - **Party:** Distrusts [Goopy Globulon](/characters/goopy-globulon) after reading his mind but has a neutral relationship with the rest of the party.  
+  - **NPCs:** Works closely with [Professor Golda](/characters/professor-golda) and other faculty members.  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 3](/session/session-3):** Delved into [Goopy’s](/characters/goopy-globulon) mind, revealing traumatic memories of war, loss, and a future explosion.  
+  - **[Session 4](/session/session-4):** Assisted the party in understanding the cryptic writings left by [Gilbert](/characters/gilbert).  
+- **Emotional Arcs:**  
+  - **[Session 3](/session/session-3):** Showed empathy for [Goopy’s](/characters/goopy-globulon) traumatic past but expressed disapproval of his actions.  
+- **Progression:**  
+  - **[Session 3](/session/session-3):** Played a key role in uncovering [Goopy’s](/characters/goopy-globulon) past and potential future.  

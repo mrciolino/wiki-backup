@@ -1,0 +1,19 @@
+#### **[Sergeant Lemrick](/characters/sergeant-lemrick)**  
+- **Race:** [Human](/races/human)  
+- **Class:** [City Guard](/classes/city-guard)  
+- **Background:** [Thomas’s Former Boss](/backgrounds/thomass-former-boss)  
+- **Key Traits:** Stern, no-nonsense, loyal to the [City Guard of Vrintia](/organizations/city-guard-of-vrintia).  
+- **Backstory:** Sergeant Lemrick is a stern city guard and the former boss of [Thomas Stonebrook](/characters/thomas-stonebrook). He is known for his no-nonsense attitude and loyalty to the [City Guard of Vrintia](/organizations/city-guard-of-vrintia).  
+- **Relationships:**  
+  - **Party:** Has a complicated relationship with [Thomas Stonebrook](/characters/thomas-stonebrook) but respects the party’s potential.  
+  - **NPCs:** Works closely with the [City Guard of Vrintia](/organizations/city-guard-of-vrintia) and the faculty at [RVASSS](/locations/rvasss).  
+  - **Organizations:** Loyal to the [City Guard of Vrintia](/organizations/city-guard-of-vrintia) and its mission to protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 1](/session/session-1):** Questioned the party about the events at the [Golden Bear Tavern](/locations/golden-bear-tavern).  
+  - **[Session 3](/session/session-3):** Revealed that he removed [Thomas](/characters/thomas-stonebrook) from the guard for political reasons, not incompetence.  
+- **Emotional Arcs:**  
+  - **[Session 1](/session/session-1):** Demonstrated his stern but fair nature.  
+  - **[Session 3](/session/session-3):** Showed respect for [Thomas’s](/characters/thomas-stonebrook) growth and potential.  
+- **Progression:**  
+  - **[Session 1](/session/session-1):** Established himself as a key figure in the investigation of the cult’s activities.  
+  - **[Session 3](/session/session-3):** Played a key role in uncovering the truth about [Thomas’s](/characters/thomas-stonebrook) removal from the guard.  

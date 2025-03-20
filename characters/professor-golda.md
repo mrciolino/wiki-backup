@@ -1,0 +1,16 @@
+#### **[Professor Golda](/characters/professor-golda)**  
+- **Race:** [Dwarf](/races/dwarf)  
+- **Class:** [Divination Associate](/classes/divination-associate)  
+- **Background:** [Associate of Professor Rose](/backgrounds/associate-of-professor-rose)  
+- **Key Traits:** Knowledgeable, supportive, works closely with [Professor Alressa Rose](/characters/professor-alressa-rose).  
+- **Backstory:** Professor Golda is a dwarf and an associate of [Professor Alressa Rose](/characters/professor-alressa-rose) at [RVASSS](/locations/rvasss). She is known for her expertise in divination and her supportive nature.  
+- **Relationships:**  
+  - **Party:** Has a neutral relationship with the party but assists them when needed.  
+  - **NPCs:** Works closely with [Professor Alressa Rose](/characters/professor-alressa-rose) and other faculty members.  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 3](/session/session-3):** Assisted [Professor Rose](/characters/professor-alressa-rose) in delving into [Goopy’s](/characters/goopy-globulon) mind.  
+- **Emotional Arcs:**  
+  - **[Session 3](/session/session-3):** Showed empathy for [Goopy’s](/characters/goopy-globulon) traumatic past.  
+- **Progression:**  
+  - **[Session 3](/session/session-3):** Played a supporting role in uncovering [Goopy’s](/characters/goopy-globulon) past.  

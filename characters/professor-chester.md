@@ -1,0 +1,18 @@
+#### **[Professor Chester](/characters/professor-chester)**  
+- **Race:** [Kenku](/races/kenku)  
+- **Class:** [Illusion Professor](/classes/illusion-professor)  
+- **Background:** [Illusion Expert](/backgrounds/illusion-expert)  
+- **Key Traits:** Crow-like appearance, communicates through mimicry, mysterious.  
+- **Backstory:** Professor Chester is an illusion expert at [RVASSS](/locations/rvasss) and is known for his enigmatic personality and unique communication style.  
+- **Relationships:**  
+  - **Party:** Guided [Tiberian Caipao](/characters/tiberian-caipao) to the [Wizard Tower](/locations/wizard-tower) and assisted in uncovering [Gilbert’s](/characters/gilbert) writings.  
+  - **NPCs:** Works closely with [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire) and other faculty members.  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 3](/session/session-3):** Guided [Tiberian](/characters/tiberian-caipao) to the [Wizard Tower](/locations/wizard-tower), where they discovered [Gilbert’s](/characters/gilbert) writings.  
+  - **[Session 4](/session/session-4):** Was abducted by [Randy the Mimic](/characters/randy-the-mimic) but was rescued by [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire).  
+- **Emotional Arcs:**  
+  - **[Session 4](/session/session-4):** Showed resilience after being abducted and rescued.  
+- **Progression:**  
+  - **[Session 3](/session/session-3):** Played a key role in uncovering the cult’s activities.  
+  - **[Session 4](/session/session-4):** Survived the mimic’s abduction, highlighting the dangers within the academy.  

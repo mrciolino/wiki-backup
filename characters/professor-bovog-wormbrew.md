@@ -1,0 +1,19 @@
+#### **[Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew)**  
+- **Race:** [Dwarf](/races/dwarf)  
+- **Class:** [Artificer Professor](/classes/artificer-professor)  
+- **Background:** [Artificer Expert](/backgrounds/artificer-expert)  
+- **Key Traits:** Skilled artificer, gruff but kind-hearted, protective of his students.  
+- **Backstory:** Professor Wormbrew is an artificer expert at [RVASSS](/locations/rvasss) and is known for his skill in crafting and innovation. He is gruff but has a kind heart and is protective of his students.  
+- **Relationships:**  
+  - **Party:** Has a strong bond with [Tiberian Caipao](/characters/tiberian-caipao) and respects his potential as an artificer.  
+  - **NPCs:** Works closely with [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire) and other faculty members.  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 3](/session/session-3):** Assisted [Tiberian](/characters/tiberian-caipao) in investigating [Gilbert’s](/characters/gilbert) writings.  
+  - **[Session 4](/session/session-4):** Worked with [Tiberian](/characters/tiberian-caipao) on artificing projects, improving their relationship.  
+- **Emotional Arcs:**  
+  - **[Session 3](/session/session-3):** Showed concern over the growing threat of the cult.  
+  - **[Session 4](/session/session-4):** Demonstrated his commitment to [Tiberian’s](/characters/tiberian-caipao) growth as an artificer.  
+- **Progression:**  
+  - **[Session 3](/session/session-3):** Played a key role in uncovering the cult’s activities.  
+  - **[Session 4](/session/session-4):** Strengthened his bond with [Tiberian](/characters/tiberian-caipao) through artificing projects.  

@@ -1,0 +1,19 @@
+#### **[Professor Osdimir Lataniel Dera Vrentica](/characters/professor-osdimir-lataniel-dera-vrentica)**  
+- **Race:** [Dark Elf](/races/dark-elf)  
+- **Class:** [Sorcerer](/classes/sorcerer)  
+- **Background:** [Professor at RVASSS](/locations/rvasss)  
+- **Key Traits:** Commanding presence, knowledgeable, protective of students, wields powerful magic.  
+- **Backstory:** Professor Osdimir is a dark elf sorcerer and a key figure at the [Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS)](/locations/rvasss). He is second-in-command at the academy and serves as a mentor to the party, particularly [Tiberian Caipao](/characters/tiberian-caipao) and [Goopy Globulon](/characters/goopy-globulon).  
+- **Relationships:**  
+  - **Party:** Acts as a mentor and protector to the party, particularly [Tiberian](/characters/tiberian-caipao) and [Goopy](/characters/goopy-globulon).  
+  - **NPCs:** Works closely with [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire) and other faculty members.  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 1](/session/session-1):** Banished a shadow demon during the bar fight at the [Golden Bear Tavern](/locations/golden-bear-tavern) and revealed the truth about the forged wanted poster.  
+  - **[Session 3](/session/session-3):** Assisted [Tiberian](/characters/tiberian-caipao) in investigating [Gilbert’s](/characters/gilbert) writings, uncovering their connection to demon summoning.  
+- **Emotional Arcs:**  
+  - **[Session 1](/session/session-1):** Demonstrated his protective nature and commitment to the party’s safety.  
+  - **[Session 3](/session/session-3):** Showed concern over the growing threat of the cult and its ties to the academy.  
+- **Progression:**  
+  - **[Session 1](/session/session-1):** Established himself as a powerful and trustworthy ally to the party.  
+  - **[Session 3](/session/session-3):** Played a key role in uncovering the cult’s activities and protecting the academy.  

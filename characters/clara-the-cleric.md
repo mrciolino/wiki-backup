@@ -1,0 +1,19 @@
+#### **[Clara the Cleric](/characters/clara-the-cleric)**  
+- **Race:** [Half-Dwarf](/races/half-dwarf)  
+- **Class:** [Cleric](/classes/cleric)  
+- **Background:** [Healer](/backgrounds/healer)  
+- **Key Traits:** Kind, empathetic, skilled in healing magic.  
+- **Backstory:** Clara is a half-dwarf cleric and healer associated with the [Church of Mordredon](/organizations/church-of-mordredon). She is known for her kindness and skill in healing magic.  
+- **Relationships:**  
+  - **Party:** Has a positive relationship with the party, particularly [Tiberian Caipao](/characters/tiberian-caipao) and [Thomas Stonebrook](/characters/thomas-stonebrook).  
+  - **NPCs:** Works closely with the faculty at [RVASSS](/locations/rvasss) and the [Church of Mordredon](/organizations/church-of-mordredon).  
+  - **Organizations:** Loyal to the [Church of Mordredon](/organizations/church-of-mordredon) and its mission to heal and protect.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 1](/session/session-1):** Healed the party after the bar fight at the [Golden Bear Tavern](/locations/golden-bear-tavern).  
+  - **[Session 3](/session/session-3):** Provided comfort and healing to the party after the traumatic events at the academy.  
+- **Emotional Arcs:**  
+  - **[Session 1](/session/session-1):** Demonstrated her kindness and commitment to healing.  
+  - **[Session 3](/session/session-3):** Showed empathy for the party’s struggles and provided support.  
+- **Progression:**  
+  - **[Session 1](/session/session-1):** Established herself as a trusted ally to the party.  
+  - **[Session 3](/session/session-3):** Continued to provide healing and support to the party.  

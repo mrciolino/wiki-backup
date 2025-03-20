@@ -1,0 +1,19 @@
+#### **[Treebert](/characters/treebert)**  
+- **Race:** [Wood Golem](/races/wood-golem)  
+- **Class:** [Assistant](/classes/assistant)  
+- **Background:** [Helper at RVASSS](/backgrounds/helper-at-rvasss)  
+- **Key Traits:** Tiny, helpful, assists the party with their needs.  
+- **Backstory:** Treebert is a tiny wood golem who assists the party and faculty at [RVASSS](/locations/rvasss). He is known for his helpful nature and ability to assist with various tasks.  
+- **Relationships:**  
+  - **Party:** Has a positive relationship with the party and assists them with their needs.  
+  - **NPCs:** Works closely with the faculty at [RVASSS](/locations/rvasss).  
+  - **Organizations:** Loyal to [RVASSS](/locations/rvasss) and its mission to educate and protect Vrintia.  
+- **Notable Actions/Dialogue:**  
+  - **[Session 2](/session/session-2):** Brought the party breakfast and assisted them with their requests.  
+  - **[Session 4](/session/session-4):** Helped the party settle into their new dormitory.  
+- **Emotional Arcs:**  
+  - **[Session 2](/session/session-2):** Demonstrated his helpful and kind nature.  
+  - **[Session 4](/session/session-4):** Continued to provide assistance to the party, ensuring their comfort.  
+- **Progression:**  
+  - **[Session 2](/session/session-2):** Established himself as a trusted ally to the party.  
+  - **[Session 4](/session/session-4):** Continued to assist the party in their new dormitory.  
