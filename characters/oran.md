@@ -2,13 +2,14 @@
 title: Oran Dusktea
 description: Deep Gnome Soulknife Rogue driven by debt and a mission to save his brother.
 published: true
-date: 2025-03-19T02:30:20.586Z
+date: 2025-03-20T15:05:39.852Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-19T02:30:20.586Z
+dateCreated: 2025-03-20T12:09:45.634Z
 ---
 
-#### **[Orin](/characters/orin)**  
+# Oran
+
 - **Race:** Deep Gnome  
 - **Class:** Soulknife Rogue  
 - **Background:** Bounty Hunter  
