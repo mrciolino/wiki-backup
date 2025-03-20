@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-20T15:28:52.019Z
+date: 2025-03-20T23:45:28.952Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -86,4 +86,29 @@ Groups of entities that represent various factions, guilds, nations, religious s
 
 ## Campaign 2
 
-TBD...
+#### **Alliances**  
+| Name | Description | Location | Notable Members | Status |  
+|------|-------------|----------|------------------|--------|  
+| Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS) | Central hub for education and power in Vrintia. | Vrintia | [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire), [Professor Osdimir Lataniel Dera Vrentica](/characters/professor-osdimir-lataniel-dera-vrentica), [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew), [Professor Alressa Rose](/characters/professor-alressa-rose) | Active |  
+
+#### **Noble Families**  
+| Name | Description | Location | Notable Members | Status |  
+|------|-------------|----------|------------------|--------|  
+| Rascal Clan | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |  
+
+#### **Cults**  
+| Name | Description | Location | Notable Members | Status |  
+|------|-------------|----------|------------------|--------|  
+| Cult of Gilbert | A dangerous group using blood magic and summoning shadow demons. | Vrintia | [Gilbert](/characters/gilbert) | Hostile |  
+
+#### **Religious Groups**  
+| Name | Description | Location | Notable Members | Status |  
+|------|-------------|----------|------------------|--------|  
+| Church of Mordredon | A religious organization dedicated to healing and protection. | Vrintia | [Clara the Cleric](/characters/clara-the-cleric) | Active |  
+
+#### **Law Enforcement**  
+| Name | Description | Location | Notable Members | Status |  
+|------|-------------|----------|------------------|--------|  
+| City Guard of Vrintia | The law enforcement organization in Vrintia. | Vrintia | [Sergeant Lemrick](/characters/sergeant-lemrick), [Thomas Stonebrook](/characters/thomas-stonebrook) | Active |  
+
+
