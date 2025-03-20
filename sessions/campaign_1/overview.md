@@ -1,35 +1,31 @@
-# Sessions
-Overview of Campaign 1
+---
+title: overview
+description: 
+published: true
+date: 2025-03-20T15:23:39.362Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-20T12:09:51.617Z
+---
 
-- [Sessions](#sessions)
-  - [Session 1](#session-1)
-          - [January 8, 2020](#january-8-2020)
-  - [Session 2](#session-2)
-          - [January 15, 2020](#january-15-2020)
-  - [Session 3 - WTF ](#session-3---wtf-)
-          - [January 22, 2020](#january-22-2020)
-  - [Session 4 - Guardison ](#session-4---guardison-)
-          - [January 29, 2020](#january-29-2020)
-  - [Session 5 Badger Badger Badger](#session-5-badger-badger-badger)
-          - [February 5 2020](#february-5-2020)
-  - [my god it went so WRONG](#my-god-it-went-so-wrong)
-          - [February 12 2020](#february-12-2020)
-  - [Boats and Hoes](#boats-and-hoes)
-          - [February 19 2020](#february-19-2020)
-  - [Hello Allford](#hello-allford)
-          - [February 26 2020](#february-26-2020)
-  - [Session 9 Dungeon Trekking](#session-9-dungeon-trekking)
-          - [March 4 2020](#march-4-2020)
-  - [Shitty Pirate Revelations](#shitty-pirate-revelations)
-          - [March 11 2020](#march-11-2020)
-  - [Leaving Allford](#leaving-allford)
-          - [March 18 2020](#march-18-2020)
-  - [Session 11/12 Cults ](#session-1112-cults-)
-          - [March 26 2020](#march-26-2020)
-  - [Session 13 Grief and shopping](#session-13-grief-and-shopping)
-          - [March 29 2020](#march-29-2020)
-  - [sesiion 18](#sesiion-18)
-          - [April 18 2020](#april-18-2020)
+# Campaign 1 Session Recaps
+
+Recaps from the end of some sessions.
+
+- [Session 1 - January 8, 2020](#session-1)
+- [Session 2 - January 15, 2020](#session-2)
+- [Session 3 - WTF - January 22, 2020](#session-3-wtf)
+- [Session 4 - Guardison - January 29, 2020](#session-4-guardison)
+- [Session 5 - Badger Badger Badger - February 5, 2020](#session-5-badger-badger-badger)
+- [Session 6 - My God It Went So WRONG - February 12, 2020](#my-god-it-went-so-wrong)
+- [Session 7 - Boats and Hoes - February 19, 2020](#boats-and-hoes)
+- [Session 8 - Hello Allford - February 26, 2020](#hello-allford)
+- [Session 9 - Dungeon Trekking - March 4, 2020](#session-9-dungeon-trekking)
+- [Session 10 - Shitty Pirate Revelations - March 11, 2020](#shitty-pirate-revelations)
+- [Session 11 - Leaving Allford - March 18, 2020](#leaving-allford)
+- [Session 12 - Cults - March 26, 2020](#session-11-cults)
+- [Session 13 - Grief and Shopping - March 29, 2020](#session-13-grief-and-shopping)
+- [Session 18 - April 18, 2020](#sesiion-18)
 
 ## Session 1
 ###### January 8, 2020
