@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-20T23:47:45.680Z
+date: 2025-03-20T23:49:09.694Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -41,7 +41,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 ### Pirate Crews  
 | Name | Description | Ship Name | Captain | Status |  
 |------|-------------|----------|---------|--------|  
-| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | Dave Bones | Active |  
+| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave Bones](/characters/Dave-Bones) | Active | 
 | Bugbear Pirate Crew | A crew of bugbear pirates. | - | - | Active |  
 
 ### Nations and Tribes  
