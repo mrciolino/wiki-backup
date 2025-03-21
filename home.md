@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-03-21T00:01:22.634Z
+date: 2025-03-21T00:02:09.032Z
 tags: home, needs some work
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -41,11 +41,11 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 The Campaign 2 Session Recaps can be found [here](/sessions/campaign_2/overview).
 
 ## Mardun 
-The starting world of the campagin
-![mardun.webp](/maps/maps/mardun.webp)
+The starting world of the campagin. More info here ([Mardun](/locations/Mardun))
+![mardun.webp](/maps/mardun.webp)
 
 ## Ereriad
-The 1st world visited with the well of many worlds.
-![ereriad.png](/maps/maps/ereriad.png)
+The 1st world visited with the well of many worlds. ([Ereriad](/locations/Ereriad))
+![ereriad.png](/maps/ereriad.png)
 
 
