@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-03-21T00:02:09.032Z
+date: 2025-03-21T00:04:27.951Z
 tags: home, needs some work
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -16,6 +16,7 @@ We attempt to cosntruct this wiki using a bottom-up approch. Visit the [To-Do Pa
 
 
 ## Campaign 1
+A list of seasons (1-4) can be found here: [Seasons](/Seasons). This emcomposses rougly year long blocks ending in a large plot development. Some of the Campaign 1 Session Recaps can be found [here](/sessions/campaign_1/overview).
 
 ### Timeline
 
@@ -24,11 +25,8 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 ```
 
 
-### Seasons
-A list of seasons (1-4) can be found here: [Seasons](/Seasons). This emcomposses rougly year long blocks ending in a large plot development. Some of the Campaign 1 Session Recaps can be found [here](/sessions/campaign_1/overview).
-
-
 ## Campaign 2
+The Campaign 2 Session Recaps can be found [here](/sessions/campaign_2/overview).
 
 ### Timeline
 
@@ -37,15 +35,12 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ```
 
 
-### Seasons
-The Campaign 2 Session Recaps can be found [here](/sessions/campaign_2/overview).
-
 ## Mardun 
-The starting world of the campagin. More info here ([Mardun](/locations/Mardun))
+The starting world of the campagin. More info at ([Mardun](/locations/Mardun)).
 ![mardun.webp](/maps/mardun.webp)
 
 ## Ereriad
-The 1st world visited with the well of many worlds. ([Ereriad](/locations/Ereriad))
+The 1st world visited with the well of many worlds. More info at ([Ereriad](/locations/Ereriad)).
 ![ereriad.png](/maps/ereriad.png)
 
 
