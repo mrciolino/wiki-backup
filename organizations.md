@@ -2,87 +2,82 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-22T16:35:19.471Z
+date: 2025-03-22T16:49:52.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
 ---
 
-# Organizations
-Groups of entities that represent various factions, guilds, nations, religious sects, and alliances within the Low Bar Brawlers universe, each with unique goals, hierarchies, and influences on the world.
+# Organizations  
+Groups of entities that represent various factions, guilds, nations, religious sects, and alliances within the *Low Bar Brawlers* universe, each with unique goals, hierarchies, and influences on the world.  
 
-## Campaign 1
+## **Campaign 1**  
 
-### Alliances  
+### **Alliances**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
-| Council of Gods | A coalition of deities. | - | - | Active |  
-| Pirate Kingdom of Saragassa | A powerful pirate nation. | Saragassa | - | Active |  
+| [Council of Gods](/organizations/council-of-gods) | A coalition of deities. | - | - | Active |  
+| [Pirate Kingdom of Saragassa](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/saragassa) | - | Active |  
 | [Mortis Lux](/organizations/mortis-lux) | A mysterious organization. | - | - | Unknown |  
-| Low Bar Brawlers | A renowned group of fighters. | - | - | Active |  
+| [Low Bar Brawlers](/organizations/low-bar-brawlers) | A renowned group of fighters. | - | - | Active |  
 
-### Gangs  
+### **Gangs**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
-| Fywick Mafia | Criminal syndicate in Fywick. | Fywick | - | Active |  
-| Tabxi Mafia of Fywick | Rival mafia group in Fywick. | Fywick | - | Active |  
-| Red Keep | A feared gang. | - | - | Unknown |  
+| [Fywick Mafia](/organizations/fywick-mafia) | Criminal syndicate in [Fywick](/locations/fywick). | [Fywick](/locations/fywick) | - | Active |  
+| [Tabxi Mafia of Fywick](/organizations/tabxi-mafia) | Rival mafia group in [Fywick](/locations/fywick). | [Fywick](/locations/fywick) | - | Active |  
+| [Red Keep](/organizations/red-keep) | A feared gang. | - | - | Unknown |  
 
-### Enemies  
+### **Enemies**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
-| Ithilid | A dangerous enemy faction. | - | - | Hostile |  
+| [Ithilid](/organizations/ithilid) | A dangerous enemy faction. | - | - | Hostile |  
 
-### Races  
+### **Races**  
 | Name | Description | Common Locations | Notable Figures | Status |  
 |------|-------------|-----------------|-----------------|--------|  
-| Ilithid | A race of mind flayers. | - | - | Active |  
+| [Ilithid](/races/ilithid) | A race of mind flayers. | - | - | Active |  
 
-### Pirate Crews  
+### **Pirate Crews**  
 | Name | Description | Ship Name | Captain | Status |  
 |------|-------------|----------|---------|--------|  
-| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave Bones](/characters/Dave-Bones) | Active | 
-| Bugbear Pirate Crew | A crew of bugbear pirates. | - | - | Active |  
+| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave Bones](/characters/dave-bones) | Active |  
+| [Bugbear Pirate Crew](/organizations/bugbear-pirate-crew) | A crew of bugbear pirates. | - | - | Active |  
 
-### Nations and Tribes  
+### **Nations and Tribes**  
 | Name | Description | Capital/Region | Ruler/Leader | Status |  
 |------|-------------|---------------|-------------|--------|  
-| Parrot Shogunate | A shogunate ruled by parrots. | - | - | Active |  
-| Fywick | A notable city. | Fywick | - | Active |  
-| Githzerai (and Githyankii survivors) | Surviving Gith factions. | - | - | Scattered |  
-| Kingdom of Helares | A powerful kingdom. | - | - | Active |  
-| Holy Nation of Elephond | Aphir The Mighty's kingdom. | Elephond | Aphir The Mighty | Active |  
-| Wegate | A known settlement. | Wegate | - | Active |  
-| Altricia | A sovereign nation. | - | - | Active |  
-| Gothriathon and the Cliffs of Dover Region | A significant region. | Gothriathon | - | Active |  
-| Fortress of the Vampire Tyrant | At war with the Samurai. | - | Vampire Tyrant | Conflict |  
-| Centaur Tribe (Outside Helares) | A nomadic centaur tribe. | Outside Helares | - | Active |  
-| Astral Dwarf Clans | Dwarven clans in the Astral Plane. | Astral Plane | - | Active |  
-| Kingdom of Kaltrosar | A vast kingdom. | Kaltrosar | - | Active |  
+| [Parrot Shogunate](/organizations/parrot-shogunate) | A shogunate ruled by parrots. | - | - | Active |  
+| [Fywick](/locations/fywick) | A notable city. | [Fywick](/locations/fywick) | - | Active |  
+| [Githzerai (and Githyankii survivors)](/organizations/githzerai) | Surviving Gith factions. | - | - | Scattered |  
+| [Kingdom of Helares](/organizations/kingdom-of-helares) | A powerful kingdom. | - | - | Active |  
+| [Holy Nation of Elephond](/organizations/holy-nation-of-elephond) | [Aphir The Mighty](/characters/aphir-the-mighty)'s kingdom. | [Elephond](/locations/elephond) | [Aphir The Mighty](/characters/aphir-the-mighty) | Active |  
+| [Wegate](/locations/wegate) | A known settlement. | [Wegate](/locations/wegate) | - | Active |  
+| [Altricia](/locations/altricia) | A sovereign nation. | - | - | Active |  
+| [Gothriathon and the Cliffs of Dover Region](/locations/gothriathon) | A significant region. | [Gothriathon](/locations/gothriathon) | - | Active |  
+| [Fortress of the Vampire Tyrant](/locations/fortress-of-the-vampire-tyrant) | At war with the Samurai. | - | [Vampire Tyrant](/characters/vampire-tyrant) | Conflict |  
+| [Centaur Tribe (Outside Helares)](/organizations/centaur-tribe) | A nomadic centaur tribe. | Outside [Helares](/locations/helares) | - | Active |  
+| [Astral Dwarf Clans](/organizations/astral-dwarf-clans) | Dwarven clans in the Astral Plane. | [Astral Plane](/locations/astral-plane) | - | Active |  
+| [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/kaltrosar) | - | Active |  
 
-### Religious Groups  
+### **Religious Groups**  
 | Name | Description | Worships | Leader | Status |  
 |------|-------------|---------|--------|--------|  
-| Narascene Clerics | A religious order. | - | - | Active |  
-| Cult of Wegate | Worshippers of Ryan-spoops. | Ryan-spoops | - | Active |  
-| Paladin Order of Spoops | A knightly order. | Spoops | - | Active |  
-| Inevitables | Agents of divine justice. | - | - | Active |  
-| Army of The Witch King | Servants of Bane. | Bane | Witch King | Active |  
-| Cult of Rathwing | A dark cult. | Rathwing | - | Active |  
+| [Narascene Clerics](/organizations/narascene-clerics) | A religious order. | - | - | Active |  
+| [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/ryan-spoops). | [Ryan-Spoops](/characters/ryan-spoops) | - | Active |  
+| [Paladin Order of Spoops](/organizations/paladin-order-of-spoops) | A knightly order. | [Spoops](/characters/spoops) | - | Active |  
+| [Inevitables](/organizations/inevitables) | Agents of divine justice. | - | - | Active |  
+| [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/witch-king) | Active |  
+| [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/rathwing) | - | Active |  
 
-### Colleges  
-| Name | Description | Location | Headmaster | Status |  
-|------|-------------|----------|-----------|--------|  
-| Magic College of Porthy | A school of magic. | Porthy | - | Active |  
-| Magic College of Highhold | Another magic institution. | Highhold | - | Active |  
-
-### Guilds and Companies  
+### **Guilds and Companies**  
 | Name | Description | Headquarters | Leader | Status |  
 |------|-------------|-------------|--------|--------|  
-| Robin Trading Company | Ferried the LBB after Kaltrosar Bay fire. | - | - | Active |  
-| Assassins Guild (Library Dimension) | A secretive guild. | Library Dimension | - | Active |  
-| Adventurers Guild (Fywick Main Office) | Supports adventurers. | Fywick | - | Active |  
-| [The Bartender's Guild](/organizations/bartenders_guild) | A guild for bartenders. | - | - | Active |  
+| [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar Bay](/locations/kaltrosar-bay) fire. | - | - | Active |  
+| [Assassins Guild (Library Dimension)](/organizations/assassins-guild) | A secretive guild. | [Library Dimension](/locations/library-dimension) | - | Active |  
+| [Adventurers Guild (Fywick Main Office)](/organizations/adventurers-guild) | Supports adventurers. | [Fywick](/locations/fywick) | - | Active |  
+| [The Bartender's Guild](/organizations/bartenders-guild) | A guild for bartenders. | - | - | Active |  
+
 
 ## Campaign 2
 
