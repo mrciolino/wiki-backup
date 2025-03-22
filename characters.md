@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-22T19:35:35.377Z
+date: 2025-03-22T19:35:59.481Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -41,10 +41,6 @@ List of characters from both campaign and some information about them.
 ---
 
 ## **Campaign 2**  
-
-### **Non-Player Characters**  
-
-Here's the updated markdown reflecting the categorized groups:
 
 ### **Allies**  
 
