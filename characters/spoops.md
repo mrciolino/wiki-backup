@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2024-07-29T00:59:34.861Z
+date: 2025-03-22T20:13:01.287Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -19,7 +19,7 @@ dateCreated: 2024-06-01T22:42:52.715Z
 ## Spoops, Grandmaster Paladin
 ![spoops_paladin_many_swords.png](/characters/spoops/spoops_paladin_many_swords.png)
 ## Spoops, Grandmaster Paladin Fully Equipped
-![spoops.webp](/characters/spoops/spoops.webp)
+![spoops.webp](/characters/spoops.webp)
 ## Spoops, Secret Technique of Ry-ann Feared Form
 ![skeleton_king_spoops.webp](/characters/spoops/skeleton_king_spoops.webp)
 
@@ -29,6 +29,11 @@ dateCreated: 2024-06-01T22:42:52.715Z
 Spoops is an ancient Primordial entity who first awoke in timeless time within his Divine Realm the Well of Souls. He is the God of Souls although he often equates that to being the god of life and death. Throughout his existence he has been known by many names and titles, including Myrkul God of Death, Avatar of Ry-ann, Grandmaster Paladin, His Holiness, The Crusader, and others. During the Ithilid War he has taken physical form as Spoops, one of the original Low Bar Brawlers, and a founding member Mortis Lux. 
 
 ---
+
+# Creation of the Universe
+In the beginning, AO created the Universe. While AO was busy shaping the cosmos, creating the realms and astral sea, a door opened. A skeleton named Spoops peered out from the doorway to his Soulwell, beholding the majesty of creation as AO twisted and forged reality around him, Spoops spoke, "Hello there! The names Spoops! Who might you be?" to which AO took notice, turned to face spoops, and putting his hand on the door AO slowly closed it saying "Shhhhhh, no interruptions." Spoops had some trouble getting the door open for a while after that....
+
+Spoops spent the next era within his realm devastatingly bored, his only company being the countless souls contained within his Soulwell. After some time Spoops noticed his well of souls beginning to move. What was once a swarming pillar of unmoving souls began to infinitely flow. Intrigued by this he decided to investigate. Eventually he was able to unjam the door and found himself looking down upon a great battle between two massive Goddesses who he would later know as Selune and Shar. Upon Seeing them, he called out to the dark haired one, "Hey big ladies!" he shouted through the chaos. For but a moment they looked his way and the dark haired one winked before continuing to beat the ever loving light out of the silver haired goddess. Spoops decided it best to close the door again and come back out once the fighting was done.
 
 # Time of Troubles
 For a time Spoops was known as Myrkul and adventured with Bane and Bhaal before their ascention to Godhood. During this period of time, Spoops and his allies were responsible for the events which led to the Time of Troubles. At the end of these events, Spoops's Avatar was destroyed by Cyric who seized much of his domain of Death. Then Spoops was suddenly confronted by AO who without a word, threw Spoops into the sea of a world in the mortal realm. However, while Spoops was indeed thrown down to the mortal realm, his inseperable connection to the Well of Souls remained. This resulted in the Splitting of his essence into two entities: Ry-ann the God who retained domain over Souls and Godly knowledge, and Spoops the Skeleton whos memories were replaced by knowledge of the very thing AO cast him into, water.
