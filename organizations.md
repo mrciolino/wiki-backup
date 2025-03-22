@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-22T16:25:32.256Z
+date: 2025-03-22T16:35:19.471Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -94,13 +94,13 @@ Groups of entities that represent various factions, guilds, nations, religious s
 #### **Clans**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
-| [Cai Pao Clan] | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
-| Clan Norexias | Brass Dragonborn infiltrator. Killed [Tiberian Caipao](/characters/tiberian-caipao)'s Parents. | - | - | Active |
+| [Cai Pao Clan](/organizations/cai-pao-clan) | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
+| [Clan Norexias](/organizations/norexias-clan)| Brass Dragonborn infiltrator. Killed [Tiberian Caipao](/characters/tiberian-caipao)'s Parents. | - | - | Active |
 
 #### **Cults**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
-| Cult of Gilbert | A dangerous group using blood magic and summoning shadow demons. | Vrintia | [Gilbert](/characters/gilbert) | Hostile |  
+| [Cult of Gilbert](/organizations/cult-of-gilbert) | A dangerous group using blood magic and summoning shadow demons. | Vrintia | [Gilbert](/characters/gilbert) | Hostile |  
 
 #### **Religious Groups**  
 | Name | Description | Location | Notable Members | Status |  
@@ -110,6 +110,6 @@ Groups of entities that represent various factions, guilds, nations, religious s
 #### **Law Enforcement**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
-| City Guard of Vrintia | The law enforcement organization in Vrintia. | Vrintia | [Sergeant Lemrick](/characters/sergeant-lemrick), [Thomas Stonebrook](/characters/thomas-stonebrook) | Active |  
+| [City Guard of Vrintia](/organizations/city-guard-of-vrintia) | The law enforcement organization in Vrintia. | Vrintia | [Sergeant Lemrick](/characters/sergeant-lemrick), [Thomas Stonebrook](/characters/thomas-stonebrook) | Active |  
 
 
