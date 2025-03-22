@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-20T23:52:47.676Z
+date: 2025-03-22T16:52:19.321Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -47,12 +47,9 @@ List of characters from both campaign and some information about them.
 ### **Villains**  
 | Name | Link | Role | Notable Actions |  
 |------|------|------|----------------|  
-| Virian Rathwing | [Virian Rathwing](#virian-rathwing) | ?? | ?? |  
-| Dave Bones | [Dave Bones](#dave-bones) | ?? | ?? |  
 | Darmuth | [Darmuth](/characters/Darmuth) | ?? | ?? |  
 | Rathwing | [Rathwing](/characters/Rathwing) | ?? | ?? |  
 | Dave Bones | [Dave-Bones](/characters/Dave-Bones) | ?? | ?? |  
-| Darmuth | [Darmuth](/characters/Darmuth) | ?? | ?? |  
 | Zeus | [Zeus](/characters/zeus) | ?? | ?? |  
 | Emperor | [Emperor](/characters/Emperor) | ?? | ?? |  
 
