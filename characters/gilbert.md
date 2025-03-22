@@ -2,7 +2,7 @@
 title: gilbert
 description: 
 published: true
-date: 2025-03-22T16:32:17.635Z
+date: 2025-03-22T16:32:45.144Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T20:55:34.704Z
@@ -13,7 +13,7 @@ dateCreated: 2025-03-20T20:55:34.704Z
 - **Class:** [Cult Leader](/classes/cult-leader)  
 - **Background:** [Former Student at RVASSS](/backgrounds/former-student-at-rvasss)  
 - **Key Traits:** Charismatic, dangerous, leader of the cult.  
-- **Backstory:** Gilbert is a former student at [RVASSS](/locations/rvasss) and the leader of a dangerous cult that uses blood magic and summons shadow demons. He is a charismatic and dangerous figure.  **Killed by [Professor Osdimir](/characters/professor-osdimir-lataniel-dera-vrentica) at the [Golden Bear Tavern](/locations/golden-bear-tavern).**
+- **Backstory:** Gilbert is a former student at [RVASSS](/locations/rvasss) and the leader of a dangerous cult that uses blood magic and summons shadow demons. He is a charismatic and dangerous figure.  **Killed by [Professor Osdimir](/characters/professor-osdimir-lataniel-dera-vrentica) at the [Golden Bear Tavern](/locations/golden-bear-tavern) during [Session 1](/sessions/campaign_2/session_1_summary).**
 - **Relationships:**  
   - **Party:** Adversarial relationship with the party, particularly [Tiberian Caipao](/characters/tiberian-caipao).  
   - **NPCs:** Works closely with his cult members and has a tense relationship with the faculty at [RVASSS](/locations/rvasss).  
