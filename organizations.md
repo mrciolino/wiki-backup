@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-20T23:49:09.694Z
+date: 2025-03-22T16:25:32.256Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -89,12 +89,12 @@ Groups of entities that represent various factions, guilds, nations, religious s
 #### **Alliances**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
-| Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS) | Central hub for education and power in Vrintia. | Vrintia | [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire), [Professor Osdimir Lataniel Dera Vrentica](/characters/professor-osdimir-lataniel-dera-vrentica), [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew), [Professor Alressa Rose](/characters/professor-alressa-rose) | Active |  
+| [Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS)](/organizations/rvasss) | Central hub for education and power in Vrintia. | Vrintia | [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire), [Professor Osdimir Lataniel Dera Vrentica](/characters/professor-osdimir-lataniel-dera-vrentica), [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew), [Professor Alressa Rose](/characters/professor-alressa-rose) | Active |  
 
 #### **Clans**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
-| Rascal Clan | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
+| [Cai Pao Clan] | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
 | Clan Norexias | Brass Dragonborn infiltrator. Killed [Tiberian Caipao](/characters/tiberian-caipao)'s Parents. | - | - | Active |
 
 #### **Cults**  
