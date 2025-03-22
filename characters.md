@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-22T16:52:19.321Z
+date: 2025-03-22T19:35:35.377Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -12,21 +12,6 @@ dateCreated: 2024-06-03T12:57:02.680Z
 List of characters from both campaign and some information about them.
 
 ## **Campaign 1**  
-
-### **Player Characters**  
-| Name | Link | Race | Class | Background | Notable Traits |  
-|------|------|------|------|------------|----------------|  
-| Spoops | [Spoops](/characters/spoops) | ?? | ?? | ?? | ?? |  
-| Bazzdos | [Bazzdos](/characters/bazzdos) | ?? | ?? | ?? | ?? |  
-| Breezy-e | [Breezy-e](/characters/breezy) | ?? | ?? | ?? | ?? |  
-| Adalynn | [Adalynn](/characters/adalynn) | ?? | ?? | ?? | ?? |  
-| Elira Aniveshak | [Elira Aniveshak](/characters/elira) | ?? | ?? | ?? | ?? |  
-| Krorg | [Krorg](/characters/krorg) | ?? | ?? | ?? | ?? |  
-| Os Vrtnica | [Os Vrtnica](/characters/os) | ?? | ?? | ?? | ?? |  
-| Meade | [Meade](/characters/meade) | ?? | ?? | ?? | ?? |  
-| Mort | [Mort](/characters/mort) | ?? | ?? | ?? | ?? |  
-
----
 
 ### **Allies**  
 | Name | Link | Role | Description |  
@@ -56,21 +41,12 @@ List of characters from both campaign and some information about them.
 ---
 
 ## **Campaign 2**  
-### **Player Characters**  
-
-| Name | Link | Race | Class | Background | Notable Traits |  
-|------|------|------|-------|------------|----------------|  
-| Tiberian Caipao | [Tiberian Caipao](/characters/tiberian-caipao) | Dragonborn | Artificer | Noble Weaponsmith | Ambitious, resourceful, haunted by his past, gambling addiction. |  
-| Goopy Globulon | [Goopy Globulon](/characters/goopy-globulon) | Plasmoid | Soulblade Fighter | Astral Drifter | Eccentric, enigmatic, haunted by visions of the future, dark past. |  
-| Thomas Stonebrook | [Thomas Stonebrook](/characters/thomas-stonebrook) | Human | Barbarian | Former Guard | Loyal, duty-bound, struggling with inadequacy, gambling addiction. |  
-| Breezy Bee | [Breezy Bee](/characters/breezy-bee) | Aarakocra | Sorcerer | Entertainer | Carefree, ambitious, gambling addiction, untapped magical potential. |  
-| Oran | [Oran](/characters/oran) | Deep Gnome | Soulknife Rogue | Bounty Hunter | Cautious, resourceful, driven by debt, mysterious. |  
-| Baloo | [Baloo](/characters/baloo) | Bugbear | Bard | Entertainer | Humorous, resilient, determined to change perceptions, gambling addiction. |  
-
----
-
 
 ### **Non-Player Characters**  
+
+Here's the updated markdown reflecting the categorized groups:
+
+### **Allies**  
 
 | Name | Link | Race | Class | Background | Notable Traits |  
 |------|------|------|-------|------------|----------------|  
@@ -85,12 +61,17 @@ List of characters from both campaign and some information about them.
 | Master Tanu | [Master Tanu](/characters/master-tanu) | Half-Orc | Master of the Academy | Academy Leader | Commanding, wise, protective of the academy. |  
 | Professor Bovog Wormbrew | [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew) | Dwarf | Artificer Professor | Artificer Expert | Gruff, skilled, shocking (literally). |  
 | Tadabar Soulfire | [Tadabar Soulfire](/characters/tadabar-soulfire) | Unknown | Mysterious Figure | Associated with the Academy | Enigmatic, powerful, influential. |  
-| Gilbert | [Gilbert](/characters/gilbert) | Human | Cult Leader | Former Student at RVASSS | Manipulative, dangerous, tied to blood magic. |  
 | Clara the Cleric | [Clara the Cleric](/characters/clara-the-cleric) | Half-Dwarf | Cleric | Healer | Kind, empathetic, loyal to the [Church of Mordredon](/organizations/church-of-mordredon). |  
 | Sergeant Lemrick | [Sergeant Lemrick](/characters/sergeant-lemrick) | Human | City Guard | Thomas’s Former Boss | Stern, duty-bound, politically savvy. |  
 | Treebert | [Treebert](/characters/treebert) | Wood Golem | Assistant | Helper at RVASSS | Tiny, helpful, brings breakfast. |  
 | Randy the Mimic | [Randy the Mimic](/characters/randy-the-mimic) | Mimic | Shapeshifter | Former Dorm Chest | Friendly, deceptive, transforms into a winged creature. |  
 
-Let me know if you need any further adjustments!
+### **Antagonists**  
+
+| Name | Link | Race | Class | Background | Notable Traits |  
+|------|------|------|-------|------------|----------------|  
+| Gilbert | [Gilbert](/characters/gilbert) | Human | Cult Leader | Former Student at RVASSS | Manipulative, dangerous, tied to blood magic. Killed by [Professor Osdimir](/characters/professor-osdimir-lataniel-dera-vrentica). |  
+
+
 
 
