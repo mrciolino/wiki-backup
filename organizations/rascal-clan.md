@@ -1,4 +1,14 @@
-### **Rascal Clan**  
+---
+title: Cai Pao Clan
+description: 
+published: true
+date: 2025-03-22T16:18:07.888Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-20T20:56:10.202Z
+---
+
+### **Cai Pao Clan**  
 
 **Purpose:**  
 A prominent noble family deeply involved in the arms trade of [Vrintia](/locations/vrintia), known for their wealth and influence.  
