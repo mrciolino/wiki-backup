@@ -2,33 +2,30 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-03-23T00:28:20.956Z
+date: 2025-03-23T16:47:17.466Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
 ---
 
-# **Seasons**  
-The campaign can be roughly broken up into several "Seasons," like a TV show, encompassing major storylines and events. Recap for specific sessions for each campaign can be found here: [Campaign 1 Sessions](/sessions/campaign_1/overview) and [Campaign 2 Sessions](/sessions/campaign_2/overview).
+## Seasons
+The campaign can be roughly broken up into several "Seasons," like a TV show, encompassing major storylines and events. Recaps for specific sessions for each campaign can be found here: [Campaign 1 Sessions](/campaigns/campaign-1-sessions) and [Campaign 2 Sessions](/campaigns/campaign-2-sessions).
 
----
+### Campaign 1: The Necrotic Wars
+#### Season 1: The Darmuth Saga
+This encompasses the events from the start of the campaign to the defeat of the first major villain, the illithid lich [Darmuth](/characters/darmuth).
 
-## **Campaign 1: The Necrotic Wars**  
-
-### **Season 1: The Darmuth Saga**  
-This encompasses the events from the start of the campaign to the defeat of the first major villain, the illithid lich Darmuth.  
-
-#### **Major Events:**  
-- The party first meets in the tavern by Fort Suro.  
-- Traveling to Alford to meet Illiard.  
-- Fighting Rathwing's cult and the death of Bomb the Bear.  
-- Drazham destroying Alford, and the escape to Saragossa.  
-- The great Pirate Raid ending in the death of many of the party's enemies and an epic windfall.  
-- Os' betrayal and the three-year time skip.  
-- The arrival of Darmuth and the death of Krorg.  
-- Being hunted by Darmuth's pet, resurrecting Freedom, and fighting Frederina.  
-- ...  
-- Fighting and defeating Darmuth.  
+#### Major Events:
+- The party first meets in the tavern by [Fort Suro](/locations/Mardun/Fort-Suro).
+- Traveling to [Alford](/locations/Alford) to meet [Illiard](/characters/illiard).
+- Fighting [Rathwing](/characters/rathwing)'s cult and the death of [Bomb the Bear](/characters/bomb-the-bear).
+- [Drazham](/characters/drazham) destroying [Alford](/locations/Alford), and the escape to [Saragossa](/locations/saragossa).
+- The great [Pirate Raid](/events/pirate-raid) ending in the death of many of the party's enemies and an epic windfall.
+- [Os](/characters/os)' betrayal and the three-year time skip.
+- The arrival of [Darmuth](/characters/darmuth) and the death of [Krorg](/characters/krorg).
+- Being hunted by [Darmuth](/characters/darmuth)'s pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/frederina).
+- ...
+- Fighting and defeating [Darmuth](/characters/darmuth).
 
 ### **Season 2: [Title TBD]**  
 _(Events and description to be added.)_  
