@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2025-03-20T15:23:26.463Z
+date: 2025-03-23T00:24:38.804Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -21,6 +21,8 @@ For a detailed look at each campagin session recaps [Campaign 1 Sessions](/sessi
   - The campaign ends with the sealing of the Red Archon, but at great cost to the world.  
 
 For detailed recaps, visit: [Campaign 1 Session Recaps](/sessions/campaign_1/overview).
+
+### Seasons
 
 ## **Campaign 2**  
 - **Timeline:** Set 1,000 years after Campaign 1, in a world rebuilding from the aftermath of the Necrotic Wars.  
