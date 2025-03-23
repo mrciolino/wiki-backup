@@ -2,7 +2,7 @@
 title: overview
 description: 
 published: true
-date: 2025-03-23T11:28:22.254Z
+date: 2025-03-23T11:30:09.259Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T12:09:51.617Z
@@ -409,3 +409,6 @@ Oh yeah, I forgot to mention the [Lucidel Illiard](/characters/lucidel-illiard) 
 [Indecipherable]
 
 I don't know, I'm drunk, and [Krorg](/characters/krorg) just swindled the [Pirate King](/characters/pirate-king) into making the [Pirate King](/characters/pirate-king) vulnerable on the demon soul front, as he can claim his BF and kick that for himself. 'Oh yay, [CBreezy](/characters/cbreezy) showed up and was disappointing but ultimately a good thing to get **LAWFUL GOOD** person.
+
+## Many More Sessions Lasting 5 Years ...
+See the [season overviews](/Seasons) for a less detailed by larger picture on the overall events of campaign 1 or 2.
