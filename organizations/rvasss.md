@@ -1,3 +1,13 @@
+---
+title: rvasss
+description: 
+published: true
+date: 2025-03-23T01:31:18.756Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-20T20:56:12.171Z
+---
+
 ### **Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS)**  
 
 **Purpose:**  
@@ -14,9 +24,9 @@ The central hub for education and power in [Vrintia](/locations/vrintia), dedica
 - [Tiberian Caipao](/characters/tiberian-caipao) has a strong connection to the academy due to his family’s legacy.  
 
 **Significant Actions or Events:**  
-- **[Session 1](/session/session-1):** The party was introduced to [RVASSS](/organizations/rvasss) after surviving a bar fight with cultists.  
-- **[Session 3](/session/session-3):** The faculty uncovered [Gilbert’s](/characters/gilbert) writings linked to demon summoning, revealing a growing threat.  
-- **[Session 4](/session/session-4):** The party was relocated to a new dormitory after the mimic incident, showcasing the academy’s commitment to their safety.  
+- **[Session 1](/sessions/campaign_2/session_1_summary):** The party was introduced to [RVASSS](/organizations/rvasss) after surviving a bar fight with cultists.  
+- **[Session 3](/sessions/campaign_2/session_3_summary):** The faculty uncovered [Gilbert’s](/characters/gilbert) writings linked to demon summoning, revealing a growing threat.  
+- **[Session 4](/sessions/campaign_2/session_4_summary):** The party was relocated to a new dormitory after the mimic incident, showcasing the academy’s commitment to their safety.  
 
 **Political or Social Influence:**  
 [RVASSS](/organizations/rvasss) is a prestigious institution with significant political and social influence in [Vrintia](/locations/vrintia). It is tied to the kingdom’s history and the rise of the god-king Os.  
