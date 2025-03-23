@@ -2,7 +2,7 @@
 title: overview
 description: 
 published: true
-date: 2025-03-23T11:30:09.259Z
+date: 2025-03-23T21:37:12.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T12:09:51.617Z
@@ -103,7 +103,7 @@ ALL OF THIS ANSWERED NEXT TIME ON...
 
 **LOW BAR BRAWLERS**
 
-![Image of Season 1 Poster]
+![Image of Season 1 Poster](/posters/season_1_poster.webp =250x)
 
 ---
 
@@ -136,7 +136,7 @@ ALL OF THIS ANSWERED NEXT TIME ON...
 
 **LOW BAR BRAWLERS**
 
-[Image of Season 1 Poster]
+![Image of Season 1 Poster](/posters/season_1_poster.webp =250x)
 
 **Comments:**
 
@@ -290,7 +290,7 @@ Who is [Darmuth](/characters/darmuth) and why does [Drakham](/characters/drakham
 
 ALL OF THIS NEXT TIME IN **LOW BAR BRAWLERS**
 
-[Image of Season 1 Poster]
+![Image of Season 1 Poster](/posters/season_1_poster.webp =250x)
 
 ---
 
@@ -317,7 +317,7 @@ Where did [Spoops](/characters/spoops), [Seiriphi](/characters/seiriphi), and [O
 
 All of this answered next time on **LOW BAR BRAWLERS!**
 
-[Image of Season 1 Poster]
+![Image of Season 1 Poster](/posters/season_1_poster.webp =250x)
 
 ---
 
@@ -352,7 +352,7 @@ This plan, while a bit better, also failed as one of the cultists ran to get his
 
 (Dark souls boss fight music intensifies)
 
-[Token image of Rathwing]
+![Token image of Rathwing](/characters/other/wrath.png =250x)
 
 [Bazzert](/characters/bazzert) now, however, is pulling a lot of weight and starts obliterating the cultists with lightning and moonbeams, thinning out the firing squad targeting [Krorg](/characters/krorg) and [Bomb](/characters/bomb). But [Krorg](/characters/krorg) and [Bomb](/characters/bomb) have bigger issues now as [Veerian Rathwing](/characters/veerian-rathwing) animates 5 gold coins from his pocket and sends them to attack [Bomb](/characters/bomb). The coins brutalize [Bomb](/characters/bomb), and [Bomb](/characters/bomb) falls unconscious after a tiring fight, being pin-cushioned by cultist crossbows, burned by firebolts, and now he succumbs to the coins. Everyone now focuses on [Veerian Rathwing](/characters/veerian-rathwing) as the cultists are all dead but for two, and those two decide to run rather than die. In the ensuing battle, [Krorg](/characters/krorg) throws his trident into the side of [Veerian Rathwing](/characters/veerian-rathwing) and then pulls [Veerian Rathwing](/characters/veerian-rathwing) from the air down over the fortress walls. The rest of the team closes in for the kill, but [Veerian Rathwing](/characters/veerian-rathwing) goes invisible and attacks the team from the shadows. A fireball strikes [Spoops](/characters/spoops) and [Drakham](/characters/drakham), causing [Drakham](/characters/drakham) to fall, but [Spoops](/characters/spoops) gives chase toward the direction of the attack. [Veerian Rathwing](/characters/veerian-rathwing) fails to blind [Spoops](/characters/spoops), and he casts detect good and evil, now seeing [Veerian Rathwing](/characters/veerian-rathwing)'s evil aura.
 
@@ -380,8 +380,7 @@ SOME OF THESE QUESTIONS ANSWERED NEXT TIME IN...
 
 **LOW BAR BRAWLERS**
 
-[Image of Season 1 Poster]
-
+![Image of Season 1 Poster](/posters/season_1_poster.webp =250x)
 ---
 
 ## Session 13 Grief and Shopping
