@@ -2,7 +2,7 @@
 title: overview
 description: 
 published: true
-date: 2025-03-20T15:23:39.362Z
+date: 2025-03-23T11:04:39.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T12:09:51.617Z
@@ -27,217 +27,236 @@ Recaps from the end of some sessions.
 - [Session 13 - Grief and Shopping - March 29, 2020](#session-13-grief-and-shopping)
 - [Session 18 - April 18, 2020](#sesiion-18)
 
+---
+
 ## Session 1
 ###### January 8, 2020
 
-Battle ensued in the tavern as a demon rampaged through pope's pub but our "Gallant" and "Trustworthy" and "Heroic" "Heroes" "Killed" the demon and then "Peacefully" left following Freedom a magical escaped robot slave hell bent on freeing all the other enslaved robots and after failing his revolution to get the guards help he then paid our "Heroes" to clear the valuable mines of Fort Suro.
+Battle ensued in the tavern as a demon rampaged through [Pope's Pub](/locations/Mardun/Popes-Pub), but our "Gallant" and "Trustworthy" and "Heroic" "Heroes" "Killed" the demon and then "Peacefully" left following [Freedom](/characters/freedom), a magical escaped robot slave hell-bent on freeing all the other enslaved robots. After failing his revolution to get the guards' help, he then paid our "Heroes" to clear the valuable mines of [Fort Suro](/locations/Mardun/Fort-Suro).
 
-At the same time however Otto Herzog had a "faked" "bounty" on Os Vrntica and nearly Killed him and he would have died if not for Freedom
+At the same time, however, [Otto Herzog](/characters/otto-herzog) had a "faked" "bounty" on [Os Vrntica](/characters/os-vrntica) and nearly killed him. He would have died if not for [Freedom](/characters/freedom).
 
-During the Demon Battle in the pub Spoops "seduced" and "gained" the "love" and "affection" of a powerful demon and "sent" him back to the abyss, all without learning his name
+During the Demon Battle in the pub, [Spoops](/characters/spoops) "seduced" and "gained" the "love" and "affection" of a powerful demon and "sent" him back to the abyss, all without learning his name.
 
-Drakham and Seriphi questioned the demon if he was their father, they gained no evidence from him he was either of their father and so their search continues
+[Drakham](/characters/drakham) and [Seriphi](/characters/seriphi) questioned the demon if he was their father. They gained no evidence from him, and so their search continues.
 
-Frederina lost a dagger and forgot to go back to get it at the pub
+[Frederina](/characters/frederina) lost a dagger and forgot to go back to get it at the pub.
 
-Peter's character's name proved himself to be a shit thief and "almost" a "traitor" to team by healing the demon, after that "anyway so I started blasting" and the demon was "finished" by Spoops, though he did gain a lot of booze
+[Peter's character](/characters/peter) proved himself to be a shit thief and "almost" a "traitor" to the team by healing the demon. After that, "anyway so I started blasting," and the demon was "finished" by [Spoops](/characters/spoops), though he did gain a lot of booze.
 
-Os Vrntica "apparently" has a "bounty" placed on his head and ultimately doesn't know if he is safe with Otto
+[Os Vrntica](/characters/os-vrntica) "apparently" has a "bounty" placed on his head and ultimately doesn't know if he is safe with [Otto Herzog](/characters/otto-herzog).
 
-Kiwi "YOUR NOT MY DAD"
+[Kiwi](/characters/kiwi): "YOU'RE NOT MY DAD!"
 
-Brazzart got his ass kicked by the guards then was saved by freedom may he live long and do something of importance
+[Brazzart](/characters/brazzart) got his ass kicked by the guards, then was saved by [Freedom](/characters/freedom). May he live long and do something of importance.
 
-Will anyone remember that they were called to the pub for an unknown reason by an unknown coordinator or will they follow Freedom on a revolution for freedom?
+Will anyone remember that they were called to the pub for an unknown reason by an unknown coordinator, or will they follow [Freedom](/characters/freedom) on a revolution for freedom?
 
-Who knows next time on Low Bar Brawlers. The bar get lowered.
+Who knows? Next time on **Low Bar Brawlers**. The bar gets lowered.
+
+---
 
 ## Session 2
 ###### January 15, 2020
 
-Our heroes woke up rested in the basement of the Fort Suro guard barracks, but drakham was chained up as the guards were convinced he summoned the demon in pope's pub. Our heroes went up to confront the captain of the guards and then instantly tried to steal and beg him for money and equipment after getting 3.50 and three daggers they pissed off the captain and left shortly afterwards. they explored fort suro but after that quick look around they went deep into the mines and are fighting for their lives surrounded and besieged by a whole den full of goblins and their wolves. Will they survive? Will they help Freedom? Why is Gilthur starting to hulk out? These questions answered next time in Low Bar Brawlers!
+Our heroes woke up rested in the basement of the [Fort Suro](/locations/Mardun/Fort-Suro) guard barracks, but [Drakham](/characters/drakham) was chained up as the guards were convinced he summoned the demon in [Pope's Pub](/locations/Mardun/Popes-Pub). Our heroes went up to confront the captain of the guards and then instantly tried to steal and beg him for money and equipment. After getting 3.50 and three daggers, they pissed off the captain and left shortly afterward. They explored [Fort Suro](/locations/Mardun/Fort-Suro), but after that quick look around, they went deep into the mines and are fighting for their lives, surrounded and besieged by a whole den full of goblins and their wolves. Will they survive? Will they help [Freedom](/characters/freedom)? Why is [Gilthur](/characters/gilthur) starting to hulk out? These questions answered next time in **Low Bar Brawlers**!
+
+---
 
 ## Session 3 - WTF <a id='Session 3 - WTF'></a>
 ###### January 22, 2020
 
-I dispensing with the story
+I'm dispensing with the story.
 
-the battle continued goblins died one was captured and investigated
+The battle continued. Goblins died; one was captured and investigated.
 
-bear was found guarding treasure and was suplexed into a treasure chest to contain it
+A bear was found guarding treasure and was suplexed into a treasure chest to contain it.
 
-goblin boss came with a badger and a cannon and killed Os Vrntica
+The goblin boss came with a badger and a cannon and killed [Os Vrntica](/characters/os-vrntica).
 
-But like the fucking gambler he is Drakham used his tides of chaos to get himself back up from death and fucked with the winds of magic and reincarnated Os Vrntica back into a high elf.
+But like the fucking gambler he is, [Drakham](/characters/drakham) used his Tides of Chaos to get himself back up from death and fucked with the winds of magic, reincarnating [Os Vrntica](/characters/os-vrntica) back into a high elf.
 
-look its 1153 and I just can't even with the bad luck of 3 consecutive ones which lead to 2 people dying and then 3 consecutive crit 20s to bring everyone back to life.
+Look, it's 11:53 PM, and I just can't even with the bad luck of 3 consecutive ones, which led to 2 people dying, and then 3 consecutive crit 20s to bring everyone back to life.
+
+---
 
 ## Session 4 - Guardison <a id='Session 4 - Guardison'></a>
 ###### January 29, 2020
 
-So with the goblins defeated and their spoils looted the party collects their rewards from captain guardison in the fort suro barracks and after narrowly deciding against violence our brave few go and join a caravan as an escort. But before they take off in the morning they sleep in pope's pub for free and Otto is disturbed out of his sleep by
+So, with the goblins defeated and their spoils looted, the party collects their rewards from Captain [Guardison](/characters/guardison) in the [Fort Suro](/locations/Mardun/Fort-Suro) barracks. After narrowly deciding against violence, our brave few go and join a caravan as an escort. But before they take off in the morning, they sleep in [Pope's Pub](/locations/Mardun/Popes-Pub) for free, and [Otto Herzog](/characters/otto-herzog) is disturbed out of his sleep by...
 
 ![Image of pickle]
 
-and after waking a couple other people the party talk with the ghostly pickle and gain from it a clue of spoops past and that the truth of the matter lies with Guardison SR in Trelston.
+After waking a couple of other people, the party talks with the ghostly pickle and gains from it a clue of [Spoops](/characters/spoops)' past and that the truth of the matter lies with [Guardison Sr.](/characters/guardison-sr) in [Trelston](/locations/Trelston).
 
-After that in the morning they move out with the caravan and run into highwaymen and instead of fighting them, our heroic party try to pay the toll by entertaining the Balk and his crew of ne'er-do-wells. Not only do they succeed, but Otto and Drakham steal 250 Gold and 5 Grenades, and Balk enjoys the performance so much that he gives a standing ovation and allows our team and the caravan to go unmolested.
+After that, in the morning, they move out with the caravan and run into highwaymen. Instead of fighting them, our heroic party tries to pay the toll by entertaining [Balk](/characters/balk) and his crew of ne'er-do-wells. Not only do they succeed, but [Otto Herzog](/characters/otto-herzog) and [Drakham](/characters/drakham) steal 250 Gold and 5 Grenades. [Balk](/characters/balk) enjoys the performance so much that he gives a standing ovation and allows our team and the caravan to go unmolested.
 
-Thus bringing all of them to Trelston a smaller coastal town where Guardison SR lives with the rest of the Guardison family and the first stop on the caravan route next stop Kaltrosar bay.
+Thus bringing all of them to [Trelston](/locations/Trelston), a smaller coastal town where [Guardison Sr.](/characters/guardison-sr) lives with the rest of the [Guardison](/characters/guardison) family. The first stop on the caravan route, next stop [Kaltrosar Bay](/locations/Kaltrosar-Bay).
 
-Bazzert, Drakham, and Frederina happen upon very hostile bridges but weather their assault and get to the lighthouse and happen to meet Guardison SR and then start leading him to Spoops and the rest of the party.
+[Bazzert](/characters/bazzert), [Drakham](/characters/drakham), and [Frederina](/characters/frederina) happen upon very hostile bridges but weather their assault and get to the lighthouse, where they meet [Guardison Sr.](/characters/guardison-sr) and then start leading him to [Spoops](/characters/spoops) and the rest of the party.
 
-But right before Guardison can meet the team Drakham's uncontrollable powers of the magic weave have acted strangely and now his magic is cursed.
+But right before [Guardison Sr.](/characters/guardison-sr) can meet the team, [Drakham](/characters/drakham)'s uncontrollable powers of the magic weave have acted strangely, and now his magic is cursed.
 
-NEXT TIME WILL DRAKHAM'S MAGIC CAUSE CHAOS AND MISERY, WILL GUARDISON GIVE SPOOPS THE ANSWERS HE'S LOOKING FOR, WILL SERIPHI EVER BECOME INVOLVED WITH THE STORY AND COMBAT AGAIN?
+**NEXT TIME:** Will [Drakham](/characters/drakham)'s magic cause chaos and misery? Will [Guardison Sr.](/characters/guardison-sr) give [Spoops](/characters/spoops) the answers he's looking for? Will [Seriphi](/characters/seriphi) ever become involved with the story and combat again?
 
 ALL OF THIS ANSWERED NEXT TIME ON...
 
-LOW BAR BRAWLERS
+**LOW BAR BRAWLERS**
 
 ![Image of Season 1 Poster]
 
+---
 
-## Session 5 Badger Badger Badger
-###### February 5 2020
+## Session 5 - Badger Badger Badger
+###### February 5, 2020
 
-1. Frederina Met her Warlock patron giant faceless tentacled thing which she now serves
+1. [Frederina](/characters/frederina) met her Warlock patron, a giant faceless tentacled thing, which she now serves.
 
-2. Bazzert almost started a fight with the locals over them not having a magic staff for him to buy
+2. [Bazzert](/characters/bazzert) almost started a fight with the locals over them not having a magic staff for him to buy.
 
-3. Drakham's magic was still Eff'd so he was just doing random spell effects and clutching things
+3. [Drakham](/characters/drakham)'s magic was still Eff'd, so he was just doing random spell effects and clutching things.
 
-4. the gang went to the barkeep guardisson talked about and absolutely freaked him out and chased him around town but got him to give up the info Spoops needed
+4. The gang went to the barkeep [Guardison Sr.](/characters/guardison-sr) talked about and absolutely freaked him out, chased him around town, but got him to give up the info [Spoops](/characters/spoops) needed.
 
-5. Spoops met guardisson then tried to kidnap him then rob him and then desecrated a shrine (he was a chaotic good paladin) for a magic necklace which had no importance in the grand scheme of things
+5. [Spoops](/characters/spoops) met [Guardison Sr.](/characters/guardison-sr), then tried to kidnap him, then rob him, and then desecrated a shrine (he was a chaotic good paladin) for a magic necklace, which had no importance in the grand scheme of things.
 
-6. said desecration caused a swarm of badgers to attack the group
+6. Said desecration caused a swarm of badgers to attack the group.
 
-7. box bear was befriended and tamed by OS then Krorg
+7. Box Bear was befriended and tamed by [Os Vrntica](/characters/os-vrntica), then [Krorg](/characters/krorg).
 
-8. Frederina set the forest ablaze and after 20 minutes kiwi took it upon himself to get people to help the guards put out the fire
+8. [Frederina](/characters/frederina) set the forest ablaze, and after 20 minutes, [Kiwi](/characters/kiwi) took it upon himself to get people to help the guards put out the fire.
 
-9. box bear joined the group and was named bomb the bear
+9. Box Bear joined the group and was named [Bomb the Bear](/characters/bomb-the-bear).
 
-10. next session will leave the small fishing village of trelston
+10. Next session will leave the small fishing village of [Trelston](/locations/Trelston).
 
-11. Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger
+11. Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger Badger.
 
-12. WILL OUR HEROES GAIN CONTROL OF THEIR RENEGADE FRIENDS? WILL THEIR ORIGINAL PURPOSE FOR GATHERING IN FORT SURO EVER BE REVEALED? WILL NEXT SESSION INVOLVE PIRATES? ALL OF THIS ANSWERED NEXT TIME ON 
+12. **WILL OUR HEROES GAIN CONTROL OF THEIR RENEGADE FRIENDS? WILL THEIR ORIGINAL PURPOSE FOR GATHERING IN [FORT SURO](/locations/Mardun/Fort-Suro) EVER BE REVEALED? WILL NEXT SESSION INVOLVE PIRATES?** ALL OF THIS ANSWERED NEXT TIME ON...
 
-LOW BAR BRAWLERS
+**LOW BAR BRAWLERS**
 
 [Image of Season 1 Poster]
 
-Comments
+**Comments:**
 
-WTF ever happened to Freedom and the robots slaves? Did we just fuck off because they weren't paying us?
+WTF ever happened to [Freedom](/characters/freedom) and the robot slaves? Did we just fuck off because they weren't paying us?
 
-## my god it went so WRONG
-###### February 12 2020
+---
 
-First Krorg dressed up Bomb the bear to disguise him and get him in to human places
+## My God It Went So WRONG
+###### February 12, 2020
 
-then the group heads to Kaltrosar Bay gets paid and looks for more work
+First, [Krorg](/characters/krorg) dressed up [Bomb the Bear](/characters/bomb-the-bear) to disguise him and get him into human places.
 
-goes to the castle looking for work doesn't work because Krorg brought a bear then they head to the merchant's guild get a job to clear out the sewers of Kaltrosar bay
+Then the group heads to [Kaltrosar Bay](/locations/Kaltrosar-Bay), gets paid, and looks for more work.
 
-All this while Bazzert transformed into a squirrel and infiltrated the castle
+They go to the castle looking for work, but it doesn't work because [Krorg](/characters/krorg) brought a bear. Then they head to the Merchant's Guild and get a job to clear out the sewers of [Kaltrosar Bay](/locations/Kaltrosar-Bay).
 
-Drakham and Krorg get inside the castle with Otto, Frederina
+All this while, [Bazzert](/characters/bazzert) transformed into a squirrel and infiltrated the castle.
 
-Frederina gets arrested for touching the soft hands of the prince of kaltrosar
+[Drakham](/characters/drakham) and [Krorg](/characters/krorg) get inside the castle with [Otto Herzog](/characters/otto-herzog) and [Frederina](/characters/frederina).
 
-Bazzert screws up his disguise and get led to the dungeon
+[Frederina](/characters/frederina) gets arrested for touching the soft hands of the Prince of [Kaltrosar Bay](/locations/Kaltrosar-Bay).
 
-Krorg, Drakham, and Otto get a lieutenant of the guards to lead them to the sewer access in the castle's dungeon meeting up with bazzert and Fredderina
+[Bazzert](/characters/bazzert) screws up his disguise and gets led to the dungeon.
 
-Drakham tries valiantly to unfuck the situation by persuading the guards there here to check the security of the castle and they failed by letting them in, they don't buy it.
+[Krorg](/characters/krorg), [Drakham](/characters/drakham), and [Otto Herzog](/characters/otto-herzog) get a lieutenant of the guards to lead them to the sewer access in the castle's dungeon, meeting up with [Bazzert](/characters/bazzert) and [Frederina](/characters/frederina).
 
-The group gives in and is arrested then Drakham accidently kills lord Barrymoore in one hit
+[Drakham](/characters/drakham) tries valiantly to unfuck the situation by persuading the guards that they're here to check the security of the castle, and they fail by letting them in. They don't buy it.
 
-then more guards straight from the king of Kaltrosar, Bazzert angers the guards and They try to kill Bazzert so combat
+The group gives in and is arrested. Then [Drakham](/characters/drakham) accidentally kills Lord [Barrymoore](/characters/barrymoore) in one hit.
 
-After fighting through a large meaty man the group frees themselves, and freedom and get their stuff back and Freedom sets fire to the castle and as the group escapes they gather Os, Seiphiri, Spoops, and Kiwi and escape.
+Then more guards straight from the King of [Kaltrosar Bay](/locations/Kaltrosar-Bay). [Bazzert](/characters/bazzert) angers the guards, and they try to kill [Bazzert](/characters/bazzert), so combat ensues.
 
-they escaped by distracting dock workers with free beer and by freeedom setting fire to the dock and everyone stowed away in cargo crates and got on a ship leaving Kaltrosar Bay
+After fighting through a large meaty man, the group frees themselves and [Freedom](/characters/freedom), gets their stuff back, and [Freedom](/characters/freedom) sets fire to the castle. As the group escapes, they gather [Os Vrntica](/characters/os-vrntica), [Seriphi](/characters/seriphi), [Spoops](/characters/spoops), and [Kiwi](/characters/kiwi) and escape.
 
-What will happen next time because I don't fucking even know and I'm the DM
+They escaped by distracting dock workers with free beer and by [Freedom](/characters/freedom) setting fire to the dock. Everyone stowed away in cargo crates and got on a ship leaving [Kaltrosar Bay](/locations/Kaltrosar-Bay).
 
-Comments
+**What will happen next time?** Because I don't fucking even know, and I'm the DM.
 
-You forgot the impending bear war because the king hates bears. 
+**Comments:**
+
+You forgot the impending bear war because the king hates bears.
+
+---
 
 ## Boats and Hoes
-###### February 19 2020
+###### February 19, 2020
 
-You all woke up on a trading ship
+You all woke up on a trading ship.
 
-Started a bidding war with the captain for voyage on his ship and tried to kill him but at the same time the ship is attacked by Orcish pirates
+Started a bidding war with the captain for voyage on his ship and tried to kill him, but at the same time, the ship is attacked by Orcish pirates.
 
-You all team up to fight the pirates and Os Vrntica woke up Freedom and freedom came up and finished off the pirates on the boat
+You all team up to fight the pirates, and [Os Vrntica](/characters/os-vrntica) woke up [Freedom](/characters/freedom), who came up and finished off the pirates on the boat.
 
-As the ship crew fights off the pirate ship Krorg fights Freedom with bomb the bear and with a Cannon he hit freedom and punched a hole through the ship.
+As the ship crew fights off the pirate ship, [Krorg](/characters/krorg) fights [Freedom](/characters/freedom) with [Bomb the Bear](/characters/bomb-the-bear) and with a cannon. He hit [Freedom](/characters/freedom) and punched a hole through the ship.
 
-Drakham and Os tried to stop the fighting but failed
+[Drakham](/characters/drakham) and [Os Vrntica](/characters/os-vrntica) tried to stop the fighting but failed.
 
-After some fighting a Dragon Turtle shows up and attacks the trading ship and the pirate ships
+After some fighting, a Dragon Turtle shows up and attacks the trading ship and the pirate ships.
 
-Freedom then jumped on to the dragon turtle and Krorg followed and they drove the dragon turtle into the pirate fleet wrecking them
+[Freedom](/characters/freedom) then jumped onto the Dragon Turtle, and [Krorg](/characters/krorg) followed. They drove the Dragon Turtle into the pirate fleet, wrecking them.
 
-The rest of the gang now heads off to Alford with the Captain and his ship
+The rest of the gang now heads off to [Allford](/locations/Allford) with the Captain and his ship.
 
-Comments
+**Comments:**
 
-All of pirates are dead and the fighting is over. After witnessing (and accidentally causing) Freedom's genocidal behavior in Kaltrosar Bay, fearing Freedom would attract the attention of vengeful armies, and being a general Luddite, Krorg decides to use the opportunity to eliminate Freedom. Os and Drakham both try to stop the fighting, but Krorg is set in his belief that Freedom is a dangerous weapon that the Low Bar Brawlers have only begun to abuse. Os issues an order to Freedom not to kill anyone in the party and to destroy the remaining pirate ships. Seconds later, Krorg starts blasting.
+All of the pirates are dead, and the fighting is over. After witnessing (and accidentally causing) [Freedom](/characters/freedom)'s genocidal behavior in [Kaltrosar Bay](/locations/Kaltrosar-Bay), fearing [Freedom](/characters/freedom) would attract the attention of vengeful armies, and being a general Luddite, [Krorg](/characters/krorg) decides to use the opportunity to eliminate [Freedom](/characters/freedom). [Os Vrntica](/characters/os-vrntica) and [Drakham](/characters/drakham) both try to stop the fighting, but [Krorg](/characters/krorg) is set in his belief that [Freedom](/characters/freedom) is a dangerous weapon that the **Low Bar Brawlers** have only begun to abuse. [Os Vrntica](/characters/os-vrntica) issues an order to [Freedom](/characters/freedom) not to kill anyone in the party and to destroy the remaining pirate ships. Seconds later, [Krorg](/characters/krorg) starts blasting.
 
-The first shot knocks Freedom deep into the ship, before Drakham casts reduce on the size of the cannon. Hearing Freedom moving below, Krorg and Bomb decide to gain the high ground in the fight by climbing the ship's mast. Drakham successfully charms Krorg to climb back down to the deck. Krorg agrees to surrender, but his sudden change in nature causes him to be bitten by Bomb, ending the spell. Off the side of the ship, Freedom appears while riding a large dragon turtle, about to head off to destroy the remaining pirate ships. Krorg thanks Bomb for saving him, and decides to leave Bomb behind to the safety of the Low Bar Brawlers. Then Krorg runs and dives off of the mast into the water, catching the dragon turtle's tail before being dragged off into the horizon...
+The first shot knocks [Freedom](/characters/freedom) deep into the ship before [Drakham](/characters/drakham) casts Reduce on the size of the cannon. Hearing [Freedom](/characters/freedom) moving below, [Krorg](/characters/krorg) and [Bomb the Bear](/characters/bomb-the-bear) decide to gain the high ground in the fight by climbing the ship's mast. [Drakham](/characters/drakham) successfully charms [Krorg](/characters/krorg) to climb back down to the deck. [Krorg](/characters/krorg) agrees to surrender, but his sudden change in nature causes him to be bitten by [Bomb the Bear](/characters/bomb-the-bear), ending the spell. Off the side of the ship, [Freedom](/characters/freedom) appears while riding a large Dragon Turtle, about to head off to destroy the remaining pirate ships. [Krorg](/characters/krorg) thanks [Bomb the Bear](/characters/bomb-the-bear) for saving him and decides to leave [Bomb the Bear](/characters/bomb-the-bear) behind to the safety of the **Low Bar Brawlers**. Then [Krorg](/characters/krorg) runs and dives off of the mast into the water, catching the Dragon Turtle's tail before being dragged off into the horizon...
+
+---
 
 ## Hello Allford
-###### February 26 2020
+###### February 26, 2020
 
-We get back after the pirate fight and after Freedom and Krorg jump on to a dragon turtle
+We get back after the pirate fight and after [Freedom](/characters/freedom) and [Krorg](/characters/krorg) jump onto a Dragon Turtle.
 
-The ship is still hectic and the crew and som eof the gang help out by repairing what they can and fishing up some fish for more food on the voyage to Allford
+The ship is still hectic, and the crew and some of the gang help out by repairing what they can and fishing up some fish for more food on the voyage to [Allford](/locations/Allford).
 
-After some "hole" fixing shenanigans Os confronts the Elven task master of the ship and in fat its his cousin Eugene Vrntica though only noticing this after a short musical battle between the two
+After some "hole" fixing shenanigans, [Os Vrntica](/characters/os-vrntica) confronts the Elven taskmaster of the ship, and in fact, it's his cousin [Eugene Vrntica](/characters/eugene-vrntica), though only noticing this after a short musical battle between the two.
 
-Then after a three day voyage the gang gets o Allford and immediately get referred to The West Sorea Trading Company for more work from Captain John Robin of the Seabird, but as immediately as that Otto and Frederina were pickpocketed and they were out to get their money back
+Then after a three-day voyage, the gang gets to [Allford](/locations/Allford) and immediately gets referred to [The West Sorea Trading Company](/organizations/west-sorea-trading-company) for more work from Captain [John Robin](/characters/john-robin) of the Seabird. But as immediately as that, [Otto Herzog](/characters/otto-herzog) and [Frederina](/characters/frederina) were pickpocketed, and they were out to get their money back.
 
-After Kiwi read some thieves cant and they saw the thief head to the park and down a cave entrance then Bazzert almost set the park on fire as he produce flames while inside a bush
+After [Kiwi](/characters/kiwi) read some thieves' cant, they saw the thief head to the park and down a cave entrance. Then [Bazzert](/characters/bazzert) almost set the park on fire as he produced flames while inside a bush.
 
-The gang of course put out the fire by Urinating on a bear rug and throughing it upon the burning bush
+The gang, of course, put out the fire by urinating on a bear rug and throwing it upon the burning bush.
 
-Drakham is first however in finding the thief and sneaks up on him and scares the pickpocket the corrupt guards in the thief tunnel and get the guards to point them in the direction of the thief
+[Drakham](/characters/drakham) is first, however, in finding the thief and sneaks up on him, scaring the pickpocket. The corrupt guards in the thief tunnel get the guards to point them in the direction of the thief.
 
-Down the sewer they went and through it all they all got covered in excrement and Bazzert almost killed himself and Drakham with more fire in a clod of methane above a pool of poop
+Down the sewer they went, and through it all, they all got covered in excrement. [Bazzert](/characters/bazzert) almost killed himself and [Drakham](/characters/drakham) with more fire in a cloud of methane above a pool of poop.
 
-After everyone getting covered in crap they found a small entrance staircase leading down and found themselves in tight corridors fighting spiders and zombies in trap filled hallways
+After everyone getting covered in crap, they found a small entrance staircase leading down and found themselves in tight corridors fighting spiders and zombies in trap-filled hallways.
 
-What is next for our "Stalwart" adventurers more ASS? more GAS? more EXPLOSIONS?
+**What is next for our "Stalwart" adventurers?** More ASS? More GAS? More EXPLOSIONS?
 
-Next time on Low Bar Brawlers!
+Next time on **Low Bar Brawlers**!
 
-## Session 9 Dungeon Trekking
-###### March 4 2020
+---
 
-So we pick up right with Spoops exploring Allford and seems to piss off everyone and learns that the undead are hated because of a decades long conflict that ended 25 years ago called the necrotic wars and that to this day people hate the undead
+## Session 9 - Dungeon Trekking
+###### March 4, 2020
 
-All of this as Drakham and Bazzert are cornered by a pack of Spiders and Drakham justs annihilates them with his magical abilities
+So we pick up right with [Spoops](/characters/spoops) exploring [Allford](/locations/Allford) and seems to piss off everyone. He learns that the undead are hated because of a decades-long conflict that ended 25 years ago called the **Necrotic Wars**, and that to this day, people hate the undead.
 
-Then the party finds the lost halfing pickpocket and drag him along through halways of trap filled, skeeton filled danger
+All of this as [Drakham](/characters/drakham) and [Bazzert](/characters/bazzert) are cornered by a pack of spiders, and [Drakham](/characters/drakham) just annihilates them with his magical abilities.
 
-Os Vrntica follows up this excitement with a calming ballad which reinvigorate the party and prepares them for the rest of the dungeon, the likes of which are filled with a gelatinous cude, more spiders, and a Wall of Fire
+Then the party finds the lost halfling pickpocket and drags him along through hallways of trap-filled, skeleton-filled danger.
 
-The gang found a mysterious wall of fire and weird paintings that light up with proper activation, but before figuring out the mystery they have to deal with a mimic.
+[Os Vrntica](/characters/os-vrntica) follows up this excitement with a calming ballad, which reinvigorates the party and prepares them for the rest of the dungeon, the likes of which are filled with a gelatinous cube, more spiders, and a Wall of Fire.
 
-And then BOOM in from the outside and out of nowhere Krorg re-enters the fray and with a pirate crew with one goal to kill Freedom
+The gang found a mysterious wall of fire and weird paintings that light up with proper activation, but before figuring out the mystery, they have to deal with a mimic.
 
-After some introductions and re-introductions Krorg's crew dispel the wall of fire and are ready to move on to the dungeon exit.
+And then **BOOM**, in from the outside and out of nowhere, [Krorg](/characters/krorg) re-enters the fray with a pirate crew with one goal: to kill [Freedom](/characters/freedom).
 
-Whats up next more spiders, Freedom, Kung Pow Chicken with a side of rice?
+After some introductions and re-introductions, [Krorg](/characters/krorg)'s crew dispels the wall of fire and is ready to move on to the dungeon exit.
 
-Who knows, Next Time on Low Bar Brawlers
+**What's up next?** More spiders? [Freedom](/characters/freedom)? Kung Pow Chicken with a side of rice?
+
+Who knows? Next Time on **Low Bar Brawlers**.
+
+---
 
 ## Shitty Pirate Revelations
 ###### March 11 2020
