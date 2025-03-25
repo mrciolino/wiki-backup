@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-22T19:33:14.617Z
+date: 2025-03-25T12:27:32.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -28,6 +28,8 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | Bazzert    | [Bazzert](/characters/bazzert)   | ??   | ??    | ??         | ??     |
 | Bazzvrah   | [Bazzvrah](/characters/bazzvrah) | ??   | ??    | ??         | ??     |
 | Bazzalt    | [Bazzalt](/characters/bazzalt)   | ??   | ??    | ??         | ??     |
+| Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     |
+| Naracus    | [Naracus](/characters/naracus)   | ??   | ??    | ??         | ??     |
 
 
 ### **Character Images**  
