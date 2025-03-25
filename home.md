@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-03-25T00:28:21.415Z
+date: 2025-03-25T23:27:50.378Z
 tags: home, needs some work
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -13,30 +13,24 @@ Eleven adventurers set out on a perilous journey into an unknown world—this is
 
 > ## Editing  
 > We are building this wiki using a bottom-up approach. Check the [To-Do Page](/todo) to see where you can contribute.  
-> Unfinished content is indicated by [unlinked content](/test), which may lead to incorrect paths or suggest that a new page needs to be created.  
+> Unfinished content is indicated by [unlinked content](/test), which may lead to incorrect paths or suggest that a new page needs to be created.  {.is-info}
 
-## Campaigns
+## 🏹 Campaign 1
+The Age of Mortals come to end when Mortis Lux **Ascends** to take on the Ithilid threat.
+> **Duration:** Five Years (2020-2025)
+> 📖 **[Season Summaries](/Seasons)**  
+> 📝 **[Session Recaps](/sessions/campaign_1/overview)**  
 
-### 🏹 Campaign 1  
-**Duration:** Four seasons (each roughly a year)  
-📖 **[Season List](/Seasons)**  
-📝 **[Session Recaps](/sessions/campaign_1/overview)**  
-
----
-
-### ⚔️ Campaign 2 
-**Duration:** Ongoing
-📖 **[Session Recaps](/sessions/campaign_2/overview)**  
-
+## ⚔️ Campaign 2
+1000 years into the future a group of adventures atend a Royal Academy.
+> **Duration:** Ongoing
+> 📖 **[Session Recaps](/sessions/campaign_2/overview)** 
 
 ## Worlds  
-Both campaigns, along with several one-shots (such as [Profit of Prophet](/need)), take place across multiple worlds. The primary setting for Campaigns 1 and 2 is the planet **Mardun**.  
+The primary setting for Campaigns 1 and 2 is the planet **Mardun**. While both campagin and various one-shots ([💰 Prophet of Profit](/Events/Profit-of-Prophet)) start on Mardun, they extends to various worlds and dimensions.
 
 ## Mardun  
-The starting world of the campaign. More details can be found [here](/locations/Mardun).  
+The starting world of the campaign. More details can be on [Marduns](/locations/Mardun)'s page. See the [Locations](/locations) page for more maps. 
 ![Mardun](/maps/mardun.webp =800x)  
 
-## Ereriad  
-The first world visited using the Well of Many Worlds. More details can be found [here](/locations/Ereriad).  
-![Ereriad](/maps/ereriad.png =800x)  
 
