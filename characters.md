@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-22T19:35:59.481Z
+date: 2025-03-25T12:30:59.260Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -16,16 +16,16 @@ List of characters from both campaign and some information about them.
 ### **Allies**  
 | Name | Link | Role | Description |  
 |------|------|------|-------------|  
-| Oracle of Fywick | [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. |  
-| Bane | [Bane](/characters/bane) | ?? | ?? |  
-| Knott Emportent | N/A | ?? | ?? |  
-| Gilembror | [Gilembror](/characters/Gilembror) | ?? | ?? |  
-| Tony Mozzarella | N/A | ?? | A charismatic merchant or informant with dubious connections. |  
-| Bomb the Bear | N/A | ?? | ?? |  
-| Lucidel Illiard | N/A | ?? | ?? |  
-| Josh the Drake | N/A | ?? | ?? |  
-| Doom Slayer | N/A | ?? | ?? |  
-| Mechatarasque | N/A | ?? | ?? |  
+| Oracle of Fywick | [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing Narascus’s corruption. |  
+| Bane (Witch King) | [Bane](/characters/bane) | Antagonist-turned-ally | Formerly the Witch King of Erriad, later a morally ambiguous ally. Destroyed an owlbear planet for souls with Spoops. |  
+| Knott Emportent | *[Create Page](/characters/knott-emportent)* | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the Well of Many Worlds. |  
+| Gilembror | [Gilembror](/characters/gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in Erriad. |  
+| Tony Mozzarella | *[Create Page](/characters/tony-mozzarella)* | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in FIWIC’s Bartenders Guild. |  
+| Bomb the Bear | *[Create Page](/characters/bomb-the-bear)* | Animal Companion | Killed by Rathwing’s cult in Season 1. Later resurrected as an undead? (Unclear from transcript). |  
+| Lucidel Illiard | [Illiard](/characters/illiard) | Noble Patron | A key contact in Alford before its destruction. Possibly linked to Illiard’s family. |  
+| Josh the Drake | *[Create Page](/characters/josh-the-drake)* | Draconic Ally | A drake companion or ally, possibly tied to the dragonborn clans of Calchasarbay. |  
+| Doom Slayer | *[Create Page](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
+| Mechatarasque | *[Create Page](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by GESCO-WRM or the Pythagoreans. |  
 
 ---
 
