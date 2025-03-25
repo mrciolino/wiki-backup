@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-03-25T12:39:23.894Z
+date: 2025-03-25T12:42:41.813Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -43,7 +43,7 @@ This season focuses on the rise and fall of the illithid lich Darmuth, ending wi
 - Discovering the Well of Many Worlds and the crack in the sky.  
 
 #### Key Lore:  
-- Mead, Os's close ally, defeats Frederina at Castle Arnsworth and later retires to open the Three Swishes tavern in FIWIC.  
+- Mead, Os's close ally, defeats Frederina at Castle Arnsworth and later retires to open the Three Swishes tavern in Fywick.  
 - The party learns of a greater illithid threat beyond Darmuth.  
 - The devastation vermin (giant insectoid colossi) are introduced during early interdimensional travels.
 
@@ -64,7 +64,7 @@ The party explores new worlds, allies with and betrays major figures, and begins
 #### Key Lore:  
 - The party sides with Bane over the Phoenix King, inadvertently empowering the Dead Three again.  
 - Alariel (Phoenix King's daughter) and Kirkegaard lead refugees to Mardun.  
-- The Bartenders Guild in FIWIC begins manipulating adventurers to achieve political goals.
+- The Bartenders Guild in Fywick begins manipulating adventurers to achieve political goals.
 
 ### **Season 4: Ascension and Destiny**  
 ![season_4_poster.webp](/posters/season_4_poster.webp =250x)  
@@ -86,15 +86,15 @@ The final season involves interdimensional politics, godly conflicts, and the ba
 > *For full details, see the [Campaign Timeline](/timeline). Key events include:*
 > ### Major World Changes
 > - **Erriad's Fall**: Bane killed Erriad's major players and took over the world following the Emperor's defeat.
-> - **Calchasarbay's Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power.
-> - **Regional Shifts**: Fort Suro and surrounding areas were abandoned as people fled Calchasarbay's growing influence.
+> - **Kaltrosar Bay's Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power.
+> - **Regional Shifts**: Fort Suro and surrounding areas were abandoned as people fled Kaltrosar Bay's growing influence.
 > 
 > ### Character Arcs
 > - **Dave Bones**: The legendary pirate who made a pact with a sea devil remained "alive" in Spoops' mind after Zeus erased memory of him from the universe.
 > - **Mead's Fate**: Died of natural causes, widely regarded as having one of the best endings of any NPC.
 > 
 > ### Faction Developments
-> - **GESCO-WRM vs. FIWIC**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
+> - **GESCO-WRM vs. Fywick**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
 > - **Illithid Revelations**: The party discovered Obox-ob (demon lord of vermin) had been mutilated by illithids to create the Emperor.
 
 
