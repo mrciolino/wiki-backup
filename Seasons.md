@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-03-25T12:43:44.515Z
+date: 2025-03-25T12:48:41.927Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -23,26 +23,26 @@ This encompasses the events from the start of the campaign to the pirate raid an
 
 #### Major Events:  
 - The party first meets in the tavern by [Fort Suro](/locations/Mardun/Fort-Suro).  
-- Traveling to [Alford](/locations/Alford) to meet [Lucidel Illiard](/characters/illiard).  
+- Traveling to [Alford](/locations/Alford) to meet [Lucidel Illiard](/characters/lucidel-illiard).  
 - Fighting [Rathwing](/characters/rathwing)'s cult and the death of [Bomb the Bear](/characters/bomb-the-bear).  
 - [Drakham](/characters/drakham) destroying [Alford](/locations/Alford), and the escape to [Saragossa](/locations/saragossa).  
 - The great [Pirate Raid](/events/pirate-raid) ending in the death of many of the party's enemies and an epic windfall.  
-- [Os](/characters/os)' betrayal and the bounty placed on his head by Gorg.  
-- The 2.5-year time skip and introduciton of [Bazvrah](/characters/Bazvrah).
+- [Os](/characters/os)' betrayal and the bounty placed on his head by [Gorg](/characters/gorg).  
+- The 2.5-year time skip and introduction of [Bazvrah](/characters/bazvrah).
 
 ### **Season 2: The Darmuth Saga**  
 ![season_2_poster.webp](/posters/season_2_poster.webp =250x)  
-This season focuses on the rise and fall of the illithid lich Darmuth, ending with his defeat and the discovery of the Well of Many Worlds.
+This season focuses on the rise and fall of the illithid lich [Darmuth](/characters/darmuth), ending with his defeat and the discovery of the Well of Many Worlds.
 
 #### Major Events:  
 - The arrival of [Darmuth](/characters/darmuth) and the death of [Krorg](/characters/krorg).  
 - Being hunted by [Darmuth](/characters/darmuth)'s pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/frederina).  
 - Fighting and defeating [Darmuth](/characters/darmuth).  
-- Discovering the Well of Many Worlds and the crack in the sky.  
+- Discovering the [Well of Many Worlds](/locations/well-of-many-worlds) and the crack in the sky.  
 
 #### Key Lore:  
-- Mead, Os's close ally, defeats Frederina at Castle Arnsworth and later retires to open the Three Swishes tavern in Fywick.  
-- The party learns of a greater illithid threat beyond Darmuth.  
+- [Mead](/characters/mead), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/frederina) at [Castle Arnsworth](/locations/castle-arnsworth) and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/fywick).  
+- The party learns of a greater illithid threat beyond [Darmuth](/characters/darmuth).  
 - The devastation vermin (giant insectoid colossi) are introduced during early interdimensional travels.
 
 ### **Season 3: Mortis Lux**  
@@ -50,19 +50,19 @@ This season focuses on the rise and fall of the illithid lich Darmuth, ending wi
 The party explores new worlds, allies with and betrays major figures, and begins assembling forces against the illithid threat.
 
 #### Major Events:  
-- Travel through the Well of Many Worlds to Erriad, encountering:  
-  - Goat Dicks End and the devastation vermin (city-sized beetles).  
-  - Glaculus, the chill necromancer who refused to join the party.  
-- Aphir the Mighty - killed by the party/Bane.  
-- Time chamber constructed for Spoops' blades.  
-- Phoenix King - killed by the party/Bane with the soul ring.  
-- Bane (Witch King) rises, forging the Soul Forge and causing the fall of the kingdom of Hellaris.  
-- Adalayn raises the city from the water.  
+- Travel through the [Well of Many Worlds](/locations/well-of-many-worlds) to [Erriad](/locations/erriad), encountering:  
+  - [Goat Dicks End](/locations/goat-dicks-end) and the devastation vermin (city-sized beetles).  
+  - [Glaculus](/characters/glaculus), the chill necromancer who refused to join the party.  
+- [Aphir the Mighty](/characters/aphir-the-mighty) - killed by the party/[Bane](/characters/bane).  
+- Time chamber constructed for [Spoops](/characters/spoops)' blades.  
+- [Phoenix King](/characters/phoenix-king) - killed by the party/[Bane](/characters/bane) with the soul ring.  
+- [Bane](/characters/bane) (Witch King) rises, forging the [Soul Forge](/artifacts/soul-forge) and causing the fall of the kingdom of [Hellaris](/locations/hellaris).  
+- [Adalayn](/characters/adalayn) raises the city from the water.  
 
 #### Key Lore:  
-- The party sides with Bane over the Phoenix King, inadvertently empowering the Dead Three again.  
-- Alariel (Phoenix King's daughter) and Kirkegaard lead refugees to Mardun.  
-- The Bartenders Guild in Fywick begins manipulating adventurers to achieve political goals.
+- The party sides with [Bane](/characters/bane) over the [Phoenix King](/characters/phoenix-king), inadvertently empowering the [Dead Three](/pantheon/dead-three) again.  
+- [Alariel](/characters/alariel) (Phoenix King's daughter) and [Kirkegaard](/characters/kirkegaard) lead refugees to [Mardun](/locations/mardun).  
+- The [Bartenders Guild](/organizations/bartenders-guild) in [Fywick](/locations/fywick) begins manipulating adventurers to achieve political goals.
 
 ### **Season 4: Ascension and Destiny**  
 ![season_4_poster.webp](/posters/season_4_poster.webp =250x)  
@@ -70,33 +70,30 @@ The final season involves interdimensional politics, godly conflicts, and the ba
 
 #### Major Events:  
 - Construction of the fleet and factories.  
-- Githyanki civil war: Party nukes Tu'narath, destabilizing Vlaakith's empire and empowering the Githzerai.  
-- Spoops and Bane destroy an owlbear planet to harvest souls (moral low point).  
+- Githyanki civil war: Party nukes [Tu'narath](/locations/tunarath), destabilizing [Vlaakith](/characters/vlaakith)'s empire and empowering the [Githzerai](/factions/githzerai).  
+- [Spoops](/characters/spoops) and [Bane](/characters/bane) destroy an owlbear planet to harvest souls (moral low point).  
 - Sun God crisis: Solar dragon's death is manipulated by illithids; party fights sun worshippers in floating bastions (laser ping-pong battle).  
 - Council of the Gods conflict:  
-  - Gods send Maruts after Spoops for breaking cosmic rules.  
-  - Devil lawyers broker a deal between the party and gods.  
+  - Gods send [Maruts](/creatures/maruts) after [Spoops](/characters/spoops) for breaking cosmic rules.  
+  - [Devil lawyers](/factions/infernal-lawyers) broker a deal between the party and gods.  
   - Party proves the illithid threat is greater.  
-- Final battle against the Emperor and his moon-sized illithid monster.  
+- Final battle against the [Emperor](/characters/illithid-emperor) and his moon-sized illithid monster.  
 
 ## History Between Campaigns 1 and 2
 
-> *For full details, see the [Campaign Timeline](/timeline). Key events include:*
+> *For full details, see the [Timeline](/timeline). Key events include:*
 > ### Major World Changes
-> - **Erriad's Fall**: Bane killed Erriad's major players and took over the world following the Emperor's defeat.
-> - **Kaltrosar Bay's Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power.
-> - **Regional Shifts**: Fort Suro and surrounding areas were abandoned as people fled Kaltrosar Bay's growing influence.
-> 
+> - **[Erriad](/locations/erriad)'s Fall**: [Bane](/characters/bane) killed Erriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
+> - **[Kaltrosar Bay](/locations/kaltrosar-bay)'s Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power.
+> - **Regional Shifts**: [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/kaltrosar-bay)'s growing influence.
 > ### Character Arcs
-> - **Dave Bones**: The legendary pirate who made a pact with a sea devil remained "alive" in Spoops' mind after Zeus erased memory of him from the universe.
-> - **Mead's Fate**: Died of natural causes, widely regarded as having one of the best endings of any NPC.
-> 
+> - **[Dave Bones](/characters/dave-bones)**: The legendary pirate who made a pact with a sea devil remained "alive" in [Spoops](/characters/spoops)' mind after [Zeus](/pantheon/zeus) erased memory of him from the universe.
+> - **[Mead](/characters/mead)'s Fate**: Died of natural causes, widely regarded as having one of the best endings of any NPC.
 > ### Faction Developments
-> - **GESCO-WRM vs. Fywick**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
-> - **Illithid Revelations**: The party discovered Obox-ob (demon lord of vermin) had been mutilated by illithids to create the Emperor.
+> - **[GESCO-WRM](/organizations/gesco-wrm) vs. [Fywick](/locations/fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
+> - **Illithid Revelations**: The party discovered [Obox-ob](/pantheon/obox-ob) (demon lord of vermin) had been mutilated by illithids to create the [Emperor](/characters/illithid-emperor).
 
 
-#### Key Lore:  
 
 ## **Campaign 2: The Age of Reclamation**  
 
