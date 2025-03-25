@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-03-25T00:20:20.929Z
+date: 2025-03-25T02:00:04.410Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -28,31 +28,30 @@ This encompasses the events from the start of the campaign to the defeat of the 
 - [Drazham](/characters/drazham) destroying [Alford](/locations/Alford), and the escape to [Saragossa](/locations/saragossa).
 - The great [Pirate Raid](/events/pirate-raid) ending in the death of many of the party's enemies and an epic windfall.
 - [Os](/characters/os)' betrayal and the three-year time skip.
-- The arrival of [Darmuth](/characters/darmuth) and the death of [Krorg](/characters/krorg).
-- Being hunted by [Darmuth](/characters/darmuth)'s pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/frederina).
-- ...
-- Fighting and defeating [Darmuth](/characters/darmuth).
 
 ### **Season 2: Reconstruction**  
 ![season_2_poster.webp](/posters/season_2_poster.webp =250x)
 This encompasses the events from the start of the campaign to the defeat of the first major villain, the illithid lich [Darmuth](/characters/darmuth).
 
 #### Major Events:
-- TBD
+- The arrival of [Darmuth](/characters/darmuth) and the death of [Krorg](/characters/krorg).
+- Being hunted by [Darmuth](/characters/darmuth)'s pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/frederina).
+- Fighting and defeating [Darmuth](/characters/darmuth).
+
 
 ### **Season 3: [Title TBD]**  
 ![season_3_poster.webp](/posters/season_3_poster.webp =250x)
 This encompasses the events from the start of the campaign to the defeat of the first major villain, the illithid lich [Darmuth](/characters/darmuth).
 
 #### Major Events:
-- TBD
+- Well of many worlds
 
 ### **Season 4: [Title TBD]**  
 ![season_5\4_poster.webp](/posters/season_4_poster.webp =250x)
 This encompasses the events from the start of the campaign to the defeat of the first major villain, the illithid lich [Darmuth](/characters/darmuth).
 
 #### Major Events:
-- TBD
+- the emporer
 
 ---
 
