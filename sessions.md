@@ -2,16 +2,16 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2025-03-23T00:28:25.155Z
+date: 2025-03-25T23:58:33.182Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
 ---
 
 # **Sessions Overview**  
-For a detailed look at each campaign session recap, visit [Campaign 1 Sessions](/sessions/campaign_1/overview) and [Campaign 2 Sessions](/sessions/campaign_2/overview). For a overview of the seasons for each campaign visit: [Seasons](/Seasons).
-
----
+> For a detailed look at each campaign session recap, visit [Campaign 1 Sessions](/sessions/campaign_1/overview) and [Campaign 2 Sessions](/sessions/campaign_2/overview). 
+For a overview of the seasons for each campaign visit: [Seasons](/Seasons).
+{.is-info}
 
 ## **Campaign 1**  
 - **Timeline:** Takes place 1,000 years before Campaign 2.  
