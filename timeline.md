@@ -2,7 +2,7 @@
 title: timeline
 description: 
 published: true
-date: 2025-03-25T16:45:54.862Z
+date: 2025-03-25T16:51:16.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -79,13 +79,17 @@ dateCreated: 2025-03-23T00:15:37.336Z
 #### 4 BC
 - Spoops washes ashore near **[Witchlight Jungle](/locations/witchlight-jungle)**.
 
+>The events of [Campaign 1](/Seasons) take place during the next 4 years.
+
 #### 3 BC
 - The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)**.
 - Pirate raids destroy Alford; **[Altricia](/locations/altricia)** founded.
-- The events of [seasons 1-4](/Seasons)
 
-#### 0 AD
-- **Cataclysmic Events**:
+#### 2 BC 
+- Birth of [Krorgfrey](/characters/krorgfrey)
+
+#### The End of the Age of Mortals (0 AD)
+- **Cataclysmic Events:**:
   - Darmuth destroys Altricia; LBB ascends to godhood.
   - Githyanki Empire falls; **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.
   - Spoops, now Myrkul, the god of bones, retreats into hiding. 
@@ -118,16 +122,3 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 ### 10XX AD
 - **[Slaughter Bridge Battle](/events/slaughter-bridge-battle)**: Brass Brigade destroyed.
-
----
-
-## Additional Lore from Transcript
-
-### Revenants
-- Those who die violently return with one year to live (e.g., **[Dave Bones](/characters/dave-bones)**, a pirate bound to Spoops via a sea devil pact).
-
-### Bartender’s Guild
-- Secretive group in **[Fywick](/locations/fywick)** manipulating adventurers for political goals.
-
-### Golden Lineage
-- Gnome faction led by **[Gilther](/characters/gilther)** post-Dwarf Imperium collapse.
