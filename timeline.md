@@ -1,121 +1,133 @@
+---
+title: timeline
+description: 
+published: true
+date: 2025-03-25T16:45:54.862Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-23T00:15:37.336Z
+---
+
 # History
 
 ## The Early Universe
 
 ### Creation of Worlds & Primordial Chaos
-
-- Beginning of time, rampant primordial energy forms the Old Gods.
-- Old Gods shape the universe (planets, planes) by imposing order on chaos.
+- The universe begins with chaotic primordial energy, birthing the **[Old Gods](/entities/old-gods)**.
+- The Old Gods impose order, shaping planets, planes, and celestial structures.
 
 ### Rise of the New Gods
-
-- A second generation of gods emerges, comprehending the new order.
-- More powerful than the Old Gods, they overthrow them.
-- Some Old Gods are contained or dispersed; others flee to the Far Realms.
+- A second generation of gods, more powerful and attuned to order, overthrows the Old Gods.
+- Some Old Gods are contained or dispersed; others flee to the [Far Realms](/locations/far-realms).
 
 ### Divine Rule & the Birth of Titans
-
 - New Gods take dominion and prevent another power shift.
-- They create Titans—lesser godlike beings—to maintain order.
-- Mortal races and lesser beings are formed.
-- The primordial forces of good and evil come into existence.
+- They create **[Titans](/entities/titans)** —lesser godlike beings—to maintain order.
+- Mortal races emerge, alongside the primordial forces of **Good** and **Evil**.
 
 ### The War in Heaven
-
-- Titans, foreseeing obsolescence, rebel against the New Gods.
-- The war ends in the Titans' defeat.
-- Kronos, the most powerful Titan, is sealed away in the Chains of Karseri.
+- Titans rebel against the New Gods, foreseeing their obsolescence.
+- Titans are defeated; **Kronos**, the most powerfull titan, is sealed in the **[Chains of Karseri](/artifacts/chains-of-karseri)**.
 - These chains anchor his prison to the celestial order, including Mardun.
 
 ### The Continuation of Creation
-
-- Gods return to creating mortal races alongside Titans and angels.
-- Life spreads to Mardun.
-- Magic emerges as a phenomenon, not as part of creation.
+- Gods, Titans, and angels collaborate to populate worlds like **[Mardun](/locations/mardun)**.
+- **Magic** emerges as a natural phenomenon, not a divine creation.
 - New gods enter the divine system.
+
+---
 
 ## History of Mardun
 
 ### Ancient Events
 
-- **Deep Gnome Lore (TBD)**
-- **Fall of the Illithid Empire**
-- **Giants vs. Dragons War**
-  - Age of Giants ends, Age of Dragons begins.
+#### Deep Gnome Lore
+- TODO
+
+#### Fall of the Illithid Empire
+- TODO
+
+#### Giants vs. Dragons War
+- Giants’ defeat marks the end of the **Age of Giants** and the start of the **Age of Dragons** (2150–2100 BC).
 
 ### The Age of the Pythagorean Empire
-
-- **Rise of the Pythagorean Empire**
-  - First to harness magic reliably and develop runes.
-- **Fall of the Pythagorean Empire**
+#### Rise & Fall
+- The first mortal empire to harness **[Runic Magic](/magic/runes)**.
+- Collapses due to internal strife and dragon dominance.
 
 ### The Age of Dragons
-
-- **2150 BC** – Birth of Inferno
-- **2100 BC** – Desolation of Asmal
-- Age of Dragons ends, Age of Mortals begins.
-- **Darmuth’s Body Formed**
+#### Key Events
+- **2150 BC**: Birth of **[Inferno](/characters/inferno)**.
+- **2100 BC**: **Desolation of Asmal** ends the **Age of Dragons** and starts the **Age of Mortals**.
+- [Darmuth](/characters/Darmuth)’s body begins to form.
 
 ### The Age of Mortals
+#### ~1000 BC
+- **[Os Vrintia](/characters/os-vrintia)** travels back in time, founds the **[Empire of Tiyamanni](/organizations/empire-of-tiyamanni)**.
 
-- **~1000 BC** – Os Travels Back in Time
-  - Founds the Empire of Tiyamanni.
-- **Darmuth Seals Away Inferno**
-  - Sealed in "The Lovers’ Promise Mountain" in the Ravencrag Mountains.
-- **650 BC** – Darmuth Ascends to Empress of Tiyamanni
-  - Marries Os Vrintia’s son, Evhal.
-- **Gnomes Driven from Tiyamanni**
-  - Tiyamanni refugees found Fywick.
-- **Collapse of the Empire of Tiyamanni**
+#### Darmuth’s Reign
+- Darmuth seals Inferno in **[The Lovers’ Promise Mountain](/locations/lovers-promise-mountain)**.
+- Marries Os Vrintia’s son, Evhal, and ascends as Empress of Tiyamanni (650 BC).
+
+#### Collapse of Tiyamanni
+- Gnomes driven out; refugees found **[Fywick](/locations/fywick)**.
 
 ### The Necrotic Wars & The Fall of Empires
+#### 90–66 BC
+- **[Spoops](/characters/spoops)** emerges as a necrotic entity.
 
-- **90-66 BC** – Necrotic Wars
-  - Spoops appears.
-- **4 BC** – Spoops Washes Ashore near Witchlight Jungle
-- **3 BC** – The LBB Forms
-  - Fort Suro established, Alford destroyed, Pirate Raids.
-  - Rathwing killed, Altricia founded.
-- **2 BC** – Birth of Krorgfrey
+#### 4 BC
+- Spoops washes ashore near **[Witchlight Jungle](/locations/witchlight-jungle)**.
 
-### The End of the Age of Mortals & the Dawn of the Age of Ascended
+#### 3 BC
+- The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)**.
+- Pirate raids destroy Alford; **[Altricia](/locations/altricia)** founded.
+- The events of [seasons 1-4](/Seasons)
 
-- **0 – Cataclysmic Events**
-  - Darmuth destroys Altricia and is killed.
-  - LBB destroys the Illithid Empire.
-  - Spoops destroys the planet and dies.
-  - LBB ascends to godhood.
-  - Greek pantheon devastated.
-  - Githyanki Empire and Vlaakith fall.
-  - Breezye creates the Spaghetti God.
-  - Age of Mortals ends, Age of Ascended begins.
+#### 0 AD
+- **Cataclysmic Events**:
+  - Darmuth destroys Altricia; LBB ascends to godhood.
+  - Githyanki Empire falls; **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.
+  - Spoops, now Myrkul, the god of bones, retreats into hiding. 
+  - Olpymia falls into further choas as Zeus is corrutped by the Ithilids and then killed by the party.
+  - The ithilid Emperor falls.
 
-### The Age of Ascended
+---
 
-- **1 AD – Civil War & New Kingdoms**
-  - Mortis Lux Civil War.
-  - Adalynn killed by Breezye.
-  - Saragossa pirates disperse into space.
-  - Gith species isolates itself.
-  - Bazzdos vanish into the Plane of Fire.
-  - Os founds the Kingdom of Vrintia.
-  - Inferno slumbers.
+## The Age of Ascended
 
-### Dwarven and Draconic Events
+### 1 AD – Civil War & New Kingdoms
+#### Mortis Lux Civil War
+- **[Adalynn](/characters/adalynn)** killed by Breezye.
+- Saragossa pirates disperse; Os founds **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**.
 
-- **Helmær ascends to the Dwarven Imperial Throne.**
-- **Dwarf Imperium collapses.**
-- **Inferno sires Shazanarg and royal dragons.**
-- **Dragonborn clans migrate from Kaltozar to Vrintia.**
+#### Dwarven & Draconic Events
+- **[Helmær](/characters/helmaer)** ascends the Dwarven throne; Dwarf Imperium collapses.
+- Dragonborn clans migrate to Vrintia.
 
 ### Other Major Events
+- **[City of Brass](/locations/city-of-brass)** crashes into the **[Sea of Ice](/locations/sea-of-ice)**.
+- Breezye founds **[La Rocca della Sugo](/locations/la-rocca-della-sugo)**.
 
-- **The City of Brass crashes into the Sea of Ice on Mardun.**
-- **Breezye leaves Vrintia and founds La Rocca della Sugo.**
+---
 
-### The New Campaign
+## The New Campaign
 
-- **1000 AD – Arrival of Goopy from Space**
-- **10XX AD – Slaughter Bridge Battle**
-  - The Brass Brigade is destroyed.
-  - Goopy travels back in time.
+### 1000 AD
+- **[Goopy](/characters/goopy)** arrives from space.
+
+### 10XX AD
+- **[Slaughter Bridge Battle](/events/slaughter-bridge-battle)**: Brass Brigade destroyed.
+
+---
+
+## Additional Lore from Transcript
+
+### Revenants
+- Those who die violently return with one year to live (e.g., **[Dave Bones](/characters/dave-bones)**, a pirate bound to Spoops via a sea devil pact).
+
+### Bartender’s Guild
+- Secretive group in **[Fywick](/locations/fywick)** manipulating adventurers for political goals.
+
+### Golden Lineage
+- Gnome faction led by **[Gilther](/characters/gilther)** post-Dwarf Imperium collapse.
