@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-03-25T12:58:36.318Z
+date: 2025-03-25T13:17:16.575Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -28,7 +28,7 @@ This encompasses the events from the start of the campaign to the pirate raid an
 - Fighting [Rathwing](/characters/rathwing)'s cult and the death of [Bomb the Bear](/characters/bomb-the-bear).  
 - [Drakham](/characters/drakham) destroying [Alford](/locations/Alford), and the escape to [Saragossa](/locations/saragossa).  
 - The great [Pirate Raid](/events/pirate-raid) ending in the death of many of the party's enemies and an epic windfall.  
-- [Os](/characters/os)' betrayal and the bounty placed on his head by [Gorg](/characters/gorg).  
+- [Os](/characters/os)' betrayal and the bounty placed on his head by [Krorg](/characters/Krorg).  
 - The 2.5-year time skip and introduction of [Bazvrah](/characters/bazvrah).
 
 ### **Season 2: The Darmuth Saga**  
