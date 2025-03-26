@@ -2,7 +2,7 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-03-26T22:32:58.824Z
+date: 2025-03-26T22:36:07.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
@@ -44,11 +44,11 @@ When planning the assassination of the Pirate King of Sargossa:
 > Naracus is a god or something using darkness  
 > and wild shape  
 > Do this once or twice to instill the fear of God in him  
-
+>
 > Cast darkness on the cat  
 > and become a big golden lobster  
 > and convince her  
-
+>
 > .5: Visit the PK to get a lay of the land before attacking - bring a squirrel and have a conversation with the PK  
 > 1: Try to get a crew - first a normal request - ask them to help defend me - make sure to look for someone who doesn't like the PK - start up some chat  
 > 2: Tell crew (2-3) to come with me outside of the PK room to await orders - they will be attacking other guards if needed  
