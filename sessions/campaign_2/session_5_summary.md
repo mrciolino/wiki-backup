@@ -1,3 +1,13 @@
+---
+title: session_5_summary
+description: 
+published: true
+date: 2025-03-26T00:04:26.357Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-20T12:10:05.899Z
+---
+
 ### [Session Metadata]
 **Date:** 3/17/25  
 **Session Number:** 5  
@@ -20,7 +30,7 @@
     - **Logan - Tiberian Caipao:** Dragonborn Artificer, Noble Weaponsmith, School of Sorcery, Sign of the Dragon.  
     - **Nick - Goopy Globulon:** Plasmoid Soulblade Fighter, Astral Drifter, School of Swords, Sign of the Spider.  
     - **Breezy - Breezy Bee:** Aarakocra Sorcerer, Entertainer, School of Sorcery, Sign of the Dragon.  
-    - **Matthew - Orin:** Deep Gnome Soulknife Rogue, Bounty Hunter, School of Song, Sign of the Spider.  
+    - **Matthew - Oran:** Deep Gnome Soulknife Rogue, Bounty Hunter, School of Song, Sign of the Spider.  
     - **Peter - Thomas Stonebrook:** Human Barbarian, Former Guard, School of Swords, Sign of the Bear.  
     - **Josh - Baloo:** Bugbear Bard, Entertainer, School of Song, Sign of the Bear.  
   - **Non-Player Characters (NPCs):**  
@@ -29,7 +39,7 @@
     - **Brass Dragonborn (Clan Norexias):** Suspected infiltrator from Tiberian’s rival clan.  
     - **Professor Chester:** Abducted by the mimic Randy.  
     - **Kreiterax:** Tiberian’s former bodyguard and ally.  
-    - **Vamir:** Orin’s debt holder, holding his brother Verrick hostage.  
+    - **Vamir:** Oran’s debt holder, holding his brother Verrick hostage.  
 
 - **Locations:**  
   - **Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS):** The central hub of education and power in Vrintia.  
@@ -48,7 +58,7 @@
 
 #### **Relationships & Interactions:**
 - **Tiberian and Clan Norexias:** Tiberian revealed his backstory, explaining his vendetta against Clan Norexias, who killed his parents and forced him to flee. The party pledged to help him seek revenge.  
-- **Orin and Vamir:** Orin shared his debt to Vamir and his mission to steal a mechanism from the academy to save his brother, Verrick. The party agreed to assist him.  
+- **Oran and Vamir:** Oran shared his debt to Vamir and his mission to steal a mechanism from the academy to save his brother, Verrick. The party agreed to assist him.  
 - **Goopy’s Time-Traveling Party:** Goopy hinted at being from the future, seeking to prevent the death of his past party. The party agreed to help him uncover the truth.  
 - **Baloo’s Quest for Acceptance:** Baloo aims to change the perception of bugbears from “thug bears” to “hug bears.” The party supports his mission.  
 - **Thomas and His Father:** Thomas expressed resentment toward his father for sacrificing his life to send him to the academy. The party encouraged him to reconcile with his father.  
@@ -56,9 +66,9 @@
 
 #### **Important Dialogue or Decisions:**
 - **Tiberian’s Revelation:** Tiberian revealed his past with Clan Norexias, including his fabricated murders to escape their grasp. The party pledged to help him reclaim his family’s legacy.  
-- **Orin’s Debt:** Orin explained his debt to Vamir and his mission to steal a mechanism from the academy. The party agreed to assist him in rescuing his brother.  
+- **Oran’s Debt:** Oran explained his debt to Vamir and his mission to steal a mechanism from the academy. The party agreed to assist him in rescuing his brother.  
 - **Goopy’s Future Vision:** Goopy hinted at being from the future and needing to prevent the death of his past party. The party agreed to help him uncover the truth.  
-- **Baloo’s Hugbear Mission:** Baloo shared his goal of changing the perception of bugbears. The party supported his mission, with Tiberian crafting him a “Hugbear Headband.”  
+- **Baloo’s Hugbear Mission:** Baloo shared his goal of changing the perception of bugbears. The party supported his mission, with Oran  crafting him a “Hugbear Headband.”  
 - **Thomas’s Resentment:** Thomas expressed his frustration with his father’s sacrifice, but the party encouraged him to make the most of his opportunity at the academy.  
 
 #### **Notable Actions:**
@@ -70,7 +80,7 @@
   - **Tiberian:** School of Sorcery, Sign of the Dragon.  
   - **Thomas:** School of Swords, Sign of the Bear.  
   - **Breezy:** School of Sorcery, Sign of the Dragon.  
-  - **Orin:** School of Song, Sign of the Spider.  
+  - **Oran:** School of Song, Sign of the Spider.  
 
 ---
 
@@ -93,7 +103,7 @@
 
 #### **Event 4: Post-Ceremony Reflections**  
 - **Approximate Duration:** 1/8 session.  
-- **Description:** The party reflected on their sorting and discussed their next steps, including helping Orin rescue his brother and supporting Tiberian’s vendetta.  
+- **Description:** The party reflected on their sorting and discussed their next steps, including helping Oran rescue his brother and supporting Tiberian’s vendetta.  
 - **Cause & Effect Links:** This discussion solidified the party’s commitment to each other’s goals and set the stage for future quests.  
 
 ---
@@ -136,7 +146,7 @@
 - **Cause & Effect Links:** His sorting into the School of Swords aligned with his combat skills.  
 
 #### **Baloo (Josh):**
-- **Progress:** Shared his goal of changing the perception of bugbears and received a “Hugbear Headband” from Tiberian.  
+- **Progress:** Shared his goal of changing the perception of bugbears and received a “Hugbear Headband” from Oran.  
 - **Key Actions:** Participated in the Sorting Ceremony.  
 - **Relationships Changed:** Gained the party’s support for his mission.  
 - **Emotional Arcs:** Remained committed to his goal of being a “hug bear.”  
@@ -178,18 +188,18 @@
 ### [Highlights & Memorable Moments]
 - **Goopy’s Paper Airplane:** A hilarious and unexpected distraction that drew attention to the Brass Dragonborn.  
 - **Tiberian’s Stealth Fail:** Tiberian’s failed attempt to sneak into the cathedral provided comedic relief.  
-- **Baloo’s Hugbear Headband:** A heartwarming moment as Tiberian crafted a headband for Baloo.  
+- **Baloo’s Hugbear Headband:** A heartwarming moment as Oran crafted a headband for Baloo.  
 - **Sorting Ceremony:** The party’s sorting into their respective schools and signs marked a significant milestone in their journey.  
 
 ---
 
 ### [Loot & Rewards]
-- **Hugbear Headband:** A headband crafted by Tiberian for Baloo, symbolizing his commitment to being a “hug bear.”  
+- **Hugbear Headband:** A headband crafted by Oran for Baloo, symbolizing his commitment to being a “hug bear.”  
 
 ---
 
 ### [Quest Progressions]
-- **Current Objective:** The party’s main mission is to support each other’s goals, including Tiberian’s vendetta, Orin’s rescue mission, and Goopy’s time-traveling quest.  
+- **Current Objective:** The party’s main mission is to support each other’s goals, including Tiberian’s vendetta, Oran’s rescue mission, and Goopy’s time-traveling quest.  
 - **Steps Completed:** The party bonded over breakfast and participated in the Sorting Ceremony.  
 - **Next Steps/Unresolved Issues:** The party must address the Brass Dragonborn’s presence and begin working toward their individual goals.  
 - **Obstacles Introduced:** The Brass Dragonborn’s presence hints at future conflict with Clan Norexias.  
