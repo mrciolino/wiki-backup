@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-26T21:47:43.909Z
+date: 2025-03-26T21:49:24.879Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -17,19 +17,19 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | Name        | Link                              | Race | Class | Background | Traits | Image |
 |------------|----------------------------------|------|-------|------------|--------|-------|
 | Spoops     | [Spoops](/characters/spoops)     | Undead   | ??    | ??         | ??     | ![Spoops](/characters/spoops.webp =x150) |
-| Bazzdos    | [Bazzdos](/characters/bazzdos)   | Warforge   | ??    | ??         | ??     | ![Bazzdos](/characters/bazzdos.webp =100x) |
-| Breezy-E   | [Breezy-e](/characters/breezy)   | ??   | ??    | ??         | ??     | ![Breezy-e](/characters/breezy/breezy.webp =100x) |
-| Adalynn    | [Adalynn](/characters/adalynn)   | Bitch   | ??    | ??         | ??     | ![Adalynn](/characters/adalynn.webp =100x) |
-| Elira A.   | [Elira](/characters/elira)       | ??   | ??    | ??         | ??     | ![Elira](/characters/elira/elira.webp =100x) |
-| Krorg      | [Krorg](/characters/krorg)       | ??   | ??    | ??         | ??     | ![Krorg](/characters/krorg/krorg.png =100x) |
-| Os Vrtnica | [Os](/characters/os)             | Elf   | Bard    | ??         | ??     | ![Os](/characters/os.webp =100x) |
-| Meade      | [Meade](/characters/meade)       | ??   | ??    | ??         | ??     | ![Meade](/characters/other/meade.webp =100x) |
-| Mort       | [Mort](/characters/mort)         | ??   | ??    | ??         | ??     | ![Mort](/characters/mort/m.webp =100x) |
+| Bazzdos    | [Bazzdos](/characters/bazzdos)   | Warforge   | ??    | ??         | ??     | ![Bazzdos](/characters/bazzdos.webp =x150) |
+| Breezy-E   | [Breezy-e](/characters/breezy)   | ??   | ??    | ??         | ??     | ![Breezy-e](/characters/breezy/breezy.webp =x150) |
+| Adalynn    | [Adalynn](/characters/adalynn)   | Bitch   | ??    | ??         | ??     | ![Adalynn](/characters/adalynn.webp =x150) |
+| Elira A.   | [Elira](/characters/elira)       | ??   | ??    | ??         | ??     | ![Elira](/characters/elira/elira.webp =x150) |
+| Krorg      | [Krorg](/characters/krorg)       | ??   | ??    | ??         | ??     | ![Krorg](/characters/krorg/krorg.png =x150) |
+| Os Vrtnica | [Os](/characters/os)             | Elf   | Bard    | ??         | ??     | ![Os](/characters/os.webp =x150) |
+| Meade      | [Meade](/characters/meade)       | ??   | ??    | ??         | ??     | ![Meade](/characters/other/meade.webp =x150) |
+| Mort       | [Mort](/characters/mort)         | ??   | ??    | ??         | ??     | ![Mort](/characters/mort/m.webp =x150) |
 | Bazzert    | [Bazzert](/characters/bazzert)   | Elf   | Druid 8    | ??         | Circle of the  Land (Swamp)     | ![Bazzert](/characters/bazzert/bazzert.webp =100x) |
-| Bazzvrah   | [Bazzvrah](/characters/bazzvrah) | ??   | ??    | ??         | ??     | ![Bazzvrah](/characters/bazzvrah.webp =100x) |
+| Bazzvrah   | [Bazzvrah](/characters/bazzvrah) | ??   | ??    | ??         | ??     | ![Bazzvrah](/characters/bazzvrah.webp =x150) |
 | Bazzalt    | [Bazzalt](/characters/bazzalt)   | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![Bazzalt](/characters/bazzalt.webp =100x) |
-| Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![Drakham](/characters/drakham.webp =100x) |
-| Naracus    | [Naracus](/characters/naracus)   | ??   | ??    | ??         | ??     | ![Naracus](/characters/naracus.webp =100x) |
+| Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![Drakham](/characters/drakham.webp =x150) |
+| Naracus    | [Naracus](/characters/naracus)   | ??   | ??    | ??         | ??     | ![Naracus](/characters/naracus.webp =x150) |
 
 
 ## **Campaign 2**  
