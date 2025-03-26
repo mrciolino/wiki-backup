@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-26T21:24:59.108Z
+date: 2025-03-26T21:47:43.909Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -14,29 +14,22 @@ A list of player characters from **Campaign 1**, including their races, classes,
 
 ## **Campaign 1**  
 
-| Name        | Link                              | Race | Class | Background | Traits |
-|------------|----------------------------------|------|-------|------------|--------|
-| Spoops     | [Spoops](/characters/spoops)     | ??   | ??    | ??         | ??     |
-| Bazzdos    | [Bazzdos](/characters/bazzdos)   | ??   | ??    | ??         | ??     |
-| Breezy-E   | [Breezy-e](/characters/breezy)   | ??   | ??    | ??         | ??     |
-| Adalynn    | [Adalynn](/characters/adalynn)   | ??   | ??    | ??         | ??     |
-| Elira A.   | [Elira](/characters/elira)       | ??   | ??    | ??         | ??     |
-| Krorg      | [Krorg](/characters/krorg)       | ??   | ??    | ??         | ??     |
-| Os Vrtnica | [Os](/characters/os)             | ??   | ??    | ??         | ??     |
-| Meade      | [Meade](/characters/meade)       | ??   | ??    | ??         | ??     |
-| Mort       | [Mort](/characters/mort)         | ??   | ??    | ??         | ??     |
-| Bazzert    | [Bazzert](/characters/bazzert)   | ??   | ??    | ??         | ??     |
-| Bazzvrah   | [Bazzvrah](/characters/bazzvrah) | ??   | ??    | ??         | ??     |
-| Bazzalt    | [Bazzalt](/characters/bazzalt)   | ??   | ??    | ??         | ??     |
-| Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     |
-| Naracus    | [Naracus](/characters/naracus)   | ??   | ??    | ??         | ??     |
-
-
-### **Character Images**  
-
-| **Mort** | **Krorg** | **Meade** | **Elira** | **Breezy-e** |
-|:-:|:-:|:-:|:-:|:-:|
-| ![Mort](/characters/mort/m.webp =200x) | ![Krorg](/characters/krorg/krorg.png =200x) | ![Meade](/characters/other/meade.webp =200x) | ![Elira](/characters/elira/elira.webp =200x) | ![Breezy-e](/characters/breezy/breezy.webp =200x) |
+| Name        | Link                              | Race | Class | Background | Traits | Image |
+|------------|----------------------------------|------|-------|------------|--------|-------|
+| Spoops     | [Spoops](/characters/spoops)     | Undead   | ??    | ??         | ??     | ![Spoops](/characters/spoops.webp =x150) |
+| Bazzdos    | [Bazzdos](/characters/bazzdos)   | Warforge   | ??    | ??         | ??     | ![Bazzdos](/characters/bazzdos.webp =100x) |
+| Breezy-E   | [Breezy-e](/characters/breezy)   | ??   | ??    | ??         | ??     | ![Breezy-e](/characters/breezy/breezy.webp =100x) |
+| Adalynn    | [Adalynn](/characters/adalynn)   | Bitch   | ??    | ??         | ??     | ![Adalynn](/characters/adalynn.webp =100x) |
+| Elira A.   | [Elira](/characters/elira)       | ??   | ??    | ??         | ??     | ![Elira](/characters/elira/elira.webp =100x) |
+| Krorg      | [Krorg](/characters/krorg)       | ??   | ??    | ??         | ??     | ![Krorg](/characters/krorg/krorg.png =100x) |
+| Os Vrtnica | [Os](/characters/os)             | Elf   | Bard    | ??         | ??     | ![Os](/characters/os.webp =100x) |
+| Meade      | [Meade](/characters/meade)       | ??   | ??    | ??         | ??     | ![Meade](/characters/other/meade.webp =100x) |
+| Mort       | [Mort](/characters/mort)         | ??   | ??    | ??         | ??     | ![Mort](/characters/mort/m.webp =100x) |
+| Bazzert    | [Bazzert](/characters/bazzert)   | Elf   | Druid 8    | ??         | Circle of the  Land (Swamp)     | ![Bazzert](/characters/bazzert/bazzert.webp =100x) |
+| Bazzvrah   | [Bazzvrah](/characters/bazzvrah) | ??   | ??    | ??         | ??     | ![Bazzvrah](/characters/bazzvrah.webp =100x) |
+| Bazzalt    | [Bazzalt](/characters/bazzalt)   | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![Bazzalt](/characters/bazzalt.webp =100x) |
+| Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![Drakham](/characters/drakham.webp =100x) |
+| Naracus    | [Naracus](/characters/naracus)   | ??   | ??    | ??         | ??     | ![Naracus](/characters/naracus.webp =100x) |
 
 
 ## **Campaign 2**  
