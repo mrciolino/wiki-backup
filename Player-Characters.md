@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-25T12:27:32.090Z
+date: 2025-03-26T21:24:59.108Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -33,11 +33,10 @@ A list of player characters from **Campaign 1**, including their races, classes,
 
 
 ### **Character Images**  
-- **Mort:** ![Mort](mort/m.webp)  
-- **Krorg:** ![Krorg](krorg/krorg.png)  
-- **Meade:** ![Meade](other/meade.webp)  
-- **Elira:** ![Elira](elira/elira.webp)  
-- **Breezy-e:** ![Breezy-e](breezy/breezy.webp)  
+
+| **Mort** | **Krorg** | **Meade** | **Elira** | **Breezy-e** |
+|:-:|:-:|:-:|:-:|:-:|
+| ![Mort](/characters/mort/m.webp =200x) | ![Krorg](/characters/krorg/krorg.png =200x) | ![Meade](/characters/other/meade.webp =200x) | ![Elira](/characters/elira/elira.webp =200x) | ![Breezy-e](/characters/breezy/breezy.webp =200x) |
 
 
 ## **Campaign 2**  
