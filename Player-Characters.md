@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-26T21:50:21.525Z
+date: 2025-03-26T21:51:27.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -26,7 +26,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | Meade      | [Meade](/characters/meade)       | ??   | ??    | ??         | ??     | ![Meade](/characters/other/meade.webp =x100) |
 | Mort       | [Mort](/characters/mort)         | ??   | ??    | ??         | ??     | ![Mort](/characters/mort/m.webp =x100) |
 | Bazzert    | [Bazzert](/characters/bazzert)   | Elf   | Druid 8    | ??         | Circle of the  Land (Swamp)     | ![Bazzert](/characters/bazzert/bazzert.webp =x100) |
-| Bazzvrah   | [Bazzvrah](/characters/bazzvrah) | ??   | ??    | ??         | ??     | ![Bazzvrah](/characters/bazzvrah.webp =x100) |
+| Bazzvrah   | [Bazvrah](/characters/bazvrah) | ??   | ??    | ??         | ??     | ![Bazzvrah](/characters/bazzvrah.webp =x100) |
 | Bazzalt    | [Bazzalt](/characters/bazzalt)   | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![Bazzalt](/characters/bazzalt.webp =x100) |
 | Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![Drakham](/characters/drakham.webp =x100) |
 | Naracus    | [Naracus](/characters/naracus)   | ??   | ??    | ??         | ??     | ![Naracus](/characters/naracus.webp =x100) |
