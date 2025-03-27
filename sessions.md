@@ -2,7 +2,7 @@
 title: Sessions
 description: Recap of Sessions
 published: true
-date: 2025-03-25T23:59:06.310Z
+date: 2025-03-27T02:01:43.617Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -21,7 +21,6 @@ For a overview of the seasons for each campaign visit: [Seasons](/Seasons).
   - They confront the Red Archon, a powerful demonic figure, in a climactic battle.  
   - The campaign ends with the sealing of the Red Archon, but at great cost to the world.  
 
-> For detailed recaps, visit: [Campaign 1 Session Recaps](/sessions/campaign_1/overview).  
 
 #### **Seasons**  
 - **Season 1:** The party assembles, exploring the crumbling remnants of the Illithid Empire.  
@@ -38,8 +37,6 @@ For a overview of the seasons for each campaign visit: [Seasons](/Seasons).
   - **[Session 3](/sessions/campaign_2/session_3_summary):** The party explores the academy, with Tiberian uncovering Gilbert’s writings linked to demon summoning in the [Wizard Tower](/locations/wizard-tower). Goopy undergoes a traumatic divination with Professor Rose, revealing visions of a future explosion.  
   - **[Session 4](/sessions/campaign_2/session_4_summary):** The party deals with the aftermath of [Randy the Mimic’s](/npcs/randy-the-mimic) transformation into a winged creature, which abducts [Professor Chester](/npcs/professor-chester). The headmaster, [Arch-Sorcerer Tadumar Soulfire](/npcs/tadabar-soulfire), intervenes and offers the party a new dormitory.  
   - **[Session 5](/sessions/campaign_2/session_5_summary):** The party attends the Sorting Ceremony at the [Cathedral of Os](/locations/cathedral-of-os) and bonds over shared goals. Tiberian reveals his vendetta against Clan Norexias, Orin shares his debt to [Vamir](/npcs/vamir), and Goopy hints at being from the future.  
-
-> For detailed summaries, visit: [Campaign 2 Session Summaries](/sessions/campaign_2/overview).  
  
 #### **Seasons**  
 - **Season 1:** The party’s arrival at RVASSS, their first missions, and the discovery of dark forces at play.  
