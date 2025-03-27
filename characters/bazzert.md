@@ -2,13 +2,13 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-03-26T22:36:07.305Z
+date: 2025-03-27T00:39:13.249Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
 ---
 
-# Bazzert  
+# Bazzert
 
 > **Race:** Elf  
 > **Class:** Druid (Circle of the Land - Swamp)  
