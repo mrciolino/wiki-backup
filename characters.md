@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-27T01:57:52.049Z
+date: 2025-03-27T01:58:03.647Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-03T12:57:02.680Z
 # Characters
 List of non-player-characters from both campaigns and some information about them.
 
-> Vist **[Player Characters](/Player-Characters)** to see a list of character we have played over the years.
+> Vist **[Player Characters](/Player-Characters)** to see a list of characters we have played over the years.
 
 ## **Campaign 1**  
 
