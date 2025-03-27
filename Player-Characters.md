@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-27T01:55:07.747Z
+date: 2025-03-27T01:55:36.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
