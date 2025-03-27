@@ -2,7 +2,7 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-03-27T00:41:17.020Z
+date: 2025-03-27T01:59:59.525Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
@@ -15,6 +15,10 @@ dateCreated: 2025-03-26T22:28:43.636Z
 > **Alignment:** Chaotic Neutral  
 > **Background:** Guide  
 > **Traits:** Wild Shape, Natural Recovery, Darkvision, Ritual Casting, Land’s Stride, Fey Ancestry, Wild Companion, Mobile  
+
+## 📜 Character Art {.tabset}
+### Bazzert
+![bazzert.webp](/characters/bazzert/bazzert.webp)
 
 ## The End of the Beginning
 During [Season 1](/Seasons) of the **first campaign**, Bazzert drew cards from the feared `Deck of Many Things`. This resulted in 3 cards: one good, one important, and one evil. The first card had a picture of the Throne, giving Bazzert an ancient keep in the Jade Forest (later used by [Bazvrah](/characters/Bazvrah) for [The Red Keep](/locations/Mardun/Red-Keep)). The second card had a picture of the Vizier, giving Bazzert 3 questions that must be answered about anything in the world. Questions raced through the party members' minds, but then came the third card: a picture of "The Void", leaving Bazzert paralyzed on the ground in front of the party. He remained that way for two and a half years until the party regrouped to go after [Darmuth](/characters/Darmuth) in [Season 2](/Seasons). This was the state in which important items remained on Bazzert during his long-term coma.
