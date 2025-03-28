@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-03-26T21:23:30.584Z
+date: 2025-03-28T19:05:16.043Z
 tags: needs lots of work
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -42,7 +42,7 @@ This season focuses on the rise and fall of the illithid lich [Darmuth](/charact
 - Discovering the [Well of Many Worlds](/locations/well-of-many-worlds) and the crack in the sky.  
 
 #### Key Lore:  
-- [Mead](/characters/mead), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/frederina) at [Castle Arnsworth](/locations/castle-arnsworth) and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/fywick).  
+- [Mead](/characters/mead), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/frederina) at the Oracle's Fortress in Fywick and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/fywick).  
 - The party learns of a greater illithid threat beyond [Darmuth](/characters/darmuth).  
 - The devastation vermin (giant insectoid colossi) are introduced during early interdimensional travels.
 
