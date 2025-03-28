@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-03-28T02:10:16.064Z
+date: 2025-03-28T02:13:43.601Z
 tags: home, needs some work
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -22,15 +22,16 @@ The Age of Mortals come to end when Mortis Lux **Ascends** to take on the Ithili
 > 📝 **[Session Recaps](/sessions/campaign_1/overview)**  
 
 ## ⚔️ Campaign 2
-1000 years into the future a group of adventures atend a Royal Academy.
-> **Campaign 2 Duration:** Ongoing
-> 📖 **[Session Recaps](/sessions/campaign_2/overview)** 
+1000 years into the future, a group of adventurers attends a Royal Academy.  
+> **Campaign 2 Duration:** Ongoing  
+> 📖 **[Session Recaps](/sessions/campaign_2/overview)**
 
-## Adventures
-The primary setting for Campaigns 1 and 2 is the planet **Mardun**. While both campagin and various one-shots start on Mardun, they extends to various worlds and dimensions. 
+## 🏕️ Adventures
+The primary setting for Campaigns 1 and 2 is the planet **Mardun**. While both campaigns and various one-shots start on Mardun, they extend to various worlds and dimensions.
 
-> **Adventure Stories**
+> **Adventure Stories**  
 > Check out the [Adventures Page](/Adventures) to see a list of all stories of Mardun.
+
 
 ### Mardun  
 The starting world of the campaign. More details can be on [Marduns](/locations/Mardun)'s page. See the [Locations](/locations) page for more maps. 
