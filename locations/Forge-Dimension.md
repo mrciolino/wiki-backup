@@ -2,7 +2,7 @@
 title: Forge Dimension
 description: A section of the Realm of Fire Bazzdos has domain over.
 published: true
-date: 2025-03-25T23:56:29.038Z
+date: 2025-03-28T20:23:43.512Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-08-07T14:41:10.473Z
@@ -16,6 +16,11 @@ A domain within the **Realm of Fire**, serving as a hub for advanced manufacturi
 
 ## 💍 Ring of Factory
 A **magical ring** that opens a portal to and from the **Forge Dimension**, worn by [Bazzdos](/characters/bazzdos).
+
+## The Age of Acensded
+ffoge dimension, ocnce tAKEN FROM the realam of fire, returned to the realm after the mortis civil war. This destroyed the forge and left bazzdos without a Forge. 
+
+> See Event: City of Brass
 
 ### 🏗️ Manufactured & Produced Items
 - 🛡️ [Gilembror's-Appeasement](/items/Gilembror's-Appeasement)
