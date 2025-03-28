@@ -2,7 +2,7 @@
 title: Adventurer's Guild 
 description: Adventurer's Guild Description
 published: true
-date: 2025-03-28T19:10:27.761Z
+date: 2025-03-28T19:10:50.845Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-12T13:22:19.598Z
@@ -27,3 +27,6 @@ bazzdos hired them to get gond
 ##### Locations
 
 Fywick ….
+
+## recorded audio 0min to ....
+
