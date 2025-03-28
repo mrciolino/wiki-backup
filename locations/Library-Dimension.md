@@ -2,7 +2,7 @@
 title: Library Dimension
 description: Time Wimey Location of Knowledge
 published: true
-date: 2025-03-28T21:09:30.411Z
+date: 2025-03-28T21:29:47.909Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:43:40.698Z
@@ -10,22 +10,37 @@ dateCreated: 2024-08-15T02:43:40.698Z
 
 # Library Dimension
 
+So many events
 
 
-The smut (unknown regions)
+## backstory
 
-first meeting
+## time alteration shit
 
-librianes
+## first party interaction
+season 1 - 
 
-angel and demons
+Mortis lux
 
-gith potion
+jiggly puff
 
-tree of knolwedge
+## adalynn library card
 
-reading your own future
+### titan sent after us became librariens
 
-time flux how
+## agnels vs demons
+
+
+## Dewey Decminal????
+
+## tree of knowledge
+bazzvrah - trading past knowledfge for current knowledge - endless
+Before Bazzvrah (tree of knowdlege unknown)
+tre of knoweledge as a conglomeration of souls
+
+
+## Gith potion factory
+
+## seeing own future in a book
 
 
