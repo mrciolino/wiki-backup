@@ -2,7 +2,7 @@
 title: Drakham
 description: Dude who destroy Alford
 published: true
-date: 2025-03-28T01:49:08.107Z
+date: 2025-03-28T19:01:05.790Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:28:04.651Z
@@ -16,4 +16,4 @@ Crab
 ![drakham.png](/characters/adalynn/drakham.png)
 
 ## The Life
-Spider Potion 
+Bone Spider Potion driker enthusiast, Bitch v1 
