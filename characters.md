@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-27T01:58:03.647Z
+date: 2025-03-28T20:21:43.871Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -56,9 +56,8 @@ List of non-player-characters from both campaigns and some information about the
 | Professor Golda | [Professor Golda](/characters/professor-golda) | Dwarf | Associate of Professor Rose | Divination Assistant | Supportive, loyal, knowledgeable. |  
 | Professor Mekanor | [Professor Mekanor](/characters/professor-mekanor) | Unknown | Master of Blades | Fled from the Red Archon | Mysterious, skilled, haunted by his past. |  
 | Professor Daryl | [Professor Daryl](/characters/professor-daryl-isosaria-torsine-rintegra) | Human | Rowdy Professor | Royal Blood | Hard-drinking, rowdy, unpredictable. |  
-| Master Tanu | [Master Tanu](/characters/master-tanu) | Half-Orc | Master of the Academy | Academy Leader | Commanding, wise, protective of the academy. |  
+| Master Tanumar Soulfire | [Master Tanu](/characters/master-tanu) | Half-Orc | Master of the Academy | Academy Leader | Commanding, wise, protective of the academy. |  
 | Professor Bovog Wormbrew | [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew) | Dwarf | Artificer Professor | Artificer Expert | Gruff, skilled, shocking (literally). |  
-| Tadabar Soulfire | [Tadabar Soulfire](/characters/tadabar-soulfire) | Unknown | Mysterious Figure | Associated with the Academy | Enigmatic, powerful, influential. |  
 | Clara the Cleric | [Clara the Cleric](/characters/clara-the-cleric) | Half-Dwarf | Cleric | Healer | Kind, empathetic, loyal to the [Church of Mordredon](/organizations/church-of-mordredon). |  
 | Sergeant Lemrick | [Sergeant Lemrick](/characters/sergeant-lemrick) | Human | City Guard | Thomas’s Former Boss | Stern, duty-bound, politically savvy. |  
 | Treebert | [Treebert](/characters/treebert) | Wood Golem | Assistant | Helper at RVASSS | Tiny, helpful, brings breakfast. |  
