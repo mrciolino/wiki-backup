@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-28T01:52:26.216Z
+date: 2025-03-28T01:56:33.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -28,8 +28,8 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | Bazzert    | [Bazzert](/characters/bazzert)   | Elf   | Druid 8    | ??         | Circle of the  Land (Swamp) | ![bazzert.webp](/characters/bazzert/bazzert.webp =x100) | 
 | Bazzvrah   | [Bazvrah](/characters/Bazvrah) | ??   | ??    | ??         | ??     | ![bazvrah.webp](/characters/bazzert/bazvrah.webp =x100) |
 | Bazzalt    | [Bazzalt](/characters/Bazzalt)  | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![bazzalt.webp](/characters/bazzert/bazzalt.webp =x100) |
-| Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![Drakham](/characters/drakham.webp =x100) |
-| Narascus    | [Narascus](/characters/Narascus)   | ??   | ??    | ??         | ??     | ![Naracus](/characters/naracus.webp =x100) |
+| Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![drakham.png](/characters/adalynn/drakham.png =x100) |
+| Narascus    | [Narascus](/characters/Narascus)   | ??   | ??    | ??         | ??     | ![narascus.png](/characters/adalynn/narascus.png =x100) |
 
 ## **Campaign 2**  
 
