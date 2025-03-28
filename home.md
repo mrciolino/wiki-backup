@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-03-28T02:16:03.569Z
+date: 2025-03-28T02:17:06.909Z
 tags: home, needs some work
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -11,7 +11,7 @@ dateCreated: 2024-05-29T19:29:59.510Z
 # Low Bar Brawlers  
 Eleven adventurers set out on a perilous journey into an unknown world—this is the tale of their chaotic adventure. A thousand years later, two new adventurers step forward to uncover another untold story.  
 
-> ## Editing  
+> ### Editing  
 > We are building this wiki using a bottom-up approach. Check the [To-Do Page](/todo) to see where you can contribute.  
 > Unfinished content is indicated by [unlinked content](/test), which may lead to incorrect paths or suggest that a new page needs to be created.  {.is-info}
 
