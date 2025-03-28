@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-03-28T01:36:37.325Z
+date: 2025-03-28T01:52:26.216Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -29,7 +29,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | Bazzvrah   | [Bazvrah](/characters/Bazvrah) | ??   | ??    | ??         | ??     | ![bazvrah.webp](/characters/bazzert/bazvrah.webp =x100) |
 | Bazzalt    | [Bazzalt](/characters/Bazzalt)  | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![bazzalt.webp](/characters/bazzert/bazzalt.webp =x100) |
 | Drakham    | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![Drakham](/characters/drakham.webp =x100) |
-| Naracus    | [Naracus](/characters/naracus)   | ??   | ??    | ??         | ??     | ![Naracus](/characters/naracus.webp =x100) |
+| Narascus    | [Narascus](/characters/Narascus)   | ??   | ??    | ??         | ??     | ![Naracus](/characters/naracus.webp =x100) |
 
 ## **Campaign 2**  
 
