@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-22T16:49:52.992Z
+date: 2025-03-28T19:08:17.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -76,7 +76,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar Bay](/locations/kaltrosar-bay) fire. | - | - | Active |  
 | [Assassins Guild (Library Dimension)](/organizations/assassins-guild) | A secretive guild. | [Library Dimension](/locations/library-dimension) | - | Active |  
 | [Adventurers Guild (Fywick Main Office)](/organizations/adventurers-guild) | Supports adventurers. | [Fywick](/locations/fywick) | - | Active |  
-| [The Bartender's Guild](/organizations/bartenders-guild) | A guild for bartenders. | - | - | Active |  
+| [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
 
 
 ## Campaign 2
@@ -90,7 +90,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [Cai Pao Clan](/organizations/cai-pao-clan) | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
-| [Clan Norexias](/organizations/norexias-clan)| Brass Dragonborn infiltrator. Killed [Tiberian Caipao](/characters/tiberian-caipao)'s Parents. | - | - | Active |
+| [Clan Norixius](/organizations/norexias-clan)| Brass Dragonborn infiltrator. Killed [Tiberian Caipao](/characters/tiberian-caipao)'s Parents. | - | - | Active |
 
 #### **Cults**  
 | Name | Description | Location | Notable Members | Status |  
