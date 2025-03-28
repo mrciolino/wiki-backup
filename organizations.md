@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-28T19:29:35.897Z
+date: 2025-03-28T20:38:04.707Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -74,7 +74,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Headquarters | Leader | Status |  
 |------|-------------|-------------|--------|--------|  
 | [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar Bay](/locations/kaltrosar-bay) fire. | - | - | Active |  
-| [Assassins Guild (Library Dimension)](/organizations/assassins-guild)  | A secretive guild. | [Library Dimension](/locations/library-dimension) | - | Active |  
+| [Assassins Guild - Library Dimension](/organizations/assassins-guild)  | A secretive guild. | [Library Dimension](/locations/library-dimension) | - | Active |  
 | [Adventurer's-Guild](/organizations/Adventurer's-Guild) | Supports adventurers. | [Fywick](/locations/fywick) | - | Active |  
 | [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
 
