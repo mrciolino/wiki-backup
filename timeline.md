@@ -2,7 +2,7 @@
 title: timeline
 description: 
 published: true
-date: 2025-03-25T16:54:53.715Z
+date: 2025-03-28T19:15:34.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -45,17 +45,17 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **Fall of the Illithid Empire:** *TODO*
 - **Giants vs. Dragons War:** The Giants' defeat marks the end of the **Age of Giants** and the start of the **Age of Dragons** (2150–2100 BC).
 
-### The Age of the Pythagorean Empire
-
-- **Rise & Fall:**  
-  - The first mortal empire to harness **[Runic Magic](/magic/runes)**.  
-  - The empire collapses due to internal strife and dragon dominance.
-
 ### The Age of Dragons
 
 - **2150 BC:** Birth of **[Inferno](/characters/inferno)**.
 - **2100 BC:** The **Desolation of Asmal** ends the **Age of Dragons** and starts the **Age of Mortals**.
 - **[Darmuth](/characters/darmuth)**'s body begins to form.
+
+### The Age of the Pythagorean Empire
+
+- **Rise & Fall:**  
+  - The first mortal empire to harness **[Runic Magic](/magic/runes)**.  
+  - The empire collapses due to internal strife and dragon dominance.
 
 ### The Age of Mortals
 
