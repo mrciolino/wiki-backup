@@ -2,7 +2,7 @@
 title: Norixius
 description: The evil clan or something
 published: true
-date: 2025-03-29T21:40:52.202Z
+date: 2025-03-29T21:51:08.018Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:17:31.137Z
@@ -14,10 +14,7 @@ Your content here
 
 ## insecurities
 
-
 ## fashion
-
-## business (how they make money)
 
 ### hard vs soft power
 
@@ -29,7 +26,9 @@ all clans left kaltrazar bay to move to gothrian region (devils enslaved kaltraz
 ### ally with os and gothriathon
 
 ## leader (campaign 2) 1000 ad
-Xyrax
+past leader of the clan: Dontera - in her 60s (more peacefull)
+
+current leader: Xyrax - young 27 years old
 
 ### interactions with the party
  minor clan advisor who went into the RVASS 
@@ -55,5 +54,11 @@ absolutist
 Cai Pao conflict (999 ad) when they killed tiberians parents
 
 ## Power base over time
+low point being exiled, chapel of victory, from kaltrazar bay around 483 AD. (last major military action by Os). now thar largest (1000 ad)
+
+## business (how they make money)
+weapons > magic weapons 
+
+## other notes
 
 
