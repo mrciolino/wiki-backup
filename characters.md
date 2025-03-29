@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-28T20:21:43.871Z
+date: 2025-03-29T22:19:14.414Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -68,6 +68,12 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Link | Race | Class | Background | Notable Traits |  
 |------|------|------|-------|------------|----------------|  
 | Gilbert | [Gilbert](/characters/gilbert) | Human | Cult Leader | Former Student at RVASSS | Manipulative, dangerous, tied to blood magic. Killed by [Professor Osdimir](/characters/professor-osdimir-lataniel-dera-vrentica). |  
+
+## **Characters From Other Tiems**
+
+| Name | Link | Race | Class | Background | Notable Traits |  
+|------|------|------|-------|------------|----------------|  
+| Vruush  | [Vruush ](/characters/vruush) | Dragonborn | Clan Figure | A Dragonborn Legend | Details here |  
 
 
 
