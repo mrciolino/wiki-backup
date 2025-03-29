@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-28T20:39:12.048Z
+date: 2025-03-29T22:15:11.154Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -87,6 +87,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS)](/organizations/rvasss) | Central hub for education and power in Vrintia. | Vrintia | [Headmaster Tadumar Soulfire](/characters/tadumar-soulfire), [Professor Osdimir Lataniel Dera Vrentica](/characters/professor-osdimir-lataniel-dera-vrentica), [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew), [Professor Alressa Rose](/characters/professor-alressa-rose) | Active |  
 
 #### **Clans**  
+The [Five Dragonborn Clans](/organizations/dragonborn-clans)
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [Cai Pao Clan](/organizations/cai-pao-clan) | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
