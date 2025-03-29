@@ -2,7 +2,7 @@
 title: Norixius
 description: The evil clan or something
 published: true
-date: 2025-03-29T21:51:08.018Z
+date: 2025-03-29T21:53:02.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:17:31.137Z
@@ -60,5 +60,5 @@ low point being exiled, chapel of victory, from kaltrazar bay around 483 AD. (la
 weapons > magic weapons 
 
 ## other notes
-
+reproduction
 
