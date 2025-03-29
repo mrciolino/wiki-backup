@@ -2,63 +2,57 @@
 title: Norixius
 description: The evil clan or something
 published: true
-date: 2025-03-29T21:53:02.106Z
+date: 2025-03-29T22:13:53.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:17:31.137Z
 ---
 
-# Norixius (Clan of "Gold" Dragonborns)
-Your content here
+### **Clan Norixius (The "Gold" Dragonborn Clan)**  
 
+Clan Norixius is one of the five major dragonborn clans in the Kingdom of Rintica, renowned—and often ridiculed—for their insistence on being called "gold" dragonborn despite being predominantly brass dragonborn. They perpetuate this myth to elevate their status, claiming their lightning breath (a trait of blue dragonborn, not gold) makes them superior. This deception stems from deep-seated insecurities about their appearance and standing among other dragonborn.  
 
-## insecurities
+#### **Insecurities and Fashion**  
+The clan’s members are highly image-conscious, compensating for their perceived inadequacies with extravagant displays of wealth. They adorn themselves with silver jewelry and gemstones, preferring these over gold to contrast against their brassy scales. Their fashion emphasizes opulence—fine silks, intricately crafted armor, and vibrant clothing—all designed to project superiority.  
 
-## fashion
+#### **Hard vs. Soft Power**  
+While Clan Norixius outwardly flaunts soft power (diplomacy, wealth, and influence), they heavily invest in hard power (military strength). They are the most militant of the dragonborn clans, maintaining a formidable fighting force despite their preference for appearing as refined elites. Their leadership operates like a "bucket of crabs," where internal competition is fierce, and rising to the top requires either overwhelming strength or strategic alliances.  
 
-### hard vs soft power
+### **The Five Clans and Migration**  
+Originally from Kaltrazar Bay, all five dragonborn clans migrated south to the Gothrian region (modern-day Rintica) after the kings of Kaltrazar allied with devils, instituting slavery and tyranny. The Norixius and Cai Pao clans settled near **Inferno’s Rest** (the Dragon Temple), while the other three clans reside in **Tiamat’s Rest**.  
 
-## the five clans *
-cai pao, norixius (bot of inferno rest, dragon rest)
-rest in tiamar's rest (3 other clans)
-all clans left kaltrazar bay to move to gothrian region (devils enslaved kaltrazar)
+The exodus culminated in the **Chapel of Victory incident (483 AD)**, where Kaltrazar’s forces ambushed the fleeing dragonborn. Os Rintica and his knights intervened, crushing the slavers and securing the clans' loyalty to Rintica. This marked the last major military campaign led by Os himself.  
 
-### ally with os and gothriathon
+### **Leadership (Campaign 2 Era, 1000 AD)**  
+- **Past Leader:** **Dontera**, a diplomatic and peaceful ruler in her 60s, met a suspicious end—allegedly "falling onto 37 knives."  
+- **Current Leader:** **Xyrax**, a 27-year-old aggressive strategist who likely orchestrated Dontera’s assassination. Under him, the clan has grown more ruthless, seizing assets and assassinating rivals, particularly from Clan Cai Pao.  
 
-## leader (campaign 2) 1000 ad
-past leader of the clan: Dontera - in her 60s (more peacefull)
+#### **Interactions with the Party**  
+The party has only encountered a minor Norixius advisor during an RVASS induction ceremony.  
 
-current leader: Xyrax - young 27 years old
+### **Notable Members**  
+- **Krivesh:** A seemingly immortal dragonborn affiliated with the Adventurers' Guild. Despite appearing mortal, he has lived for centuries, possibly due to time magic or a hidden curse.  
+- **Vruush:** A legendary warrior who left the clan to prove himself by slaying dragons. His exploits include:  
+  - **The Curse of Vruush:** Adventuring groups he left behind often met gruesome fates.  
+  - **The Destruction of Three Tips Gorge:** In a week-long battle, Vruush lured four dragons (two red, one blue, one green) into a trap using a merchant caravan as bait. The clash destroyed the gorge, and though Vruush perished, his halberd—bearing the blood of three dragon types—became a revered clan relic.  
 
-### interactions with the party
- minor clan advisor who went into the RVASS 
+### **Founding and Rebellion**  
+Founded by **Norix** between **2000 BC and 0 BC**, the clan claims he led the dragonborn rebellion against their draconic enslavers using the **Norixius Razor**, a dagger that steals shadows of its victims. The blade, now lost, remains a sought-after artifact with a king’s ransom offered for its return.  
 
-## notable members
-krivesh (seemingly immortal dragonborn), in adventurer's guild
-Vruush (famed member who left the clan to slay a dragon to prove himeself) in sphinx one shot *
- - The Curse of Vruush
- - The Legend of Vruush and his Halberd
- - Story of Vruush hunting the dragons in the gorge (week long battle)
- 	- remaining ancient drgons died alongside vruush, gorge purposefully collapsed into wasteland
- 
-> normal dragonborns live 100 years
+### **Morality and Conflicts**  
+- **Morality:** Ranges from **lawful evil to chaotic neutral**. They value honor in a mafia-like sense—betrayals are met with extreme retribution.  
+- **Key Conflicts:**  
+  - **Cai Pao (999 AD):** Norixius assassinated Cai Pao’s leaders and seized their wealth, becoming the dominant clan.  
+  - **Afrididi Refugees:** Compete for influence in Dufurna’s Rest.  
+  - **Kobolds:** Despise them but exploit their labor for mass weapon production.  
 
-## founding 
-found by "norix" ssometime b/w 2000bc and 0 bc. Norixi Razor, Adalynns Blades during the age of ascended, lost to time.
-fought against the dragons to free the dragonborn, "the rebellion"
+### **Power and Business**  
+- **Low Point:** Exile from Kaltrazar Bay (483 AD).  
+- **Current Status (1000 AD):** The largest and richest clan, thanks to weapon manufacturing (halberds, crossbows, medium armor) and recent Cai Pao acquisitions. They seek **dragon-forged weapons**, leveraging Inferno’s Rest’s resources.  
+- **Reproduction:** Dragonborn give live birth (no eggs). Hybrid offspring’s scale color depends on lunar phases—metallic/chromatic dominance shifts accordingly.  
 
-## morality
-absolutist
+### **Miscellaneous Notes**  
+- **Yellow & Purple Dragons:** New draconic types have emerged, including royal purple dragons tied to Inferno’s Rest’s shogunate lineage.  
+- **Giants:** An emerging threat, though details remain unexplored.  
 
-## conflicts
-Cai Pao conflict (999 ad) when they killed tiberians parents
-
-## Power base over time
-low point being exiled, chapel of victory, from kaltrazar bay around 483 AD. (last major military action by Os). now thar largest (1000 ad)
-
-## business (how they make money)
-weapons > magic weapons 
-
-## other notes
-reproduction
-
+Clan Norixius embodies arrogance, ambition, and a relentless drive for dominance—whether through gold-plated lies or bloodstained halberds.
