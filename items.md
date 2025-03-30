@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-03-30T21:50:20.329Z
+date: 2025-03-30T21:50:55.061Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -51,7 +51,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Rathwing's Memory Device](/items/Rathwings-Memory-Device) | Uncommon | Item | Spoops |  Placing the device on the body of a creature would create a projection of that creatures memories. |
 | [Book On Fighting Angels Demons and Gods](/items/Book-On-Fighting-Angels-Demons-And-Gods) | Epic | Book | Spoops |  A book with a self explanatory title. Caution: Reading may cause instant death. |
 | [Countdown Hourglass](/items/Countdown-Hourglass) | Epic | Item | Spoops |  An hourglass counting down to a particular event. |
-| [Scroll of Tree Stride](/items/Scroll of Tree Stride) | Uncommon | Scroll | Spoops |  A scroll containing one charge of Tree Stride |
+| [Scroll of Tree Stride](/items/Scroll-Of-Tree-Stride) | Uncommon | Scroll | Spoops |  A scroll containing one charge of Tree Stride |
 | [Magic Tiara Mark of Skill](/items/Magic-Tiara-Mark-Of-Skill) | Epic | Tiara | Spoops |  A tiara that allows the wearer to cast empowerment on a creature without using a spell slot or concentration. |
 
 
