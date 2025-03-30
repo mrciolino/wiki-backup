@@ -2,13 +2,13 @@
 title: Pythagorean Empire
 description: The super nerds of  Mardun
 published: true
-date: 2025-03-30T22:45:55.036Z
+date: 2025-03-30T22:46:14.604Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T18:49:03.060Z
 ---
 
-# **THE PYTHAGOREAN EMPIRE**  
+# **The Pythagorean Empire**  
 **They didn’t just use magic—they *invented* its rules.**
 
 ## **1. Founding: Nomads and the Geometric Cult**  
