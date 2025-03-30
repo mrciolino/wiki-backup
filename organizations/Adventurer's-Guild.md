@@ -2,7 +2,7 @@
 title: Adventurer's Guild 
 description: Adventurer's Guild Description
 published: true
-date: 2025-03-30T16:03:51.318Z
+date: 2025-03-30T16:07:27.763Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-12T13:22:19.598Z
@@ -12,9 +12,6 @@ dateCreated: 2024-08-12T13:22:19.598Z
 
 ## **Overview**  
 The Adventurers Guild is a secretive and immensely powerful organization composed of individuals who operate beyond the reach of ordinary mortal society. They inhabit a custom demiplane, stitched together from smaller pocket dimensions using high-level magic (including 9th-level spells and multiple conjoined 8th-level spells). Their true motives are unknown, but they function as puppet masters, employing adventurers as disposable agents in a hidden conflict that spans time and reality. The Guild maintains near-unlimited financial resources, allowing them to fund operations across multiple planes and timelines.
-
-
-[library_dimension_1.mp3](/library_dimension_1.mp3)
 
 ## **Structure & Operations**  
 The Guild's base is an extradimensional stronghold, forged through the fusion of multiple demiplanes—a feat only possible with magic of the highest order. Their leadership includes:
