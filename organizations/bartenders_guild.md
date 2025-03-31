@@ -2,7 +2,7 @@
 title: The Bartender's Guild
 description: Yet Another Secret Society
 published: true
-date: 2025-03-31T18:58:37.315Z
+date: 2025-03-31T18:59:37.263Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T21:11:10.961Z
@@ -10,7 +10,7 @@ dateCreated: 2024-08-17T21:11:10.961Z
 
 # **The Bartender's Guild**
 
-> Bartender Guild Adventure Guild | *Voice Recording - Unknown* | 48 kHz at 24 kbps
+> Bartender Guild Adventure Guild | *Voice Recording - Ryan* | 48 kHz at 24 kbps
 > <sub> Notes below are independent from the audio.</sub>
 >
 > <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/bartender_guild_adventure_guild.opus">Your browser does not support the audio tag. </audio>  
