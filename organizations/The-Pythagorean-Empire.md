@@ -2,7 +2,7 @@
 title: Pythagorean Empire
 description: The super nerds of  Mardun
 published: true
-date: 2025-03-30T22:46:14.604Z
+date: 2025-03-31T18:54:04.820Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T18:49:03.060Z
@@ -10,6 +10,10 @@ dateCreated: 2025-03-30T18:49:03.060Z
 
 # **The Pythagorean Empire**  
 **They didn’t just use magic—they *invented* its rules.**
+
+> The Pythagorean Empire | *Voice Recording - Peter* | 48 kHz at 24 kbps 
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/the_pythagorean_empire.opus">Your browser does not support the audio tag. </audio>
+{.is-info}
 
 ## **1. Founding: Nomads and the Geometric Cult**  
 The Pythagorean Empire began as an alliance between **nomadic "line-walkers"** and a **geometric cult of arcanomancers**. For millennia, the nomads had followed the leylines intuitively, drawn to their magical currents like moths to flame. Meanwhile, the cult—comprising cartographers, astronomers, and proto-wizards—studied the leylines’ movements, correlating them with celestial patterns.  
