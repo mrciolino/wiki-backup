@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-31T02:43:09.963Z
+date: 2025-03-31T18:48:30.727Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -108,4 +108,8 @@ The [Five Dragonborn Clans](/organizations/dragonborn-clans)
 |------|-------------|----------|------------------|--------|  
 | [City Guard of Vrintia](/organizations/city-guard-of-vrintia) | The law enforcement organization in Vrintia. | Vrintia | [Sergeant Lemrick](/characters/sergeant-lemrick), [Thomas Stonebrook](/characters/thomas-stonebrook) | Active |  
 
+## From Other Times
+| Name | Description | Location | Notable Members | Status |  
+|------|-------------|----------|------------------|--------|  
+| [The-Pythagorean-Empire](/organizations/The-Pythagorean-Empire)| The Magic Wranglers | Vrintia |  | Fallen |  
 
