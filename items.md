@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-03-31T15:20:56.737Z
+date: 2025-03-31T15:21:30.301Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -35,7 +35,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Wind Amulet](/items/Wind-Amulet) | Legendary | Necklace | Spoops |  Provides Immunity to Wind. |
 | [Jack Sparrow's Compass](/items/Jack-Sparrows-Compass) | Wonderous | Compass | Spoops |  A magical compass, points towards whatever the holder desires. |
 | [Silver Gauntlet](/items/Silver-Gauntlet) | Wonderous | Gauntlet | Spoops |  A Silver Gauntlet that allows the user to see a particular ghostly apparition, and improves non-magical ranged accuracy and damage.  |
-| [The Spoops Gun](/items/Spoops-Gun) | Legendary | Gun | Spoops |  A special gun created specifically to launch the Spoops Blade / Shared of Divinity as a projectile. |
+| [The Spoops Gun](/items/The-Spoops-Gun) | Legendary | Gun | Spoops |  A special gun created specifically to launch the Spoops Blade / Shared of Divinity as a projectile. |
 | [Ring of Misty Step](/items/Ring-Of-Misty-Step) | Rare | Ring | Spoops |  A ring containing 3 charges of Misty Step per long rest. |
 | [Ring of Enlarge Reduce](/items/Ring-Of-Enlarge-Reduce) | Legendary | Ring | Spoops | A ring studded with 10 Diamonds, each containing a charge of Enlarge-Reduce. |
 | [Shield Ring](/items/Shield-Ring) | Epic | Ring | Spoops |  Part of a set of magical items, the other item being the [Shield Generator](/items/Shield-Generator). Allows passage through the Shield Generator's shield. |
