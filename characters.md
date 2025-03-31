@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-30T18:51:36.283Z
+date: 2025-03-31T22:11:25.469Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -23,7 +23,7 @@ List of non-player-characters from both campaigns and some information about the
 | *[Knott Emportent (Create Page)](/characters/knott-emportent)* | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the Well of Many Worlds. |  
 | [Gilembror](/characters/gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in Erriad. |  
 | *[Tony Mozzarella (Create Page)](/characters/tony-mozzarella)* | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in FIWIC’s Bartenders Guild. |  
-| *[Bomb the Bear (Create Page)](/characters/bomb-the-bear)* | Animal Companion | Killed by Rathwing’s cult in Season 1. Later resurrected as an undead? (Unclear from transcript). |  
+| *[Bomb the Bear](/characters/Bomb-the-Bear)* | Animal Companion | Killed by Rathwing’s cult in Season 1. Later resurrected as an undead? (Unclear from transcript). |  
 | [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in Alford before its destruction. Possibly linked to Illiard’s family. |  
 | *[Josh the Drake (Create Page)](/characters/josh-the-drake)* | Draconic Ally | A drake companion or ally, possibly tied to the dragonborn clans of Calchasarbay. |  
 | *[Doom Slayer (Create Page)](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
