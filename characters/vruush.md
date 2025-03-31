@@ -2,13 +2,17 @@
 title: Vruush
 description: The legend of the dragonborn who slayed four dragons at once.
 published: true
-date: 2025-03-29T22:19:50.537Z
+date: 2025-03-31T19:09:02.972Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T22:19:50.537Z
 ---
 
-## **Vruush – The Cursed Dragonborn Legend**  
+# **Vruush – The Cursed Dragonborn Legend**  
+
+> **Norixius Dragonborn Clans / Vruush** | *Voice Recording - Ryan* | 48 kHz at 24 kbps  
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/norixiu_dragonborn_clans_vruush.opus">Your browser does not support the audio tag.</audio>  
+{.is-info}
 
 ### **Background**  
 - **Clan:** Norixius.  
