@@ -2,7 +2,7 @@
 title: Norixius
 description: The evil clan or something
 published: true
-date: 2025-03-31T19:08:16.921Z
+date: 2025-03-31T19:08:40.298Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:17:31.137Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-29T21:17:31.137Z
 
 # **Clan Norixius (The "Gold" Dragonborn Clan)**  
 
-> **Norixiu Dragonborn Clans Vruush** | *Voice Recording - Ryan* | 48 kHz at 24 kbps  
+> **Norixius Dragonborn Clans / Vruush** | *Voice Recording - Ryan* | 48 kHz at 24 kbps  
 > <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/norixiu_dragonborn_clans_vruush.opus">Your browser does not support the audio tag.</audio>  
 {.is-info}
 
