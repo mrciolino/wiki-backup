@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-31T22:11:25.469Z
+date: 2025-03-31T22:14:57.996Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -27,7 +27,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in Alford before its destruction. Possibly linked to Illiard’s family. |  
 | *[Josh the Drake (Create Page)](/characters/josh-the-drake)* | Draconic Ally | A drake companion or ally, possibly tied to the dragonborn clans of Calchasarbay. |  
 | *[Doom Slayer (Create Page)](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
-| *[Mechatarasque (Create Page)](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by GESCO-WRM or the Pythagoreans. |  
+| *[Mechatarasque](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by GESCO-WRM or the Pythagoreans. |  
 | *[Inferno]* | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
 
 ---
