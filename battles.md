@@ -2,14 +2,14 @@
 title: Battles
 description: 
 published: true
-date: 2025-03-23T17:18:19.311Z
+date: 2025-03-31T22:04:40.385Z
 tags: battles
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
 ---
 
 # Battles Overview
-Overview of memorable battles during [Campaign 1](/campaigns/campaign-1) and [Campaign 2](/campaigns/campaign-2).
+Overview of memorable battles during [Campaign 1](/sessions/campaign_1/overview) and [Campaign 2](/sessions/campaign_2/overview).
 
 ## Campaign 1
 
