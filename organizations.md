@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-31T18:48:30.727Z
+date: 2025-03-31T18:54:52.500Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -111,5 +111,5 @@ The [Five Dragonborn Clans](/organizations/dragonborn-clans)
 ## From Other Times
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
-| [The-Pythagorean-Empire](/organizations/The-Pythagorean-Empire)| The Magic Wranglers | Vrintia |  | Fallen |  
+| [The-Pythagorean-Empire](/organizations/The-Pythagorean-Empire)| The Magic Wranglers |  |  | Fallen |  
 
