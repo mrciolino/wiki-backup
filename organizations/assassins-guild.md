@@ -2,7 +2,7 @@
 title: Assassins Guild
 description: Give me a heads up if anyone tries to kill me.
 published: true
-date: 2025-03-31T02:26:13.666Z
+date: 2025-03-31T18:55:36.932Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T20:01:49.843Z
@@ -11,6 +11,10 @@ dateCreated: 2025-03-28T20:01:49.843Z
 # Assassins Guild
 
 The Assassins Guild is a feared and enigmatic organization operating from the Library Dimension, a realm where all written knowledge is eventually collected, and time flows inconsistently. The guild resides atop the Mountain of Assassination Notes, a vast pile of contracts spanning the multiverse, determining their targets from the ever-growing collection of assassination requests. Due to their interdimensional nature, no target is beyond their reach, and they ensure payment through a strict enforcement policy—failure to pay often results in the client becoming the next target.
+
+> Assassins' Guild Library Dimension | *Voice Recording - Ryan* | 48 kHz at 24 kbps  
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/assassins_guild_library_dimension.opus">Your browser does not support the audio tag. </audio>  
+{.is-info}
 
 ## Structure and Operations
 
