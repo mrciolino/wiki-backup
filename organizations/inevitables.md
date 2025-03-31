@@ -2,7 +2,7 @@
 title: The Inevitables
 description: Who the fuck are they?
 published: true
-date: 2025-03-31T02:09:39.247Z
+date: 2025-03-31T18:59:15.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T16:39:20.468Z
@@ -10,6 +10,10 @@ dateCreated: 2025-03-30T16:39:20.468Z
 
 # **Inevitables**  
 *Created by lawful neutral god-like robots, existing outside of time, and practically immortal.*  
+
+> Inevitables | *Voice Recording - Ryan* | 48 kHz at 24 kbps  
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/inevitables.opus">Your browser does not support the audio tag. </audio>  
+{.is-info}
 
 The Inevitables are an order of divine constructs tasked with enforcing cosmic laws, agreements, and the natural order. They are not a traditional "race" or organization but function as celestial arbiters, akin to angels or modrons. Most were created by **Primus**, the lawful neutral god ruling Mechanus, though other deities may also commission them.  
 
