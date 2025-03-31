@@ -2,13 +2,13 @@
 title: Library Dimension
 description: Time Wimey Location of Knowledge
 published: true
-date: 2025-03-31T19:00:08.900Z
+date: 2025-03-31T19:00:14.911Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:43:40.698Z
 ---
 
-# The Library Dimension: Comprehensive Analysis
+# The Library Dimension
 
 > Library Dimension | *Voice Recording - Ryan* | 48 kHz at 24 kbps  
 > <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/library_dimension.opus">Your browser does not support the audio tag. </audio>  
