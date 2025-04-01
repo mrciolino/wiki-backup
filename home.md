@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-04-01T01:54:04.435Z
+date: 2025-04-01T01:56:18.835Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -20,8 +20,10 @@ The Journey began Friday Dec 27th 2019 at Zia Maria Little Italy: https://www.zi
 ## 🏹 Campaign 1
 The Age of Mortals come to end when Mortis Lux **Ascends** to take on the Ithilid threat.
 > **Campaign 1 Duration:** Five Years (2020-2025)
+> **Start Date:** Friday Dec 27th 2019 at Zia Maria Little Italy
+> **End Date:** Monday Nov 4th 2024
 > 📖 **[Season Summaries](/Seasons)**  
-> 📝 **[Session Recaps](/sessions/campaign_1/overview)**  
+> 📝 **[Session Recaps](/sessions/campaign_1/overview)**
 
 ## ⚔️ Campaign 2
 1000 years into the future, a group of adventurers attends a Royal Academy.  
