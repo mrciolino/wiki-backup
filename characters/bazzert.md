@@ -2,7 +2,7 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-04-01T00:25:23.148Z
+date: 2025-04-01T00:28:19.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-26T22:28:43.636Z
 
 # Bazzert
 
-> [Character Sheet](/characters/bazzert/bazzert___roll20_characters.pdf)
+> [Character Sheet](/characters/bazzert/bazzertcharactersheet.pdf)
 > **Race:** Elf  
 > **Class:** Druid (Circle of the Land - Swamp)  
 > **Alignment:** Chaotic Neutral  
