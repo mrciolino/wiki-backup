@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2025-03-27T23:33:30.420Z
+date: 2025-04-01T20:31:39.909Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-02T04:58:07.552Z
 
 # Bazzdos
 
-A **powerful** warforged artificer with an **almost indestructible** body. While not a part of the Bazz Bros Family ([Bazzert](/characters/Bazzert), [Bazvrah](/characters/Bazvrah), [Bazzalt](/characters/Bazzalt)), his name carries their legacy forward.
+A **powerful** warforged artificer with an **almost indestructible** body. While not a part of the Bazz Bros Family ([Bazzert](/characters/bazzert), [Bazvrah](/characters/Bazvrah), [Bazzalt](/characters/Bazzalt)), his name carries their legacy forward.
 
 ---
 
