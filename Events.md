@@ -2,7 +2,7 @@
 title: Events
 description: Glossary of Memorable Events in the Low Bar Brawlers
 published: true
-date: 2025-04-01T01:00:06.525Z
+date: 2025-04-01T01:00:54.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T13:18:10.934Z
@@ -17,7 +17,7 @@ dateCreated: 2025-03-25T13:18:10.934Z
 | **Pirate Raid**   | A major pirate assault that reshaped regional power. | ??? | **[Altricia](/locations/altricia)** |
 |	**The Deal with the Council of the Gods** |	The loss of the boon, council of the gods Event to be filled in | 0 AD	|	|
 | **Time Chamber 1**	| Spoops Blade + Jngmgander	|	|	|
-| **Time Chamber 2**	|	Spoops Blade + Titianite Blade + ring of magnificant size|	|	|
+| **Time Chamber 2**	|	(Spoops Blade + Titianite Blade) shard divinity + ring of magnificant size|	|	|
 | **Time Chamber 3**	| Improve Shard of Divinty + Lasers + Lens	|	|	|
 
 ## Campaign 2
