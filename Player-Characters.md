@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-01T00:42:51.139Z
+date: 2025-04-01T00:43:20.835Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -43,8 +43,4 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Oran](/characters/oran)                  				 | Deep Gnome | Soulknife Rogue   | Bounty Hunter     | Cautious, resourceful, driven by debt, mysterious. | ![oran_dusktea.avatar.webp](/characters/oran_dusktea.avatar.webp =x100)  |
 | [Baloo](/characters/baloo)                				 | Bugbear    | Bard              | Entertainer       | Humorous, resilient, determined to change perceptions, gambling addiction. | ![baloo.avatar.webp](/characters/baloo.avatar.webp =x100) |
 
-### **Character Images**  
-- **Goopy Globulon:** No image provided.  
-- **Breezy Bee:** No image provided.  
-- **Oran:** No image provided.  
-- **Baloo:** No image provided.
+
