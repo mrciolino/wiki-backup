@@ -2,7 +2,7 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-03-27T01:59:59.525Z
+date: 2025-04-01T00:24:56.367Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
@@ -61,3 +61,5 @@ When planning the assassination of the Pirate King of Sargossa:
 > 4: Kill the PK while he is sleeping and kill the other guards in the room with conjure fey  
 > 5: Take an item of the PK's, something small that fits in a bag, and leave the castle with the crew, going somewhere remote  
 > 6: Kill the crew  
+
+## Character Sheets [Bazzert PDF](/characters/bazzert/bazzert___roll20_characters.pdf)
