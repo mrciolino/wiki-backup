@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-04-01T01:56:18.835Z
+date: 2025-04-01T01:59:50.979Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -28,6 +28,8 @@ The Age of Mortals come to end when Mortis Lux **Ascends** to take on the Ithili
 ## ⚔️ Campaign 2
 1000 years into the future, a group of adventurers attends a Royal Academy.  
 > **Campaign 2 Duration:** Ongoing  
+> **Start Date:** Monday Feb 3rd 2025
+> **End Date:** TBD
 > 📖 **[Session Recaps](/sessions/campaign_2/overview)**
 
 ## 🏕️ Adventures
