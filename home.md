@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-03-28T14:59:04.215Z
+date: 2025-04-01T01:53:47.657Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -10,6 +10,8 @@ dateCreated: 2024-05-29T19:29:59.510Z
 
 # Low Bar Brawlers  
 Eleven adventurers set out on a perilous journey into an unknown world—this is the tale of their chaotic adventure. A thousand years later, two new adventurers step forward to uncover another untold story.  
+
+The Journey began Friday Dec 17th 2019 at Zia Maria Little Italy: https://www.ziamarialittleitaly.com/
 
 > **Editing**  
 > We are building this wiki using a bottom-up approach. Check the [To-Do Page](/todo) to see where you can contribute.  
