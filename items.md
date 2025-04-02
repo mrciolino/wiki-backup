@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-02T14:45:20.808Z
+date: 2025-04-02T15:06:11.930Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -53,7 +53,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Countdown Hourglass](/items/Countdown-Hourglass) | Epic | Item | Spoops |  An hourglass counting down to a particular event. |
 | [Magic Tiara Mark of Skill](/items/Magic-Tiara-Mark-Of-Skill) | Epic | Tiara | Spoops |  A tiara that allows the wearer to cast empowerment on a creature without using a spell slot or concentration. |
 | [Magic Earrings of Respite](/items/Magic-Earrings-Of-Respite) | Epic | Earrings | Spoops |  Magic earrings studded with 8 gemstones each. |
-| [Shortswords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
+| [Short Swords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
 | [Ring of Faerie Fire](/items/Ring-Of-Faerie-Fire) | Epic | Ring | Spoops |  A magic ring adorned by a large amethyst. |
 | [Magic Eyepatch](/items/Magic-Eyepatch) | Epic | Eyepatch | Spoops |  An eyepatch that covers both eyes. |
 | [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
