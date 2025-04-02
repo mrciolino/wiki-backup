@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-03-31T18:54:52.500Z
+date: 2025-04-02T12:30:57.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -48,34 +48,34 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Capital/Region | Ruler/Leader | Status |  
 |------|-------------|---------------|-------------|--------|  
 | [Parrot Shogunate](/organizations/parrot-shogunate) | A shogunate ruled by parrots. | - | - | Active |  
-| [Fywick](/locations/fywick) | A notable city. | [Fywick](/locations/fywick) | - | Active |  
+| [Fywick](/locations/Mardun/Fywick) | A notable city. | [Fywick](/locations/fywick) | - | Active |  
 | [Githzerai (and Githyankii survivors)](/organizations/githzerai) | Surviving Gith factions. | - | - | Scattered |  
 | [Kingdom of Helares](/organizations/kingdom-of-helares) | A powerful kingdom. | - | - | Active |  
 | [Holy Nation of Elephond](/organizations/holy-nation-of-elephond) | [Aphir The Mighty](/characters/aphir-the-mighty)'s kingdom. | [Elephond](/locations/elephond) | [Aphir The Mighty](/characters/aphir-the-mighty) | Active |  
-| [Wegate](/locations/wegate) | A known settlement. | [Wegate](/locations/wegate) | - | Active |  
-| [Altricia](/locations/altricia) | A sovereign nation. | - | - | Active |  
-| [Gothriathon and the Cliffs of Dover Region](/locations/gothriathon) | A significant region. | [Gothriathon](/locations/gothriathon) | - | Active |  
+| [Wegate](/locations/Mardun/Wegate) | A known settlement. | [Wegate](/locations/wegate) | - | Active |  
+| [Allford](/locations/Mardun/Allford) | A sovereign nation. | - | - | Active |  
+| [Gothriathon and the Cliffs of Dover Region](/locations/gothriathon) | A significant region. | [Gothriathon](/locations/Mardun/Gothriathon) | - | Active |  
 | [Fortress of the Vampire Tyrant](/locations/fortress-of-the-vampire-tyrant) | At war with the Samurai. | - | [Vampire Tyrant](/characters/vampire-tyrant) | Conflict |  
-| [Centaur Tribe (Outside Helares)](/organizations/centaur-tribe) | A nomadic centaur tribe. | Outside [Helares](/locations/helares) | - | Active |  
+| [Centaur Tribe (Outside Helares)](/organizations/centaur-tribe) | A nomadic centaur tribe. | Outside [Hellaress](/locations/Ereriad/Hellaress) | - | Active |  
 | [Astral Dwarf Clans](/organizations/astral-dwarf-clans) | Dwarven clans in the Astral Plane. | [Astral Plane](/locations/astral-plane) | - | Active |  
-| [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/kaltrosar) | - | Active |  
+| [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/Mardun/Kaltrosar) | - | Active |  
 
 ### **Religious Groups**  
 | Name | Description | Worships | Leader | Status |  
 |------|-------------|---------|--------|--------|  
 | [Narascene Clerics](/organizations/narascene-clerics) | A religious order. | - | - | Active |  
-| [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/ryan-spoops). | [Ryan-Spoops](/characters/ryan-spoops) | - | Active |  
+| [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/spoops). | [Ryan-Spoops](/characters/spoops) | - | Active |  
 | [Paladin Order of Spoops](/organizations/paladin-order-of-spoops) | A knightly order. | [Spoops](/characters/spoops) | - | Active |  
 | [Inevitables](/organizations/inevitables) | Agents of divine justice. | - | - | Active |  
 | [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/witch-king) | Active |  
-| [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/rathwing) | - | Active |  
+| [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/Rathwing) | - | Active |  
 
 ### **Guilds and Companies**  
 | Name | Description | Headquarters | Leader | Status |  
 |------|-------------|-------------|--------|--------|  
-| [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar Bay](/locations/kaltrosar-bay) fire. | - | - | Active |  
+| [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar](/locations/Mardun/Kaltrosar) Bay fire. | - | - | Active |  
 | [Assassins Guild - Library Dimension](/organizations/assassins-guild)  | A secretive guild. | [Library-Dimension](/locations/Library-Dimension) | - | Active |  
-| [Adventurer's-Guild](/organizations/Adventurer's-Guild) | Supports adventurers. | [Fywick](/locations/fywick) | - | Active |  
+| [Adventurer's-Guild](/organizations/Adventurer's-Guild) | Supports adventurers. | [Fywick](/locations/Mardun/Fywick) | - | Active |  
 | [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
 
 
