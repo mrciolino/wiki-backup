@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-02T14:15:13.457Z
+date: 2025-04-02T14:45:20.808Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -52,5 +52,29 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Book On Fighting Angels Demons and Gods](/items/Book-On-Fighting-Angels-Demons-And-Gods) | Epic | Book | Spoops |  A book with a self explanatory title. Caution: Reading may cause instant death. |
 | [Countdown Hourglass](/items/Countdown-Hourglass) | Epic | Item | Spoops |  An hourglass counting down to a particular event. |
 | [Magic Tiara Mark of Skill](/items/Magic-Tiara-Mark-Of-Skill) | Epic | Tiara | Spoops |  A tiara that allows the wearer to cast empowerment on a creature without using a spell slot or concentration. |
+| [Magic Earrings of Respite](/items/Magic-Earrings-Of-Respite) | Epic | Earrings | Spoops |  Magic earrings studded with 8 gemstones each. |
+| [Shortswords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
+| [Ring of Faerie Fire](/items/Ring-Of-Faerie-Fire) | Epic | Ring | Spoops |  A magic ring adorned by a large amethyst. |
+| [Magic Eyepatch](/items/Magic-Eyepatch) | Epic | Eyepatch | Spoops |  An eyepatch that covers both eyes. |
+| [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
+| [Magic-Slippers](/items/Magic-Slippers) | Epic | slippers | Spoops |  A pair of sneaky slippers. |
+| [Staff of Ice Age](/items/Staff-Of-Ice-Age) | Epic | Staff | Spoops |  A Staff with Icy power. |
+| [Staff of Princely Escort](/items/Staff-Of-Princely-Escort) | Epic | Staff | Spoops |  Creates illusions of royalty. |
+| [Necklace of Painting Melding](/items/Necklace-Of-Painting-Melding) | Epic | Necklace | Bazzdos |  A necklace. |
+| [Necklace of Polymorph](/items/Necklace-Of-Polymorph) | Epic | Necklace | Bazzdos |  A necklace. |
+| [Necklace of Magical Darksight](/items/Necklace-Of-Magical-Darksight) | Epic | Necklace | Bazzdos |  Allows the user to see in the dark. |
+| [Norixi Razor](/items/Norixi-Razor) | Epic | Dagger | Spoops | Soulbinding Dagger. |
+| [Laurel of Iksenda](/items/Laurel-Of-Iksenda) | Epic | headpiece | Breezy-e | Demon summoning laurels. |
+| [The Dragon Chain](/items/The-Dragon-Chain) | Epic | Necklace | Spoops | Summons an illusory dragon. |
+| [Ring of Enlightenment](/items/Ring-Of-Enlightenment) | Epic | Ring | Spoops | Casts Awaken. |
+| [Ring of Rngesus](/items/Ring-Of-Rngesus) | Epic | Ring | Bazzdows | Once worn by Rngesus himself. |
+| [Magic Tiara of KnOwLeDgE](/items/Magic-Tiara-Of-Knowledge) | Epic | Tiara | Bazzdows | Legend lore and renewal. |
+| [Ruby Boots of Confusion](/items/Ruby-Boots-Of-Confusion) | Epic | Boots | Spoops | Click the heels to confuse the enemy. |
+| [Sabatons of Dance](/items/Sabatons-Of-Dance) | Epic | Boots | Bazzdows | They'll get you and your partner dancing! |
+
+
+
+
+
 
 
