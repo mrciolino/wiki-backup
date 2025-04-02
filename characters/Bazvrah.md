@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:18:08.340Z
+date: 2025-04-02T02:37:28.805Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -37,69 +37,73 @@ Upon hearing of his brother's coma, Bazvrah dedicated himself to the Circle of t
 
 His career as a hired killer honed his instincts, enabling him to react swiftly to any interference with his objectives. Whether through brute force or careful subterfuge, he always found a method to complete the job, growing ever more confident in his craft.
 
-
 ## Journey to Revenge
 At the height of The Red Keep’s power, Mortis Lux sought Bazvrah’s expertise for an assassination mission against Darmuth. He joined the party, traveling by boat to Wegate, with a stop in the Jade Forest to gather his resources. Along the way, he executed those who stood in his way, operating outside Mortis Lux’s reputation to ensure his personal vendetta remained unhindered.
 
 This ruthless pursuit led to a confirmed hit list during his time with the party:
 
-> ### The Hit List
-> 
-> #### **Taken Off**
-> 1. Meade – For reminding me of an abusive drunk I once killed.
-> 2. Former Teammates – For abandoning me to the Frost Giants.
-> 
-> #### **Active Targets**
-> 1. Thief who exposed my position in Os’s city (400g bounty).
-> 2. Incompetent Guard in Fywick.
-> 
-> #### **Confirmed Kills**
-> 1. Italian dock worker in Fywick.
-> 2. Steve-O – For being insufferable in Fywick.
-> 3. Steve Harvey – For attempting to con me in Free-Real-Estate Town.
-> 4. Kaltrsar Bay dock worker – For arguing about money.
+### 📜 The Hit List
+
+#### **🟥 Taken Off**
+1. **Meade** – For reminding him of an abusive drunk he once killed.
+2. **Former Teammates** – For abandoning him to the Frost Giants.
+
+#### **🟨 Active Targets**
+1. **Thief** who exposed his position in Os’s city *(400g bounty)*.
+2. **Incompetent Guard** in Fywick.
+
+#### **✅ Confirmed Kills**
+1. **Italian dock worker** in Fywick.
+2. **Steve-O** – For being insufferable in Fywick.
+3. **Steve Harvey** – For attempting to con him in Free-Real-Estate Town.
+4. **Kaltrsar Bay dock worker** – For arguing about money.
 
 
 ## Legacy of Death
 Bazvrah's psychic powers, evident since childhood, allowed him to rack up over ten confirmed kills, including his very first as a young boy. With each successful assassination, he took a trophy—something tangible to remind him of his skills, his past, and his lost innocence.
 
-> ### The Necklace of History
-> Around his neck, Bazvrah carries a leather cord adorned with relics from his kills, each a symbol of his deadly path:
-> 1. **Tooth of Ivory**
-> 2. **Small Iron Flower**
-> 3. **Tiger Claw**
-> 4. **Diamond Engagement Ring**
-> 5. **Safe Key**
-> 6. **Jade Statue**
-> 7. **Iron Token** – Taken from the Italian Dock Master.
-> 8. **Steve-O's Glasses**
-> 9. **Steve Harvey's Leather Belt Fragment**
-> 10. **Sylivian’s Beard Hair** – A dock worker’s keepsake.
+### 📿 The Necklace of History
+Bazvrah carries a leather cord adorned with relics from his kills, each a symbol of his deadly path:
+- 🦷 **Tooth of Ivory**
+- 🌺 **Small Iron Flower**
+- 🐅 **Tiger Claw**
+- 💍 **Diamond Engagement Ring**
+- 🔑 **Safe Key**
+- 🟩 **Jade Statue**
+- 🏅 **Iron Token** *(Taken from the Italian Dock Master)*
+- 🕶️ **Steve-O's Glasses**
+- 👖 **Steve Harvey's Leather Belt Fragment**
+- 🧔 **Sylivian’s Beard Hair** *(A dock worker’s keepsake)*
 
 This necklace serves as a grim testament to his journey, a weight of past sins and future vengeance resting upon his shoulders.
 
 ## Notable Traits and Items
 Signatuer to Bazvrah's killing methods was a combination of traits and items which allowed him to be the maniscal killer he got a taste for when he was younger. Amogst these are the Blood Fury Tattoo and the Dagger of Endless Stabbing. Other utility items which made Bazvrah a force you never wanted to meet include: The Soul Dagger(1d6+5), Mask of the Wild, Earth Terror, The Immovable Rod and even a Femur of Dave Bones.
 
-### Blood Fury Tattoo
-> Your attack rolls score a critical hit on a d20 roll of 19 or 20.
-> When you score a critical hit against a creature, that target takes an extra 4d6 necrotic damage, and you gain a number of temporary hit points equal to the necrotic damage dealt.
-> When a creature you can see damages you, you can use your reaction to make a melee attack against that creature, with advantage on your attack roll.
+### 🩸 Blood Fury Tattoo
+> - Attack rolls **crit on 19 or 20**.
+> - Critical hits deal **+4d6 necrotic damage**, granting temp HP equal to the damage dealt.
+> - When damaged, you can **make an immediate melee attack** as a reaction.
 
-###  Dagger of Endless Stabbing
-> You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you roll a 20 to hit, you may make an additional attack.
-> 
-> Curse. Immediately after you successfully hit a creature with a melee attack using the dagger, make a DC 12 Wisdom saving throw. On a failure, you enter a stabbing frenzy and must use each turn to move to the nearest creature and use your action to make a melee attack with the dagger. If you have the extra attack feature, make as many attacks as each action will allow. Repeat the saving throw at the end of each turn, ending the frenzy on a success.
+### 🗡️ Dagger of Endless Stabbing
+> - **+2 bonus** to attack and damage rolls.
+> - Rolling a **20 to hit grants an extra attack**.
+> - **Curse:** Failing a DC 12 Wisdom save triggers a **stabbing frenzy**, forcing attacks on the nearest creature until another save succeeds.
 
-Thes two items allowed a blood fueled rage where the stabbing wouldn't stop. This gave Bazvrah a non-zero chance to kill any enemy (0.27% chance to do over 50 damage).
+⚠️ These items fueled a **blood-fueled rage**, giving Bazvrah a **0.27% chance to deal over 50 damage in a single strike** and a non-zero chance to kill any enemy outright.
 
 ## The End of Bazvrah
+Upon the discover of the [Library-Dimension](/locations/Library-Dimension), Bazvrah made immidiate note of two things, the Assassination Guild and the Tree of Knowledge. As travel through the dimension becomes increasingly difficult due to the long distances between areas and the parties fear of being lost out of time grew, Bazvrah made a devision to try to blend himeself innto the Tree and attempt to travel long distance amongst its root system. Being a druid he knew the spell `Tree Stride`. Upon entering the [Tree-of-Knowledge](/characters/Tree-of-Knowledge) Bazvrah fused with the tree and took over the position. 
+
+🌱 **Final Fate:** Over many years, the Tree consumed Bazvrah’s personality, erasing him from time—leaving behind only the knowledge he contributed.
+
+> **Tree Stride** *(5th Level, 1 Action, Self, V/S, Concentration 1 Minute, Conjuration, No Attack/Save, Movement Effect)*
+> You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
 
 
+## 📜 Character Sheet
 
-# Character Sheet
-
-Can take a look in detail in [Bazvrah's Character Sheet](/characters/bazzert/bazvrahcharactersheet.pdf).
+📂 [View Bazvrah's Full Character Sheet](/characters/bazzert/bazvrahcharactersheet.pdf)
 
 | **Aspect**            | **Description** |
 |----------------------|----------------|
@@ -108,3 +112,4 @@ Can take a look in detail in [Bazvrah's Character Sheet](/characters/bazzert/baz
 | **Bonds**             | - Keeps a trophy from every job to remember his actions. |
 | **Flaws**             | - Assumes that everyone is looking to hire an assassin. |
 
+**⚠️ Bazvrah may be gone, but his legend remains...**
