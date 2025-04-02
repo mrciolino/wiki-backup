@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-02T12:42:03.618Z
+date: 2025-04-02T12:44:36.100Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -25,7 +25,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 |------|-------------|----------|-----------------|--------|  
 | [Fywick Mafia](/organizations/fywick-mafia) | Criminal syndicate  | [Fywick](/locations/fywick) | [Tony-Mozzarella](/characters/Tony-Mozzarella) | Active |  
 | [Tabxi Mafia of Fywick](/organizations/tabxi-mafia) | Rival mafia group | [Fywick](/locations/fywick) | - | Active |  
-| [Red Keep](/organizations/red-keep) | A feared gang. | The Jade Forest of Dracofel | [Bazvrah](/characters/Bazvrah) | Unknown |  
+| [The-Red-Keep](/organizations/The-Red-Keep) | A feared gang. | The Jade Forest of Dracofel | [Bazvrah](/characters/Bazvrah) | Unknown |  
 
 ### **Races**  
 | Name | Description | Common Locations | Notable Figures | Status |  
@@ -35,7 +35,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 ### **Pirate Crews**  
 | Name | Description | Ship Name | Captain | Status |  
 |------|-------------|----------|---------|--------|  
-| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave Bones](/characters/dave-bones) | Active |  
+| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave-Bones](/characters/Dave-Bones) | Active |  
 | [Bugbear Pirate Crew](/organizations/bugbear-pirate-crew) | A crew of bugbear pirates. | - | - | Active |  
 
 ### **Nations and Tribes**  
@@ -50,7 +50,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Allford](/locations/Mardun/Allford) | A sovereign nation. | - | - | Active |  
 | [Gothriathon and the Cliffs of Dover Region](/locations/gothriathon) | A significant region. | [Gothriathon](/locations/Mardun/Gothriathon) | - | Active |  
 | [Fortress of the Vampire Tyrant](/locations/fortress-of-the-vampire-tyrant) | At war with the Samurai. | - | [Vampire Tyrant](/characters/vampire-tyrant) | Conflict |  
-| [Centaur Tribe (Outside Helares)](/organizations/centaur-tribe) | A nomadic centaur tribe. | Outside [Hellaress](/locations/Ereriad/Hellaress) | - | Active |  
+| [Hellaresian Centaur Tribe](/organizations/centaur-tribe) | A nomadic centaur tribe. | Outside [Hellaress](/locations/Ereriad/Hellaress) | - | Active |  
 | [Astral Dwarf Clans](/organizations/astral-dwarf-clans) | Dwarven clans in the Astral Plane. | [Astral Plane](/locations/astral-plane) | - | Active |  
 | [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/Mardun/Kaltrosar) | - | Active |  
 
@@ -61,7 +61,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/spoops). | [Ryan-Spoops](/characters/spoops) | - | Active |  
 | [Paladin Order of Spoops](/organizations/paladin-order-of-spoops) | A knightly order. | [Spoops](/characters/spoops) | - | Active |  
 | [Inevitables](/organizations/inevitables) | Agents of divine justice. | - | - | Active |  
-| [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/witch-king) | Active |  
+| [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/bane) | Active |  
 | [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/Rathwing) | - | Active |  
 
 ### **Guilds and Companies**  
