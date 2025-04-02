@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:40:38.566Z
+date: 2025-04-02T02:42:09.873Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -79,7 +79,7 @@ Bazvrah's psychic powers, evident since childhood, allowed him to rack up over t
 This necklace serves as a grim testament to his journey, a weight of past sins and future vengeance resting upon his shoulders.
 
 ## Notable Traits and Items
-Signatuer to Bazvrah's killing methods was a combination of traits and items which allowed him to be the maniscal killer he got a taste for when he was younger. Amogst these are the Blood Fury Tattoo and the Dagger of Endless Stabbing. Other utility items which made Bazvrah a force you never wanted to meet include: The Soul Dagger(1d6+5), Mask of the Wild, Earth Terror, The Immovable Rod and even a Femur of Dave Bones.
+Bazvrah's elite killing methods was due to a combination of traits and items which allowed him to be the maniacal killer. Amogst these are the Blood Fury Tattoo and the Dagger of Endless Stabbing. Other utility items which made Bazvrah a force you never wanted to meet include: The Soul Dagger(1d6+5), Mask of the Wild, Earth Terror, The Immovable Rod and even a Femur of Dave Bones.
 
 ### 🩸 Blood Fury Tattoo
 > - Attack rolls **crit on 19 or 20**.
