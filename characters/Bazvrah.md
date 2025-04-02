@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T01:00:01.504Z
+date: 2025-04-02T02:18:08.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -79,7 +79,7 @@ Bazvrah's psychic powers, evident since childhood, allowed him to rack up over t
 This necklace serves as a grim testament to his journey, a weight of past sins and future vengeance resting upon his shoulders.
 
 ## Notable Traits and Items
-Signatuer to Bazvrah's killing methods was a combination of traits and items which allowed him to be the maniscal killer he got a taste for when he was younger. Amogst these are the Blood Fury Tattoo and the Dagger of Endless Stabbing. Other utility items which made Bazvrah a force you never wanted to meet include: Mask of the Wild, Earth Terror, the Immovable Rod and even a Femur of Dave Bones.
+Signatuer to Bazvrah's killing methods was a combination of traits and items which allowed him to be the maniscal killer he got a taste for when he was younger. Amogst these are the Blood Fury Tattoo and the Dagger of Endless Stabbing. Other utility items which made Bazvrah a force you never wanted to meet include: The Soul Dagger(1d6+5), Mask of the Wild, Earth Terror, The Immovable Rod and even a Femur of Dave Bones.
 
 ### Blood Fury Tattoo
 > Your attack rolls score a critical hit on a d20 roll of 19 or 20.
@@ -91,8 +91,9 @@ Signatuer to Bazvrah's killing methods was a combination of traits and items whi
 > 
 > Curse. Immediately after you successfully hit a creature with a melee attack using the dagger, make a DC 12 Wisdom saving throw. On a failure, you enter a stabbing frenzy and must use each turn to move to the nearest creature and use your action to make a melee attack with the dagger. If you have the extra attack feature, make as many attacks as each action will allow. Repeat the saving throw at the end of each turn, ending the frenzy on a success.
 
-Thes two items allowed a blood fueled rage where repeated strikes against a single target could only be stopped by abnormal forces. 
+Thes two items allowed a blood fueled rage where the stabbing wouldn't stop. This gave Bazvrah a non-zero chance to kill any enemy (0.27% chance to do over 50 damage).
 
+## The End of Bazvrah
 
 
 
