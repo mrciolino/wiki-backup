@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-01T00:43:20.835Z
+date: 2025-04-02T12:21:42.696Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -26,10 +26,10 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Meade](/characters/meade)       | ??   | ??    | ??         | ??     | ![Meade](/characters/other/meade.webp =x100) |
 | [Mort](/characters/mort)         | ??   | ??    | ??         | ??     | ![Mort](/characters/mort/m.webp =x100) |
 | [Bazzert](/characters/bazzert)   | Elf   | Druid 8    | ??         | Circle of the  Land (Swamp) | ![bazzert.webp](/characters/bazzert/bazzert.webp =x100) | 
-| [Bazvrah](/characters/Bazvrah) 	 | ??   | ??    | ??         | ??     | ![bazvrah.webp](/characters/bazzert/bazvrah.webp =x100) |
+| [Bazvrah](/characters/Bazvrah) 	 | Winged Wood Elf | Moon Druid 11, Soulknife Rogue 3, Trickery Cleric 1     | Criminal: Hired Killer | Stealth master, psychic assassin, ruthless, trophy collector, driven by revenge     | ![bazvrah.webp](/characters/bazzert/bazvrah.webp =x100) |
 | [Bazzalt](/characters/Bazzalt)   | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![bazzalt.webp](/characters/bazzert/bazzalt.webp =x100) |
 | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![drakham.png](/characters/adalynn/drakham.png =x100) |
-| [Narascus](/characters/Narascus) | Demon   | (Narascene) Soul Domain Cleric    | He is an evil demon who seeks to subjugate the world and be worshipped as a Prophet-God.         | Sneaky, underhanded, self absorbed     | ![narascus.png](/characters/adalynn/narascus.png =x100) |
+| [Narascus](/characters/Narascus) | Demon   | (Narascene) Soul Domain Cleric    | Potion Drinker, Betrayer | He is an evil demon who seeks to subjugate the world and be worshipped as a Prophet-God. Sneaky, underhanded, self absorbed     | ![narascus.png](/characters/adalynn/narascus.png =x100) |
 
 ## **Campaign 2**  
 
