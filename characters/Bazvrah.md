@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:54:22.698Z
+date: 2025-04-02T02:54:42.293Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -100,7 +100,7 @@ Upon the discover of the [Library-Dimension](/locations/Library-Dimension), Bazv
 > You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
 
 
-## 📜 Character Sheet
+## Character Sheet
 
 📂 [View Bazvrah's Full Character Sheet](/characters/bazzert/bazvrahcharactersheet.pdf)
 
