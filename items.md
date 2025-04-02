@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-02T15:22:23.087Z
+date: 2025-04-02T16:08:38.635Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -57,7 +57,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Ring of Faerie Fire](/items/Ring-Of-Faerie-Fire) | Epic | Ring | Spoops |  A magic ring adorned by a large amethyst. |
 | [Magic Eyepatch](/items/Magic-Eyepatch) | Epic | Eyepatch | Spoops |  An eyepatch that covers both eyes. |
 | [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
-| [Magic-Slippers](/items/Magic-Slippers) | Epic | slippers | Spoops |  A pair of sneaky slippers. |
+| [Magic Slippers](/items/Magic-Slippers) | Epic | slippers | Spoops |  A pair of sneaky slippers. |
 | [Staff of Ice Age](/items/Staff-Of-Ice-Age) | Epic | Staff | Spoops |  A Staff with Icy power. |
 | [Staff of Princely Escort](/items/Staff-Of-Princely-Escort) | Epic | Staff | Spoops |  Creates illusions of royalty. |
 | [Necklace of Painting Melding](/items/Necklace-Of-Painting-Melding) | Epic | Necklace | Bazzdos |  A necklace. |
