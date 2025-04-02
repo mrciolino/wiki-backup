@@ -2,7 +2,7 @@
 title: timeline
 description: 
 published: true
-date: 2025-03-28T19:15:34.528Z
+date: 2025-04-02T00:56:15.093Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -48,14 +48,12 @@ dateCreated: 2025-03-23T00:15:37.336Z
 ### The Age of Dragons
 
 - **2150 BC:** Birth of **[Inferno](/characters/inferno)**.
-- **2100 BC:** The **Desolation of Asmal** ends the **Age of Dragons** and starts the **Age of Mortals**.
 - **[Darmuth](/characters/darmuth)**'s body begins to form.
-
-### The Age of the Pythagorean Empire
-
-- **Rise & Fall:**  
-  - The first mortal empire to harness **[Runic Magic](/magic/runes)**.  
-  - The empire collapses due to internal strife and dragon dominance.
+- **Rise of the Pythagorean Empire:**  
+  - The first mortal empire to harness **[Runic Magic](/magic/runes)**.
+  - Leyline project completed and Pythas Prime founded.
+  - Fall of Pythas Prime and the Pythagorean people flee, spreading the knowledge of magic around the world.
+  - **2100 BC:** The **Desolation of Asmal** ends the **Age of Dragons** and starts the **Age of Mortals**.
 
 ### The Age of Mortals
 
