@@ -1,8 +1,8 @@
 ---
-title: Pythagorean Empire
+title: asmal
 description: The super nerds of  Mardun
 published: true
-date: 2025-04-02T01:23:56.137Z
+date: 2025-04-02T01:24:05.831Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T18:49:03.060Z
