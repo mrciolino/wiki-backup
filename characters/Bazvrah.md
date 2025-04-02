@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:37:28.805Z
+date: 2025-04-02T02:40:38.566Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -42,38 +42,39 @@ At the height of The Red Keep’s power, Mortis Lux sought Bazvrah’s expertise
 
 This ruthless pursuit led to a confirmed hit list during his time with the party:
 
-### 📜 The Hit List
-
-#### **🟥 Taken Off**
-1. **Meade** – For reminding him of an abusive drunk he once killed.
-2. **Former Teammates** – For abandoning him to the Frost Giants.
-
-#### **🟨 Active Targets**
-1. **Thief** who exposed his position in Os’s city *(400g bounty)*.
-2. **Incompetent Guard** in Fywick.
-
-#### **✅ Confirmed Kills**
-1. **Italian dock worker** in Fywick.
-2. **Steve-O** – For being insufferable in Fywick.
-3. **Steve Harvey** – For attempting to con him in Free-Real-Estate Town.
-4. **Kaltrsar Bay dock worker** – For arguing about money.
-
+> 📜 The Hit List
+> ---
+> #### **🟥 Taken Off**
+> 1. **Meade** – For reminding him of an abusive drunk he once killed.
+> 2. **Former Teammates** – For abandoning him to the Frost Giants.
+> 
+> #### **🟨 Active Targets**
+> 1. **Thief** who exposed his position in Os’s city *(400g bounty)*.
+> 2. **Incompetent Guard** in Fywick.
+> 
+> #### **✅ Confirmed Kills**
+> 1. **Italian dock worker** in Fywick.
+> 2. **Steve-O** – For being insufferable in Fywick.
+> 3. **Steve Harvey** – For attempting to con him in Free-Real-Estate Town.
+> 4. **Kaltrsar Bay dock worker** – For arguing about money.
+> 
 
 ## Legacy of Death
 Bazvrah's psychic powers, evident since childhood, allowed him to rack up over ten confirmed kills, including his very first as a young boy. With each successful assassination, he took a trophy—something tangible to remind him of his skills, his past, and his lost innocence.
 
-### 📿 The Necklace of History
-Bazvrah carries a leather cord adorned with relics from his kills, each a symbol of his deadly path:
-- 🦷 **Tooth of Ivory**
-- 🌺 **Small Iron Flower**
-- 🐅 **Tiger Claw**
-- 💍 **Diamond Engagement Ring**
-- 🔑 **Safe Key**
-- 🟩 **Jade Statue**
-- 🏅 **Iron Token** *(Taken from the Italian Dock Master)*
-- 🕶️ **Steve-O's Glasses**
-- 👖 **Steve Harvey's Leather Belt Fragment**
-- 🧔 **Sylivian’s Beard Hair** *(A dock worker’s keepsake)*
+> 📿 The Necklace of History
+> ---
+> Bazvrah carries a leather cord adorned with relics from his kills, each a symbol of his deadly path:
+> - 🦷 **Tooth of Ivory**
+> - 🌺 **Small Iron Flower**
+> - 🐅 **Tiger Claw**
+> - 💍 **Diamond Engagement Ring**
+> - 🔑 **Safe Key**
+> - 🟩 **Jade Statue**
+> - 🏅 **Iron Token** *(Taken from the Italian Dock Master)*
+> - 🕶️ **Steve-O's Glasses**
+> - 👖 **Steve Harvey's Leather Belt Fragment**
+> - 🧔 **Sylivian’s Beard Hair** *(A dock worker’s keepsake)*
 
 This necklace serves as a grim testament to his journey, a weight of past sins and future vengeance resting upon his shoulders.
 
