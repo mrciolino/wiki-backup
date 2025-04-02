@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:42:09.873Z
+date: 2025-04-02T02:49:41.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -91,7 +91,7 @@ Bazvrah's elite killing methods was due to a combination of traits and items whi
 > - Rolling a **20 to hit grants an extra attack**.
 > - **Curse:** Failing a DC 12 Wisdom save triggers a **stabbing frenzy**, forcing attacks on the nearest creature until another save succeeds.
 
-⚠️ These items fueled a **blood-fueled rage**, giving Bazvrah a **0.27% chance to deal over 50 damage in a single strike** and a non-zero chance to kill any enemy outright.
+⚠️ These items fueled a **blood-fueled rage**, giving Bazvrah a non-zero (albient extremly small) chance to kill any enemy outright.
 
 ## The End of Bazvrah
 Upon the discover of the [Library-Dimension](/locations/Library-Dimension), Bazvrah made immidiate note of two things, the Assassination Guild and the Tree of Knowledge. As travel through the dimension becomes increasingly difficult due to the long distances between areas and the parties fear of being lost out of time grew, Bazvrah made a devision to try to blend himeself innto the Tree and attempt to travel long distance amongst its root system. Being a druid he knew the spell `Tree Stride`. Upon entering the [Tree-of-Knowledge](/characters/Tree-of-Knowledge) Bazvrah fused with the tree and took over the position. 
