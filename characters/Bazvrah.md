@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:51:04.736Z
+date: 2025-04-02T02:51:39.001Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -42,8 +42,7 @@ At the height of The Red Keep’s power, Mortis Lux sought Bazvrah’s expertise
 
 This ruthless pursuit led to a confirmed hit list during his time with the party:
 
-> 📜 The Hit List
-> ---
+> **📜 The Hit List**
 > #### **🟥 Taken Off**
 > 1. **Meade** – For reminding him of an abusive drunk he once killed.
 > 2. **Former Teammates** – For abandoning him to the Frost Giants.
@@ -62,8 +61,7 @@ This ruthless pursuit led to a confirmed hit list during his time with the party
 ## Legacy of Death
 Bazvrah's psychic powers, evident since childhood, allowed him to rack up over ten confirmed kills, including his very first as a young boy. With each successful assassination, he took a trophy—something tangible to remind him of his skills, his past, and his lost innocence.
 
-> 📿 The Necklace of History
-> ---
+> **📿 The Necklace of History**
 > Bazvrah carries a leather cord adorned with relics from his kills, each a symbol of his deadly path:
 > - 🦷 **Tooth of Ivory**
 > - 🌺 **Small Iron Flower**
