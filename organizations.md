@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-02T12:30:57.364Z
+date: 2025-04-02T12:42:03.618Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -17,26 +17,20 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
 | [Council of Gods](/organizations/council-of-gods) | A coalition of deities. | - | - | Active |  
-| [Pirate Kingdom of Saragassa](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/saragassa) | - | Active |  
+| [Pirate Crew](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/Mardun/Saragassa) | - | Active |  
 | [Mortis Lux](/organizations/mortis-lux) | A mysterious organization. | - | - | Unknown |  
-| [Low Bar Brawlers](/organizations/low-bar-brawlers) | A renowned group of fighters. | - | - | Active |  
 
 ### **Gangs**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
-| [Fywick Mafia](/organizations/fywick-mafia) | Criminal syndicate in [Fywick](/locations/fywick). | [Fywick](/locations/fywick) | - | Active |  
-| [Tabxi Mafia of Fywick](/organizations/tabxi-mafia) | Rival mafia group in [Fywick](/locations/fywick). | [Fywick](/locations/fywick) | - | Active |  
-| [Red Keep](/organizations/red-keep) | A feared gang. | - | - | Unknown |  
-
-### **Enemies**  
-| Name | Description | Location | Notable Members | Status |  
-|------|-------------|----------|-----------------|--------|  
-| [Ithilid](/organizations/ithilid) | A dangerous enemy faction. | - | - | Hostile |  
+| [Fywick Mafia](/organizations/fywick-mafia) | Criminal syndicate  | [Fywick](/locations/fywick) | [Tony-Mozzarella](/characters/Tony-Mozzarella) | Active |  
+| [Tabxi Mafia of Fywick](/organizations/tabxi-mafia) | Rival mafia group | [Fywick](/locations/fywick) | - | Active |  
+| [Red Keep](/organizations/red-keep) | A feared gang. | The Jade Forest of Dracofel | [Bazvrah](/characters/Bazvrah) | Unknown |  
 
 ### **Races**  
 | Name | Description | Common Locations | Notable Figures | Status |  
 |------|-------------|-----------------|-----------------|--------|  
-| [Ilithid](/races/ilithid) | A race of mind flayers. | - | - | Active |  
+| [Ilithid](/organizations/ilithid) | A race of mind flayers. | - | [Emperor](/characters/Emperor) | Hostile/Destroyed |  
 
 ### **Pirate Crews**  
 | Name | Description | Ship Name | Captain | Status |  
@@ -48,11 +42,11 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Capital/Region | Ruler/Leader | Status |  
 |------|-------------|---------------|-------------|--------|  
 | [Parrot Shogunate](/organizations/parrot-shogunate) | A shogunate ruled by parrots. | - | - | Active |  
-| [Fywick](/locations/Mardun/Fywick) | A notable city. | [Fywick](/locations/fywick) | - | Active |  
+| [Fywick](/locations/Mardun/Fywick) | A notable city. | Kairnheim | - | Active |  
 | [Githzerai (and Githyankii survivors)](/organizations/githzerai) | Surviving Gith factions. | - | - | Scattered |  
-| [Kingdom of Helares](/organizations/kingdom-of-helares) | A powerful kingdom. | - | - | Active |  
+| [Kingdom of Helares](/locations/Ereriad/Hellaress) | A powerful kingdom. | - | - | Active |  
 | [Holy Nation of Elephond](/organizations/holy-nation-of-elephond) | [Aphir The Mighty](/characters/aphir-the-mighty)'s kingdom. | [Elephond](/locations/elephond) | [Aphir The Mighty](/characters/aphir-the-mighty) | Active |  
-| [Wegate](/locations/Mardun/Wegate) | A known settlement. | [Wegate](/locations/wegate) | - | Active |  
+| [Wegate](/locations/Mardun/Wegate) | A known settlement. | [Wegate](/locations/Mardun/Wegate) | - | Active |  
 | [Allford](/locations/Mardun/Allford) | A sovereign nation. | - | - | Active |  
 | [Gothriathon and the Cliffs of Dover Region](/locations/gothriathon) | A significant region. | [Gothriathon](/locations/Mardun/Gothriathon) | - | Active |  
 | [Fortress of the Vampire Tyrant](/locations/fortress-of-the-vampire-tyrant) | At war with the Samurai. | - | [Vampire Tyrant](/characters/vampire-tyrant) | Conflict |  
