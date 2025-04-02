@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:49:41.808Z
+date: 2025-04-02T02:51:04.736Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -33,7 +33,7 @@ Bazvrah is a deadly assassin, a fusion of Druid, Rogue, and Cleric, driven by a 
 ![bazvrah_v1.webp](/characters/bazzert/bazvrah_v1.webp)
 
 ## Training & Methodology
-Upon hearing of his brother's coma, Bazvrah dedicated himself to the Circle of the Moon Druid path, perfecting Wild Shape for covert operations. His transformations allowed him to scout targets unnoticed, exploiting their weaknesses with precision. His killing ritual was simple yet effective—utilizing his brother’s enchanted artifact, The Sleep Crown, he would force his targets into slumber before silently dispatching them with a dagger to the skull.
+Upon hearing of his brother's coma, Bazvrah dedicated himself to the Circle of the Moon Druid path, perfecting Wild Shape for covert operations. His transformations allowed him to scout targets unnoticed, exploiting their weaknesses with precision. His killing ritual was simple yet effective—utilizing his brother’s enchanted artifact, The Sleep Crown, he would force his targets into slumber before silently dispatching them with a psyhic dagger to the skull. A dagger which can could spawn with his mind.
 
 His career as a hired killer honed his instincts, enabling him to react swiftly to any interference with his objectives. Whether through brute force or careful subterfuge, he always found a method to complete the job, growing ever more confident in his craft.
 
