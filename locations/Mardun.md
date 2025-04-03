@@ -2,19 +2,29 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-03T22:25:10.729Z
+date: 2025-04-03T22:28:23.718Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
 ---
 
+# Mardun
 Mardun is the first world of the Low Bar Brawlers campaign. It is the home of locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
 
-# Map
+## Map
 
-![](/maps/mardun.webp)
+<img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map">
 
-# Continents
+## Continents and Cities
+
+| [**Wyrmford**](/locations/Mardun/Wyrmford) | [**Kairnheim**](/locations/Mardun/Kairnheim) | [**Felldora**](/locations/Mardun/Felldora) | [**Felldun**](/locations/Mardun/Felldun) | [**Heltollán**](/locations/Mardun/Heltollan) | [**Dracofel**](/locations/Mardun/Dracofel) | [**Druidia**](/locations/Mardun/Druidia) |
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| [Allford](/locations/Mardun/Allford) | [Fort Suro](/locations/Mardun/Fort-Suro) | [Fywick](/locations/Mardun/Fywick) | [North Geskoworm / Krorg's Hometown](/locations/Mardun/North-Geskoworm) | [Gothriathon](/locations/Mardun/Gothriathon) | [Saragassa](/locations/Mardun/Saragassa) | [Wegate](/locations/Mardun/Wegate) |
+| [Alltricia](/locations/Mardun/Allford) | [The Red Keep](/locations/Mardun/The-Red-Keep) | [Hastow](/locations/Mardun/Hastow) | [Galeton](/locations/Mardun/Galeton) | | | |
+| | [Kaltrosar](/locations/Mardun/Kaltrosar) | |  | | | |
+
+
+## Continents
 
 -   Ashenor: For the ash mountains (Top Arctic Area, Light Blue)
 -   Kairnheim: "Deadlands" (The area we started in, Red)
@@ -25,17 +35,3 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 -   Felldora: The continent on the right side of the largest landmass. (Orange)
 -   Felldun: The continent on the left side of the largest landmass. (Brown)
 -   Druidia: The Peninsula attached to Felldun. (Green)
-
-# List of Cities and Towns
-
--   [Allford / Alltricia](/locations/Mardun/Allford)
--   [Fort Suro](/locations/Mardun/Fort-Suro)
--   [Fywick](/locations/Mardun/Fywick)
--   [North Geskoworm / Krorg's Hometown](/locations/Mardun/north_geskoworm)
--   [Galeton](/locations/Mardun/Galeton)
--   [Hastow](/locations/Mardun/Hastow)
--   [Gothriathon](/locations/Mardun/Gothriathon)
--   [Saragassa](/locations/Mardun/Saragassa)
--   [Kaltrosar](/locations/Mardun/Kaltrosar)
--   [Wegate](/locations/Mardun/Wegate)
--   [The Red Keep](/locations/Mardun/Red-Keep)
