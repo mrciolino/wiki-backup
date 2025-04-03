@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-03T22:24:18.323Z
+date: 2025-04-03T22:24:46.701Z
 tags: locations, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -18,15 +18,6 @@ This page provides an overview of key worlds and dimensions explored throughout 
 [Mardun](/locations/Mardun) is the first world of the Low Bar Brawlers campaign. It is home to locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
 
 <img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map">
-
-### Continents and Cities
-
-| [**Wyrmford**](/locations/Mardun/Wyrmford) | [**Kairnheim**](/locations/Mardun/Kairnheim) | [**Felldora**](/locations/Mardun/Felldora) | [**Felldun**](/locations/Mardun/Felldun) | [**Heltollán**](/locations/Mardun/Heltollan) | [**Dracofel**](/locations/Mardun/Dracofel) | [**Druidia**](/locations/Mardun/Druidia) |
-|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| [Allford](/locations/Mardun/Allford) | [Fort Suro](/locations/Mardun/Fort-Suro) | [Fywick](/locations/Mardun/Fywick) | [North Geskoworm](/locations/Mardun/North-Geskoworm) | [Gothriathon](/locations/Mardun/Gothriathon) | [Saragassa](/locations/Mardun/Saragassa) | [Wegate](/locations/Mardun/Wegate) |
-| [Alltricia](/locations/Mardun/Allford) | [The Red Keep](/locations/Mardun/The-Red-Keep) | [Hastow](/locations/Mardun/Hastow) | [Krorg’s Hometown](/locations/Mardun/Krorgs-Hometown) | | | |
-| | | | [Galeton](/locations/Mardun/Galeton) | | | |
-| | | | [Kaltrosar](/locations/Mardun/Kaltrosar) | | | |
 
 ## World: Ereriad
 
