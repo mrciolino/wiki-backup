@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2025-04-01T20:31:39.909Z
+date: 2025-04-03T13:52:48.276Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -60,7 +60,7 @@ Numerous manufacturing, research, and testing areas were created to meet the req
 ### 🌌 Forge Dimension
 Inside of the realm of fire lays the largest engine of progression for Mortis Lux, [The Forge](/locations/Forge-Dimension).
 - 🤖 AI Robots Factory v3
-- 🏗️ Speaking Stone Factory v3
+- 🏗️ [Speaking Stone Factory v3](/locations/Forge-Dimension#speaking-stone-factory-v3)
 - 🔫 Laser Factory
 - 🔍 Lens Factory
 - 🌲 Fireproof Wood Factory
