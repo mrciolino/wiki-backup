@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-03T18:15:54.952Z
+date: 2025-04-03T18:16:45.502Z
 tags: locations, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -33,7 +33,7 @@ This page provides an overview of key worlds and dimensions explored throughout 
 
 [Ereriad](/locations/Ereriad) is the second world of the Low Bar Brawlers campaign. It is visited by the party after defeating [Darmuth](/characters/Darmuth). The party first reaches this world by travelling through Spoops' Well of Many Worlds.
 
-![](/maps/ereriad.png =x680)
+<img src="/maps/ereriad.png" class="img-fluid" alt="Ereriad Map">
 
 ## World: Dolarion
 
