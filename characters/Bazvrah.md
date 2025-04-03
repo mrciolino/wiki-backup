@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-02T02:55:59.046Z
+date: 2025-04-03T02:58:24.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -89,7 +89,27 @@ Bazvrah's elite killing methods was due to a combination of traits and items whi
 > - Rolling a **20 to hit grants an extra attack**.
 > - **Curse:** Failing a DC 12 Wisdom save triggers a **stabbing frenzy**, forcing attacks on the nearest creature until another save succeeds.
 
-⚠️ These items fueled a **blood-fueled rage**, giving Bazvrah a non-zero (albient extremly small) chance to kill any enemy outright.
+<details>
+  <summary>
+    ⚠️ These items fueled a <strong>blood-fueled rage</strong>, giving Bazvrah a rare but devastating chance to kill outright. A 10k-attack simulation tested the full potential of this combo.
+  </summary>
+  <h3>Trial Information</h3>
+  Bazvrah's attacks were tested against an assumed AC of 10 (commoner), Attack rolls followed a 1d20 + attack bonus mechanic, where natural 20s resulted in critical hits, doubling damage dice. The Dagger of Endless Stabbing provided a chance for bonus attacks, increasing overall damage potential. The Curse of Lingering Agony triggered on a failed DC 12 Wisdom save, extending the attack sequence when enemies succumbed. Damage was split into base physical and necrotic, with necrotic effects bypassing non-magical resistances. The maximum recorded damage of 117 was achieved through an optimized attack chain, capitalizing on crits, bonus attacks, and curse activations. <strong>A +6 to Wisdom Saves were used with a 1d6+5 dagger.</strong>
+  <hr/>
+  <img src="/characters/bazzert/bazvrah_damage_sim.png" alt="Bazvrah Damage Simulation" />
+  
+  <h3>🔹 Maximum Damage Breakdown (117 DMG)</h3>
+  <p><strong>Simulation Index:</strong> 5566 | <strong>Attacks:</strong> 6 | <strong>Crits:</strong> 3 | <strong>Misses:</strong> 0</p>
+  <p><strong>Bonus Attacks:</strong> 2 | <strong>Curse Activations:</strong> 3</p>
+  
+  <h4>Damage Breakdown</h4>
+  <p><strong>Base:</strong> 65 | <strong>Necrotic:</strong> 52 (44.44%)</p>
+  <p><strong>Damage per Attack:</strong> 19.50 | <strong>Hit Rate:</strong> 100%</p>
+  
+  <h4>Attack Chain Highlights</h4>
+  <p>117 damage resulted from a 6-hit sequence, including 3 crits and 2 extra attacks from the <em>Dagger of Endless Stabbing</em>. The curse triggered 3 times due to failed DC 12 Wisdom saves, extending the attack chain and amplifying damage.</p>
+</details>
+
 
 ## The End of Bazvrah
 Upon the discover of the [Library-Dimension](/locations/Library-Dimension), Bazvrah made immidiate note of two things, the [Assassins-Guild](/organizations/assassins-guild) and the Tree of Knowledge. As travel through the dimension becomes increasingly difficult due to the long distances between areas and the parties fear of being lost out of time grew, Bazvrah made a devision to try to blend himeself innto the Tree and attempt to travel long distance amongst its root system. Being a druid he knew the spell `Tree Stride`. Upon entering the [Tree-of-Knowledge](/characters/Tree-of-Knowledge), Bazvrah fused with the tree and took over the position. 
