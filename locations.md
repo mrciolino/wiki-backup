@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-03T18:12:54.844Z
+date: 2025-04-03T18:13:37.865Z
 tags: locations, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -14,11 +14,11 @@ The **Low Bar Brawlers** universe spans multiple worlds, dimensions, and planes 
 This page provides an overview of key worlds and dimensions explored throughout the campaign, highlighting important cities, landmarks, and notable events that have taken place within them.  
 
 
-## World: [Mardun](/locations/Mardun)
+## World: Mardun
 
 [Mardun](/locations/Mardun) is the first world of the Low Bar Brawlers campaign. It is home to locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
 
-![](/maps/mardun.webp =x600)
+![](/maps/mardun.webp =x680)
 
 ### Continents and Cities
 
@@ -29,11 +29,11 @@ This page provides an overview of key worlds and dimensions explored throughout 
 | | | | [Galeton](/locations/Mardun/Galeton) | | | |
 | | | | [Kaltrosar](/locations/Mardun/Kaltrosar) | | | |
 
-## World: [Ereriad](/locations/Ereriad)
+## World: Ereriad
 
 [Ereriad](/locations/Ereriad) is the second world of the Low Bar Brawlers campaign. It is visited by the party after defeating [Darmuth](/characters/Darmuth). The party first reaches this world by travelling through Spoops' Well of Many Worlds.
 
-![](/maps/ereriad.png =x600)
+![](/maps/ereriad.png =x680)
 
 ## World: Dolarion
 
