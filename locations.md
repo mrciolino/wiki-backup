@@ -2,17 +2,16 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-03T18:16:45.502Z
+date: 2025-04-03T22:24:18.323Z
 tags: locations, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
 ---
 
-# Locations
+# Worlds
 The **Low Bar Brawlers** universe spans multiple worlds, dimensions, and planes of existence, each with its own history, cultures, and conflicts. From sprawling continents to hidden demiplanes, these locations have shaped the journeys of adventurers, conquerors, and deities alike.  
 
 This page provides an overview of key worlds and dimensions explored throughout the campaign, highlighting important cities, landmarks, and notable events that have taken place within them.  
-
 
 ## World: Mardun
 
@@ -42,6 +41,8 @@ Dolarion was a world visited by Spoops and Bane. Spoops spent some time here tra
 ## World: Dragon World
 
 Dragon World was visited by Spoops and Bane. Spoops spent time training goblins and freeing them from an oppressive regime. It was also the prison of the Titan Iapetus, who was eventually freed when the world was destroyed by Spoops and Bane.  
+
+# Dimensions
 
 ## Dimension: Library  
 
