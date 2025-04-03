@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-03T22:28:23.718Z
+date: 2025-04-03T22:35:39.097Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -10,10 +10,6 @@ dateCreated: 2024-07-28T16:09:23.664Z
 
 # Mardun
 Mardun is the first world of the Low Bar Brawlers campaign. It is the home of locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
-
-## Map
-
-<img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map">
 
 ## Continents and Cities
 
@@ -35,3 +31,9 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 -   Felldora: The continent on the right side of the largest landmass. (Orange)
 -   Felldun: The continent on the left side of the largest landmass. (Brown)
 -   Druidia: The Peninsula attached to Felldun. (Green)
+
+## Map
+
+<img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map">
+
+
