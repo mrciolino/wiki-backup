@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-03T22:24:46.701Z
+date: 2025-04-03T22:34:56.478Z
 tags: locations, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -37,9 +37,7 @@ Dragon World was visited by Spoops and Bane. Spoops spent time training goblins 
 
 ## Dimension: Library  
 
-The Library Dimension is the resting place of Bazzert, Bazzvrah, and Bazzalt. For some reason, Assassin Mountain also exists within this dimension.  
-[Explore the Library Dimension](/locations/Library-Dimension)  
-
+The [Library Dimension](/locations/Library-Dimension)   is the resting place of Bazzert, Bazzvrah, and Bazzalt. For some reason, Assassin Mountain also exists within this dimension. 
 ## Demiplane: Mortis Lux Flying City  
 
 The capital city of [Mortis Lux](/organizations/mortis-lux), this city exists as a flying island fortress within a demiplane created by the Archmage Adalynn. Access to and from the city is entirely at Adalynn’s discretion, as the realm exists as a part of her soul.  
