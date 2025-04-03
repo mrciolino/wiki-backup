@@ -2,28 +2,26 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-03T22:39:17.480Z
+date: 2025-04-03T22:40:00.983Z
 tags: locations, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
 ---
 
 # Worlds
-The **Low Bar Brawlers** universe spans multiple worlds, dimensions, and planes of existence, each with its own history, cultures, and conflicts. From sprawling continents to hidden demiplanes, these locations have shaped the journeys of adventurers, conquerors, and deities alike.  
-
-This page provides an overview of key worlds and dimensions explored throughout the campaign, highlighting important cities, landmarks, and notable events that have taken place within them.  
+The **Low Bar Brawlers** universe spans multiple worlds, dimensions, and planes of existence, each with its own history, cultures, and conflicts. From sprawling continents to hidden demiplanes, these locations have shaped the journeys of adventurers, conquerors, and deities alike. This page provides an overview of key worlds and dimensions explored throughout the campaign, highlighting important cities, landmarks, and notable events that have taken place within them.  
 
 ## World: Mardun
 
 [Mardun](/locations/Mardun) is the first world of the Low Bar Brawlers campaign. It is home to locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
 
-<img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map" style="max-height:600px">
+<img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map">
 
 ## World: Ereriad
 
 [Ereriad](/locations/Ereriad) is the second world of the Low Bar Brawlers campaign. It is visited by the party after defeating [Darmuth](/characters/Darmuth). The party first reaches this world by travelling through Spoops' Well of Many Worlds.
 
-<img src="/maps/ereriad.png" class="img-fluid" alt="Ereriad Map" style="max-height:600px">
+<img src="/maps/ereriad.png" class="img-fluid" alt="Ereriad Map">
 
 ## World: Dolarion
 
