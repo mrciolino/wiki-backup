@@ -2,8 +2,8 @@
 title: The Bartender's Guild
 description: Yet Another Secret Society
 published: true
-date: 2025-03-31T18:59:37.263Z
-tags: 
+date: 2025-04-04T18:57:59.398Z
+tags: audio
 editor: markdown
 dateCreated: 2024-08-17T21:11:10.961Z
 ---
