@@ -2,8 +2,8 @@
 title: Norixius
 description: The evil clan or something
 published: true
-date: 2025-03-31T19:08:40.298Z
-tags: 
+date: 2025-04-04T18:57:37.603Z
+tags: audio
 editor: markdown
 dateCreated: 2025-03-29T21:17:31.137Z
 ---
