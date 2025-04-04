@@ -2,7 +2,7 @@
 title: overview
 description: 
 published: true
-date: 2025-04-04T19:38:31.912Z
+date: 2025-04-04T19:41:40.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T12:09:51.617Z
@@ -132,7 +132,7 @@ ALL OF THIS ANSWERED NEXT TIME ON...
 
 8. [Frederina](/characters/frederina) set the forest ablaze, and after 20 minutes, [Kiwi](/characters/kiwi) took it upon himself to get people to help the guards put out the fire.
 
-9. Box Bear joined the group and was named [Bomb the Bear](/characters/bomb-the-bear).
+9. Box Bear joined the group and was named [Bomb the Bear](/characters/Bomb-the-Bear).
 
 10. Next session will leave the small fishing village of [Trelston](/locations/Trelston).
 
@@ -153,7 +153,7 @@ WTF ever happened to [Freedom](/characters/freedom) and the robot slaves? Did we
 ## My God It Went So WRONG
 ###### February 12, 2020
 
-First, [Krorg](/characters/krorg) dressed up [Bomb the Bear](/characters/bomb-the-bear) to disguise him and get him into human places.
+First, [Krorg](/characters/krorg) dressed up [Bomb the Bear](/characters/Bomb-the-Bear) to disguise him and get him into human places.
 
 Then the group heads to [Kaltrosar Bay](/locations/Kaltrosar-Bay), gets paid, and looks for more work.
 
@@ -210,7 +210,7 @@ The rest of the gang now heads off to [Allford](/locations/Allford) with the Cap
 
 All of the pirates are dead, and the fighting is over. After witnessing (and accidentally causing) [Freedom](/characters/freedom)'s genocidal behavior in [Kaltrosar Bay](/locations/Kaltrosar-Bay), fearing [Freedom](/characters/freedom) would attract the attention of vengeful armies, and being a general Luddite, [Krorg](/characters/krorg) decides to use the opportunity to eliminate [Freedom](/characters/freedom). [Os Vrntica](/characters/os) and [Drakham](/characters/drakham) both try to stop the fighting, but [Krorg](/characters/krorg) is set in his belief that [Freedom](/characters/freedom) is a dangerous weapon that the **Low Bar Brawlers** have only begun to abuse. [Os Vrntica](/characters/os) issues an order to [Freedom](/characters/freedom) not to kill anyone in the party and to destroy the remaining pirate ships. Seconds later, [Krorg](/characters/krorg) starts blasting.
 
-The first shot knocks [Freedom](/characters/freedom) deep into the ship before [Drakham](/characters/drakham) casts Reduce on the size of the cannon. Hearing [Freedom](/characters/freedom) moving below, [Krorg](/characters/krorg) and [Bomb the Bear](/characters/bomb-the-bear) decide to gain the high ground in the fight by climbing the ship's mast. [Drakham](/characters/drakham) successfully charms [Krorg](/characters/krorg) to climb back down to the deck. [Krorg](/characters/krorg) agrees to surrender, but his sudden change in nature causes him to be bitten by [Bomb the Bear](/characters/bomb-the-bear), ending the spell. Off the side of the ship, [Freedom](/characters/freedom) appears while riding a large Dragon Turtle, about to head off to destroy the remaining pirate ships. [Krorg](/characters/krorg) thanks [Bomb the Bear](/characters/bomb-the-bear) for saving him and decides to leave [Bomb the Bear](/characters/bomb-the-bear) behind to the safety of the **Low Bar Brawlers**. Then [Krorg](/characters/krorg) runs and dives off of the mast into the water, catching the Dragon Turtle's tail before being dragged off into the horizon...
+The first shot knocks [Freedom](/characters/freedom) deep into the ship before [Drakham](/characters/drakham) casts Reduce on the size of the cannon. Hearing Freedom moving below, [Krorg](/characters/krorg) and [Bomb the Bear](/characters/Bomb-the-Bear) decide to gain the high ground in the fight by climbing the ship's mast. [Drakham](/characters/drakham) successfully charms Krorg to climb back down to the deck. Krorg agrees to surrender, but his sudden change in nature causes him to be bitten by Bomb the Bear, ending the spell. Off the side of the ship, Freedom appears while riding a large Dragon Turtle, about to head off to destroy the remaining pirate ships. Krorg thanks Bomb the Bear for saving him and decides to leave Bomb the Bear behind to the safety of the **Low Bar Brawlers**. Then Krorg runs and dives off of the mast into the water, catching the Dragon Turtle's tail before being dragged off into the horizon...
 
 ---
 
