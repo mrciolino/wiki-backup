@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-03-31T22:14:57.996Z
+date: 2025-04-04T18:44:50.879Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -21,14 +21,14 @@ List of non-player-characters from both campaigns and some information about the
 | [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing Narascus’s corruption. |  
 | [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Formerly the Witch King of Erriad, later a morally ambiguous ally. Destroyed an owlbear planet for souls with Spoops. |  
 | *[Knott Emportent (Create Page)](/characters/knott-emportent)* | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the Well of Many Worlds. |  
-| [Gilembror](/characters/gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in Erriad. |  
-| *[Tony Mozzarella (Create Page)](/characters/tony-mozzarella)* | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in FIWIC’s Bartenders Guild. |  
+| [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in Erriad. |  
+| [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in FIWIC’s Bartenders Guild. |  
 | *[Bomb the Bear](/characters/Bomb-the-Bear)* | Animal Companion | Killed by Rathwing’s cult in Season 1. Later resurrected as an undead? (Unclear from transcript). |  
 | [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in Alford before its destruction. Possibly linked to Illiard’s family. |  
 | *[Josh the Drake (Create Page)](/characters/josh-the-drake)* | Draconic Ally | A drake companion or ally, possibly tied to the dragonborn clans of Calchasarbay. |  
 | *[Doom Slayer (Create Page)](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
 | *[Mechatarasque](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by GESCO-WRM or the Pythagoreans. |  
-| *[Inferno]* | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
+|  | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
 
 ---
 
