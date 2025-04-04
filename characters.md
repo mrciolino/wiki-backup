@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-04-04T18:44:50.879Z
+date: 2025-04-04T18:53:59.236Z
 tags: villians, needs reorganizing
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -18,27 +18,27 @@ List of non-player-characters from both campaigns and some information about the
 ### **Allies**  
 | Name | Role | Description |  
 |------|------|-------------|  
-| [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing Narascus’s corruption. |  
-| [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Formerly the Witch King of Erriad, later a morally ambiguous ally. Destroyed an owlbear planet for souls with Spoops. |  
-| *[Knott Emportent (Create Page)](/characters/knott-emportent)* | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the Well of Many Worlds. |  
-| [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in Erriad. |  
-| [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in FIWIC’s Bartenders Guild. |  
-| *[Bomb the Bear](/characters/Bomb-the-Bear)* | Animal Companion | Killed by Rathwing’s cult in Season 1. Later resurrected as an undead? (Unclear from transcript). |  
-| [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in Alford before its destruction. Possibly linked to Illiard’s family. |  
-| *[Josh the Drake (Create Page)](/characters/josh-the-drake)* | Draconic Ally | A drake companion or ally, possibly tied to the dragonborn clans of Calchasarbay. |  
+| [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing [Narascus](/characters/Narascus)’s corruption. |  
+| [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Body doubled as the Witch King to the party at [Ereriad](/locations/Ereriad), later a morally ambiguous ally. Destroyed an owlbear planet for souls with [Spoops](/characters/spoops). |  
+| *[Knott Emportent (Create Page)](/characters/knott-emportent)* | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds). |  
+| [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in [Ereriad](/locations/Ereriad). |  
+| [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in [Fywick](/locations/Mardun/Fywick)'s [Bartenders Guild](/organizations/bartenders_guild). |  
+| *[Bomb the Bear](/characters/Bomb-the-Bear)* | Animal Companion | Killed by [Rathwing](/characters/Rathwing)’s cult in Season 1. Later envisioned in the astral plan as Bomb Coin's life blood. |  
+| [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in [Allford](/locations/Mardun/Allford) before its destruction. Guided the party to its power climb into defeatin the Ithilids |  
+| *[Josh the Drake (Create Page)](/characters/josh-the-drake)* | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |  
 | *[Doom Slayer (Create Page)](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
-| *[Mechatarasque](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by GESCO-WRM or the Pythagoreans. |  
-|  | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
+| *[Mechatarasque](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by the Pythagoreans. Profiled and commandeered by [Bazzdos](/characters/bazzdos). |  
+| *[Inferno](/characters/inferno)* | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
 
 ---
 
 ### **Villains**  
 | Name | Role | Notable Actions |  
 |------|------|----------------|  
-| [Darmuth](/characters/Darmuth) | Harbinger of The Emperor | Darmuth paved the way for the Emperor's arrival in Mardun. |  
-| [Rathwing](/characters/Rathwing) | Demon Servant of Darmuth | He and his Cult terrorized the city of Demsford and Altricia. |  
+| [Darmuth](/characters/Darmuth) | Harbinger of The Emperor | Darmuth paved the way for the [Emperor](/characters/Emperor)'s arrival. |  
+| [Rathwing](/characters/Rathwing) | Demon Servant of Darmuth | He and his Cult terrorized the city of Demsford and [Altricia/Allford](/locations/Mardun/Allford). |  
 | [Dave Bones](/characters/Dave-Bones) | An immortal being of spite. | Preserved in the memories of those he victimizes, he always seems to find a way back. |  
-| [Zeus](/characters/zeus) | God of Thunder and leader of Olympus. | Sought revenge on Spoops for the destabilization of Bombcoin. |  
+| [Zeus](/characters/zeus) | God of Thunder and leader of Olympus. | Sought revenge on [Spoops](/characters/spoops) for the destabilization of Bomb Coin. |  
 | [Emperor](/characters/Emperor) | The final boss | Sought the destruction of the Anchor Worlds which keep Cronos sealed in Carceri. |  
 
 ---
