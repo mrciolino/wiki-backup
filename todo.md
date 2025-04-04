@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-04T19:21:48.230Z
+date: 2025-04-04T19:22:08.729Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -38,3 +38,4 @@ Pages where one's knowledge is better suited for filling in information.
 > 
 > ## 🤖 Matt  
 > ❌ **[Mechatarasque](/en/characters/mechatarasque)**  
+{.is-info}
