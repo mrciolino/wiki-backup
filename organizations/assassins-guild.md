@@ -2,8 +2,8 @@
 title: Assassins Guild
 description: Give me a heads up if anyone tries to kill me.
 published: true
-date: 2025-03-31T18:55:36.932Z
-tags: 
+date: 2025-04-04T18:58:19.218Z
+tags: audio
 editor: markdown
 dateCreated: 2025-03-28T20:01:49.843Z
 ---
