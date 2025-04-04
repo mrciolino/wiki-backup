@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-04T14:49:44.254Z
+date: 2025-04-04T14:50:04.143Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -75,7 +75,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Kingslayer](/items/Kingslayer) | Epic | Mace | Spoops | Mace used by the Witch King. |
 | [Protein Shake of Power](/items/Protein-Shake-Of-Power) | Epic | Potion | Spoops | The most insanely powerful potion ever. |
 | [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) | Legendary | Item | LBB | Rings engraved with spells, capable of casting and focusing. |
-| [Modular Laser Unit](/items/Modular-Laser-Unit) | Epic | Potion | LBB | A Laser unit compatible with the [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) and [Magical Power Source](/items/Magical-Power-Source)|
+| [Modular Laser Unit](/items/Modular-Laser-Unit) | Legendary | Potion | LBB | A Laser unit compatible with the [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) and [Magical Power Source](/items/Magical-Power-Source)|
 | [Magical Power Source](/items/Magical-Power-Source) | Legendary | Item | LBB | Stores magical energy. |
 
 
