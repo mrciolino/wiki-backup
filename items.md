@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-04T15:45:29.242Z
+date: 2025-04-04T16:45:25.510Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -77,7 +77,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) | Legendary | Item | LBB | Rings engraved with spells, capable of casting and focusing. |
 | [Modular Laser Unit](/items/Modular-Laser-Unit) | Legendary | Potion | LBB | A Laser unit compatible with the [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) and [Magical Power Source](/items/Magical-Power-Source)|
 | [Magical Power Source](/items/Magical-Power-Source) | Legendary | Item | LBB | Stores magical energy. |
-| [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Item | Spoops | Armor that makes the wearer immune to magic. |
+| [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 
 
 
