@@ -2,7 +2,7 @@
 title: timeline
 description: 
 published: true
-date: 2025-04-02T00:56:15.093Z
+date: 2025-04-04T02:58:00.053Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -45,7 +45,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **Fall of the Illithid Empire:** *TODO*
 - **Giants vs. Dragons War:** The Giants' defeat marks the end of the **Age of Giants** and the start of the **Age of Dragons** (2150–2100 BC).
 
-### The Age of Dragons
+## The Age of Dragons (??? BC - ~2100 BC)
 
 - **2150 BC:** Birth of **[Inferno](/characters/inferno)**.
 - **[Darmuth](/characters/darmuth)**'s body begins to form.
@@ -53,19 +53,23 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - The first mortal empire to harness **[Runic Magic](/magic/runes)**.
   - Leyline project completed and Pythas Prime founded.
   - Fall of Pythas Prime and the Pythagorean people flee, spreading the knowledge of magic around the world.
-  - **2100 BC:** The **Desolation of Asmal** ends the **Age of Dragons** and starts the **Age of Mortals**.
-
-### The Age of Mortals
-
+- **2100 BC:** The **Desolation of Asmal** ends the **Age of Dragons** and starts the **Age of Mortals**.
+	- Asmal, the mad mage of Pythas Prime, travels to Dracofell with a cult of antipode loyalists. It is unclear the exact method he used, but the result was harnessing a new form of dark magic that lead to the extinction of 99% of dragons of Mardun. All remaining survivors fled to Wyrmford, as Dracofell became a desolate wasteland hostile to all life.
+## The Age of Mortals (~2100 BC - ~1 AC)
+- Various survivng factions of the Pythagorean Empire found new settlements.
+	- A guild of astronomers travel north to the Celestial Vale and begin a new tradition of studying stars for scrying and fortelling abilities.
+  - A guild of warriors travel east to what is now called Helmaer and begin a tradition of magic for combattive purposes.
+  - A guild of vitalists travel west to Druidia and the Wild Jungles to continue their traditions of healing magic, and beast husbandry. Eventually they create dinosaurs.
+	- The few remaining dragons scatter around the earth, forever living in fear of the Desolation of Asmal.
 - **~1000 BC:**  
   - **[Os Vrintia](/characters/os-vrintia)** travels back in time and founds the **[Empire of Tiyamanni](/organizations/empire-of-tiyamanni)**.
 
 - **Darmuth’s Reign (650 BC):**  
   - Darmuth seals Inferno in **[The Lovers’ Promise Mountain](/locations/lovers-promise-mountain)**.  
   - Marries Os Vrintia’s son, Evhal, and ascends as Empress of Tiyamanni.
+  - Gnomes are driven out; they and residents of the Celestial Vale go and found **[Fywick](/locations/fywick)**.
 
 - **Collapse of Tiyamanni:**  
-  - Gnomes are driven out; refugees found **[Fywick](/locations/fywick)**.
 
 ### The Necrotic Wars & The Fall of Empires
 
@@ -76,44 +80,50 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 - **3 BC:**  
   - The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)**.  
-  - Pirate raids destroy Alford; **[Altricia](/locations/altricia)** is founded.
+  - Kaltozar Bay is burned down by Freedom.
+  - Bomb the Bear is killed by Rathwing.
+  - Drakham unleashes bone spiders, causing chaos in Alford.
+  - Krorg organizes a pirate raid to plunder Alford; **[Altricia](/locations/altricia)** is founded from the ashes.
+  - After celebrating a successful raid, the party splits off for 3 years.
 
-- **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)**.
+- **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey) to Krorg and his wife Kayla**.
 
 ### The End of the Age of Mortals (0 AD)
 
 **Cataclysmic Events:**  
-- Darmuth destroys Altricia; the **Low Bar Brawlers** ascend to godhood.  
+- Darmuth destroys Altricia and kills Krorg; the **Low Bar Brawlers** ascend to godhood.  
 - The Githyanki Empire falls.  
+- Somehow, Krorg returns to the realm of the living
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
 - Spoops, now **Myrkul**, the god of bones, retreats into hiding.  
-- **Olympia** falls further into chaos as Zeus is corrupted by the Illithids and then killed by the party.  
+- **Olympia** falls further into chaos as Zeus is corrupted by the Illithids
 - The Illithid Emperor is defeated.  
 
 ---
 
-## The Age of Ascended (1 AD – ?)
+## The Age of Ascended (1 AC – ?)
 
 ### Civil War & New Kingdoms
 
 - **Mortis Lux Civil War:**  
   - **[Adalynn](/characters/adalynn)** is killed by Breezye.  
   - The Saragossa pirates disperse; Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**.
+  - Hastow vs Wegate leads to an eternal battle between the two largest remaining necrotic forces on earth.
 
 - **Dwarven & Draconic Events:**  
   - **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses.  
   - Dragonborn clans migrate to Vrintia.
-
 ### Other Major Events
 
-- **The **[City of Brass](/locations/city-of-brass)** crashes into the **[Sea of Ice](/locations/sea-of-ice)**.  
+- **The [City of Brass](/locations/city-of-brass)** crashes into the **[Sea of Ice](/locations/sea-of-ice)**.  
 - **Breezye** founds **[La Rocca della Sugo](/locations/la-rocca-della-sugo)**.
+- The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea
 
 ---
 
 ## The New Campaign
 
-### 1000 AD – Present
+### 1000 AC – Present
 
 - **1000 AD:** **[Goopy](/characters/goopy)** arrives from space.  
 - **10XX AD:** The **[Slaughter Bridge Battle](/events/slaughter-bridge-battle)** occurs, leading to the destruction of the Brass Brigade.
