@@ -2,7 +2,7 @@
 title: Adventurer's Guild 
 description: Adventurer's Guild Description
 published: true
-date: 2025-03-30T16:07:27.763Z
+date: 2025-04-04T02:40:01.162Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-12T13:22:19.598Z
@@ -24,7 +24,7 @@ Their methods involve infiltrating mortal cities through seemingly random tavern
 
 
 ## **Origins & History**  
-The Guild's roots trace back to the **Pythagorean Empire**, the first civilization to master true arcane magic after the Age of Dragons. The Time Wizard escaped the empire's cataclysmic fall, which:
+The Guild's roots trace back to the **Pythagorean Empire**, the first civilization to master true arcane magic during the Age of Dragons. The Time Wizard escaped the empire's cataclysmic fall, which:
 - Created the Triangler Sea (formerly land) through magical catastrophe
 - Scattered Pythagorean ruins containing dangerous geometric magic across the world
 - Established the foundation for modern arcane traditions (including dwarven rune magic)
@@ -34,8 +34,8 @@ The Guild likely formed centuries after the collapse, as the Time Wizard gathere
 
 
 ## **The Secret War**  
-The Guild's primary adversary is the **Bartenders Guild**, a rival network created by **Mead** (a Fywick inventor and former Guild associate). This conflict reveals:
-- **Mead's Motivation**: After being introduced to the Guild by Mordis Lux, he discovered something that prompted him to create his own shadow organization
+The Guild's primary adversary is the **Bartenders Guild**, a rival network of bartenders who manipulate adventurers for their own means. This conflict reveals:
+- After being introduced to the Guild by Mordis Lux, Meade discovered something that prompted him to take action within his own shadow organization.
 - **Bartenders Guild Structure**: A spy network masquerading as tavern keepers and innkeepers
 - **The Irony**: Both groups use adventurers as proxies, creating a recursive conflict
 
@@ -46,7 +46,7 @@ Key unresolved questions:
 
 
 ## **Notable Interactions**  
-The Guild's most documented interaction was with **Mordis Lux**:
+The Guild's most documented interaction was with **Mortis Lux**:
 - **Initial Contact**: Hired to gather gnomes named Gond (for reconstructing the gnomish god Gonzole)
 - **Financial Arrangement**: Received an ongoing payment of "millions/billions" of gold for unspecified future services
 - **Fywick Connection**: Operations in this region suggest interest in Pythagorean ruins beneath the Triangler Sea
