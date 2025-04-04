@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-04-01T01:59:50.979Z
+date: 2025-04-04T19:25:55.717Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -15,7 +15,7 @@ The Journey began Friday Dec 27th 2019 at Zia Maria Little Italy: https://www.zi
 
 > **Editing**  
 > We are building this wiki using a bottom-up approach. Check the [To-Do Page](/todo) to see where you can contribute.  
-> Unfinished content is indicated by [unlinked content](/test), which may lead to incorrect paths or suggest that a new page needs to be created.  {.is-info}
+> Unfinished content is indicated by [unlinked content](/test), which you may need to **fix the pathing for** or that a new page needs to be created.  {.is-info}
 
 ## 🏹 Campaign 1
 The Age of Mortals come to end when Mortis Lux **Ascends** to take on the Ithilid threat.
@@ -38,8 +38,10 @@ The primary setting for Campaigns 1 and 2, as well as various one-shot adventure
 > **Adventure Stories**  
 > Check out the **[Adventures Page](/Adventures)** to see a list of all stories of Mardun.
 
+## 🔊 Lore Talks
+Some pages have been derived from specific lore talks in a podcasting style. These pages are marked with the [audio](/t/audio) tag and may contain information summarized from a transcript of the audio clips. 
 
-### Mardun  
+## Mardun  
 The starting world of the campaign. More details can be on [Marduns](/locations/Mardun)'s page. See the [Locations](/locations) page for more maps. 
 ![Mardun](/maps/mardun.webp =800x)  
 
