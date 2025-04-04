@@ -2,7 +2,7 @@
 title: overview
 description: 
 published: true
-date: 2025-03-31T22:07:57.948Z
+date: 2025-04-04T19:38:31.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T12:09:51.617Z
@@ -50,11 +50,11 @@ During the Demon Battle in the pub, [Spoops](/characters/spoops) "seduced" and "
 
 [Peter's character](/characters/peter) proved himself to be a shit thief and "almost" a "traitor" to the team by healing the demon. After that, "anyway so I started blasting," and the demon was "finished" by [Spoops](/characters/spoops), though he did gain a lot of booze.
 
-[Os Vrntica](/characters/os-vrntica) "apparently" has a "bounty" placed on his head and ultimately doesn't know if he is safe with [Otto Herzog](/characters/otto-herzog).
+[Os Vrntica](/characters/os) "apparently" has a "bounty" placed on his head and ultimately doesn't know if he is safe with [Otto Herzog](/characters/otto-herzog).
 
 [Kiwi](/characters/kiwi): "YOU'RE NOT MY DAD!"
 
-[Brazzart](/characters/brazzart) got his ass kicked by the guards, then was saved by [Freedom](/characters/freedom). May he live long and do something of importance.
+[Brazzart](/characters/bazzert) got his ass kicked by the guards, then was saved by [Freedom](/characters/freedom). May he live long and do something of importance.
 
 Will anyone remember that they were called to the pub for an unknown reason by an unknown coordinator, or will they follow [Freedom](/characters/freedom) on a revolution for freedom?
 
@@ -78,9 +78,9 @@ The battle continued. Goblins died; one was captured and investigated.
 
 A bear was found guarding treasure and was suplexed into a treasure chest to contain it.
 
-The goblin boss came with a badger and a cannon and killed [Os Vrntica](/characters/os-vrntica).
+The goblin boss came with a badger and a cannon and killed [Os Vrntica](/characters/os).
 
-But like the fucking gambler he is, [Drakham](/characters/drakham) used his Tides of Chaos to get himself back up from death and fucked with the winds of magic, reincarnating [Os Vrntica](/characters/os-vrntica) back into a high elf.
+But like the fucking gambler he is, [Drakham](/characters/drakham) used his Tides of Chaos to get himself back up from death and fucked with the winds of magic, reincarnating [Os Vrntica](/characters/os) back into a high elf.
 
 Look, it's 11:53 PM, and I just can't even with the bad luck of 3 consecutive ones, which led to 2 people dying, and then 3 consecutive crit 20s to bring everyone back to life.
 
@@ -128,7 +128,7 @@ ALL OF THIS ANSWERED NEXT TIME ON...
 
 6. Said desecration caused a swarm of badgers to attack the group.
 
-7. Box Bear was befriended and tamed by [Os Vrntica](/characters/os-vrntica), then [Krorg](/characters/krorg).
+7. Box Bear was befriended and tamed by [Os Vrntica](/characters/os), then [Krorg](/characters/krorg).
 
 8. [Frederina](/characters/frederina) set the forest ablaze, and after 20 minutes, [Kiwi](/characters/kiwi) took it upon himself to get people to help the guards put out the fire.
 
@@ -175,7 +175,7 @@ The group gives in and is arrested. Then [Drakham](/characters/drakham) accident
 
 Then more guards straight from the King of [Kaltrosar Bay](/locations/Kaltrosar-Bay). [Bazzert](/characters/bazzert) angers the guards, and they try to kill [Bazzert](/characters/bazzert), so combat ensues.
 
-After fighting through a large meaty man, the group frees themselves and [Freedom](/characters/freedom), gets their stuff back, and [Freedom](/characters/freedom) sets fire to the castle. As the group escapes, they gather [Os Vrntica](/characters/os-vrntica), [Seriphi](/characters/seriphi), [Spoops](/characters/spoops), and [Kiwi](/characters/kiwi) and escape.
+After fighting through a large meaty man, the group frees themselves and [Freedom](/characters/freedom), gets their stuff back, and [Freedom](/characters/freedom) sets fire to the castle. As the group escapes, they gather [Os Vrntica](/characters/os), [Seriphi](/characters/seriphi), [Spoops](/characters/spoops), and [Kiwi](/characters/kiwi) and escape.
 
 They escaped by distracting dock workers with free beer and by [Freedom](/characters/freedom) setting fire to the dock. Everyone stowed away in cargo crates and got on a ship leaving [Kaltrosar Bay](/locations/Kaltrosar-Bay).
 
@@ -194,11 +194,11 @@ You all woke up on a trading ship.
 
 Started a bidding war with the captain for voyage on his ship and tried to kill him, but at the same time, the ship is attacked by Orcish pirates.
 
-You all team up to fight the pirates, and [Os Vrntica](/characters/os-vrntica) woke up [Freedom](/characters/freedom), who came up and finished off the pirates on the boat.
+You all team up to fight the pirates, and [Os Vrntica](/characters/os) woke up [Freedom](/characters/freedom), who came up and finished off the pirates on the boat.
 
 As the ship crew fights off the pirate ship, [Krorg](/characters/krorg) fights [Freedom](/characters/freedom) with [Bomb the Bear](/characters/bomb-the-bear) and with a cannon. He hit [Freedom](/characters/freedom) and punched a hole through the ship.
 
-[Drakham](/characters/drakham) and [Os Vrntica](/characters/os-vrntica) tried to stop the fighting but failed.
+[Drakham](/characters/drakham) and [Os Vrntica](/characters/os) tried to stop the fighting but failed.
 
 After some fighting, a Dragon Turtle shows up and attacks the trading ship and the pirate ships.
 
@@ -208,7 +208,7 @@ The rest of the gang now heads off to [Allford](/locations/Allford) with the Cap
 
 **Comments:**
 
-All of the pirates are dead, and the fighting is over. After witnessing (and accidentally causing) [Freedom](/characters/freedom)'s genocidal behavior in [Kaltrosar Bay](/locations/Kaltrosar-Bay), fearing [Freedom](/characters/freedom) would attract the attention of vengeful armies, and being a general Luddite, [Krorg](/characters/krorg) decides to use the opportunity to eliminate [Freedom](/characters/freedom). [Os Vrntica](/characters/os-vrntica) and [Drakham](/characters/drakham) both try to stop the fighting, but [Krorg](/characters/krorg) is set in his belief that [Freedom](/characters/freedom) is a dangerous weapon that the **Low Bar Brawlers** have only begun to abuse. [Os Vrntica](/characters/os-vrntica) issues an order to [Freedom](/characters/freedom) not to kill anyone in the party and to destroy the remaining pirate ships. Seconds later, [Krorg](/characters/krorg) starts blasting.
+All of the pirates are dead, and the fighting is over. After witnessing (and accidentally causing) [Freedom](/characters/freedom)'s genocidal behavior in [Kaltrosar Bay](/locations/Kaltrosar-Bay), fearing [Freedom](/characters/freedom) would attract the attention of vengeful armies, and being a general Luddite, [Krorg](/characters/krorg) decides to use the opportunity to eliminate [Freedom](/characters/freedom). [Os Vrntica](/characters/os) and [Drakham](/characters/drakham) both try to stop the fighting, but [Krorg](/characters/krorg) is set in his belief that [Freedom](/characters/freedom) is a dangerous weapon that the **Low Bar Brawlers** have only begun to abuse. [Os Vrntica](/characters/os) issues an order to [Freedom](/characters/freedom) not to kill anyone in the party and to destroy the remaining pirate ships. Seconds later, [Krorg](/characters/krorg) starts blasting.
 
 The first shot knocks [Freedom](/characters/freedom) deep into the ship before [Drakham](/characters/drakham) casts Reduce on the size of the cannon. Hearing [Freedom](/characters/freedom) moving below, [Krorg](/characters/krorg) and [Bomb the Bear](/characters/bomb-the-bear) decide to gain the high ground in the fight by climbing the ship's mast. [Drakham](/characters/drakham) successfully charms [Krorg](/characters/krorg) to climb back down to the deck. [Krorg](/characters/krorg) agrees to surrender, but his sudden change in nature causes him to be bitten by [Bomb the Bear](/characters/bomb-the-bear), ending the spell. Off the side of the ship, [Freedom](/characters/freedom) appears while riding a large Dragon Turtle, about to head off to destroy the remaining pirate ships. [Krorg](/characters/krorg) thanks [Bomb the Bear](/characters/bomb-the-bear) for saving him and decides to leave [Bomb the Bear](/characters/bomb-the-bear) behind to the safety of the **Low Bar Brawlers**. Then [Krorg](/characters/krorg) runs and dives off of the mast into the water, catching the Dragon Turtle's tail before being dragged off into the horizon...
 
@@ -221,7 +221,7 @@ We get back after the pirate fight and after [Freedom](/characters/freedom) and 
 
 The ship is still hectic, and the crew and some of the gang help out by repairing what they can and fishing up some fish for more food on the voyage to [Allford](/locations/Allford).
 
-After some "hole" fixing shenanigans, [Os Vrntica](/characters/os-vrntica) confronts the Elven taskmaster of the ship, and in fact, it's his cousin [Eugene Vrntica](/characters/eugene-vrntica), though only noticing this after a short musical battle between the two.
+After some "hole" fixing shenanigans, [Os Vrntica](/characters/os) confronts the Elven taskmaster of the ship, and in fact, it's his cousin [Eugene Vrntica](/characters/eugene-vrntica), though only noticing this after a short musical battle between the two.
 
 Then after a three-day voyage, the gang gets to [Allford](/locations/Allford) and immediately gets referred to [The West Sorea Trading Company](/organizations/west-sorea-trading-company) for more work from Captain [John Robin](/characters/john-robin) of the Seabird. But as immediately as that, [Otto Herzog](/characters/otto-herzog) and [Frederina](/characters/frederina) were pickpocketed, and they were out to get their money back.
 
@@ -250,7 +250,7 @@ All of this as [Drakham](/characters/drakham) and [Bazzert](/characters/bazzert)
 
 Then the party finds the lost halfling pickpocket and drags him along through hallways of trap-filled, skeleton-filled danger.
 
-[Os Vrntica](/characters/os-vrntica) follows up this excitement with a calming ballad, which reinvigorates the party and prepares them for the rest of the dungeon, the likes of which are filled with a gelatinous cube, more spiders, and a Wall of Fire.
+[Os Vrntica](/characters/os) follows up this excitement with a calming ballad, which reinvigorates the party and prepares them for the rest of the dungeon, the likes of which are filled with a gelatinous cube, more spiders, and a Wall of Fire.
 
 The gang found a mysterious wall of fire and weird paintings that light up with proper activation, but before figuring out the mystery, they have to deal with a mimic.
 
@@ -303,7 +303,7 @@ ALL OF THIS NEXT TIME IN **LOW BAR BRAWLERS**
 ## Leaving Allford
 ###### March 18 2020
 
-So we return to our heroes after the [Freedom](/characters/freedom) soul switcher conundrum, and [Krorg](/characters/krorg) interrogates [Os Vrntica](/characters/os-vrntica) about him being demonic/demon sympathizer. He does this by hiding his lute and then holding him over a pit.
+So we return to our heroes after the [Freedom](/characters/freedom) soul switcher conundrum, and [Krorg](/characters/krorg) interrogates [Os Vrntica](/characters/os) about him being demonic/demon sympathizer. He does this by hiding his lute and then holding him over a pit.
 
 In the morning, everyone awakes to find [Lucidel Illiard](/characters/lucidel-illiard) by some test tubes with bone spider carcasses on display, and he gives the party a job to investigate and deal with a cult in the [Ghostwood Forest](/locations/ghostwood-forest) near [Demsford](/locations/demsford), a small village. The party is told that they have a lot of authority in deciding how to deal with the cult, as if they have an old necrotic war plague, the cult could destroy [Allford](/locations/allford). That is all the info that [Lucidel Illiard](/characters/lucidel-illiard) knows about the cult situation and sets our heroes out to solve it.
 
@@ -332,7 +332,7 @@ All of this answered next time on **LOW BAR BRAWLERS!**
 
 We come back to our heroes with [Bazzert](/characters/bazzert) and [Krorg](/characters/krorg) in an underwater cave with [Bazzert](/characters/bazzert)'s master [Ayod](/characters/ayod). He has come to tell his estranged student [Bazzert](/characters/bazzert) that some stars are disappearing from the sky, and he doesn't know why. Then [Ayod](/characters/ayod) helps train [Bazzert](/characters/bazzert) to read the weird book.
 
-[Krorg](/characters/krorg) resurfaces to see [Frederina](/characters/frederina) talking to a golden lobster. Upon closer inspection, she is entranced by it and doesn't notice [Krorg](/characters/krorg). [Os Vrntica](/characters/os-vrntica) and [Krorg](/characters/krorg) try to lift the lobster almost like a competition, but they both fail completely to lift said golden lobster. After all that and having their horses be inconveniently dead, [Bomb](/characters/bomb) and [Bazzert](/characters/bazzert) (transformed into a bear) pull the carriage to [Demsford](/locations/demsford).
+[Krorg](/characters/krorg) resurfaces to see [Frederina](/characters/frederina) talking to a golden lobster. Upon closer inspection, she is entranced by it and doesn't notice [Krorg](/characters/krorg). [Os Vrntica](/characters/os) and [Krorg](/characters/krorg) try to lift the lobster almost like a competition, but they both fail completely to lift said golden lobster. After all that and having their horses be inconveniently dead, [Bomb](/characters/Bomb-the-Bear) and [Bazzert](/characters/bazzert) (transformed into a bear) pull the carriage to [Demsford](/locations/demsford).
 
 Four days prior, we get back to [Spoops](/characters/spoops) in [Allford](/locations/allford), strolling out of a bar, and he hears the voice of the lord, his God. [Spoops](/characters/spoops)' god says, "Get your shit together and ride north." [Spoops](/characters/spoops) then robs a man passing by of his horse and leaves him on the street and rides north out of [Allford](/locations/allford). He rides for 4 days and gets to [Demsford](/locations/demsford) first and then immediately goes to the bar and drinks.
 
@@ -340,17 +340,17 @@ The rest of the team shows up, and on their way into the village, they are greet
 
 After a couple of hours trekking through the woods, they come just outside the fortress, and the team runs into a patrol. One of the patrol cultists runs up into sight of the other cultists and then is turned into a pile of goo by [Bazzert](/characters/bazzert)'s acid arrow. [Bazzert](/characters/bazzert) would repeat this trick on their guide cultist, as ya know, no loose ends and all that stuff. Now, however, loose ends are not the focus as there is an entire fortress of cultists to fight.
 
-[Krorg](/characters/krorg) and [Bomb](/characters/bomb) mount the battlements and start slaughtering the cultists. [Os Vrntica](/characters/os-vrntica) and [Spoops](/characters/spoops) charge the front gate while on horseback, taking out a couple but sustaining major damage. [Bazzert](/characters/bazzert) and [Drakham](/characters/drakham) do a couple of things like arguing and turning into gas, but besides that, not a whole lot. The battle quickly turns, however, as every cultist comes over to fight the would-be defilers (the team). [Krorg](/characters/krorg) and [Bomb](/characters/bomb) get pinned down by a crossbow and magic barrage, and the rest of the team is following...
+[Krorg](/characters/krorg) and [Bomb](/characters/Bomb-the-Bear) mount the battlements and start slaughtering the cultists. [Os Vrntica](/characters/os) and [Spoops](/characters/spoops) charge the front gate while on horseback, taking out a couple but sustaining major damage. [Bazzert](/characters/bazzert) and [Drakham](/characters/drakham) do a couple of things like arguing and turning into gas, but besides that, not a whole lot. The battle quickly turns, however, as every cultist comes over to fight the would-be defilers (the team). [Krorg](/characters/krorg) and [Bomb](/characters/Bomb-the-Bear) get pinned down by a crossbow and magic barrage, and the rest of the team is following...
 
 **THE DRAKHAM PLAN**
 
 So the plan is to retreat and wait until the cultists aren't alert and then break in by making holes in their wall and kill them all group by group instead of a frontal assault against all of them at once.
 
-Little does [Drakham](/characters/drakham) know, the cult fortress already has holes in its walls, and [Krorg](/characters/krorg) and [Bomb](/characters/bomb) would eventually die if left alone to fight all the cultists by themselves. So instead, they follow...
+Little does [Drakham](/characters/drakham) know, the cult fortress already has holes in its walls, and [Krorg](/characters/krorg) and [Bomb](/characters/Bomb-the-Bear) would eventually die if left alone to fight all the cultists by themselves. So instead, they follow...
 
 **THE SECOND DRAKHAM PLAN**
 
-So this plan is to ride around the side of the fortress and flank the cultists on horseback like a mini cavalry charge and save [Krorg](/characters/krorg) and [Bomb](/characters/bomb).
+So this plan is to ride around the side of the fortress and flank the cultists on horseback like a mini cavalry charge and save [Krorg](/characters/krorg) and [Bomb](/characters/Bomb-the-Bear).
 
 This plan, while a bit better, also failed as one of the cultists ran to get his boss. During the time before the cultist boss shows up, [Bazzert](/characters/bazzert) is attacked by the fortress firing squad and gets struck by crossbow bolts and fire bolts and falls unconscious in a burning tree. Good thing [Frederina](/characters/frederina) stopped the flames from burning [Bazzert](/characters/bazzert) alive and pulled him from the tree. But then...
 
@@ -360,7 +360,7 @@ This plan, while a bit better, also failed as one of the cultists ran to get his
 
 ![Token image of Rathwing](/characters/other/wrath.png =250x)
 
-[Bazzert](/characters/bazzert) now, however, is pulling a lot of weight and starts obliterating the cultists with lightning and moonbeams, thinning out the firing squad targeting [Krorg](/characters/krorg) and [Bomb](/characters/bomb). But [Krorg](/characters/krorg) and [Bomb](/characters/bomb) have bigger issues now as [Veerian Rathwing](/characters/veerian-rathwing) animates 5 gold coins from his pocket and sends them to attack [Bomb](/characters/bomb). The coins brutalize [Bomb](/characters/bomb), and [Bomb](/characters/bomb) falls unconscious after a tiring fight, being pin-cushioned by cultist crossbows, burned by firebolts, and now he succumbs to the coins. Everyone now focuses on [Veerian Rathwing](/characters/veerian-rathwing) as the cultists are all dead but for two, and those two decide to run rather than die. In the ensuing battle, [Krorg](/characters/krorg) throws his trident into the side of [Veerian Rathwing](/characters/veerian-rathwing) and then pulls [Veerian Rathwing](/characters/veerian-rathwing) from the air down over the fortress walls. The rest of the team closes in for the kill, but [Veerian Rathwing](/characters/veerian-rathwing) goes invisible and attacks the team from the shadows. A fireball strikes [Spoops](/characters/spoops) and [Drakham](/characters/drakham), causing [Drakham](/characters/drakham) to fall, but [Spoops](/characters/spoops) gives chase toward the direction of the attack. [Veerian Rathwing](/characters/veerian-rathwing) fails to blind [Spoops](/characters/spoops), and he casts detect good and evil, now seeing [Veerian Rathwing](/characters/veerian-rathwing)'s evil aura.
+[Bazzert](/characters/bazzert) now, however, is pulling a lot of weight and starts obliterating the cultists with lightning and moonbeams, thinning out the firing squad targeting [Krorg](/characters/krorg) and Bomb. But [Krorg](/characters/krorg) and [Bomb](/characters/Bomb-the-Bear) have bigger issues now as [Veerian Rathwing](/characters/veerian-rathwing) animates 5 gold coins from his pocket and sends them to attack Bomb. The coins brutalize Bomb, and Bomb falls unconscious after a tiring fight, being pin-cushioned by cultist crossbows, burned by firebolts, and now he succumbs to the coins. Everyone now focuses on [Veerian Rathwing](/characters/veerian-rathwing) as the cultists are all dead but for two, and those two decide to run rather than die. In the ensuing battle, [Krorg](/characters/krorg) throws his trident into the side of [Veerian Rathwing](/characters/veerian-rathwing) and then pulls [Veerian Rathwing](/characters/veerian-rathwing) from the air down over the fortress walls. The rest of the team closes in for the kill, but [Veerian Rathwing](/characters/veerian-rathwing) goes invisible and attacks the team from the shadows. A fireball strikes [Spoops](/characters/spoops) and [Drakham](/characters/drakham), causing [Drakham](/characters/drakham) to fall, but Spoops gives chase toward the direction of the attack. Veerian Rathwing fails to blind Spoops, and he casts detect good and evil, now seeing Veerian Rathwing's evil aura.
 
 But then...
 
@@ -370,13 +370,13 @@ But then...
 
 This happens unbeknownst to [Krorg](/characters/krorg), and so he breaks two of the five animated gold coins on his way to [Drakham](/characters/drakham), who is dying on the ground. [Spoops](/characters/spoops) continues to battle an invisible [Veerian Rathwing](/characters/veerian-rathwing), and [Bazzert](/characters/bazzert) attacks [Veerian Rathwing](/characters/veerian-rathwing) with his Moonbeam but also scorches [Spoops](/characters/spoops) with the holy moonfire, causing [Spoops](/characters/spoops) to fall unconscious. [Krorg](/characters/krorg) helps [Drakham](/characters/drakham), and [Drakham](/characters/drakham) pulls out some wild magic and absorbs the life force of the animated coins and some of [Krorg](/characters/krorg)'s and rises from near death like a phoenix. Quickly after this, though, [Veerian Rathwing](/characters/veerian-rathwing) disengages from the fight and says, "You are all vermin who aren't worth my time, and these peasants are useless. I've already got what I wanted. Au revoir." [Veerian Rathwing](/characters/veerian-rathwing) disappears, and moments later, [Krorg](/characters/krorg) sees him flying away westward over the hills and trees.
 
-[Krorg](/characters/krorg) now goes back to [Bomb](/characters/bomb) and discovers that [Bomb](/characters/bomb) is dead. He and [Drakham](/characters/drakham) are greatly saddened by this loss and move him to the riverside to bury him. Meanwhile, [Bazzert](/characters/bazzert) decides to try and decipher his book and is able to just read the first line in the book...
+[Krorg](/characters/krorg) now goes back to [Bomb](/characters/Bomb-the-Bear) and discovers that Bomb is dead. He and [Drakham](/characters/drakham) are greatly saddened by this loss and move him to the riverside to bury him. Meanwhile, [Bazzert](/characters/bazzert) decides to try and decipher his book and is able to just read the first line in the book...
 
 **HOW TO KILL GODS**
 
 What the fuck is this book?
 
-Is [Bomb](/characters/bomb) really dead?
+Is Bomb really dead?
 
 Where did [Veerian Rathwing](/characters/veerian-rathwing) run off to hide?
 
@@ -392,7 +392,7 @@ SOME OF THESE QUESTIONS ANSWERED NEXT TIME IN...
 ## Session 13 Grief and Shopping
 ###### March 29 2020
 
-We return after the fight with the cultists, and [Bomb the Bear](/characters/bomb) is dead. [Drakham](/characters/drakham) and [Spoops](/characters/spoops) are arguing over what to do with [Bomb](/characters/bomb) as [Krorg](/characters/krorg) sleeps. They enter into a Mexican standoff, [Drakham](/characters/drakham) clutching his last grenade and [Spoops](/characters/spoops) with rope threatening to take [Bomb](/characters/bomb)'s corpse. Eventually, [Krorg](/characters/krorg) wakes up and decides to bury [Bomb](/characters/bomb). [Spoops](/characters/spoops) goes along as he was charmed by [Drakham](/characters/drakham). [Drakham](/characters/drakham) used a patch from his cloak to excavate a 10 by 10 by 10ft hole to bury [Bomb](/characters/bomb), and after some kind words, the group buries [Bomb](/characters/bomb) with the cultists. But there were too many cultists for the hole, and so you guys burned the corpses and then finished the burial. After the funeral, you return back to the mission at hand to search for artifacts and weapons belonging to the old Liches of the necrotic wars. Along the way, [Bazzert](/characters/bazzert) finds a cool-looking gem and gathers a bunch of random ingredients that aren't that suspicious for a druid to gather but did so in a suspicious manner and has up to this point, the morning after the session, hasn't yet told me, the DM, what he plans to do with it, so I'll keep my eye on him.
+We return after the fight with the cultists, and [Bomb the Bear](/characters/Bomb-the-Bear) is dead. [Drakham](/characters/drakham) and [Spoops](/characters/spoops) are arguing over what to do with Bomb as [Krorg](/characters/krorg) sleeps. They enter into a Mexican standoff, [Drakham](/characters/drakham) clutching his last grenade and Spoops with rope threatening to take Bomb's corpse. Eventually, [Krorg](/characters/krorg) wakes up and decides to bury Bomb. Spoops goes along as he was charmed by [Drakham](/characters/drakham). [Drakham](/characters/drakham) used a patch from his cloak to excavate a 10 by 10 by 10ft hole to bury Bomb, and after some kind words, the group buries Bomb with the cultists. But there were too many cultists for the hole, and so you guys burned the corpses and then finished the burial. After the funeral, you return back to the mission at hand to search for artifacts and weapons belonging to the old Liches of the necrotic wars. Along the way, [Bazzert](/characters/bazzert) finds a cool-looking gem and gathers a bunch of random ingredients that aren't that suspicious for a druid to gather but did so in a suspicious manner and has up to this point, the morning after the session, hasn't yet told me, the DM, what he plans to do with it, so I'll keep my eye on him.
 
 Our heroes, however, find excavated areas in the fortress and with that, a chest contaminated with a green glowing liquid. All the vials are broken except one half-filled vial. [Drakham](/characters/drakham) and [Spoops](/characters/spoops) then conduct some "experiments" on the liquid, combining it with holy water, spit, seeing if it's flammable, and taking contaminated dirt and dumping it into a freshly made grave. The green liquid sizzles away from the holy water, just combines with spit, is very flammable, and we'll get back to the grave "experiment" later.
 
