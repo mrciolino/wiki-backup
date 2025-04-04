@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-04T14:22:51.884Z
+date: 2025-04-04T14:29:10.377Z
 tags: items
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -73,6 +73,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Sabatons of Dance](/items/Sabatons-Of-Dance) | Epic | Boots | Bazzdows | They'll get you and your partner dancing! |
 | [Green Rough Rocky Orb](/items/Green-Rough-Rocky-Orb) | Epic | Orb | Spoops | Break orb for quick escape. |
 | [Kingslayer](/items/Kingslayer) | Epic | Mace | Spoops | Mace used by the Witch King. |
+| [Protein Shake of Power](/items/Protein-Shake-Of-Power) | Epic | Potion | Spoops | The most insanely powerful potion ever. |
+
 
 
 
