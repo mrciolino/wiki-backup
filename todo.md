@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-04T19:22:08.729Z
+date: 2025-04-04T19:32:49.617Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -14,6 +14,7 @@ dateCreated: 2024-06-15T03:59:40.719Z
 ❌ **[Darmuth](/en/characters/Darmuth)**  
 ❌ **[Gond](/en/characters/Gond)**  
 ❌ **Veymar the Hollow** – *(Needs link)*  
+❌ **[Freedom](/characters/freedom)**
 
 # 📝 Pages Marked for Content  
 
