@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-03T22:35:39.097Z
+date: 2025-04-04T09:39:42.242Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -16,7 +16,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 | [**Wyrmford**](/locations/Mardun/Wyrmford) | [**Kairnheim**](/locations/Mardun/Kairnheim) | [**Felldora**](/locations/Mardun/Felldora) | [**Felldun**](/locations/Mardun/Felldun) | [**Heltollán**](/locations/Mardun/Heltollan) | [**Dracofel**](/locations/Mardun/Dracofel) | [**Druidia**](/locations/Mardun/Druidia) |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | [Allford](/locations/Mardun/Allford) | [Fort Suro](/locations/Mardun/Fort-Suro) | [Fywick](/locations/Mardun/Fywick) | [North Geskoworm / Krorg's Hometown](/locations/Mardun/North-Geskoworm) | [Gothriathon](/locations/Mardun/Gothriathon) | [Saragassa](/locations/Mardun/Saragassa) | [Wegate](/locations/Mardun/Wegate) |
-| [Alltricia](/locations/Mardun/Allford) | [The Red Keep](/locations/Mardun/The-Red-Keep) | [Hastow](/locations/Mardun/Hastow) | [Galeton](/locations/Mardun/Galeton) | | | |
+| [Alltricia](/locations/Mardun/Allford) | [The Red Keep](/organizations/The-Red-Keep) | [Hastow](/locations/Mardun/Hastow) | [Galeton](/locations/Mardun/Galeton) | | | |
 | | [Kaltrosar](/locations/Mardun/Kaltrosar) | |  | | | |
 
 
