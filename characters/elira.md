@@ -2,14 +2,19 @@
 title: Elira
 description: 
 published: true
-date: 2025-04-05T21:00:41.163Z
+date: 2025-04-05T23:08:35.547Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T02:35:10.217Z
 ---
 
-# Elira  
+# **Elira Aniveshak – The Inkling Rebel**
+*A survivor of religious tyranny, a dimensional fugitive, and a warrior against divine deceit.*  
 *Also known as Aleria Anivishank*  
+
+> Elira Aniveshak  | *Voice Recording - Kati* | 48 kHz at 24 kbps  
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/eliri.opus">Your browser does not support the audio tag. </audio>  
+{.is-info}
 
 ## 📜 Character Art {.tabset}  
 
@@ -19,54 +24,87 @@ dateCreated: 2024-06-03T02:35:10.217Z
 ### Elira v1  
 ![elira_v1.jpg](/characters/other/elira_v1.jpg)  
 
+## **Backstory: The Lies of Profeta**  
+Elira was an **Inkling** for the cult-like religion of **Profeta**, where gifted individuals were indoctrinated to serve as living propaganda machines. Born with a ringlet tattoo on her ankle, she was taken from her family and subjected to brutal tests—including being ordered to kill her own parents. Those who obeyed were slaughtered, while those who refused were deemed "worthy" and forced into servitude.  
 
-# written backstory
-Elira Aniveshak is an Inkling for the esteemed religion of Profeta. Using magic, Inklings tattoo followers with beautiful images that represent the Divine’s will and guide the actions of the recipients. It’s considered a noble calling, but ten years into her servitude, Elira knows the truth: Profeta is built on lies, the tattooed orders strip away freedom, and the revered temple is actually a brutal, torturous prison.
+- **The Truth Revealed**: Elira and her closest friend, **Anya**, realized Profeta was a fraud—no gods dictated their tattoos, only control.  
+- **Escape & Betrayal**: They fled to the **Rabble Mob**, a traveling theater troupe, using their ink magic for performances instead of manipulation.  
+- **Diavala’s Wrath**: The "mythical" goddess **Diavala**—whom they thought didn’t exist—proved horrifyingly real. She possessed allies, driving them to madness, and demanded Elira’s obedience.  
+- **Dimensional Flight**: To protect her new family, Elira fled through a portal to **Mardune**, landing in the **Mortis Lux** universe.  
 
+> *"She knew the moment she killed Anya that Diavala would just possess someone else. But she had no choice."*  
 
-Her opportunity to escape arrives with the Rabble Mob, a traveling theater troupe. Using her inkling abilities for performance instead of propaganda, Elira is content for the first time . . . until she realizes who followed them. The Divine she never believed in, Diavala, is very real, very angry, and determined to use Elira and the Rabble Mob’s now-infamous stage to spread her deceitful influence even further.
+---
 
+## **Arrival in Mardune**  
+Crash-landing on a beach, Elira was immediately swept into chaos:  
+- **First Encounter**: Met **Spoops**, a dimension-hopping rogue, and an angelic figure resembling *Castiel from Supernatural*.  
+- **Trial by Cosmic Court**: Accused of unlawful dimension travel, she and Spoops tricked the judges and escaped.  
+- **Portal Chaos**: Hopped through multiple dimensions before reuniting with the **Mortis Lux** party at the **College of Porthy**.  
 
-To protect her new family from the wrath of a malicious deity and the zealots who work in her name, she escapes to another dimension to draw Diavala away from her home world and the people she loves. Now she must find a way to stop Diavala, all the while being tangled up in an odd group of strangers, with new adventures and adversaries awaiting her.
+### **Key Relationships in Mortis Lux**  
+| **Character**      | **Role**                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| **Anya**           | Childhood friend, fellow Inkling, and emotional anchor. Twice killed and resurrected. |
+| **Maria Luigi**    | Pirate Queen of Saragossa; romantic partner after a tournament victory. |
+| **Spoops**         | First ally in Mardune; chaotic but loyal. Later opposed him in a civil war. |
+| **Adalynn & Os**   | Trusted allies who helped her adjust to the new world. |
 
+---
 
-## backstory
-Divilia - anya - miss may - was an Inkling for the esteemed religion of Profeta
+## **Power Evolution: From Inkling to Mistra’s Champion**  
+After Diavala resurfaced in Mardune, Elira struck a deal with **Mistra**, the goddess of magic:  
+- **Darkstar**: A devastating spell granted by Mistra.  
+- **Tattoo Magic Upgrade**:  
+  - **Disguises**: Shapeshifting ink for espionage.  
+  - **Combat**: Tattoos became physical weapons.  
+  - **Propaganda**: Used imagery to manipulate perceptions.  
 
-## meeting the party
-spoops - dimension hopping - College of porthy -  25 years
+> *"Her wings weren’t just for show—they were a mark of Mistra’s favor."*  
 
-## highlights
-good friend with Os, Adalynn 
+---
 
-### meeting the pirate queen
-adventure to saragossa. pirate king competetion - maria luigi won and became queen
-maria and divilia got together during the celebration - promise to meet back up
+## **Major Events**  
+### **1. The Pirate Queen’s Tournament**  
+- **Location**: Saragossa  
+- **Outcome**: Maria Luigi won, becoming Pirate Queen. She and Elira began a relationship.  
+- **Aftermath**: Elira joined Maria’s naval fleet, aiding Mortis Lux’s military expansion.  
 
-## retun of divalia
-elira powering up with mista - darkstar (powerfull spell) - tatoo magic - 
+### **2. Anya’s Resurrection & Final Fight**  
+- Diavala resurrected Anya as a hostage, but Elira saved her using her enhanced powers.  
+- Joined the **final battle against the Emperor**, then retired to sail with Anya and Maria.  
 
-## return of anya
-hostage by divilia - saved by elira - anya joined mortis lux (evnetually fighting againt the ithilids)
+### **3. Death & Legacy**  
+- **Lifespan**: Extended to ~180 years due to Mistra’s influence.  
+- **How She’s Remembered**:  
+  - A survivor who turned trauma into strength.  
+  - A rebel who defied gods and cults.  
+  - A loyal friend who *finally* got her happy ending.  
 
-## vlakith
-wounded in fight against vlakith at tunnerath. Sperated the party and took anya to rest and recoverer
+---
 
-## the ending
-Fight in the final fight against the emperor
+## **Character Analysis**  
+### **Personality Traits**  
+| **Trait**       | **Description**                                                                 |
+|-----------------|--------------------------------------------------------------------------------|
+| **Bonds**       | Family/friends mean everything. Anya was her moral compass.                    |
+| **Flaws**       | Stubborn, abrasive, co-dependent on Anya.                                      |
+| **Ideals**      | Freedom above all. Adventure with loved ones.                                  |
+| **Arc**         | *Survivor → Rebel → Champion → Explorer*                                      |
 
-Joined anya and maria on a sailing adventure around mardun
+### **Best & Worst Moments**  
+- **Best**: Discovering Anya was alive—*and saving her this time*.  
+- **Worst**: Being forced to kill Anya the first time.  
 
-## death
-deid at a natural time for a human 180 years
+---
 
-bond - family and freinds (loyalty means everything)
-flaw - stubborn and abraisive (co-dependent on anya)
-ideals - to adventure in the world with freedom with the people she loves (to help others)
+## **Trivia & Secrets**  
+- **Inspiration**: Based on **Celia Sand** from *Ink in the Blood* (book).  
+- **Stage Name**: "Devil in the Bell Jar" (with Anya as the "Angel").  
+- **Unresolved Guilt**: Abandoned a possessed lover in her home dimension.  
 
-best thing to happen to her - finding out anya is alive again (and power to save her)
-worst thing to happen to her - intial loss of anya
+> *"She wasn’t a hero by choice—just someone who refused to die quietly."*  
 
-explorer architypes
-how will she be remembered - by the ones she loved most
+--- 
 
+**Final Note**: Elira’s story is one of defiance, loss, and hard-won redemption. From cult prisoner to pirate adventurer, she carved her own path—ink and all.  
