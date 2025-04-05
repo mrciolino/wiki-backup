@@ -2,14 +2,14 @@
 title: Meade
 description: Retired Adventurer
 published: true
-date: 2024-06-05T03:07:40.119Z
+date: 2025-04-05T21:29:38.746Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T03:07:40.119Z
 ---
 
 # Meade Mysztrolvi
-![meade.webp](/characters/other/meade.webp)
+![meade.webp](/meade.webp)
 # Origin
 Meade grew up in the southern continent, where he honed his wit and intellect. His life changed forever when he encountered an evil Efreeti enslaving his friends. Using his cunning, he challenged the genie to a battle of wits and emerged victorious, earning a magical flask imbued with some of the Efreeti's power. This event set him on a path of adventure, leading him to join forces with the then exiled and wanted Os Vrtnica. Together they worked for peace and justice in the southern continent. His journey took him through many trials, including battles against dark forces. Ultimately, his adventures brought him to Fywick, where he established a new life as a bartender.
 
@@ -38,3 +38,5 @@ Meade grew up in the southern continent, where he honed his wit and intellect. H
 - **Maintain Peace**: Continue to uphold justice and peace in the southern continent and beyond.
     Expand the Tavern: Grow the Three Swishes Tavern into an even more prominent establishment for adventurers.
 - **Strengthen the Guild**: Help the Bartender's Guild achieve its mission of harnessing adventurers' power for positive change.
+
+## Tale of Mead After 0 AD
