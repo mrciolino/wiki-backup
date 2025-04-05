@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-05T16:53:37.191Z
+date: 2025-04-05T16:55:30.001Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -79,7 +79,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Magical Power Source](/items/Magical-Power-Source) | Legendary | Item | LBB | Stores magical energy. |
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 | [Feathered Pen of Jergal](/items/Feathered-Pen-Of-Jergal) | Legendary | Item | Spoops | The God Jergal's pen. |
-
+| [Bracers or Defense](/items/Bracers-Of-Defense) | Uncommon | Armor | Spoops | +1 AC |
 
 
 
