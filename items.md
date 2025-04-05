@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-05T17:00:08.642Z
+date: 2025-04-05T17:02:24.159Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -80,6 +80,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 | [Feathered Pen of Jergal](/items/Feathered-Pen-Of-Jergal) | Legendary | Item | Spoops | The God Jergal's pen. |
 | [Bracers of Defense](/items/Bracers-Of-Defense) | Uncommon | Armor | Spoops | +2 AC |
+| [Shadow Weave Crystal](/items/Shadow-Weave-Crystal) | Legendary | Item | Spoops | Provides access to thr Shadow Weave. |
 
 
 
