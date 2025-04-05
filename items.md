@@ -2,8 +2,8 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-04T16:45:25.510Z
-tags: items
+date: 2025-04-05T16:37:09.597Z
+tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
 ---
@@ -78,6 +78,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Modular Laser Unit](/items/Modular-Laser-Unit) | Legendary | Potion | LBB | A Laser unit compatible with the [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) and [Magical Power Source](/items/Magical-Power-Source)|
 | [Magical Power Source](/items/Magical-Power-Source) | Legendary | Item | LBB | Stores magical energy. |
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
+| [Feathered Pen of Jergal](/items/Feathered-Pen-Of-Jergal) | Legendary | Item | Spoops | The God Jergal's pen. |
 
 
 
