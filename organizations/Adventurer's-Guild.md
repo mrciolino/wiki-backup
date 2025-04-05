@@ -2,7 +2,7 @@
 title: Adventurer's Guild 
 description: Adventurer's Guild Description
 published: true
-date: 2025-04-04T19:00:36.844Z
+date: 2025-04-05T21:27:48.791Z
 tags: audio
 editor: markdown
 dateCreated: 2024-08-12T13:22:19.598Z
@@ -13,6 +13,8 @@ dateCreated: 2024-08-12T13:22:19.598Z
 > Bartender Guild Adventure Guild | *Voice Recording - Ryan* | 48 kHz at 24 kbps
 > <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/bartender_guild_adventure_guild.opus">Your browser does not support the audio tag. </audio>  
 {.is-info}
+
+> Response to bartenders from peter here audio
 
 ## **Overview**  
 The Adventurers Guild is a secretive and immensely powerful organization composed of individuals who operate beyond the reach of ordinary mortal society. They inhabit a custom demiplane, stitched together from smaller pocket dimensions using high-level magic (including 9th-level spells and multiple conjoined 8th-level spells). Their true motives are unknown, but they function as puppet masters, employing adventurers as disposable agents in a hidden conflict that spans time and reality. The Guild maintains near-unlimited financial resources, allowing them to fund operations across multiple planes and timelines.
