@@ -2,7 +2,7 @@
 title: Meade
 description: Retired Adventurer
 published: true
-date: 2025-04-05T21:29:38.746Z
+date: 2025-04-05T22:27:03.173Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T03:07:40.119Z
@@ -39,4 +39,16 @@ Meade grew up in the southern continent, where he honed his wit and intellect. H
     Expand the Tavern: Grow the Three Swishes Tavern into an even more prominent establishment for adventurers.
 - **Strengthen the Guild**: Help the Bartender's Guild achieve its mission of harnessing adventurers' power for positive change.
 
-## Tale of Mead After 0 AD
+# Tale of Mead
+after defeating federina - founding of the three swishes in fywick - meades wife (brandy - not a drink) becomes co-owner 
+
+## bartending guild 
+first approch mead in fywick - with his flask he excelled at convincing adventures to do tasks - (spoops and bazzdos) - 45k gold finders fee 
+
+## later in life
+stayyed in fywick - ghost haunting his bar - died around 25 ad due to liver issues - bar buried far beneath the ground - flask - close with Os, but died before Vrintica was founded
+
+## secret war
+finite num of adventures
+
+
