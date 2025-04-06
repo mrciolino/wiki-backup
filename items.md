@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-06T00:11:15.165Z
+date: 2025-04-06T00:11:45.864Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -99,7 +99,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Amulet of Health](/items/Amulet-Of-Health) | Uncommon | Necklace | LBB | Sets your Constitution to 19. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
 | [Blazing Glory](/items/Blazing-Glory) | Epic | Sword | Spoops | Dragon Scale greatsword. |
-| [Ethereal Blade](/items/Lightning Shortsword) | Epic | Sword | Spoops | Longsword that can strike targets in the ethereal plane. |
+| [Ethereal Blade](/items/Ethereal-Blade) | Epic | Sword | Spoops | Longsword that can strike targets in the ethereal plane. |
 | [Dragon Bone Greatsword](/items/Dragon-Bone-Greatsword) | Epic | Sword | Spoops | Dragon Bone greatsword. |
 | [Earth Terror](/items/Earth-Terror) | Epic | Sword | Spoops | Strong enough to shatter the earth!. |
 | [The Spoops Blade](/items/The-Spoops-Blade) | Legendary | Sword | Spoops | The combined blade of spoops. |
