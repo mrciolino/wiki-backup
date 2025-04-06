@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-06T00:01:53.879Z
+date: 2025-04-06T00:11:15.165Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -99,6 +99,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Amulet of Health](/items/Amulet-Of-Health) | Uncommon | Necklace | LBB | Sets your Constitution to 19. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
 | [Blazing Glory](/items/Blazing-Glory) | Epic | Sword | Spoops | Dragon Scale greatsword. |
+| [Ethereal Blade](/items/Lightning Shortsword) | Epic | Sword | Spoops | Longsword that can strike targets in the ethereal plane. |
 | [Dragon Bone Greatsword](/items/Dragon-Bone-Greatsword) | Epic | Sword | Spoops | Dragon Bone greatsword. |
 | [Earth Terror](/items/Earth-Terror) | Epic | Sword | Spoops | Strong enough to shatter the earth!. |
 | [The Spoops Blade](/items/The-Spoops-Blade) | Legendary | Sword | Spoops | The combined blade of spoops. |
@@ -107,6 +108,17 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
 | [Shifty Abacus](/items/Shifty-Abacus) | Uncommon | Item | LBB | shady and unreliable. |
 | [Cool Sunglasses](/items/Shifty-Abacus) | Uncommon | Item | LBB | They look cool. |
+| [Mahogany Bow](/items/Mahogany-Bow) | Uncommon | Bow | LBB | Formerly owned by Otto Herzog. |
+| [Magic Barrel of Mead](/items/Magic-Barrel-Of-Mead) | Uncommon | Item | LBB | May your mead never run empty. |
+| [Ring of Jumping](/items/Ring-Of-Jumping) | Uncommon | Ring | LBB | Lets you do some sick jumps. |
+| [Lightning Shortsword](/items/Lightning-Shortsword) | Uncommon | Sword | LBB | Electrifying sword that also stings the user. |
+| [Screaming Shoes](/items/Screaming-Shoes) | Uncommon | Sword | LBB | Light blue shoes that scream when you walking around in them. |
+| [Circlet of No Word](/items/Circlet-Of-No-Word) | Epic | Circlet | Spoops | Stops the target from using a specified word. |
+
+
+
+
+
 
 
 
