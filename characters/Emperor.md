@@ -2,8 +2,8 @@
 title: Illithid Emperor 
 description: Controller of the Hive Mind, The Reality Maker, Conquer of Zeus
 published: true
-date: 2025-03-20T14:53:49.903Z
-tags: 
+date: 2025-04-06T22:53:30.076Z
+tags: todo
 editor: markdown
 dateCreated: 2025-03-20T14:53:49.903Z
 ---
