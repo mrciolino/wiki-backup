@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-04T15:45:24.591Z
+date: 2025-04-06T22:54:23.783Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -23,8 +23,8 @@ Groups of entities that represent various factions, guilds, nations, religious s
 ### **Gangs**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
-| [Fywick Mafia](/organizations/fywick-mafia) | Criminal syndicate  | [Fywick](/locations/Mardun/fywick) | [Tony-Mozzarella](/characters/Tony-Mozzarella) | Active |  
-| [Tabxi Mafia of Fywick](/organizations/tabxi-mafia) | Rival mafia group | [Fywick](/locations/Mardun/fywick) | - | Active |  
+| [Fywick Mafia](/organizations/fywick-mafia) | Criminal syndicate  | [Fywick](/locations/Mardun/Fywick) | [Tony-Mozzarella](/characters/Tony-Mozzarella) | Active |  
+| [Tabxi Mafia of Fywick](/organizations/tabxi-mafia) | Rival mafia group | [Fywick](/locations/Mardun/Fywick) | - | Active |  
 | [The-Red-Keep](/organizations/The-Red-Keep) | A feared gang. | The Jade Forest of [Dracofel](/locations/Mardun/Dracofel) | [Bazvrah](/characters/Bazvrah) | Unknown |  
 
 ### **Races**  
