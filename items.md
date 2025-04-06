@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-06T17:18:16.923Z
+date: 2025-04-06T17:27:01.940Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -50,7 +50,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Magic Olympic Torch Sword](/items/Magic-Olympic-Torch-Sword) | Rare | Sword | Achilles |  A magical flaming sword of olympus.  |
 | [Krorg's Axe](/items/Krorgs-Axe) | Rare | Axe | Spoops |  The axe once used by Krorg.  |
 | [Staff of the Woodlands](/items/Staff-Of-The-Woodlands) | Rare | Staff | Bazzvrah |  Contains various woodland abilities.  |
-
+| [Lifetime Supply of Arrows](/items/Lifetime-Supply-Of-Arrows) | Rare | Arrows | Spoops |  Magically infinite +2 arrows.  |
 
 ---
 
