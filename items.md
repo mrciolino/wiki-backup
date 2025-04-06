@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-06T16:57:14.263Z
+date: 2025-04-06T17:18:16.923Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -48,6 +48,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Witch King's Dagger](/items/Witch-Kings-Dagger) | Epic | Dagger | LBB |  ??? |
 | [Staff of Power](/items/Staff-Of-Power) | Epic | Staff | LBB |  A staff granting various powerful abilities. |
 | [Magic Olympic Torch Sword](/items/Magic-Olympic-Torch-Sword) | Rare | Sword | Achilles |  A magical flaming sword of olympus.  |
+| [Krorg's Axe](/items/Krorgs-Axe) | Rare | Axe | Spoops |  The axe once used by Krorg.  |
+| [Staff of the Woodlands](/items/Staff-Of-The-Woodlands) | Rare | Staff | Bazzvrah |  Contains various woodland abilities.  |
 
 
 ---
@@ -124,6 +126,9 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Silver Gauntlet](/items/Silver-Gauntlet) | Wonderous | Gauntlet | Spoops |  A Silver Gauntlet that allows the user to see a particular ghostly apparition, and improves non-magical ranged accuracy and damage.  |
 | [Belt of Intellect](/items/Belt-Of-Intellect) | Wonderous | Belt | Spoops |  A belt of intellect created by Bazzdows.  |
 | [Magic Bronze Discus](/items/Magic-Bronze-Discus) | Rare | Shield | Achilles |  A magical discus shield that can be thrown.  |
+| [Robes of the Journeyman](/items/Robes-Of-The-Journeyman) | Rare | Robe | Bazzvrah |  A magical robe with many magical pockets.  |
+| [Jumping Scale Armor of Goo](/items/Jumping-Scale-Armor-Of-Goo) | Rare | Armor | Bazzvrah |  Sticky bouncy armor.  |
+| [Spiked Bracers](/items/Spiked-Bracers) | Rare | Bracers | Bazzvrah |  Spiked bracers grant +1 AC and allow the user to fire spikes. |
 
 ---
 
@@ -144,6 +149,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Modular Laser Unit](/items/Modular-Laser-Unit) | Legendary | Potion | LBB | A Laser unit compatible with the [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) and [Magical Power Source](/items/Magical-Power-Source)|
 | [Magical Power Source](/items/Magical-Power-Source) | Legendary | Item | LBB | Stores magical energy. |
 | [Spelljammer Surfboards](/items/Spelljammer-Surfboards) | Legendary | Item | LBB | Spelljammers in surfboard form. |
+| [Penne-trator Missile](/items/Penne-Trator-Missile) | Epic | Vehicle | LBB | Spelljammer equipped missile system for carrying troops. |
 
 ---
 
@@ -154,6 +160,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Book On Fighting Angels Demons and Gods](/items/Book-On-Fighting-Angels-Demons-And-Gods) | Epic | Book | Spoops |  A book with a self explanatory title. Caution: Reading may cause instant death. |
 | [Tome of The Stilled Tongue](/items/Tome-Of-The-Stilled-Tongue) | Rare | Book | LBB |  The spellbook of Adalynn. |
 | [Apprentice Wizard Spellbook](/items/Apprentice-Wizard-Spellbook) | Rare | Book | LBB |  A book for apprentice wizards. |
+| [How to be a good friend](/items/Apprentice-Wizard-Spellbook) | Rare | Book | Spoops |  A book on how to be a good friend. |
 
 ---
 
@@ -195,6 +202,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Sphere of Annhiliation](/items/Sphere-Of-Annhiliation) | Epic | Item | LBB |  A hole in the multiverse. |
 | [Gem of Seeing](/items/Gem-Of-Seeing) | Epic | Item | LBB |  Peering through the gem allows magically enhanced sight. |
 | [Magic Lucky Charm](/items/Magic-Lucky-Charm) | Epic | Item | Achilles |  Provides and enhanced version of Lucky. |
+| [Meade's Flask](/items/Meades-Flask) | Epic | Item | Meade |  A genie flask with a lovely bar inside. |
 
 ---
 
