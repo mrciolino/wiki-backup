@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-06T17:27:01.940Z
+date: 2025-04-06T17:27:48.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-03T12:56:40.877Z
 
 # Items
 
-Custom homebrew items created or found during the campaign. This list comprises items worn/made by [Bazzdos](/characters/bazzdos), [Breezy](/characters/breezy), [Spoops](/characters/spoops) and [Adalynn](/characters/adalynn).
+Custom homebrew items created or found during the campaign. This list comprises items worn/made by [Bazzdos](/characters/bazzdos), [Breezy](/characters/breezy), [Spoops](/characters/spoops) and [Adalynn](/characters/adalynn) and others.
 
 ## **Weapons**  
 
