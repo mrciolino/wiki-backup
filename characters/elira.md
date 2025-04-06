@@ -1,8 +1,8 @@
 ---
 title: Elira
-description: 
+description: A survivor of religious tyranny, a dimensional fugitive, and a warrior against divine deceit.
 published: true
-date: 2025-04-06T12:26:57.736Z
+date: 2025-04-06T12:54:57.332Z
 tags: audio
 editor: markdown
 dateCreated: 2024-06-03T02:35:10.217Z
