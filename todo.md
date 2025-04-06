@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-04T19:32:49.617Z
+date: 2025-04-06T22:56:19.897Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -35,7 +35,7 @@ Pages where one's knowledge is better suited for filling in information.
 > ❌ **[Halloween One-Shot](/en/Adventures/Halloween_One_Shot)**  
 > 
 > ## 🧝‍♀️ Kati  
-> ❌ **[Elira](/characters/elira)** – *Lore Talk for Elira Backstory*  
+> ✅ **[Elira](/characters/elira)** – *Lore Talk for Elira Backstory*  
 > 
 > ## 🤖 Matt  
 > ❌ **[Mechatarasque](/en/characters/mechatarasque)**  
