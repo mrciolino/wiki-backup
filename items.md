@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-05T17:02:24.159Z
+date: 2025-04-06T00:01:53.879Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -81,6 +81,43 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Feathered Pen of Jergal](/items/Feathered-Pen-Of-Jergal) | Legendary | Item | Spoops | The God Jergal's pen. |
 | [Bracers of Defense](/items/Bracers-Of-Defense) | Uncommon | Armor | Spoops | +2 AC |
 | [Shadow Weave Crystal](/items/Shadow-Weave-Crystal) | Legendary | Item | Spoops | Provides access to thr Shadow Weave. |
+| [Ring of Mind Shielding](/items/Ring-Of-Mind-Shielding) | Rare | Ring | Elira | Protects your mind from psychic intrusion. |
+| [Headband of Intellect](/items/Headband-Of-Intellect) | Rare | Headband | Elira | ??? |
+| [Spelljammer Surfboards](/items/Spelljammer-Surfboards) | Legendary | Item | LBB | Spelljammers in surfboard form. |
+| [Spelldrinker Blade](/items/Spelldrinker-Blade) | Legendary | Sword | Spoops | Stores and casts spells. |
+| [Marut Summoning Crystal](/items/Marut-Summoning-Crystal) | Epic | Item | Spoops | Break to summon Marut. |
+| [Collar of UwU](/items/Collar-Of-Uwu) | Epic | Necklace | Breezy-e | UwU |
+| [Ring of Command](/items/Ring-Of-Command) | Uncommon | Ring | LBB | Casts Command. |
+| [Small Silvered Mirror](/items/Small-Silvered-Mirror) | Epic | Item | LBB | Shows a visage of a dying universe on fire. |
+| [Dark Orb Palantir](/items/Dark-Orb-Palantir) | Epic | Item | LBB | Palantir. |
+| [Statuette of Vlakiith](/items/Statuette-Of-Vlakiith) | Epic | Item | LBB | Vlakiith sealed and killed. |
+| [Vampire Blade](/items/Vampire-Blade) | Epic | Sword | Breezy-e | Vampiric in a way... |
+| [Wrist Mounted Crossbow](/items/Wrist-Mounted-Crossbow) | Epic | Crossbow | Spoops | Its a crossbow on your wrist. |
+| [Blade of Wall Walking](/items/Blade-Of-Wall-Walking) | Uncommon | Sword | Spoops' Wight | Allows the user to walk on walls. |
+| [Quick Frost Short Sword](/items/Quick-Frost-Short-Sword) | Uncommon | Sword | Spoops' Wight | Freezes everything it touches. |
+| [Longsword of Mist](/items/Longsword-Of-Mist) | Uncommon | Sword | Spoops' Wight | Allows the user to cast Misty Step. |
+| [Amulet of Health](/items/Amulet-Of-Health) | Uncommon | Necklace | LBB | Sets your Constitution to 19. |
+| [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
+| [Blazing Glory](/items/Blazing-Glory) | Epic | Sword | Spoops | Dragon Scale greatsword. |
+| [Dragon Bone Greatsword](/items/Dragon-Bone-Greatsword) | Epic | Sword | Spoops | Dragon Bone greatsword. |
+| [Earth Terror](/items/Earth-Terror) | Epic | Sword | Spoops | Strong enough to shatter the earth!. |
+| [The Spoops Blade](/items/The-Spoops-Blade) | Legendary | Sword | Spoops | The combined blade of spoops. |
+| [The Cleanser](/items/The-Cleanser) | Epic | Sword | Spoops | Spoops' Blade from his first time on Ereriad. |
+| [Flask of Multiplication](/items/Flask-Of-Multiplication) | Rare | Item | LBB | An empty flask that multiplies anything inside it. |
+| [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
+| [Shifty Abacus](/items/Shifty-Abacus) | Uncommon | Item | LBB | shady and unreliable. |
+| [Cool Sunglasses](/items/Shifty-Abacus) | Uncommon | Item | LBB | They look cool. |
+
+
+
+
+
+
+
+
+
+
+
 
 
 
