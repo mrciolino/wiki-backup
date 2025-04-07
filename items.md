@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-06T23:29:50.569Z
+date: 2025-04-07T00:09:37.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -21,6 +21,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Ethereal Blade](/items/Ethereal-Blade) | Epic | Sword | Spoops | Longsword that can strike targets in the ethereal plane. |
 | [Dragon Bone Greatsword](/items/Dragon-Bone-Greatsword) | Epic | Sword | Spoops | Dragon Bone greatsword. |
 | [Earth Terror](/items/Earth-Terror) | Epic | Sword | Spoops | Strong enough to shatter the earth!. |
+| [Titanite Blade](/items/Titanite-Blade) | Legendary | Sword | Spoops |  Created by Iaeptus using his own titanite prison.  |
 | [The Spoops Blade](/items/The-Spoops-Blade) | Legendary | Sword | Spoops | The combined blade of spoops. |
 | [The Cleanser](/items/The-Cleanser) | Epic | Sword | Spoops | Spoops' Blade from his first time on Ereriad. |
 | [The Spoops Gun](/items/The-Spoops-Gun) | Legendary | Gun | Spoops |  A special gun created specifically to launch the Spoops Blade / Shared of Divinity as a projectile. |
