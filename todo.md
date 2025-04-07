@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-07T22:00:38.776Z
+date: 2025-04-07T22:00:52.155Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -37,5 +37,4 @@ Pages where one's knowledge is better suited for filling in information.
 > ❌ **[Mechatarasque](/en/characters/mechatarasque)**  
 > ❌ **Veymar the Hollow** – *(Needs link)*  
 > ❌ **[Gond](/en/characters/Gond)**  
-
 {.is-info}
