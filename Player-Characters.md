@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-05T23:28:57.708Z
+date: 2025-04-07T12:56:33.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -17,7 +17,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | Name                             | Race | Class | Background | Traits | Image |
 |----------------------------------|------|-------|------------|--------|-------|
 | [Spoops](/characters/spoops)     | Undead   | Oath of The Soul Warden Paladin    | Lost at Sea         | Highly Erratic, Overconfident, Constantly in Survival Mode     | ![Spoops](/characters/spoops.webp =x100) 		|
-| [Bazzdos](/characters/bazzdos)   | Warforged   | Armorer Artificer 20 / Hexblade Warlock 1 / Wizard 1  | Artificial Intelligence | Indestructible body, master engineer, strict adherence to order, photographic recall, relentless pursuit of complexity     | ![Bazzdos](/characters/bazzdos.webp =x100) |
+| [Bazzdos](/characters/bazzdos)   | Warforged   | Armorer Artificer 20 / Hexblade Warlock 1 / Wizard 1  | Artificial Intelligence | Indestructible AI engineer obsessed with order and complexity.     | ![Bazzdos](/characters/bazzdos.webp =x100) |
 | [Breezy-E](/characters/breezy)   | Human Vampire   | Samurai Fighter    | ??         | ??     | ![Breezy-e](/characters/breezy/breezy.webp =x100) |
 | [Adalynn](/characters/adalynn)   | Bitch   | Wizard    | A Wizard who sought that which was not theirs.         | Betrayer.     | ![Adalynn](/characters/adalynn.webp =x100) |
 | [Elira A.](/characters/elira)    | ??   | ??    | ??         | ??     | ![Elira](/characters/elira/elira.webp =x100) |
@@ -29,7 +29,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Bazvrah](/characters/Bazvrah) 	 | Winged Wood Elf | Moon Druid 11, Soulknife Rogue 3, Trickery Cleric 1     | Criminal: Hired Killer | Stealth master, psychic assassin, ruthless, trophy collector, driven by revenge     | ![bazvrah.webp](/characters/bazzert/bazvrah.webp =x100) |
 | [Bazzalt](/characters/Bazzalt)   | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![bazzalt.webp](/characters/bazzert/bazzalt.webp =x100) |
 | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![drakham.png](/characters/adalynn/drakham.png =x100) |
-| [Narascus](/characters/Narascus) | Demon   | (Narascene) Soul Domain Cleric    | Potion Drinker, Betrayer | He is an evil demon who seeks to subjugate the world and be worshipped as a Prophet-God. Sneaky, underhanded, self absorbed     | ![narascus.png](/characters/adalynn/narascus.png =x100) |
+| [Narascus](/characters/Narascus) | Demon   | (Narascene) Soul Domain Cleric    | Potion Drinker, Betrayer | Evil demon seeking godhood through manipulation and control. Self absorbed.     | ![narascus.png](/characters/adalynn/narascus.png =x100) |
 
 ## **Campaign 2**  
 
