@@ -2,8 +2,8 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-03-28T19:05:16.043Z
-tags: needs lots of work
+date: 2025-04-07T20:11:41.268Z
+tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
 ---
@@ -24,26 +24,26 @@ This encompasses the events from the start of the campaign to the pirate raid an
 
 #### Major Events:  
 - The party first meets in the tavern by [Fort Suro](/locations/Mardun/Fort-Suro).  
-- Traveling to [Alford](/locations/Alford) to meet [Lucidel Illiard](/characters/lucidel-illiard).  
-- Fighting [Rathwing](/characters/rathwing)'s cult and the death of [Bomb the Bear](/characters/bomb-the-bear).  
-- [Drakham](/characters/drakham) destroying [Alford](/locations/Alford), and the escape to [Saragossa](/locations/saragossa).  
+- Traveling to [Allford](/locations/Mardun/Allford) to meet [illiard](/characters/illiard).  
+- Fighting [Rathwing](/characters/rathwing)'s cult and the death of [Bomb-the-Bear](/characters/Bomb-the-Bear).  
+- [Drakham](/characters/drakham) destroying Alford, and the escape to [Saragossa](/locations/saragossa).  
 - The great [Pirate Raid](/events/pirate-raid) ending in the death of many of the party's enemies and an epic windfall.  
-- [Os](/characters/os)' betrayal and the bounty placed on his head by [Krorg](/characters/Krorg).  
-- The 2.5-year time skip and introduction of [Bazvrah](/characters/bazvrah).
+- [Os](/characters/os)' betrayal and the bounty placed on his head by [Krorg](/characters/krorg).  
+- The 2.5-year time skip and introduction of [Bazvrah](/characters/Bazvrah).
 
 ### **Season 2: The Darmuth Saga**  
 ![season_2_poster.webp](/posters/season_2_poster.webp =250x)  
-This season focuses on the rise and fall of the illithid lich [Darmuth](/characters/darmuth), ending with his defeat and the discovery of the Well of Many Worlds.
+This season focuses on the rise and fall of the illithid lich [Darmuth](/characters/Darmuth), ending with his defeat and the discovery of the [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds).
 
 #### Major Events:  
-- The arrival of [Darmuth](/characters/darmuth) and the death of [Krorg](/characters/krorg).  
-- Being hunted by [Darmuth](/characters/darmuth)'s pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/frederina).  
-- Fighting and defeating [Darmuth](/characters/darmuth).  
-- Discovering the [Well of Many Worlds](/locations/well-of-many-worlds) and the crack in the sky.  
+- The arrival of [Darmuth](/characters/Darmuth) and the death of [Krorg](/characters/krorg).  
+- Being hunted by Darmuth's pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/frederina).  
+- Fighting and defeating Darmuth.  
+- Discovering the [Well of Many Worlds](/items/Well-Of-Many-Worlds) and the crack in the sky.  
 
 #### Key Lore:  
-- [Mead](/characters/mead), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/frederina) at the Oracle's Fortress in Fywick and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/fywick).  
-- The party learns of a greater illithid threat beyond [Darmuth](/characters/darmuth).  
+- [Meade](/characters/meade), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/frederina) at the Oracle's Fortress in Fywick and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/Mardun/Fywick).  
+- The party learns of a greater illithid threat beyond [Darmuth](/characters/darmDarmuthuth).  
 - The devastation vermin (giant insectoid colossi) are introduced during early interdimensional travels.
 
 ### **Season 3: Mortis Lux**  
@@ -51,13 +51,13 @@ This season focuses on the rise and fall of the illithid lich [Darmuth](/charact
 The party explores new worlds, allies with and betrays major figures, and begins assembling forces against the illithid threat.
 
 #### Major Events:  
-- Travel through the [Well of Many Worlds](/locations/well-of-many-worlds) to [Erriad](/locations/erriad), encountering:  
+- Travel through the [Well of Many Worlds](/items/Well-Of-Many-Worlds) to [Ereriad](/locations/Ereriad), encountering:  
   - [Goat Dicks End](/locations/goat-dicks-end) and the devastation vermin (city-sized beetles).  
   - [Glaculus](/characters/glaculus), the chill necromancer who refused to join the party.  
 - [Aphir the Mighty](/characters/aphir-the-mighty) - killed by the party/[Bane](/characters/bane).  
 - Time chamber constructed for [Spoops](/characters/spoops)' blades.  
 - [Phoenix King](/characters/phoenix-king) - killed by the party/[Bane](/characters/bane) with the soul ring.  
-- [Bane](/characters/bane) (Witch King) rises, forging the [Soul Forge](/artifacts/soul-forge) and causing the fall of the kingdom of [Hellaris](/locations/hellaris).  
+- [Bane](/characters/bane) (Witch King) rises, forging the [Soul Forge](/artifacts/soul-forge) and causing the fall of the kingdom of .  
 - [Adalayn](/characters/adalayn) raises the city from the water.  
 
 #### Key Lore:  
