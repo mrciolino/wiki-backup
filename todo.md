@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-07T21:59:04.132Z
+date: 2025-04-07T22:00:38.776Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -24,6 +24,9 @@ Pages where one's knowledge is better suited for filling in information.
 > ❌ **[Darmuth](/en/characters/Darmuth)**  
 > ❌ *List of characters not written down (but are at least somewhat important)*  
 > 
+> ## 💨 Breezy
+> ❌ **[Breezy-E](/characters/breezy)**
+>
 > ## 🎃 Nick  
 > ❌ **[Halloween One-Shot](/en/Adventures/Halloween_One_Shot)**  
 > 
