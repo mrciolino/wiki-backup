@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-07T20:00:14.686Z
+date: 2025-04-07T20:17:16.831Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -200,7 +200,6 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Shadow Weave Crystal](/items/Shadow-Weave-Crystal) | Legendary | Item | Spoops | Provides access to thr Shadow Weave. |
 | [Marut Summoning Crystal](/items/Marut-Summoning-Crystal) | Epic | Item | Spoops | Break to summon Marut. |
 | [Witch King's Grand Arcane Focus](/items/Witch-King's-Grand-Arcane-Focus) | Wonderous | Focus | Bazzdos | A powerful focus that empowers spell attacks, has an aura of hunger and undeath surrounding it. |
-| [Sphere of Annhiliation](/items/Sphere-Of-Annhiliation) | Epic | Item | LBB |  A hole in the multiverse. |
 | [Gem of Seeing](/items/Gem-Of-Seeing) | Epic | Item | LBB |  Peering through the gem allows magically enhanced sight. |
 | [Magic Lucky Charm](/items/Magic-Lucky-Charm) | Epic | Item | Achilles |  Provides and enhanced version of Lucky. |
 | [Meade's Flask](/items/Meades-Flask) | Epic | Item | Meade |  A genie flask with a lovely bar inside. |
