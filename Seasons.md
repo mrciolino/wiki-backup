@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-04-07T20:15:44.927Z
+date: 2025-04-07T20:16:08.708Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -92,7 +92,7 @@ The final season involves interdimensional politics, godly conflicts, and the ba
 > - **[Meade](/characters/meade)'s Fate**: Died of natural causes, widely regarded as having one of the best endings of any NPC.
 > ### Faction Developments
 > - **[north_geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
-> - **Illithid Revelations**: The party discovered [Obox-ob](/pantheon/obox-ob) (demon lord of vermin) had been mutilated by illithids to create the [Emperor](/characters/Emperor).
+> - **Illithid Revelations**: The party discovered [Obox Ob](/pantheon/obox-ob) (demon lord of vermin) had been mutilated by illithids to create the [Emperor](/characters/Emperor).
 
 
 
