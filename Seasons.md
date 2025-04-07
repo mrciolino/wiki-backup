@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-04-07T20:11:41.268Z
+date: 2025-04-07T20:14:02.132Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -26,7 +26,7 @@ This encompasses the events from the start of the campaign to the pirate raid an
 - The party first meets in the tavern by [Fort Suro](/locations/Mardun/Fort-Suro).  
 - Traveling to [Allford](/locations/Mardun/Allford) to meet [illiard](/characters/illiard).  
 - Fighting [Rathwing](/characters/rathwing)'s cult and the death of [Bomb-the-Bear](/characters/Bomb-the-Bear).  
-- [Drakham](/characters/drakham) destroying Alford, and the escape to [Saragossa](/locations/saragossa).  
+- [Drakham](/characters/drakham) destroying Alford, and the escape to [Saragassa](/locations/Mardun/Saragassa).  
 - The great [Pirate Raid](/events/pirate-raid) ending in the death of many of the party's enemies and an epic windfall.  
 - [Os](/characters/os)' betrayal and the bounty placed on his head by [Krorg](/characters/krorg).  
 - The 2.5-year time skip and introduction of [Bazvrah](/characters/Bazvrah).
@@ -57,13 +57,13 @@ The party explores new worlds, allies with and betrays major figures, and begins
 - [Aphir the Mighty](/characters/aphir-the-mighty) - killed by the party/[Bane](/characters/bane).  
 - Time chamber constructed for [Spoops](/characters/spoops)' blades.  
 - [Phoenix King](/characters/phoenix-king) - killed by the party/[Bane](/characters/bane) with the soul ring.  
-- [Bane](/characters/bane) (Witch King) rises, forging the [Soul Forge](/artifacts/soul-forge) and causing the fall of the kingdom of .  
-- [Adalayn](/characters/adalayn) raises the city from the water.  
+- [Bane](/characters/bane) (Witch King) rises, forging the [Soul Forge](/artifacts/soul-forge) and causing the fall of the kingdom of [Hellaress](/locations/Ereriad/Hellaress).  
+- [Adalynn](/characters/adalynn) raises the city from the water.  
 
 #### Key Lore:  
 - The party sides with [Bane](/characters/bane) over the [Phoenix King](/characters/phoenix-king), inadvertently empowering the [Dead Three](/pantheon/dead-three) again.  
-- [Alariel](/characters/alariel) (Phoenix King's daughter) and [Kirkegaard](/characters/kirkegaard) lead refugees to [Mardun](/locations/mardun).  
-- The [Bartenders Guild](/organizations/bartenders-guild) in [Fywick](/locations/fywick) begins manipulating adventurers to achieve political goals.
+- [Alariel](/characters/alariel) (Phoenix King's daughter) and [Kirkegaard](/characters/kirkegaard) lead refugees to [Mardun](/locations/Mardun).  
+- The [Bartenders Guild](/organizations/bartenders_guild) in [Fywick](/locations/Mardun/Fywick) begins manipulating adventurers to achieve political goals.
 
 ### **Season 4: Ascension and Destiny**  
 ![season_4_poster.webp](/posters/season_4_poster.webp =250x)  
@@ -78,7 +78,7 @@ The final season involves interdimensional politics, godly conflicts, and the ba
   - Gods send [Maruts](/creatures/maruts) after [Spoops](/characters/spoops) for breaking cosmic rules.  
   - [Devil lawyers](/factions/infernal-lawyers) broker a deal between the party and gods.  
   - Party proves the illithid threat is greater.  
-- Final battle against the [Emperor](/characters/illithid-emperor) and his moon-sized illithid monster.  
+- Final battle against the [Emperor](/characters/Emperor) and his moon-sized illithid monster.  
 
 ## History Between Campaigns 1 and 2
 
