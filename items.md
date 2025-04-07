@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-07T17:02:04.741Z
+date: 2025-04-07T17:02:40.407Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -72,7 +72,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Ring of Magnificent Size](/items/Ring-Of-Magnificent-Size) | Legendary | Ring | Spoops | A ring studded with 10 Diamonds, each containing a charge of Enlarge-Reduce. |
 | [Ring of Snakes](/items/Ring-of-Snakes) | Rare | Ring | Spoops | Ring of Snakes, what else could it be? |
 | [Ring of Sexy Seduction](/items/Ring-of-Sexy-Seduction) | Rare | Ring | LBB | ??? |
-| [Ring of Force Resistance](/items/Ring-of-Force-Resistance) | Rare | Ring | LBB | Provides resistance to Force damage. |
+| [Ring of Force Resistance](/items/Ring-Of-Force-Resistance) | Rare | Ring | LBB | Provides resistance to Force damage. |
 
 
 ---
