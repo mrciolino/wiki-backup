@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-07T22:00:52.155Z
+date: 2025-04-07T22:01:05.335Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -12,7 +12,7 @@ dateCreated: 2024-06-15T03:59:40.719Z
 
 🔹 **[TODO Tags](/t/todo)** ← Click to view all pages with the tag *todo*.
 
-## 👥 Contributor-Specific Pages
+# 👥 Contributor-Specific Pages
 Pages where one's knowledge is better suited for filling in information.
 
 > ## 🧸 Peter  
