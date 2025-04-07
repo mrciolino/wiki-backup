@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-04T09:39:42.242Z
+date: 2025-04-07T20:20:35.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -32,8 +32,9 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 -   Felldun: The continent on the left side of the largest landmass. (Brown)
 -   Druidia: The Peninsula attached to Felldun. (Green)
 
-## Map
+# 🗺️ Campaign 1 Map
 
 <img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map">
 
 
+# 🗺️ Campaign 2 Map
