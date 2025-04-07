@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-07T12:56:33.860Z
+date: 2025-04-07T12:57:13.514Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -19,7 +19,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Spoops](/characters/spoops)     | Undead   | Oath of The Soul Warden Paladin    | Lost at Sea         | Highly Erratic, Overconfident, Constantly in Survival Mode     | ![Spoops](/characters/spoops.webp =x100) 		|
 | [Bazzdos](/characters/bazzdos)   | Warforged   | Armorer Artificer 20 / Hexblade Warlock 1 / Wizard 1  | Artificial Intelligence | Indestructible AI engineer obsessed with order and complexity.     | ![Bazzdos](/characters/bazzdos.webp =x100) |
 | [Breezy-E](/characters/breezy)   | Human Vampire   | Samurai Fighter    | ??         | ??     | ![Breezy-e](/characters/breezy/breezy.webp =x100) |
-| [Adalynn](/characters/adalynn)   | Bitch   | Wizard    | A Wizard who sought that which was not theirs.         | Betrayer.     | ![Adalynn](/characters/adalynn.webp =x100) |
+| [Adalynn](/characters/adalynn)   | Bitch   | Wizard    | Fool | Betrayer.     | ![Adalynn](/characters/adalynn.webp =x100) |
 | [Elira A.](/characters/elira)    | ??   | ??    | ??         | ??     | ![Elira](/characters/elira/elira.webp =x100) |
 | [Krorg](/characters/krorg)       | Gnome   | Barbarian    | Drifter         | Economic Schemer     | ![Krorg](/characters/krorg/krorg.png =x100) |
 | [Os Vrtnica](/characters/os)     | Elf   | Bard    | ??         | ??     | ![Os](/characters/os.webp =x100) |
