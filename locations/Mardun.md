@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-07T20:20:35.116Z
+date: 2025-04-07T20:20:48.758Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -18,9 +18,6 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 | [Allford](/locations/Mardun/Allford) | [Fort Suro](/locations/Mardun/Fort-Suro) | [Fywick](/locations/Mardun/Fywick) | [North Geskoworm / Krorg's Hometown](/locations/Mardun/North-Geskoworm) | [Gothriathon](/locations/Mardun/Gothriathon) | [Saragassa](/locations/Mardun/Saragassa) | [Wegate](/locations/Mardun/Wegate) |
 | [Alltricia](/locations/Mardun/Allford) | [The Red Keep](/organizations/The-Red-Keep) | [Hastow](/locations/Mardun/Hastow) | [Galeton](/locations/Mardun/Galeton) | | | |
 | | [Kaltrosar](/locations/Mardun/Kaltrosar) | |  | | | |
-
-
-## Continents
 
 -   Ashenor: For the ash mountains (Top Arctic Area, Light Blue)
 -   Kairnheim: "Deadlands" (The area we started in, Red)
