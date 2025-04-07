@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-07T12:57:13.514Z
+date: 2025-04-07T20:29:04.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -31,6 +31,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![drakham.png](/characters/adalynn/drakham.png =x100) |
 | [Narascus](/characters/Narascus) | Demon   | (Narascene) Soul Domain Cleric    | Potion Drinker, Betrayer | Evil demon seeking godhood through manipulation and control. Self absorbed.     | ![narascus.png](/characters/adalynn/narascus.png =x100) |
 
+
 ## **Campaign 2**  
 
 
@@ -43,4 +44,12 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Oran](/characters/oran)                  				 | Deep Gnome | Soulknife Rogue   | Bounty Hunter     | Cautious, resourceful, driven by debt, mysterious. | ![oran_dusktea.avatar.webp](/characters/oran_dusktea.avatar.webp =x100)  |
 | [Baloo](/characters/baloo)                				 | Bugbear    | Bard              | Entertainer       | Humorous, resilient, determined to change perceptions, gambling addiction. | ![baloo.avatar.webp](/characters/baloo.avatar.webp =x100) |
 
+## **Other Guest Stars**
+| Name                                               | Race       | Class             | Background        | Notable Traits                                     |    Image |
+|----------------------------------------------------|------------|-------------------|-------------------|-----------------------------------------------------|----------|
+| [Otto Hurtszog](/characters/Otto-Hurtszog) | Human | Warlock (Hexblade) | Ambitious, Ruthless |  | ![otto.png](/characters/adalynn/otto.png =x100) |
+| [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful |  | ![achilles.png](/characters/adalynn/achilles.png =x100) |
+| [Federina](/characters/Federina) | Elf | Wizard (Chronurgy) | Precise, Arrogant | | ![federina.png](/characters/adalynn/federina.png =x100) |
+
+- Add Pope + Michelle + Steph
 
