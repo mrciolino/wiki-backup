@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-07T19:50:33.784Z
+date: 2025-04-07T19:52:11.929Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -98,7 +98,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | --- | --- | --- | --- | --- |
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 | [Mechanical Mirror Shield](/items/Mechanical-Mirror-Shield) | Legendary | Shield | Spoops | A shield that can reflect any ray attack back at the attacker. Can be found at [Mechanical Mirror Shield](https://www.dndbeyond.com/magic-items/8596950-mechanical-mirror-shield) on DnD Beyond. |
-| [Circlet of No Word](/items/Circlet-Of-No-Word) | Epic | Circlet | Spoops | Stops the target from using a specified word. |
+| [Circlet of No Word](/Circlet-Of-No-Word) | Epic | Circlet | Spoops | Stops the target from using a specified word. |
 | [Screaming Shoes](/items/Screaming-Shoes) | Uncommon | Sword | Spoops | Light blue shoes that scream when you walking around in them. |
 | [Cool Sunglasses](/items/Shifty-Abacus) | Uncommon | Item | Spoops | They look cool. |
 | [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
