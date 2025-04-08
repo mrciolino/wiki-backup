@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-08T14:48:16.699Z
+date: 2025-04-08T14:49:11.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -161,7 +161,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Book On Fighting Angels Demons and Gods](/items/Book-On-Fighting-Angels-Demons-And-Gods) | Epic | Book | Spoops |  A book with a self explanatory title. Caution: Reading may cause instant death. |
 | [Tome of The Stilled Tongue](/items/Tome-Of-The-Stilled-Tongue) | Rare | Book | LBB |  The spellbook of Adalynn. |
 | [Apprentice Wizard Spellbook](/items/Apprentice-Wizard-Spellbook) | Rare | Book | LBB |  A book for apprentice wizards. |
-| [How to be a good friend](/items/Apprentice-Wizard-Spellbook) | Rare | Book | Spoops |  A book on how to be a good friend. |
+| [How to be a good friend](/items/How-To-Be-A-Good-Friend) | Rare | Book | Spoops |  A book on how to be a good friend. |
 
 ---
 
