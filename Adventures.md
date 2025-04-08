@@ -2,7 +2,7 @@
 title: Adventures
 description: A list of One-Shots, Few-Shots, or Campaigns set in the Mardun Universe
 published: true
-date: 2025-03-29T21:19:32.473Z
+date: 2025-04-08T02:21:47.327Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T23:01:07.987Z
@@ -20,4 +20,5 @@ Mardun has see a lot of activity of the years, from 5 year campaigns to 4 hour s
 | **Soul Blade One-Shot** | [🔗](/Adventures/Soul_Blade_One_Shot) | Description |
 | **Halloween One-Shot** | [🔗](/Adventures/Halloween_One_Shot) | It took place 362 years after the end of the main campaign on Mardun. The village was located east of the Ironwood Forest on the continent of Felldora. Dorbis Wigglefern’s backstory flashback with the demon took place in Erpool City of The True Name. |
 | **No Heroes** |  [🔗](/Adventures/No_Heroes) | No Heroes takes place in Redwater Port, the ruins of an ancient cyclopean port on Fywick’s western bank, where Krorgfrey, the Golden Lord of Fywick New Geskoworm, was assassinated alongside his dragon knight entourage while seeking hidden dungeon secrets, while the Shattered Eyes clan operates in the Celestial Vale and the Silverwinds faction hails from the northern banks of Champion’s Cup. |
-| Sphinx Riddle | | one shot info from peter| 
+| Sphinx Riddle | [🔗](/Adventures/Sphinx_Riddle) | one shot info from peter| 
+| Woolhope | [🔗](/Adventures/Woolhope) | Amid a millennium-long stalemate between the Narascines and Wegatians, a village in the no man's land remains mysteriously untouched, protected by a vampiric patron. | 
