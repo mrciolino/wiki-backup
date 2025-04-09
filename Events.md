@@ -2,7 +2,7 @@
 title: Events
 description: Glossary of Memorable Events in the Low Bar Brawlers
 published: true
-date: 2025-04-09T20:55:03.396Z
+date: 2025-04-09T21:52:39.580Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T13:18:10.934Z
@@ -14,7 +14,7 @@ dateCreated: 2025-03-25T13:18:10.934Z
 
 | Event Name         | Description | Date (if known) | Related Characters / Locations |
 |--------------------|------------|----------------|--------------------------------|
-| [**Pirate Raid**](/Events/Pirate-Raid)   | A major pirate assault that reshaped regional power. | ??? | [Allford](/locations/Mardun/Allford), [Saragassa](/locations/Mardun/Saragassa),  |
+| [**Pirate Raid**](/Events/Pirate-Raid)   | A major pirate assault that reshaped regional power. | ??? | [Allford](/locations/Mardun/Allford), [Saragassa](/locations/Mardun/Saragassa)  |
 |	**The Deal with the Council of the Gods** |	The loss of the boon, council of the gods Event to be filled in | 0 AD	|	|
 | [**Time Chambers**](/Events/Time-Chambers) 	| Spoops Blade + Jngmgander + Shard of Divinty 	| 1 BC - 0 AD	| [Bazzdos](/characters/bazzdos), [Spoops](/characters/spoops), [Shard of Divinity](/items/shard-of-divinity)	|
 
