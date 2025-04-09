@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-09T12:08:37.439Z
+date: 2025-04-09T12:35:11.551Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -138,7 +138,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Shield Ring](/items/Shield-Ring) | Epic | Ring | Spoops |  Part of a set of magical items, the other item being the [Shield Generator](/items/Shield-Generator). Allows passage through the Shield Generator's shield. |
-| [Shield Generator](/items/Shield-Generator) | Epic | Ring | Spoops |  Part of a set of magical items, the other item being the [Shield Ring](/items/Shield-Ring). Allows the generation and manipulation of an impenetrable shield. |
+| [Shield Generator](/items/Shield-Generator) | Epic | Item | Spoops |  Part of a set of magical items, the other item being the [Shield Ring](/items/Shield-Ring). Allows the generation and manipulation of an impenetrable shield. |
 
 ---
 
