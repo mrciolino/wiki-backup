@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-07T22:01:05.335Z
+date: 2025-04-09T01:15:06.116Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -16,7 +16,7 @@ dateCreated: 2024-06-15T03:59:40.719Z
 Pages where one's knowledge is better suited for filling in information.
 
 > ## 🧸 Peter  
-> ❌ **[Bomb the Bear](/characters/Bomb-the-Bear)** – *Will need to consult Ryan on astral scenes and the end of Bomb Coin*  
+> ✅ **[Bomb the Bear](/characters/Bomb-the-Bear)** – *Will need to consult Ryan on astral scenes and the end of Bomb Coin*  
 > 
 > ## 🍝 Ryan  
 > ❌ **[Tony Mozzarella](/characters/Tony-Mozzarella)**  
