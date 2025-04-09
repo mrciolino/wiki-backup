@@ -2,8 +2,8 @@
 title: RoboScript
 description: The Programming Language of Bazzdos
 published: true
-date: 2025-04-09T22:08:24.143Z
-tags: 
+date: 2025-04-09T22:08:36.206Z
+tags: todo
 editor: markdown
 dateCreated: 2025-04-09T22:08:24.143Z
 ---
