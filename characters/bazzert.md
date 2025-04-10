@@ -2,7 +2,7 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-04-01T00:28:19.663Z
+date: 2025-04-10T21:30:02.233Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
@@ -31,7 +31,7 @@ Listed below are the items, traits, and notable features remaining on the archiv
 Many jokes and many opportunities arose with this single button press gimmick. From ripping a tear into the hull of a pirate ship (stopping force 9000 lbs), to stopping doors from being opened, to using this item to climb into the air. *(Seen as the inspiration for [Bazzdos](/characters/bazzdos), an Iron Man-like Inventor)*
 
 ### The Sleep Crown
-Once an unknown tool to the party, this item became a favorite for Bazzert as a way to take control of otherwise chaotic situations. When placed on the head of any creature, the creature would instantly fall asleep, allowing one to kidnap or kill quietly. Soon enough, other members of the party saw the usefulness of the crown and began using it for their own ends. *(Seen as the inspiration for [Bazvrah](/characters/bazvrah), a maniacal assassin)*
+Once an unknown tool to the party, this item became a favorite for Bazzert as a way to take control of otherwise chaotic situations. When placed on the head of any creature, the creature would instantly fall asleep, allowing one to kidnap or kill quietly. Soon enough, other members of the party saw the usefulness of the crown and began using it for their own ends. *(Seen as the inspiration for [Bazvrah](/characters/Bazvrah), a maniacal assassin)*
 
 ### The Druid Book
 > How to Kill Gods:
