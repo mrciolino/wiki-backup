@@ -2,8 +2,8 @@
 title: Characters
 description: 
 published: true
-date: 2025-04-04T18:53:59.236Z
-tags: villians, needs reorganizing
+date: 2025-04-10T21:20:25.275Z
+tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
 ---
@@ -29,6 +29,23 @@ List of non-player-characters from both campaigns and some information about the
 | *[Doom Slayer (Create Page)](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
 | *[Mechatarasque](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by the Pythagoreans. Profiled and commandeered by [Bazzdos](/characters/bazzdos). |  
 | *[Inferno](/characters/inferno)* | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
+| *[Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight)* | Unknown | - |  
+| *[Gnomio the Weaponsmith](/characters/gnomio-the-weaponsmith)* | Weaponsmith | - |  
+| *[Baxter the Potion Master](/characters/baxter-the-potion-master)* | Potion Master | - |  
+| *[Archmage Snorri](/characters/archmage-snorri)* | Professor | - |  
+| *[GoldBrow](/characters/goldbrow)* | Magic College of Highhold Professor | - |  
+| *[Ironblood](/characters/ironblood)* | Magic College of Highhold Professor | - |  
+| *[Raachix](/characters/raachix)* | Magic College of Highhold Professor | - |  
+| *[Alfia](/characters/alfia)* | Magic College of Highhold Professor | - |  
+| *[Lokunai](/characters/lokunai)* | Magic College of Highhold Professor | - |  
+| *[Josh the Drake](/characters/josh-the-drake)* | Drake | - |  
+| *[Freedom](/characters/freedom)* | Unknown | - |  
+| *[Os' Wife](/characters/os-wife)* | Unknown | - |  
+| *[Vesrahaan](/characters/vesrahaan)* | Unknown | - |  
+| *[Aphyr the Mighty](/characters/aphyr-the-mighty)* | Unknown | - |  
+| *[Maria Luigi](/characters/maria-luigi)* | Unknown | - |  
+| *[Mecha Terrasque](/characters/mecha-terrasque)* | Unknown | - |  
+| *[Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco)* | Unknown | - |
 
 ---
 
