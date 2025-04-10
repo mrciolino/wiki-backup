@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-04-10T21:20:25.275Z
+date: 2025-04-10T21:23:14.289Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -46,8 +46,13 @@ List of non-player-characters from both campaigns and some information about the
 | *[Maria Luigi](/characters/maria-luigi)* | Unknown | - |  
 | *[Mecha Terrasque](/characters/mecha-terrasque)* | Unknown | - |  
 | *[Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco)* | Unknown | - |
+| *[Fiad](/characters/fiad)* | Unknown | - |
+| *[Bugbear Captain](/characters/bugbear-captain)* | Pirate Representative | Representing the Pirates of Saragassa |  
+| *[Kirkegaard](/characters/kirkegaard)* | Commander | Representing the Unified Forces of Ry-ann |  
+| *[King Lancel Highhold](/characters/king-lancel-highhold)* | King | Representing the Dwarven City of Highhold and Magic College of Highhold |  
+| *[Archmage Antonides](/characters/archmage-antonides)* | Archmage | Representing the Magic College of Porthy |  
+| *[Gith Anarch Kathor](/characters/gith-anarch-kathor)* | Gith Leader | Representing the Gith Serai, and many Gith Yankii Survivors |
 
----
 
 ### **Villains**  
 | Name | Role | Notable Actions |  
