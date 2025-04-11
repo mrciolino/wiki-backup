@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2025-04-09T22:19:43.992Z
+date: 2025-04-11T17:17:53.349Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -27,7 +27,7 @@ A **powerful** warforged artificer with an **almost indestructible** body. While
 ---
 
 ## 🏛️ Origins
-Bazzdos was found by the party in a room deep underground. He was inactive at first, buried beneath a pile of rubble. Upon investigating the metal robot under the rocks, Spoops was the first to approach, but couldn’t figure out why it lay motionless. After some time, he discovered a rear hatch which, when opened, revealed an input console. Once booted up, the following screen was displayed.
+Bazzdos was found by the party in a room deep underground. He was inactive at first, buried beneath a pile of rubble. Upon investigating the metal robot under the rocks, Spoops was the first to approach, but couldn’t figure out why it lay motionless. After some time, he discovered a rear hatch which, when opened, revealed an input console. Once booted up, the following screen was displayed. This was the introduction of [RoboScript](/systems/Roboscript).
 
 ![bazzdos_intro.png](/characters/bazzert/bazzdos_intro.png)
 
@@ -37,9 +37,9 @@ The robot was named Bazzdos and took on the role of a Lawfull Construct for the 
 Every problem can be solved through meticulous planning, precise craftsmanship, and scalable engineering. With the right **materials**, **knowledge**, and **ingenuity**, there are no true limitations—only challenges waiting to be overcome. Every mechanism, from the smallest gear to the grandest machine, follows a design; so too must every action be deliberate, every invention purposeful, and every creation a step toward perfection.  
 
 ## 🤖 Morality
-Bazzdos is driven by strict adherence to order, prioritizing efficiency and precision. He believes every task must be executed flawlessly. He respects rules as the foundation of stability, though his view of law is rigid and unyielding. His programming lanaguage, Bazzscript, held above all else. Only once was his source code every seen, during a 5000 year time chamber session, by Spoops. Is there good or evil within Bazzdos, or is there a void inside the machine.
+Bazzdos is driven by strict adherence to order, prioritizing efficiency and precision. He believes every task must be executed flawlessly. He respects rules as the foundation of stability, though his view of law is rigid and unyielding. His programming lanaguage, RoboScript, held above all else. Only once was his source code every seen, during a 5000 year time chamber session, by [Spoops](/characters/spoops). Is there good or evil within Bazzdos, or is there a void inside the machine.
 
-> During the 2nd [Time Chamber](/Events/Time-Chambers), Spoops had 5000 years to learn [Roboscript](/systems/Roboscript) and understand Bazzdos on a whole new level.
+> During the 2nd [Time Chamber](/Events/Time-Chambers), Spoops had 5000 years to learn [RoboScript](/systems/Roboscript) and understand Bazzdos on a whole new level.
 
 ## ⚠️ Flaws  
 For Bazzdos, mastery was just the start of an ever-deepening complexity. Simplicity felt like stagnation, so every solution evolved into a more intricate web of mechanisms. His **Speaking Stone Network**, once a simple tool for communication, grew into a labyrinth of encrypted relays and arcane protocols only he could decipher. Likewise, his **Laser and Lens Factory**, initially dismissed by his party, captivated Bazzdos' engineering mind, leading to its eventual success, as seen with the lasers on Glub Glub. His greatest struggle, however, was relinquishing the **boons from his god**, which, though given as gifts, became chains he could not break. The fear of losing his power drove him to cling to it even tighter, trapping him in a world where nothing could be simple or let go.
