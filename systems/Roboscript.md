@@ -2,7 +2,7 @@
 title: RoboScript
 description: The Programming Language of Bazzdos
 published: true
-date: 2025-04-11T17:00:12.146Z
+date: 2025-04-11T17:01:43.019Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-09T22:08:24.143Z
@@ -10,51 +10,47 @@ dateCreated: 2025-04-09T22:08:24.143Z
 
 # 🤖 RoboScript  
 *The programming language created by Bazzdos.*
---
-
-> ### **RoboScript Functionality**  
-> When unconscious (dead or resting), this creature can be programmed via a console on the back of its power armor.  
-> Upload a script by compiling and flashing it using the green button beside the panel.  
-> **Memory overflow** or **infinite loops** trigger **Computer Overload**.
-
+When unconscious (dead or resting), this creature can be programmed with specific instructions and logic flow via its console on the back of its power armor. The script must be compiled and flashed to the creature's firmware with the press of the green button next to the console panel. An overflow of memory or an indefinite loop causes **Computer Overload**.  
 
 
 ## 📜 Scripts
 
-### **SCRIPT 1**
-```python
-TALK like C3PO sometimes
-```
-
----
-
-### **SCRIPT 2**
-```python
-def overflow(count=10):
-    return overflow(count**count)
-
-RUN overflow()
-```
-
-## **SCRIPT 3** {.tabset}
-
-### Updated
-```python
-threat_level = getThreatLevel()
-
-if threat_level < 25:
-    stats = stats.default
-if threat_level >= 25:
-    stats = stats.default + 10
-```
-### Original
-```javascript
-if (bazzdows.threatLvl >= 50) {
-    bazzdows.stats.OC = 30;
-} else {
-    bazzdows.stats.OC = bazzdows.stats.default;
-}
-```
+> ### **SCRIPT 1**
+> ```python
+> TALK like C3PO sometimes
+> ```
+> 
+> ---
+> 
+> ### **SCRIPT 2**
+> ```python
+> def overflow(count=10):
+>     return overflow(count**count)
+> 
+> RUN overflow()
+> ```
+> 
+> ### **SCRIPT 3** 
+> ## **SCRIPT 3** {.tabset}
+> 
+> ### Updated
+> ```python
+> threat_level = getThreatLevel()
+> 
+> if threat_level < 25:
+>     stats = stats.default
+> if threat_level >= 25:
+>     stats = stats.default + 10
+> ```
+> 
+> ### Original
+> ```javascript
+> if (bazzdows.threatLvl >= 50) {
+>     bazzdows.stats.OC = 30;
+> } else {
+>     bazzdows.stats.OC = bazzdows.stats.default;
+> }
+> ```
 
 
 ## ⚠️ Computer Overload
