@@ -2,14 +2,14 @@
 title: Rathwing
 description: Darmuth's first officer
 published: true
-date: 2025-03-20T14:51:47.945Z
+date: 2025-04-11T17:31:13.065Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T21:46:23.750Z
 ---
 
 ## Veerian Rathwing
-![wrath.png](/characters/other/wrath.png)
+![wrath.png](/wrath.png)
 ### Background
 An evil draconic sorcerer with large bat wings. He is the descendant of both Darmuth and Inferno. He was encouraged by Darmuth to commit acts of greater and greater evil, which he happily obliged.
 ### Powers
@@ -22,4 +22,7 @@ Flight, control of an evil cult, pioneer of the Rathwing-style of fighting which
 Shot to death by Breezy-E at the end of the Pirate Raid.
 
 # Trivia
-- Rathwing has a villain song https://suno.com/song/ce4b574a-d3c2-4d71-8fbd-ba223a5bb4c1
+- Rathwing has a villain song 
+> Rathwing Song | *Generated Song - Suno AI* | [Link to Suno 🔗](https://suno.com/song/ce4b574a-d3c2-4d71-8fbd-ba223a5bb4c1)
+> <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="/audio/rathwingsong.mp3">Your browser does not support the audio tag. </audio>  
+{.is-info}
