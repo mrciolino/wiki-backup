@@ -2,7 +2,7 @@
 title: RoboScript
 description: The Programming Language of Bazzdos
 published: true
-date: 2025-04-11T17:15:53.410Z
+date: 2025-04-11T23:04:45.950Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T22:08:24.143Z
@@ -15,7 +15,7 @@ The programming language created by [Bazzdos](/characters/bazzdos). When the [Me
 When unconscious (dead or resting), this creature can be programmed with specific instructions and logic flow via its console on the back of its power armor. The script must be compiled and flashed to the creature's firmware with the press of the green button next to the console panel. An overflow of memory or an indefinite loop causes **Computer Overload**.  
 
 ## 📜 Scripts
-The first programs built on top of Bazzdos' source code are as follows. Syntax used orginally follow a Java link object oriented style but was later updated into a Pythonic style.
+The first programs built on top of Bazzdos' source code are as follows. Syntax used orginally follow a Java like object oriented style but was later updated into a Pythonic style.
 
 > ### **SCRIPT 1**
 > ```python
