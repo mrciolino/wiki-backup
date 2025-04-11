@@ -2,7 +2,7 @@
 title: RoboScript
 description: The Programming Language of Bazzdos
 published: true
-date: 2025-04-11T17:01:43.019Z
+date: 2025-04-11T17:10:39.699Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-09T22:08:24.143Z
@@ -14,13 +14,12 @@ When unconscious (dead or resting), this creature can be programmed with specifi
 
 
 ## 📜 Scripts
+The first programs built on top of Bazzdos' source code are as follows. Syntax used orginally follow a Java link object oriented style but was later updated into a Pythonic style.
 
 > ### **SCRIPT 1**
 > ```python
 > TALK like C3PO sometimes
 > ```
-> 
-> ---
 > 
 > ### **SCRIPT 2**
 > ```python
@@ -36,7 +35,6 @@ When unconscious (dead or resting), this creature can be programmed with specifi
 > ### Updated
 > ```python
 > threat_level = getThreatLevel()
-> 
 > if threat_level < 25:
 >     stats = stats.default
 > if threat_level >= 25:
@@ -54,15 +52,16 @@ When unconscious (dead or resting), this creature can be programmed with specifi
 
 
 ## ⚠️ Computer Overload
-When a RoboScript triggers memory or time overflows:  
-- Creature makes **1d6 random attacks**  
-- Casts **1d4 random spells**  
-- Then enters **Super Hibernation Form**: transforms into a compact, immobile metal box, still capable of observation.  
-- Reboot requires specific actions.
-
+When a RoboScript triggers memory or time overflows. This could occur if Bazzdos loses control of his mind or could even be triggered in an emergency situation to stop anyone from reaching Bazzdos' **soul core** and destroying his source code.
+> - Creature makes **1d6 random attacks**  
+> - Casts **1d4 random spells**  
+> - Then enters **Super Hibernation Form**: transforms into a compact, immobile metal box, still capable of observation.  
+> - Reboot requires specific actions.
+> 
 
 
 ## 🧠 Programmer Feedback
+The only person to code in Roboscript besides Bazzdos was Spoops. This was for the first Script 1, "`TALK like C3PO sometimes`", and for Script 3. For Script 1, a shock was given since C3PO was not in Bazzdos' memory. After some memory updates the **code passed quality checks** and Spoops was granted bless as according to the below logic:
 
 - **Success:** A subtle electric charge grants **Bless** (*+1d4 to an ability roll*).  
 - **Failure:** Sparks cause **1d6 Lightning damage** and stun for 6 seconds.  
