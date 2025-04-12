@@ -2,8 +2,8 @@
 title: No Heroes
 description: In Redwater Port, Krorgfrey and his dragon knights were slain by dark forces while seeking hidden dungeon secrets, as the Shattered Eyes lurk in the Celestial Vale and the Silverwinds hail from Champion’s Cup.
 published: true
-date: 2025-03-28T20:30:13.074Z
-tags: 
+date: 2025-04-12T18:11:27.963Z
+tags: todo
 editor: markdown
 dateCreated: 2025-03-28T20:30:13.074Z
 ---
