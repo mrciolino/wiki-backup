@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-04-09T22:10:25.663Z
+date: 2025-04-12T16:48:29.805Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -10,6 +10,8 @@ dateCreated: 2024-06-05T01:48:57.361Z
 
 # Seasons
 The campaign can be roughly broken up into several "Seasons," like a TV show, encompassing major storylines and events. Recaps for specific sessions for each campaign can be found here: [Campaign 1 Sessions](/sessions/campaign_1/overview) and [Campaign 2 Sessions](/sessions/campaign_2/overview).
+
+Check out [Campaign-1-Seasons](/Seasons/Campaign-1-Seasons)
 
 ## Campaign 1: The Age of Mortals
 
