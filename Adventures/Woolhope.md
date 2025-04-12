@@ -2,7 +2,7 @@
 title: Woolhope
 description: A vampire patron shields a lone village amid a thousand-year war's no man's land.
 published: true
-date: 2025-04-12T13:03:14.138Z
+date: 2025-04-12T13:03:28.971Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T02:25:13.945Z
@@ -20,7 +20,7 @@ dateCreated: 2025-04-08T02:25:13.945Z
 
 In the first session of Woolhope, three eccentric villagers—spaghetti warlock Alfredo, vampire-thrall Kael, and amnesiac doctor Roy—serve the vampiric patron Rye Linguinius in a magically shielded village caught between warring factions, but their discovery of Arfer, a soldier marked by Rye’s rival the Red Archon, sets off a chaotic chain of events including botched healing, divine warnings, and the kidnapping of village elder Aynuk in a desperate attempt to conceal Arfer’s identity before outside forces arrive.
     
-**👇 Click to Expand 👇**
+**👇 Click to View Log 👇**
   </summary>
 
 ### **Session Metadata**  
