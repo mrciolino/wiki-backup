@@ -2,7 +2,7 @@
 title: timeline
 description: 
 published: true
-date: 2025-04-04T02:58:00.053Z
+date: 2025-04-12T16:55:40.862Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -118,6 +118,22 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **The [City of Brass](/locations/city-of-brass)** crashes into the **[Sea of Ice](/locations/sea-of-ice)**.  
 - **Breezye** founds **[La Rocca della Sugo](/locations/la-rocca-della-sugo)**.
 - The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea
+
+---
+
+## History Between Campaigns 1 and 2
+
+> *For full details, see the [Timeline](/timeline). Key events include:*
+> ### Major World Changes
+> - **[Erriad](/locations/erriad)'s Fall**: [Bane](/characters/bane) killed Erriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
+> - **[Kaltrosar Bay](/locations/kaltrosar-bay)'s Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power.
+> - **Regional Shifts**: [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence.
+> ### Character Arcs
+> - **[Dave Bones](/characters/Dave-Bones)**: The legendary pirate who made a pact with a sea devil remained "alive" in [Spoops](/characters/spoops)' mind after [Zeus](/pantheon/zeus) erased memory of him from the universe.
+> - **[Meade](/characters/meade)'s Fate**: Died of natural causes, widely regarded as having one of the best endings of any NPC.
+> ### Faction Developments
+> - **[north_geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
+> - **Illithid Revelations**: The party discovered [Obox Ob](/pantheon/obox-ob) (demon lord of vermin) had been mutilated by illithids to create the [Emperor](/characters/Emperor).
 
 ---
 
