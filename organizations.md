@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-06T22:54:23.783Z
+date: 2025-04-12T23:15:39.151Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -11,34 +11,34 @@ dateCreated: 2024-06-10T21:59:49.648Z
 # Organizations  
 Groups of entities that represent various factions, guilds, nations, religious sects, and alliances within the *Low Bar Brawlers* universe, each with unique goals, hierarchies, and influences on the world.  
 
-## **Campaign 1**  
+# **Campaign 1**  
 
-### **Alliances**  
+## **Alliances**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
 | [Council of Gods](/organizations/council-of-gods) | A coalition of deities. | - | - | Active |  
 | [Pirate Crew](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/Mardun/Saragassa) | - | Active |  
 | [Mortis Lux](/organizations/mortis-lux) | A mysterious organization. | - | - | Unknown |  
 
-### **Gangs**  
+## **Gangs**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
 | [Fywick Mafia](/organizations/fywick-mafia) | Criminal syndicate  | [Fywick](/locations/Mardun/Fywick) | [Tony-Mozzarella](/characters/Tony-Mozzarella) | Active |  
 | [Tabxi Mafia of Fywick](/organizations/tabxi-mafia) | Rival mafia group | [Fywick](/locations/Mardun/Fywick) | - | Active |  
 | [The-Red-Keep](/organizations/The-Red-Keep) | A feared gang. | The Jade Forest of [Dracofel](/locations/Mardun/Dracofel) | [Bazvrah](/characters/Bazvrah) | Unknown |  
 
-### **Races**  
+## **Races**  
 | Name | Description | Common Locations | Notable Figures | Status |  
 |------|-------------|-----------------|-----------------|--------|  
 | [Ilithid](/organizations/ilithid) | A race of mind flayers. | - | [Emperor](/characters/Emperor) | Hostile/Destroyed |  
 
-### **Pirate Crews**  
+## **Pirate Crews**  
 | Name | Description | Ship Name | Captain | Status |  
 |------|-------------|----------|---------|--------|  
 | [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave-Bones](/characters/Dave-Bones) | Active |  
 | [Bugbear Pirate Crew](/organizations/bugbear-pirate-crew) | A crew of bugbear pirates. | - | - | Active |  
 
-### **Nations and Tribes**  
+## **Nations and Tribes**  
 | Name | Description | Capital/Region | Ruler/Leader | Status |  
 |------|-------------|---------------|-------------|--------|  
 | [Parrot Shogunate](/organizations/parrot-shogunate) | A shogunate ruled by parrots. | - | - | Active |  
@@ -54,7 +54,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Astral Dwarf Clans](/organizations/astral-dwarf-clans) | Dwarven clans in the Astral Plane. | [Astral Plane](/locations/astral-plane) | - | Active |  
 | [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/Mardun/Kaltrosar) | - | Active |  
 
-### **Religious Groups**  
+## **Religious Groups**  
 | Name | Description | Worships | Leader | Status |  
 |------|-------------|---------|--------|--------|  
 | [Narascene Clerics](/organizations/narascene-clerics) | A religious order. | - | - | Active |  
@@ -64,7 +64,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/bane) | Active |  
 | [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/Rathwing) | - | Active |  
 
-### **Guilds and Companies**  
+## **Guilds and Companies**  
 | Name | Description | Headquarters | Leader | Status |  
 |------|-------------|-------------|--------|--------|  
 | [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar](/locations/Mardun/Kaltrosar) Bay fire. | - | - | Active |  
@@ -73,36 +73,36 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
 
 
-## Campaign 2
+# Campaign 2
 
-#### **Alliances**  
+## **Alliances**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS)](/organizations/rvasss) | Central hub for education and power in Vrintia. | Vrintia | [Headmaster Tadumar Soulfire](/characters/tadabar-soulfire), [Professor Osdimir Lataniel Dera Vrentica](/characters/professor-osdimir-lataniel-dera-vrentica), [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew), [Professor Alressa Rose](/characters/professor-alressa-rose) | Active |  
 
-#### **Clans**  
+## **Clans**  
 The [Five Dragonborn Clans](/organizations/dragonborn-clans)
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [Cai Pao Clan](/organizations/cai-pao-clan) | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
 | [Clan Norixius](/organizations/norexias-clan)| Brass Dragonborn infiltrator. Killed [Tiberian Caipao](/characters/tiberian-caipao)'s Parents. | - | - | Active |
 
-#### **Cults**  
+## **Cults**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [Cult of Gilbert](/organizations/cult-of-gilbert) | A dangerous group using blood magic and summoning shadow demons. | Vrintia | [Gilbert](/characters/gilbert) | Hostile |  
 
-#### **Religious Groups**  
+## **Religious Groups**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | Church of Mordredon | A religious organization dedicated to healing and protection. | Vrintia | [Clara the Cleric](/characters/clara-the-cleric) | Active |  
 
-#### **Law Enforcement**  
+## **Law Enforcement**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [City Guard of Vrintia](/organizations/city-guard-of-vrintia) | The law enforcement organization in Vrintia. | Vrintia | [Sergeant Lemrick](/characters/sergeant-lemrick), [Thomas Stonebrook](/characters/thomas-stonebrook) | Active |  
 
-## From Other Times
+# From Other Times
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [The-Pythagorean-Empire](/organizations/The-Pythagorean-Empire)| The Magic Wranglers |  |  | Fallen |  
