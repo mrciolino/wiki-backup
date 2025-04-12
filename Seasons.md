@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-04-12T18:03:03.116Z
+date: 2025-04-12T18:03:26.869Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -15,7 +15,7 @@ The campaign is structured like an epic TV series, broken into major **Seasons**
 > • [📘 Campaign 1 Sessions](/sessions/campaign_1/overview)  
 > • [📗 Campaign 2 Sessions](/sessions/campaign_2/overview)
 
-## 🎭 Campaign 1: *The Age of Mortals*  
+# 🎭 Campaign 1: *The Age of Mortals*  
 🌌 A tale of cults, betrayals, pirate raids, and cosmic revelations. Follow the heroes from humble beginnings to interdimensional warfare. 
 
 ```diagram
@@ -24,7 +24,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 👉 Learn more: [Campaign 1 Seasons](/Seasons/campaign_1)
 
-## 🛡️ Campaign 2: *The Age of Reclamation*  
+# 🛡️ Campaign 2: *The Age of Reclamation*  
 🏛️ A new era dawns as the world rebuilds and contends with ancient powers. Factions rise, gods stir, and new heroes emerge.
 
 ```diagram
