@@ -2,14 +2,16 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-04-12T17:57:54.167Z
+date: 2025-04-12T17:58:46.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
 ---
 
 # Seasons
-The campaign can be roughly broken up into several "Seasons," like a TV show, encompassing major storylines and events. Recaps for specific sessions for each campaign can be found here: [Campaign 1 Sessions](/sessions/campaign_1/overview) and [Campaign 2 Sessions](/sessions/campaign_2/overview).
+The campaign can be roughly broken up into several "Seasons," like a TV show, encompassing major storylines and events. 
+
+> Recaps for **specific sessions** for each campaign can be found here: [Campaign 1 Sessions](/sessions/campaign_1/overview) and [Campaign 2 Sessions](/sessions/campaign_2/overview).
 
 Check out [campaign_1](/Seasons/campaign_1)
 
