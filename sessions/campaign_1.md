@@ -2,13 +2,13 @@
 title: Campaign 1 Sessions
 description: Overview of some Campaign 1 sessions
 published: true
-date: 2025-04-12T20:02:16.202Z
+date: 2025-04-12T20:02:29.701Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:25:05.213Z
 ---
 
-# Overview of Campaign 1  
+# Campaign 1 Session Notes
 
 | Session | Link | Summary | Key Events |  
 |---------|------|---------|------------|  
