@@ -2,7 +2,7 @@
 title: Campaign 1 Sessions
 description: Overview of some Campaign 1 sessions
 published: true
-date: 2025-04-12T20:04:04.871Z
+date: 2025-04-12T20:06:01.080Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:25:05.213Z
@@ -12,7 +12,7 @@ dateCreated: 2025-04-12T13:25:05.213Z
 
 | Session | Link | Summary | Key Events |  
 |---------|------|---------|------------|  
-| **Session 1** | [Session 1 Recap](#session-1) | Tavern battle with a demon and introduction to Freedom. | Demon rampage at Pope’s Pub. Spoops "seduces" the demon. Otto Herzog fakes a bounty on Os Vrntica. Party agrees to clear Fort Suro’s mines for Freedom. |  
+| **Session 1** | [Session 1 Recap](/sessions/campaign_1/overview#session-9-dungeon-trekking) | Tavern battle with a demon and introduction to Freedom. | Demon rampage at Pope’s Pub. Spoops "seduces" the demon. Otto Herzog fakes a bounty on Os Vrntica. Party agrees to clear Fort Suro’s mines for Freedom. |  
 | **Session 2** | [Session 2 Recap](#session-2) | Party explores Fort Suro and enters the mines. | Drakham accused of summoning the demon. Party angers the guard captain. Ambushed by goblins and wolves in the mines. |  
 | **Session 3** | [Session 3 Recap](#session-3-wtf) | Chaotic battle in the mines. | Os Vrntica dies and is reincarnated as a high elf. Bear suplexed into a treasure chest. Goblins and badger boss nearly TPK the party. |  
 | **Session 4** | [Session 4 Recap](#session-4-guardison) | Caravan escort to Trelston. | Ghostly pickle reveals Spoops’ backstory. Party bribes highwaymen with entertainment. Drakham’s magic becomes cursed. |  
