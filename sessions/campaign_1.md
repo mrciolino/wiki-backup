@@ -2,7 +2,7 @@
 title: Campaign 1 Sessions
 description: Overview of some Campaign 1 sessions
 published: true
-date: 2025-04-12T20:02:29.701Z
+date: 2025-04-12T20:04:04.871Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:25:05.213Z
@@ -26,5 +26,6 @@ dateCreated: 2025-04-12T13:25:05.213Z
 | **Session 12** | [Session 12 Recap](#session-11-cults) | Cult fortress assault and Bomb’s death. | Party attacks cultists, battles Veerian Rathwing. Bomb the *Bear dies. Bazzert reads a book titled *How to Kill Gods*. |  
 | **Session 13** | [Session 13 Recap](#session-13-grief-and-shopping) | Return to Allford and shopping spree. | Party buries Bomb, experiments with necrotic liquid, and meets Lucidel Illiard again. Krorg gets a cape; Spoops buys plate armor. |  
 | **Session 18** | [Session 18 Recap](#sesiion-18) | Drunken pirate negotiations. | Krorg swindles the Pirate King. CBreezy joins as a Lawful Good ally. |  
+| ... | | | |
 
 > 🗓️ The adventure raged on for five more years with many unrecorded sessions. For a broader summary, check out the [Campaign 1 Season Overviews](/Seasons/campaign_1)! 🌟
