@@ -1,15 +1,15 @@
 ---
-title: Sessions
+title: sessions
 description: Recap of Sessions
 published: true
-date: 2025-03-27T02:01:43.617Z
-tags: needs lots of work
+date: 2025-04-12T20:21:30.730Z
+tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
 ---
 
 # **Sessions Overview**  
-> For a detailed look at each campaign session recap, visit [Campaign 1 Sessions](/sessions/campaign_1/overview) and [Campaign 2 Sessions](/sessions/campaign_2/overview). 
+> For a detailed look at each campaign session recap, visit [Campaign 1 Sessions](/sessions/campaign_1) and [Campaign 2 Sessions](/sessions/campaign_2). 
 For a overview of the seasons for each campaign visit: [Seasons](/Seasons).
 
 ## **Campaign 1**  
