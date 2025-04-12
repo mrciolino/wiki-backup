@@ -2,7 +2,7 @@
 title: Campaign 1 Seasons
 description: Overview of Seasons for Campaign 1
 published: true
-date: 2025-04-12T19:49:07.857Z
+date: 2025-04-12T19:53:40.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:20:30.673Z
@@ -19,7 +19,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 # Season 1: The Rathwing Saga  
 ![season_1_poster.webp](/posters/season_1_poster.webp =250x)  
-> Check this page out to see a more detailed look at [Season 1](/Seasons/campaign_1/Season_1)
+> Check this page out to see a more detailed look at **🌪️[Season 1](/Seasons/campaign_1/Season_1)🌪️**
 > This encompasses the events from the start of the campaign to the pirate raid and subsequent 2.5-year time skip.
 {.is-info}
 
@@ -34,7 +34,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 # **Season 2: The Darmuth Saga**  
 ![season_2_poster.webp](/posters/season_2_poster.webp =250x)  
-> Check this page out to see a more detailed look at [Season 2](/Seasons/campaign_1/Season_2)
+> Check this page out to see a more detailed look at **🧠[Season 2](/Seasons/campaign_1/Season_2)🧠**
 > This season focuses on the rise and fall of the illithid lich [Darmuth](/characters/Darmuth), ending with his defeat and the discovery of the [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds).
 {.is-info}
 
@@ -51,7 +51,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 # **Season 3: Mortis Lux**  
 ![season_3_poster.webp](/posters/season_3_poster.webp =250x)  
-> Check this page out to see a more detailed look at [Season 3](/Seasons/campaign_1/Season_3)
+> Check this page out to see a more detailed look at **🌌[Season 3](/Seasons/campaign_1/Season_3)🌌**
 > The party explores new worlds, allies with and betrays major figures, and begins assembling forces against the illithid threat.
 {.is-info}
 
@@ -72,7 +72,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 # **Season 4: Ascension and Destiny**  
 ![season_4_poster.webp](/posters/season_4_poster.webp =250x)
-> Check this page out to see a more detailed look at [Season 4](/Seasons/campaign_1/Season_4)
+> Check this page out to see a more detailed look at **👑[Season 4](/Seasons/campaign_1/Season_4)👑**
 > The final season involves interdimensional politics, godly conflicts, and the battle against the illithid emperor.
 {.is-info}
 
