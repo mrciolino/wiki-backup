@@ -2,7 +2,7 @@
 title: Campaign 1 Seasons
 description: Overview of Seasons for Campaign 1
 published: true
-date: 2025-04-12T16:54:23.065Z
+date: 2025-04-12T19:49:07.857Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:20:30.673Z
@@ -21,6 +21,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ![season_1_poster.webp](/posters/season_1_poster.webp =250x)  
 > Check this page out to see a more detailed look at [Season 1](/Seasons/campaign_1/Season_1)
 > This encompasses the events from the start of the campaign to the pirate raid and subsequent 2.5-year time skip.
+{.is-info}
 
 ## Major Events:  
 - The party first meets in the tavern by [Fort Suro](/locations/Mardun/Fort-Suro).  
@@ -35,6 +36,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ![season_2_poster.webp](/posters/season_2_poster.webp =250x)  
 > Check this page out to see a more detailed look at [Season 2](/Seasons/campaign_1/Season_2)
 > This season focuses on the rise and fall of the illithid lich [Darmuth](/characters/Darmuth), ending with his defeat and the discovery of the [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds).
+{.is-info}
 
 ## Major Events:  
 - The arrival of [Darmuth](/characters/Darmuth) and the death of [Krorg](/characters/krorg).  
@@ -51,6 +53,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ![season_3_poster.webp](/posters/season_3_poster.webp =250x)  
 > Check this page out to see a more detailed look at [Season 3](/Seasons/campaign_1/Season_3)
 > The party explores new worlds, allies with and betrays major figures, and begins assembling forces against the illithid threat.
+{.is-info}
 
 ## Major Events:  
 - Travel through the [Well of Many Worlds](/items/Well-Of-Many-Worlds) to [Ereriad](/locations/Ereriad), encountering:  
@@ -71,6 +74,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ![season_4_poster.webp](/posters/season_4_poster.webp =250x)
 > Check this page out to see a more detailed look at [Season 4](/Seasons/campaign_1/Season_4)
 > The final season involves interdimensional politics, godly conflicts, and the battle against the illithid emperor.
+{.is-info}
 
 ## Major Events:  
 - Construction of the fleet and factories.  
