@@ -2,7 +2,7 @@
 title: sessions
 description: Recap of Sessions
 published: true
-date: 2025-04-12T23:01:11.874Z
+date: 2025-04-12T23:11:51.617Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -47,7 +47,7 @@ dateCreated: 2024-06-02T14:16:34.992Z
 # **Campaign 2: The Age of Reclamation**  
 *"1,000 years after the Age of Mortals, a new generation faces the sins of the past—in a kingdom where magic and divinity hide festering rot."*  
 
-> For a detailed look at each campaign session recap, visit **👉[Campaign 2 Sessions](/sessions/campaign_2)👈**
+> For a detailed look at the campaign session recaps, visit **👉[Campaign 2 Sessions](/sessions/campaign_2)👈**
 {.is-info}
 
 ### **Timeline & Setting**  
