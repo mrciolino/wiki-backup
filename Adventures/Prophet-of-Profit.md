@@ -2,8 +2,8 @@
 title: Prophet of Profit
 description: Krorg is Alive?
 published: true
-date: 2025-03-28T19:12:01.803Z
-tags: 
+date: 2025-04-12T18:11:59.849Z
+tags: todo
 editor: markdown
 dateCreated: 2025-03-27T23:01:57.641Z
 ---
