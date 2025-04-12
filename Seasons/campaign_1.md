@@ -2,7 +2,7 @@
 title: Campaign 1 Seasons
 description: Overview of Seasons for Campaign 1
 published: true
-date: 2025-04-12T19:54:17.493Z
+date: 2025-04-12T19:55:27.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:20:30.673Z
@@ -38,13 +38,13 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 ## Major Events:  
 - The arrival of [Darmuth](/characters/Darmuth) and the death of [Krorg](/characters/krorg).  
-- Being hunted by Darmuth's pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/frederina).  
+- Being hunted by Darmuth's pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/Federina).  
 - Fighting and defeating Darmuth.  
 - Discovering the [Well of Many Worlds](/items/Well-Of-Many-Worlds) and the crack in the sky.  
 
 ## Key Lore:  
-- [Meade](/characters/meade), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/frederina) at the Oracle's Fortress in Fywick and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/Mardun/Fywick).  
-- The party learns of a greater illithid threat beyond [Darmuth](/characters/darmDarmuthuth).  
+- [Meade](/characters/meade), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/Federina) at the Oracle's Fortress in Fywick and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/Mardun/Fywick).  
+- The party learns of a greater illithid threat beyond [Darmuth](/characters/Darmuth).  
 - The devastation vermin (giant insectoid colossi) are introduced during early interdimensional travels.
 
 # **Season 3: Mortis Lux**  
