@@ -2,18 +2,11 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-04-12T18:03:26.869Z
+date: 2025-04-12T23:12:26.298Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
 ---
-
-# 🌟 Seasons  
-The campaign is structured like an epic TV series, broken into major **Seasons**, each covering pivotal story arcs and dramatic turns.  
-
-> 📖 **Session Recaps**  
-> • [📘 Campaign 1 Sessions](/sessions/campaign_1/overview)  
-> • [📗 Campaign 2 Sessions](/sessions/campaign_2/overview)
 
 # 🎭 Campaign 1: *The Age of Mortals*  
 🌌 A tale of cults, betrayals, pirate raids, and cosmic revelations. Follow the heroes from humble beginnings to interdimensional warfare. 
