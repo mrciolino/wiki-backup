@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-04-13T13:18:49.259Z
+date: 2025-04-13T13:19:24.357Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -22,7 +22,7 @@ The Age of Mortals come to end when Mortis Lux **Ascends** to take on the Ithili
 > **Campaign 1 Duration:** Five Years (2020-2025)
 > **Start Date:** Friday Dec 27th 2019 at Zia Maria Little Italy
 > **End Date:** Monday Nov 4th 2024
-> 📖 **[Season Summaries](/Seasons)**  
+> 📖 **[Season Summaries](/Seasons/campaign_1)**  
 > 📝 **[Session Recaps](/sessions/campaign_1)**
 
 ## ⚔️ Campaign 2
@@ -30,6 +30,7 @@ The Age of Mortals come to end when Mortis Lux **Ascends** to take on the Ithili
 > **Campaign 2 Duration:** Ongoing  
 > **Start Date:** Monday Feb 3rd 2025
 > **End Date:** TBD
+> 📖 **[Season Summaries](/Seasons/campaign_2)**  
 > 📖 **[Session Recaps](/sessions/campaign_2)**
 
 ## 🏕️ Adventures
