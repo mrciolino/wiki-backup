@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-13T14:09:49.958Z
+date: 2025-04-13T14:11:58.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -18,7 +18,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Bazzdos](/characters/bazzdos)   | Warforged   | Armorer Artificer 20 / Hexblade Warlock 1 / Wizard 1  | Artificial Intelligence | Indestructible AI engineer obsessed with order and complexity.     | ![Bazzdos](/characters/bazzdos.webp =x100) |
 | [Breezy-E](/characters/breezy)   | Human Vampire   | Samurai Fighter    | ??         | ??     | ![Breezy-e](/characters/breezy/breezy.webp =x100) |
 | [Adalynn](/characters/adalynn)   | Bitch   | Wizard    | Fool | Betrayer.     | ![Adalynn](/characters/adalynn.webp =x100) |
-| [Elira](/characters/elira)       | Human(?) | Inkling Sorcerer / Pact Mage     | Escaped Cultist        | Rebellious, Co-dependent, Fiercely loyal, Trauma-forged leader, Divine fugitive            | ![Elira](/characters/other/elira_v3.webp =x100) |
+| [Elira](/characters/elira)       | Human(?) | Inkling Sorcerer / Pact Mage     | Escaped Cultist        | Rebellious, Co-dependent, Fiercely loyal, Trauma-forged leader, Divine fugitive            | ![elira_v1.jpg](/characters/other/elira_v1.jpg =x100) |
 | [Krorg](/characters/krorg)       | Gnome   | Barbarian    | Drifter         | Economic Schemer     | ![Krorg](/characters/krorg/krorg.png =x100) |
 | [Os Vrtnica](/characters/os)     | Elf   | Bard    | ??         | ??     | ![Os](/characters/os.webp =x100) |
 | [Meade](/characters/meade)       | Human   | Warlock    | Charlatan         | Witty Drinker     | ![Meade](/characters/other/meade.webp =x100) |
