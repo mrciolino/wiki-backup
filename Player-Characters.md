@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-07T20:29:04.284Z
+date: 2025-04-13T14:04:26.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -47,9 +47,9 @@ A list of player characters from **Campaign 1**, including their races, classes,
 ## **Other Guest Stars**
 | Name                                               | Race       | Class             | Background        | Notable Traits                                     |    Image |
 |----------------------------------------------------|------------|-------------------|-------------------|-----------------------------------------------------|----------|
-| [Otto Hurtszog](/characters/Otto-Hurtszog) | Human | Warlock (Hexblade) | Ambitious, Ruthless |  | ![otto.png](/characters/adalynn/otto.png =x100) |
+| [Otto Hurtszog](/characters/Otto-Hurtszog) | Human | Warlock (Hexblade) | Ambitious, Ruthless |  | ![otto.png](/characters/other/otto.png =x100) |
+| [Federina](/characters/Federina) | Elf | Wizard (Chronurgy) | Precise, Arrogant | | ![federina.jpg](/characters/other/federina.jpg =x100)) |
 | [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful |  | ![achilles.png](/characters/adalynn/achilles.png =x100) |
-| [Federina](/characters/Federina) | Elf | Wizard (Chronurgy) | Precise, Arrogant | | ![federina.png](/characters/adalynn/federina.png =x100) |
 
-- Add Pope + Michelle + Steph
+- Add Pope + Michelle + Steph + Kiwi
 
