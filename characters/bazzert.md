@@ -2,7 +2,7 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-04-13T14:33:17.934Z
+date: 2025-04-13T14:34:04.342Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
@@ -27,27 +27,26 @@ During [Season 1](/Seasons) of the **first campaign**, Bazzert drew cards from t
 # Remaining Artifacts
 Listed below are the items, traits, and notable features remaining on the archived character sheet.
 
-### The Immovable Rod
+## The Immovable Rod
 Many jokes and many opportunities arose with this single button press gimmick. From ripping a tear into the hull of a pirate ship (stopping force 9000 lbs), to stopping doors from being opened, to using this item to climb into the air. *(Seen as the inspiration for [Bazzdos](/characters/bazzdos), an Iron Man-like Inventor)*
 
-### The Sleep Crown
+## The Sleep Crown
 Once an unknown tool to the party, this item became a favorite for Bazzert as a way to take control of otherwise chaotic situations. When placed on the head of any creature, the creature would instantly fall asleep, allowing one to kidnap or kill quietly. Soon enough, other members of the party saw the usefulness of the crown and began using it for their own ends. *(Seen as the inspiration for [Bazvrah](/characters/Bazvrah), a maniacal assassin)*
 
-### Flying T-Rex
+## Flying T-Rex
 A classic Druid spell `Conjure Woodland Beings` could be used to summon `Eight fey creatures of challenge rating 1/4 or lower`. In this fashion, we could summon 8 Pixies which in addition to their inate `Greater Invisibility` could also cast `Polymorph` and `Fly`. So since Polymorph has the rule, `The new form can be any beast whose challenge rating is equal to or less than the target's`, we can first use 4 pixies to transform our each character in our level 8 party into a T-Rex, then using the other 4 pixies cast Fly on each one of them. Bazzert discovered this dangerous combo and only was able to use it once against darmuths forces before succoming to his coma. This powerfull magic combo is where we discoved how powerfull magic can be. *(Seen as the inspiration for [Bazzalt](/characters/Bazzalt), a level 20 pure Druid)*
 
 # Remaining Notes
 
-### The Druid Book
-> How to Kill Gods:
-> --------------------------------
+## The Druid Book
+> **How to Kill Gods:**
 > *Formulate a plan*  
 > *It is disrespectful to kill an immortal deity without a well-thought-out plan of action*  
 > *Stay up late. One often gets the best or worst ideas when one is on the brink of sleep deprivation and insanity*  
 > *Seek help from others (no, not the therapeutic kind)*  
 > *There are several people that want to kill gods; you are not alone*  
 
-### Assassination of the Pirate King of Sargossa:
+## Assassination of the Pirate King of Sargossa:
 > Cast darkness on the Pirate King and convince him  
 > Naracus is a god or something using darkness  
 > and wild shape  
