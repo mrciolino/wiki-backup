@@ -2,7 +2,7 @@
 title: Bazzert
 description: The First of the Bazz Bros, a Druid with a Book
 published: true
-date: 2025-04-10T21:30:02.233Z
+date: 2025-04-13T14:33:17.934Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T22:28:43.636Z
@@ -12,7 +12,7 @@ dateCreated: 2025-03-26T22:28:43.636Z
 
 > [Character Sheet](/characters/bazzert/bazzertcharactersheet.pdf)
 > **Race:** Elf  
-> **Class:** Druid (Circle of the Land - Swamp)  
+> **Class:** Level 8 Druid (Circle of the Land - Swamp)  
 > **Alignment:** Chaotic Neutral  
 > **Background:** Guide  
 > **Traits:** Wild Shape, Natural Recovery, Darkvision, Ritual Casting, Land’s Stride, Fey Ancestry, Wild Companion, Mobile  
@@ -24,7 +24,7 @@ dateCreated: 2025-03-26T22:28:43.636Z
 ## The End of the Beginning
 During [Season 1](/Seasons) of the **first campaign**, Bazzert drew cards from the feared `Deck of Many Things`. This resulted in 3 cards: one good, one important, and one evil. The first card had a picture of the Throne, giving Bazzert an ancient keep in the Jade Forest (later used by [Bazvrah](/characters/Bazvrah) for [The Red Keep](/locations/Mardun/Red-Keep)). The second card had a picture of the Vizier, giving Bazzert 3 questions that must be answered about anything in the world. Questions raced through the party members' minds, but then came the third card: a picture of "The Void", leaving Bazzert paralyzed on the ground in front of the party. He remained that way for two and a half years until the party regrouped to go after [Darmuth](/characters/Darmuth) in [Season 2](/Seasons). This was the state in which important items remained on Bazzert during his long-term coma.
 
-# Remaining Artifacts - Character Sheet (2020)
+# Remaining Artifacts
 Listed below are the items, traits, and notable features remaining on the archived character sheet.
 
 ### The Immovable Rod
@@ -32,6 +32,11 @@ Many jokes and many opportunities arose with this single button press gimmick. F
 
 ### The Sleep Crown
 Once an unknown tool to the party, this item became a favorite for Bazzert as a way to take control of otherwise chaotic situations. When placed on the head of any creature, the creature would instantly fall asleep, allowing one to kidnap or kill quietly. Soon enough, other members of the party saw the usefulness of the crown and began using it for their own ends. *(Seen as the inspiration for [Bazvrah](/characters/Bazvrah), a maniacal assassin)*
+
+### Flying T-Rex
+A classic Druid spell `Conjure Woodland Beings` could be used to summon `Eight fey creatures of challenge rating 1/4 or lower`. In this fashion, we could summon 8 Pixies which in addition to their inate `Greater Invisibility` could also cast `Polymorph` and `Fly`. So since Polymorph has the rule, `The new form can be any beast whose challenge rating is equal to or less than the target's`, we can first use 4 pixies to transform our each character in our level 8 party into a T-Rex, then using the other 4 pixies cast Fly on each one of them. Bazzert discovered this dangerous combo and only was able to use it once against darmuths forces before succoming to his coma. This powerfull magic combo is where we discoved how powerfull magic can be. *(Seen as the inspiration for [Bazzalt](/characters/Bazzalt), a level 20 pure Druid)*
+
+# Remaining Notes
 
 ### The Druid Book
 > How to Kill Gods:
@@ -42,9 +47,7 @@ Once an unknown tool to the party, this item became a favorite for Bazzert as a 
 > *Seek help from others (no, not the therapeutic kind)*  
 > *There are several people that want to kill gods; you are not alone*  
 
-## Remaining Notes
-When planning the assassination of the Pirate King of Sargossa:
-
+### Assassination of the Pirate King of Sargossa:
 > Cast darkness on the Pirate King and convince him  
 > Naracus is a god or something using darkness  
 > and wild shape  
