@@ -2,7 +2,7 @@
 title: Federina
 description: A Cat who not one wanted
 published: true
-date: 2025-04-13T14:05:39.405Z
+date: 2025-04-13T14:05:55.018Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-07T20:08:03.887Z
@@ -16,6 +16,8 @@ The Cat who didn't last
 ![federina.jpg](/characters/other/federina.jpg)
 ### Federina v1
 ![federina_v1.jpg](/characters/other/federina_v1.jpg)
+
+## Backstory
 
 One of the original LBB adventurers.
 Killed Illiard for no reason.
