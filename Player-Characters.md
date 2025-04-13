@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-13T14:07:35.312Z
+date: 2025-04-13T14:07:41.568Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -39,7 +39,7 @@ A list of player characters from **Campaign 1**, including their races, classes,
 - Add Pope + Michelle + Steph + Kiwi
 
 # **Campaign 2**  
-A list of player characters from **Campaign 1**, including their races, classes, backgrounds, and notable traits.
+A list of player characters from **Campaign 2**, including their races, classes, backgrounds, and notable traits.
 
 ## Main Characters
 | Name                                               | Race       | Class             | Background        | Notable Traits                                      |    Image |
