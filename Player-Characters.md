@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-13T14:11:58.682Z
+date: 2025-04-13T14:18:11.674Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -32,8 +32,8 @@ A list of player characters from **Campaign 1**, including their races, classes,
 ## **Other Guest Stars**
 | Name                                               | Race       | Class             | Background        | Notable Traits                                     |    Image |
 |----------------------------------------------------|------------|-------------------|-------------------|-----------------------------------------------------|----------|
-| [Otto Hurtszog](/characters/Otto-Hurtszog) | Human | Warlock (Hexblade) | Ambitious, Ruthless |  | ![otto.png](/characters/other/otto.png =x100) |
-| [Federina](/characters/Federina) | Elf | Wizard (Chronurgy) | Precise, Arrogant | | ![federina.jpg](/characters/other/federina.jpg =x100)) |
+| [Otto Hurtszog](/characters/Otto-Hurtszog) | Wood Elf | Hunter Ranger 9 | Bounty Hunter | Trophy-collector, Refuses to harm the helpless, Feels socially out of place, Forged by hardship | ![otto.png](/characters/other/otto.png =x100) |
+| [Federina](/characters/Federina) | Undead (Elf origin) | Warlock (Great Old One) 9 | Wandering Angst | Telepathic, Necrotic-fueled, Arrogant, Precise, Haunted by grudges | ![federina.jpg](/characters/other/federina.jpg =x100) |
 | [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful |  | ![achilles.png](/characters/adalynn/achilles.png =x100) |
 
 - Add Pope + Michelle + Steph + Kiwi
