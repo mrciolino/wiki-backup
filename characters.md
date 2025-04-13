@@ -2,7 +2,7 @@
 title: Characters
 description: 
 published: true
-date: 2025-04-10T21:23:14.289Z
+date: 2025-04-13T14:36:18.933Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -13,9 +13,9 @@ List of non-player-characters from both campaigns and some information about the
 
 > Vist **[Player Characters](/Player-Characters)** to see a list of characters we have played over the years.
 
-## **Campaign 1**  
+# **Campaign 1**  
 
-### **Allies**  
+## **Allies**  
 | Name | Role | Description |  
 |------|------|-------------|  
 | [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing [Narascus](/characters/Narascus)’s corruption. |  
@@ -54,7 +54,7 @@ List of non-player-characters from both campaigns and some information about the
 | *[Gith Anarch Kathor](/characters/gith-anarch-kathor)* | Gith Leader | Representing the Gith Serai, and many Gith Yankii Survivors |
 
 
-### **Villains**  
+## **Villains**  
 | Name | Role | Notable Actions |  
 |------|------|----------------|  
 | [Darmuth](/characters/Darmuth) | Harbinger of The Emperor | Darmuth paved the way for the [Emperor](/characters/Emperor)'s arrival. |  
@@ -65,9 +65,9 @@ List of non-player-characters from both campaigns and some information about the
 
 ---
 
-## **Campaign 2**  
+# **Campaign 2**  
 
-### **Allies**  
+## **Allies**  
 
 | Name | Race | Class | Background | Notable Traits |  
 |------|------|-------|------------|----------------|  
@@ -86,13 +86,13 @@ List of non-player-characters from both campaigns and some information about the
 | [Treebert](/characters/treebert) | Wood Golem | Assistant | Helper at RVASSS | Tiny, helpful, brings breakfast. |  
 | [Randy the Mimic](/characters/randy-the-mimic) | Mimic | Shapeshifter | Former Dorm Chest | Friendly, deceptive, transforms into a winged creature. |  
 
-### **Antagonists**  
+## **Antagonists**  
 
 | Name | Race | Class | Background | Notable Traits |  
 |------|------|-------|------------|----------------|  
 | [Gilbert](/characters/gilbert) | Human | Cult Leader | Former Student at RVASSS | Manipulative, dangerous, tied to blood magic. Killed by [Professor Osdimir](/characters/professor-osdimir-lataniel-dera-vrentica). |  
 
-## **Characters From Other Times**
+# **Characters From Other Times**
 
 | Name | Race | Class | Background | Notable Traits |  
 |------|------|-------|------------|----------------|
