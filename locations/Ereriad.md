@@ -2,7 +2,7 @@
 title: Ereriad
 description: The second world visited by the Low Bar Brawlers
 published: true
-date: 2025-04-07T02:35:57.980Z
+date: 2025-04-14T22:41:45.855Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T21:48:23.642Z
@@ -18,18 +18,16 @@ The party first arrived here through [Spoop](/characters/spoops)'s [Well-Of-Many
 ## List of Cities and Towns
 
 - [Hellaress](/locations/Ereriad/Hellaress)
-
 - [Porthy](/locations/Ereriad/Porthy): The City of Spells  
   - The Magic College of Porthy
-
 - [The Fortress of Aphyr The Mighty](/locations/Ereriad/The-Fortress-of-Aphyr-The-Mighty)
-
 - [The Tower of Glaculs the Necromancer](/locations/Ereriad/The-Tower-of-Glaculs-the-Necromancer)
-
 - The Bastion of Shiva the Destroyer
-
-- The Dwarven City of Highhold  
+- The Dwarven City of [Highhold](/locations/Ereriad/Highhold)
   - The Magic College of Highhold
-
 - The Sea of Ghosts  
   - Location of the rise of Mortis Lux Flying City
+
+# Map 
+
+<img src="/maps/ereriad.png" class="img-fluid" alt="Mardun Map">
