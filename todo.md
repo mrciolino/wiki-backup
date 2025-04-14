@@ -2,7 +2,7 @@
 title: TODO
 description: Pages and sections that need real work
 published: true
-date: 2025-04-09T01:15:06.116Z
+date: 2025-04-14T22:55:13.363Z
 tags: todo
 editor: markdown
 dateCreated: 2024-06-15T03:59:40.719Z
@@ -22,7 +22,6 @@ Pages where one's knowledge is better suited for filling in information.
 > ❌ **[Tony Mozzarella](/characters/Tony-Mozzarella)**  
 > ❌ **[Illiard](/characters/illiard)**  
 > ❌ **[Darmuth](/en/characters/Darmuth)**  
-> ❌ *List of characters not written down (but are at least somewhat important)*  
 > 
 > ## 💨 Breezy
 > ❌ **[Breezy-E](/characters/breezy)**
@@ -34,7 +33,7 @@ Pages where one's knowledge is better suited for filling in information.
 > ✅ **[Elira](/characters/elira)** – *Lore Talk for Elira Backstory*  
 > 
 > ## 🤖 Matt  
-> ❌ **[Mechatarasque](/en/characters/mechatarasque)**  
+> ✅ **[Mechatarasque](/en/characters/mechatarasque)**  
 > ❌ **Veymar the Hollow** – *(Needs link)*  
 > ❌ **[Gond](/en/characters/Gond)**  
 {.is-info}
