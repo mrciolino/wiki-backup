@@ -2,7 +2,7 @@
 title: Mechatarasque
 description: The pong to the ping of the laser
 published: true
-date: 2025-04-09T18:47:46.425Z
+date: 2025-04-14T22:55:10.028Z
 tags: todo
 editor: markdown
 dateCreated: 2025-03-31T22:15:33.792Z
@@ -15,22 +15,22 @@ A titanic construct of steel, flame, and radiant energy, the Mechatarasque is on
 ![Mechatarasque](/characters/bazzert/mecha.webp)
 
 ## Meeting Mechatarasque  
-In the caves **{TODO LOCATION}**, the Bazzdos encountered two warring monstrosities—a Bone Monstrosity and a Mechatarasque. In a battle reminiscent of *Godzilla vs. Kong*, seismic blows rained down, collapsing stalactites and shaking the cavern floor. After a brutal exchange, the Mechatarasque subdued its foe, leaving the Bone Monstrosity unconscious. As the dust settled, the metal titan turned to see four stunned adventurers observing its victory.
+In the caves near [Highhold](/locations/Ereriad/Highhold), the Bazzdos encountered two warring monstrosities—a Bone Monstrosity and a Mechatarasque. In a battle reminiscent of *Godzilla vs. Kong*, seismic blows rained down, collapsing stalactites and shaking the cavern floor. After a brutal exchange, the Mechatarasque subdued its foe, leaving the Bone Monstrosity unconscious. As the dust settled, the metal titan turned to see four stunned adventurers observing its victory.
 
 
 
 ## Joining the Party  
-Fascinated by this rare metallic construct—one of only a handful known to exist (including himself and the Golden Knight)—Bazzdos saw an opportunity. He scoured the Mechatarasque's surface in search of a control interface, eventually using **{TODO HOW TAKE OVER}** to establish a connection. Over the next few days, Bazzdos decoded the ancient programming and uploaded new protocols using Roboscript/Bazzscript, taming the colossal machine into a devastating ally.
+Fascinated by this rare metallic construct—one of only a handful known to exist (including himself and the Golden Knight)—Bazzdos saw an opportunity. He scoured the Mechatarasque's surface in search of a control interface, eventually with an *Arcana Crit of amost 50*, Bazz established a 🔌 into the creature,  establishing a connection. Over the next few days, Bazzdos decoded the ancient programming and uploaded new protocols using Roboscript/Bazzscript, taming the colossal machine into a devastating ally.
 
 
 ## Notable Fights  
 
-- **Equipping the Laser from Time Chamber 3**  
+ - **Shot from the Sky During the Illithid Invasion of Krorg’s Hometown**
+	- The moment comes, the big bad army is attacking your home world! Quick, get your best defenses which you spent years upgrading for this big fight. 💥 BOOM 💥, seeminly out of a portal in the sky, the ithilids ship fire 20 lasers at this Mechatarasque, taking it out in round 1 of combat. Bazzdos immediately rushes back to the [Mortis Lux Flying City] with the Mechatarasque to begins repairs before the launch to the Emperor Fight. 
 - **Laser Ping Pong with Zeus and the Emperor**  
   > **Reflective Carapace**  
   > When targeted by magic missile, line spells, or ranged spell attacks, roll a d6. On 1–5, the Mechatarasque is unaffected; on a 6, the effect reflects back at the caster as if cast by the Mechatarasque.
 
-- **Shot from the Sky During the Illithid Invasion of Krorg’s Hometown**
 
 
 
