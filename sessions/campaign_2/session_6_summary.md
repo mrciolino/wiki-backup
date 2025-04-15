@@ -2,7 +2,7 @@
 title: session_6_summary
 description: 
 published: true
-date: 2025-04-15T11:14:57.714Z
+date: 2025-04-15T11:19:44.566Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-15T02:19:55.225Z
@@ -44,20 +44,49 @@ The party bonded over breakfast, sharing backstories and pledging mutual support
 
 
 
+---
+
 ### **Session Timeline**  
-1. **Festivities & Rat-Killing (1/2 session)**: Goopy/Tiberian’s drunken antics; Breezy’s failed goblin experiment.  
-2. **Thomas’s Father (1/4 session)**: Emotional reveal about his guard legacy.  
-3. **First Classes (1/4 session)**: Baloo’s metal choir, Breezy’s law class outrage, Goopy’s chaotic entrance.  
+1. **Post-Ceremony Celebrations** (1/4 session)  
+   - Party mingled; Baloo interviewed Professor Alrescia Rose.  
+   - Breezy’s book goblin died in the cathedral, exposing systemic bigotry.  
 
+2. **Rat-Killing Shenanigans** (1/4 session)  
+   - Goopy and Tiberian looted wine/jerky, killed rats, and passed out drunk.  
 
+3. **Thomas’s Dad Drama** (1/8 session)  
+   - Emotional reveal about Thomas’s guard legacy and latent doubts about authority.  
+
+4. **First Day of Classes** (1/2 session)  
+   - Goopy’s chaotic classroom entry.  
+   - Baloo’s metal choir debut.  
+   - Breezy’s rebellion against oppressive laws.  
+
+---
 
 ### **Character Progress Breakdown**  
-- **Tiberian**: Confirmed alcoholism, bonded with Goopy over rat-killing.  
-- **Goopy**: Hinted at future knowledge, embraced chaos (rat cloak, donkey cart).  
-- **Breezy**: Radicalized against the kingdom’s laws; plans to reform the system.  
-- **Baloo**: Committed to “hug bear” image; joined a metal choir.  
-- **Thomas**: Questioned his father’s ideals; began literacy progress.  
-- **Oran**: Explored criminal networks in class, aligning with his brother’s rescue mission.  
+#### **Tiberian (Logan)**  
+- **Progress**: Embraced hedonism (drunken rat-killing).  
+- **Key Action**: Passed out mid-quest; dragged into class by Goopy.  
+- **Relationships**: Bonded with Goopy over chaos.  
+
+#### **Goopy (Nick)**  
+- **Progress**: Earned a reputation as a reckless problem-solver.  
+- **Key Action**: Convinced a dwarf stablemaster to lend a donkey via absurd rat-cloak theatrics.  
+
+#### **Breezy (Breezy)**  
+- **Progress**: Radicalized against the academy’s discriminatory laws.  
+- **Key Action**: Vowed to arm book goblins after one died horribly.  
+
+#### **Thomas (Peter)**  
+- **Progress**: Questioned his father’s dogma; hinted at future reformist leanings.  
+- **Emotional Arc**: Disappointed by his father’s absence but inspired to surpass him.  
+
+#### **Baloo (Josh)**  
+- **Progress**: Embraced his musical calling (and latent thug-bear tendencies).  
+- **Key Action**: Shredded a werewolf-skull guitar in Blackhammer’s class.  
+
+---
 
 
 
