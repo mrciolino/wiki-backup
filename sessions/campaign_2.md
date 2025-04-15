@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-04-15T02:19:31.328Z
+date: 2025-04-15T02:27:34.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
@@ -18,5 +18,5 @@ dateCreated: 2025-04-12T13:24:16.371Z
 | Session 3 | [Session 3 Summary](/sessions/campaign_2/session_3_summary) | The party explores the academy and uncovers more about the cult. | Tiberian explores the wizard tower, uncovering Gilbert’s writings linked to demon summoning. Goopy undergoes a traumatic divination with Professor Rose, revealing visions of a future explosion. |  
 | Session 4 | [Session 4 Summary](/sessions/campaign_2/session_4_summary) | The party deals with the aftermath of Randy the Mimic’s transformation. | Randy transforms into a winged creature and abducts Professor Chester. The headmaster intervenes, capturing the creature and offering the party a new dormitory. |  
 | Session 5 | [Session 5 Summary](/sessions/campaign_2/session_5_summary) | The party attends the Sorting Ceremony and bonds over shared goals. | The party is sorted into their respective schools and signs. Tiberian reveals his vendetta against Clan Norexias, and Orin shares his debt to Vamir. Goopy hints at being from the future. |  
-| Session 6 | [Session 6 Summary](/sessions/campaign_2/session_6_summary) | |  |  
+| Session 6 | [Session 6 Summary](/sessions/campaign_2/session_6_summary) | The party experiences their first day of classes and pursues individual adventures throughout the academy. | Goopy and Tiberian complete a rat-killing quest while drunk; a book goblin combusts in the cathedral revealing discrimination; Thomas visits his guard father; Baloo joins a heavy metal choir; and Breezy confronts unjust academy laws. |  
 
