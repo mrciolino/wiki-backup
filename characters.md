@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-16T12:51:42.243Z
+date: 2025-04-16T13:07:42.995Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -15,43 +15,53 @@ List of non-player-characters from both campaigns and some information about the
 
 # **Campaign 1**  
 
-## **Allies**  
-| Name | Role | Description |  
-|------|------|-------------|  
-| [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing [Narascus](/characters/Narascus)’s corruption. |  
-| [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Body doubled as the Witch King to the party at [Ereriad](/locations/Ereriad), later a morally ambiguous ally. Destroyed an owlbear planet for souls with [Spoops](/characters/spoops). |  
-| *[Knott Emportent (Create Page)](/characters/knott-emportent)* | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds). |  
-| [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in [Ereriad](/locations/Ereriad). |  
-| [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in [Fywick](/locations/Mardun/Fywick)'s [Bartenders Guild](/organizations/bartenders_guild). |  
-| *[Bomb the Bear](/characters/Bomb-the-Bear)* | Animal Companion | Killed by [Rathwing](/characters/Rathwing)’s cult in Season 1. Later envisioned in the astral plan as Bomb Coin's life blood. |  
-| [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in [Allford](/locations/Mardun/Allford) before its destruction. Guided the party to its power climb into defeatin the Ithilids |  
-| *[Josh the Drake](/characters/josh-the-drake)* | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |  
-| *[Doom Slayer](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
-| *[Mechatarasque](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by the Pythagoreans. Profiled and commandeered by [Bazzdos](/characters/bazzdos). |  
-| *[Inferno](/characters/inferno)* | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
-| *[Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight)* | Golden Warforged who joined Mortis Lux | - | 
-| *[Gnomio the Weaponsmith](/characters/gnomio-the-weaponsmith)* | Weaponsmith | - |  
-| *[Baxter the Potion Master](/characters/baxter-the-potion-master)* | Potion Master | - |  
-| *[Archmage Snorri](/characters/archmage-snorri)* | Professor | - |  
-| *[GoldBrow](/characters/goldbrow)* | Magic College of Highhold Professor | - |  
-| *[Ironblood](/characters/ironblood)* | Magic College of Highhold Professor | - |  
-| *[Raachix](/characters/raachix)* | Magic College of Highhold Professor | - |  
-| *[Alfia](/characters/alfia)* | Magic College of Highhold Professor | - |  
-| *[Lokunai](/characters/lokunai)* | Magic College of Highhold Professor | - |  
-| *[Josh the Drake](/characters/josh-the-drake)* | Drake | - |  
-| *[Freedom](/characters/freedom)* | Overpowered Warfroged we met near level 1. | - |  
-| *[Os' Wife](/characters/os-wife)* | Some Girl | - |  
-| *[Vesrahaan](/characters/vesrahaan)* | Unknown | - |  
-| *[Aphyr the Mighty](/characters/aphyr-the-mighty)* | Floating Elephant God who gave us boons | - |  
-| *[Maria Luigi](/characters/maria-luigi)* | Winner of Pirate King Competetion, Eleri's Wife | - |  
-| *[Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco)* | Unknown | - |
-| *[Fiad](/characters/fiad)* | Some Ice Cold Wizard in the North | - |
-| *[Bugbear Captain](/characters/bugbear-captain)* | Pirate Representative | Representing the Pirates of Saragassa |  
-| *[Kirkegaard](/characters/kirkegaard)* | Commander | Representing the Unified Forces of Ry-ann |  
-| *[King Lancel Highhold](/characters/king-lancel-highhold)* | King | Representing the Dwarven City of Highhold and Magic College of Highhold |  
-| *[Archmage Antonides](/characters/archmage-antonides)* | Archmage | Representing the Magic College of Porthy |  
-| *[Gith Anarch Kathor](/characters/gith-anarch-kathor)* | Gith Leader | Representing the Gith Serai, and many Gith Yankii Survivors |
+## Party Companions
+| Name | Role | Description |
+|------|------|-------------|
+| [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Body doubled as the Witch King to the party at [Ereriad](/locations/Ereriad), later a morally ambiguous ally. Destroyed an owlbear planet for souls with [Spoops](/characters/spoops). |
+| [Inferno](/characters/inferno) | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
+| [Os' Wife](/characters/os-wife) | Some Girl | - |
+| [Maria Luigi](/characters/maria-luigi) | Winner of Pirate King Competetion | Eleri's Wife |
+| [Bomb the Bear](/characters/Bomb-the-Bear) | Animal Companion | Killed by [Rathwing](/characters/Rathwing)'s cult in Season 1. Later envisioned in the astral plan as Bomb Coin's life blood. |
+| [Josh the Drake](/characters/josh-the-drake) | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |
+| [Mechatarasque](/characters/mechatarasque) | Construct Guardian | A mechanized monstrosity, perhaps created by the Pythagoreans. Profiled and commandeered by [Bazzdos](/characters/bazzdos). |
+| [Doom Slayer](/characters/doom-slayer) | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |
+| [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of Porthy. Fought alongside the party before perishing in [Ereriad](/locations/Ereriad). |
+| [Freedom](/characters/freedom) | Warforged | Overpowered Warfroged we met near level 1. |
+| [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
+| [Aphyr the Mighty](/characters/aphyr-the-mighty) | Deity | Floating Elephant God who gave us boons |
 
+## Academic Personnel
+| Name | Role | Description |
+|------|------|-------------|
+| [Archmage Snorri](/characters/archmage-snorri) | Professor | - |
+| [Archmage Antonides](/characters/archmage-antonides) | Archmage | Representing the Magic College of Porthy |
+| [GoldBrow](/characters/goldbrow) | Professor | Magic College of Highhold Professor |
+| [Ironblood](/characters/ironblood) | Professor | Magic College of Highhold Professor |
+| [Raachix](/characters/raachix) | Professor | Magic College of Highhold Professor |
+| [Alfia](/characters/alfia) | Professor | Magic College of Highhold Professor |
+| [Lokunai](/characters/lokunai) | Professor | Magic College of Highhold Professor |
+| [King Lancel Highhold](/characters/king-lancel-highhold) | King | Representing the Dwarven City of Highhold and Magic College of Highhold |
+| [Knott Emportent](/characters/knott-emportent) | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds). |
+| [Fiad](/characters/fiad) | Wizard | Some Ice Cold Wizard in the North |
+
+## Political & Military Leaders
+| Name | Role | Description |
+|------|------|-------------|
+| [Gith Anarch Kathor](/characters/gith-anarch-kathor) | Gith Leader | Representing the Gith Serai, and many Gith Yankii Survivors |
+| [Kirkegaard](/characters/kirkegaard) | Commander | Representing the Unified Forces of Ry-ann |
+| [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in [Allford](/locations/Mardun/Allford) before its destruction. Guided the party to its power climb into defeatin the Ithilids |
+| [Bugbear Captain](/characters/bugbear-captain) | Pirate Representative | Representing the Pirates of Saragassa |
+| [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing [Narascus](/characters/Narascus)'s corruption. |
+
+## Merchants & Other Associates
+| Name | Role | Description |
+|------|------|-------------|
+| [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in [Fywick](/locations/Mardun/Fywick)'s [Bartenders Guild](/organizations/bartenders_guild). |
+| [Gnomio the Weaponsmith](/characters/gnomio-the-weaponsmith) | Weaponsmith | - |
+| [Baxter the Potion Master](/characters/baxter-the-potion-master) | Potion Master | - |
+| [Vesrahaan](/characters/vesrahaan) | Unknown | - |
+| [Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco) | Unknown | - |
 
 ## **Villains**  
 | Name | Role | Notable Actions |  
