@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-16T18:48:40.673Z
+date: 2025-04-16T18:49:19.191Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -35,8 +35,8 @@ A list of player characters from **Campaign 1**, including their races, classes,
 | [Otto Hurtszog](/characters/Otto-Hurtszog) | Wood Elf | Hunter Ranger 9 | Bounty Hunter | Trophy-collector, Refuses to harm the helpless, Feels socially out of place, Forged by hardship | ![otto.png](/characters/other/otto.png =x100) |
 | [Federina](/characters/Federina) | Undead (Elf origin) | Warlock (Great Old One) 9 | Wandering Angst | Telepathic, Necrotic-fueled, Arrogant, Precise, Haunted by grudges | ![federina.jpg](/characters/other/federina.jpg =x100) |
 | [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful |  | ![achilles.png](/characters/adalynn/achilles.png =x100) |
-| Seiriphi | |  |  |  |
-| Kiwi | |  |  |  |
+| Seiriphi | |  |  |  | |
+| Kiwi     | |  |  |  | | 
 
 
 # **Campaign 2**  
