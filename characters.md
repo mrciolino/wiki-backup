@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-16T13:07:42.995Z
+date: 2025-04-16T18:50:25.522Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -30,6 +30,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Freedom](/characters/freedom) | Warforged | Overpowered Warfroged we met near level 1. |
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
 | [Aphyr the Mighty](/characters/aphyr-the-mighty) | Deity | Floating Elephant God who gave us boons |
+| [Lokunai](/characters/lokunai) | Professor | Demon with a Fetish |
 
 ## Academic Personnel
 | Name | Role | Description |
@@ -40,7 +41,6 @@ List of non-player-characters from both campaigns and some information about the
 | [Ironblood](/characters/ironblood) | Professor | Magic College of Highhold Professor |
 | [Raachix](/characters/raachix) | Professor | Magic College of Highhold Professor |
 | [Alfia](/characters/alfia) | Professor | Magic College of Highhold Professor |
-| [Lokunai](/characters/lokunai) | Professor | Magic College of Highhold Professor |
 | [King Lancel Highhold](/characters/king-lancel-highhold) | King | Representing the Dwarven City of Highhold and Magic College of Highhold |
 | [Knott Emportent](/characters/knott-emportent) | Arcane Scholar | A scholar specializing in planar lore, possibly linked to the [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds). |
 | [Fiad](/characters/fiad) | Wizard | Some Ice Cold Wizard in the North |
