@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-16T18:50:25.522Z
+date: 2025-04-16T18:50:36.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -30,7 +30,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Freedom](/characters/freedom) | Warforged | Overpowered Warfroged we met near level 1. |
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
 | [Aphyr the Mighty](/characters/aphyr-the-mighty) | Deity | Floating Elephant God who gave us boons |
-| [Lokunai](/characters/lokunai) | Professor | Demon with a Fetish |
+| [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
 
 ## Academic Personnel
 | Name | Role | Description |
