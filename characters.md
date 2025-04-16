@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-16T18:50:36.907Z
+date: 2025-04-16T18:51:19.094Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -73,8 +73,6 @@ List of non-player-characters from both campaigns and some information about the
 | [Emperor](/characters/Emperor) | The final boss | Sought the destruction of the Anchor Worlds which keep Cronos sealed in Carceri. |  
 
 # **Campaign 2**  
-
-Here’s the split with a new **Professors** header separated from **Allies**:
 
 ## **Allies**  
 
