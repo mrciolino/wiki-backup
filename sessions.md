@@ -2,7 +2,7 @@
 title: sessions
 description: Recap of Sessions
 published: true
-date: 2025-04-16T20:22:58.436Z
+date: 2025-04-16T20:23:51.129Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -15,13 +15,13 @@ dateCreated: 2024-06-02T14:16:34.992Z
 {.is-info}
 
 
-### **Timeline & Scope**  
+## **Timeline & Scope**  
 - **Era:** The first great saga of the multiverse. **(4 BC to 0 AD)**.
 - **Starting Region:** The small town of **[Fort Suro](/locations/Mardun/Fort-Suro)**.
 - **Scale:** From tavern brawls to **godly pacts**, **empire-smashing**, and **illithid apocalypses**.  
 - **Themes:** **Betrayal**, **ascension**, and the **price of power**.  
 
-### **Seasons at a Glance**  
+## **Seasons at a Glance**  
 1. **🌪️ [Season 1: The Rathwing Saga](/Seasons/campaign_1/Season_1)**  
    *"They met in a tavern—and ended up fleeing a burning city."*  
    **Cults. Pirates. Betrayal.** The spark that lit the fire.  
@@ -45,13 +45,13 @@ dateCreated: 2024-06-02T14:16:34.992Z
 > For a detailed look at the campaign session recaps, visit **👉[Campaign 2 Sessions](/sessions/campaign_2)👈**
 {.is-info}
 
-### **Timeline & Setting**  
+## **Timeline & Setting**  
 - **Era:** A rebuilt world, still scarred by the **Necrotic Wars**. **(1000 AD - TBD)**
 - **Starting Region:** The Kingdom of Vrintica
 - **Hub of Power:** The **[Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS)](/organizations/rvasss)**, under the iron gaze of **Godking Os’ theocracy**.  
 - **Themes:** **Forbidden knowledge**, **rising cults**, and the price of **divine rule**.  
 
-### **Seasons at a Glance**  
+## **Seasons at a Glance**  
 
 1. **🌑 [Season 1: The Academy’s Dark Welcome](/Seasons/campaign_2/Season_1)** 
   *"They came to learn magic—but the academy is teaching them survival."*  
