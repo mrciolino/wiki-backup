@@ -2,7 +2,7 @@
 title: sessions
 description: Recap of Sessions
 published: true
-date: 2025-04-16T20:17:09.850Z
+date: 2025-04-16T20:20:49.277Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -49,19 +49,11 @@ dateCreated: 2024-06-02T14:16:34.992Z
 - **Hub of Power:** The **[Royal Vrintia Academy of Swords, Song, and Sorcery (RVASSS)](/organizations/rvasss)**, under the iron gaze of **Godking Os’ theocracy**.  
 - **Themes:** **Forbidden knowledge**, **rising cults**, and the price of **divine rule**.  
 
-### **Key Events**  
-- **A tavern brawl** with **shadow demons** and false murder accusations (*Session 1*).  
-- **Cryptic prophecies** and **winged mimic abductions** at RVASSS (*Sessions 2–4*).  
-- **The Sorting Ceremony** at the **Cathedral of Os**, where secrets and vendettas surface (*Session 5*).  
+### **Seasons at a Glance**  
 
-### **🌑 Season 1: The Academy’s Dark Welcome**  
-*"They came to learn magic—but the academy is teaching them survival."*  
-- **Cults in the walls.** **Explosions in the future.** **A mimic with wings.**  
-- The party uncovers **Gilbert’s demonic writings** and **Goopy’s time-twisted past**.  
-- **[Full Season 1 Summary](/Seasons/campaign_2/Season_1)**  
+1. **🌑 [Season 1: The Academy’s Dark Welcome](/Seasons/campaign_2/Season_1)** 
+  *"They came to learn magic—but the academy is teaching them survival."*  
+	 **Shadow demons. Vanishing students. A divine sorting gone wrong.**
 
-### **Legacy**  
-The **Red Archon’s whispers** grow louder. The academy’s **golden walls are cracking**. And the party?  
-**They’re not just students anymore.**  
 
 
