@@ -2,7 +2,7 @@
 title: sessions
 description: Recap of Sessions
 published: true
-date: 2025-04-12T23:11:51.617Z
+date: 2025-04-16T20:16:39.879Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -19,12 +19,6 @@ dateCreated: 2024-06-02T14:16:34.992Z
 - **Era:** The first great saga of the multiverse. **(4 BC to 0 AD)**.
 - **Scale:** From tavern brawls to **godly pacts**, **empire-smashing**, and **illithid apocalypses**.  
 - **Themes:** **Betrayal**, **ascension**, and the **price of power**.  
-
-### **Key Events**  
-- The rise and fall of **Rathwing’s cult** (Season 1).  
-- The **illithid lich Darmuth’s** reign and the discovery of the **Well of Many Worlds** (Season 2).  
-- **Bane’s rise** as the Witch King, the **fall of kingdoms**, and interdimensional war (Season 3).  
-- The **Githyanki civil war**, divine intervention, and the **final battle against the Illithid Emperor** (Season 4).  
 
 ### **Seasons at a Glance**  
 1. **🌪️ [Season 1: The Rathwing Saga](/Seasons/campaign_1/Season_1)**  
