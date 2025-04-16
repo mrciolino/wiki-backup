@@ -2,7 +2,7 @@
 title: Adventures
 description: A list of One-Shots, Few-Shots, or Campaigns set in the Mardun Universe
 published: true
-date: 2025-04-16T13:16:17.856Z
+date: 2025-04-16T13:16:48.333Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T23:01:07.987Z
@@ -11,13 +11,13 @@ dateCreated: 2025-03-27T23:01:07.987Z
 # Adventures
 Mardun has seen a lot of activity over the years, from 5-year campaigns to 4-hour sessions. However long they last, all stories must be told. Below is a list of adventures set in the Mardun Universe.
 
-## Campaigns
+# Campaigns
 
 | Adventure Name | Link | Description | Date | Timeline |
 |----------------|------|-------------|------------|--------------------|
 | **Burd Campaign** | [🔗](/Adventures/Burd_Campaign) | TBD | TBD | TBD |
 
-## Few-Shots
+# Few-Shots
 
 | Adventure Name | Link | Description | Date | Timeline |
 |----------------|------|-------------|------------|--------------------|
@@ -26,7 +26,7 @@ Mardun has seen a lot of activity over the years, from 5-year campaigns to 4-hou
 | **Malicious Compliant Skeletons** | [🔗](/Adventures/Compliant_Skeletons) | The skeletons used the orphanage as building materials (Spoops was a bard). | TBD | TBD |
 | **Pirate Multi-Shot** | [🔗](/Adventures/Pirate_Multi_Shot) | Description | TBD | TBD |
 
-## One-Shots
+# One-Shots
 
 | Adventure Name | Link | Description | Date | Timeline |
 |----------------|------|-------------|------------|--------------------|
