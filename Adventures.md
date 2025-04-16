@@ -2,7 +2,7 @@
 title: Adventures
 description: A list of One-Shots, Few-Shots, or Campaigns set in the Mardun Universe
 published: true
-date: 2025-04-16T13:12:20.887Z
+date: 2025-04-16T13:12:30.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T23:01:07.987Z
@@ -11,7 +11,7 @@ dateCreated: 2025-03-27T23:01:07.987Z
 # Adventures
 Mardun has seen a lot of activity over the years, from 5-year campaigns to 4-hour sessions. However long they last, all stories must be told. Below is a list of adventures set in the Mardun Universe.
 
-| Adventure Name | Link | Description | Date (IRL) | Timeline (In-Game) |
+| Adventure Name | Link | Description | Date | Timeline |
 |----------------|------|-------------|------------|--------------------|
 | **Profit of Prophet** | [🔗](/Adventures/Prophet-of-Profit) | Few-shot where ... | TBD | TBD |
 | **Pirate Multi-Shot** | [🔗](/Adventures/Pirate_Multi_Shot) | Description | TBD | TBD |
