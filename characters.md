@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-13T14:36:48.535Z
+date: 2025-04-16T12:51:42.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -25,11 +25,11 @@ List of non-player-characters from both campaigns and some information about the
 | [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in [Fywick](/locations/Mardun/Fywick)'s [Bartenders Guild](/organizations/bartenders_guild). |  
 | *[Bomb the Bear](/characters/Bomb-the-Bear)* | Animal Companion | Killed by [Rathwing](/characters/Rathwing)’s cult in Season 1. Later envisioned in the astral plan as Bomb Coin's life blood. |  
 | [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in [Allford](/locations/Mardun/Allford) before its destruction. Guided the party to its power climb into defeatin the Ithilids |  
-| *[Josh the Drake (Create Page)](/characters/josh-the-drake)* | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |  
-| *[Doom Slayer (Create Page)](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
+| *[Josh the Drake](/characters/josh-the-drake)* | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |  
+| *[Doom Slayer](/characters/doom-slayer)* | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |  
 | *[Mechatarasque](/characters/mechatarasque)* | Construct Guardian | A mechanized monstrosity, perhaps created by the Pythagoreans. Profiled and commandeered by [Bazzdos](/characters/bazzdos). |  
 | *[Inferno](/characters/inferno)* | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
-| *[Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight)* | Unknown | - |  
+| *[Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight)* | Golden Warforged who joined Mortis Lux | - | 
 | *[Gnomio the Weaponsmith](/characters/gnomio-the-weaponsmith)* | Weaponsmith | - |  
 | *[Baxter the Potion Master](/characters/baxter-the-potion-master)* | Potion Master | - |  
 | *[Archmage Snorri](/characters/archmage-snorri)* | Professor | - |  
@@ -39,14 +39,13 @@ List of non-player-characters from both campaigns and some information about the
 | *[Alfia](/characters/alfia)* | Magic College of Highhold Professor | - |  
 | *[Lokunai](/characters/lokunai)* | Magic College of Highhold Professor | - |  
 | *[Josh the Drake](/characters/josh-the-drake)* | Drake | - |  
-| *[Freedom](/characters/freedom)* | Unknown | - |  
-| *[Os' Wife](/characters/os-wife)* | Unknown | - |  
+| *[Freedom](/characters/freedom)* | Overpowered Warfroged we met near level 1. | - |  
+| *[Os' Wife](/characters/os-wife)* | Some Girl | - |  
 | *[Vesrahaan](/characters/vesrahaan)* | Unknown | - |  
-| *[Aphyr the Mighty](/characters/aphyr-the-mighty)* | Unknown | - |  
-| *[Maria Luigi](/characters/maria-luigi)* | Unknown | - |  
-| *[Mecha Terrasque](/characters/mecha-terrasque)* | Unknown | - |  
+| *[Aphyr the Mighty](/characters/aphyr-the-mighty)* | Floating Elephant God who gave us boons | - |  
+| *[Maria Luigi](/characters/maria-luigi)* | Winner of Pirate King Competetion, Eleri's Wife | - |  
 | *[Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco)* | Unknown | - |
-| *[Fiad](/characters/fiad)* | Unknown | - |
+| *[Fiad](/characters/fiad)* | Some Ice Cold Wizard in the North | - |
 | *[Bugbear Captain](/characters/bugbear-captain)* | Pirate Representative | Representing the Pirates of Saragassa |  
 | *[Kirkegaard](/characters/kirkegaard)* | Commander | Representing the Unified Forces of Ry-ann |  
 | *[King Lancel Highhold](/characters/king-lancel-highhold)* | King | Representing the Dwarven City of Highhold and Magic College of Highhold |  
@@ -57,17 +56,27 @@ List of non-player-characters from both campaigns and some information about the
 ## **Villains**  
 | Name | Role | Notable Actions |  
 |------|------|----------------|  
-| [Darmuth](/characters/Darmuth) | Harbinger of The Emperor | Darmuth paved the way for the [Emperor](/characters/Emperor)'s arrival. |  
+| [Darmuth](/characters/Darmuth) | Harbinger of The Emperor | Darmuth paved the way for the [Emperor](/characters/Emperor)'s arrival. | 
 | [Rathwing](/characters/Rathwing) | Demon Servant of Darmuth | He and his Cult terrorized the city of Demsford and [Altricia/Allford](/locations/Mardun/Allford). |  
 | [Dave Bones](/characters/Dave-Bones) | An immortal being of spite. | Preserved in the memories of those he victimizes, he always seems to find a way back. |  
 | [Zeus](/characters/zeus) | God of Thunder and leader of Olympus. | Sought revenge on [Spoops](/characters/spoops) for the destabilization of Bomb Coin. |  
 | [Emperor](/characters/Emperor) | The final boss | Sought the destruction of the Anchor Worlds which keep Cronos sealed in Carceri. |  
 
----
-
 # **Campaign 2**  
 
+Here’s the split with a new **Professors** header separated from **Allies**:
+
 ## **Allies**  
+
+| Name | Race | Class | Background | Notable Traits |  
+|------|------|-------|------------|----------------|  
+| [Master Tanumar Soulfire](/characters/master-tanu) | Half-Orc | Master of the Academy | Academy Leader | Commanding, wise, protective of the academy. |  
+| [Clara the Cleric](/characters/clara-the-cleric) | Half-Dwarf | Cleric | Healer | Kind, empathetic, loyal to the [Church of Mordredon](/organizations/church-of-mordredon). |  
+| [Sergeant Lemrick](/characters/sergeant-lemrick) | Human | City Guard | Thomas’s Former Boss | Stern, duty-bound, politically savvy. | 
+| [Treebert](/characters/treebert) | Wood Golem | Assistant | Helper at RVASSS | Tiny, helpful, brings breakfast. |  
+
+
+## **Professors**  
 
 | Name | Race | Class | Background | Notable Traits |  
 |------|------|-------|------------|----------------|  
@@ -79,18 +88,15 @@ List of non-player-characters from both campaigns and some information about the
 | [Professor Golda](/characters/professor-golda) | Dwarf | Associate of Professor Rose | Divination Assistant | Supportive, loyal, knowledgeable. |  
 | [Professor Mekanor](/characters/professor-mekanor) | Unknown | Master of Blades | Fled from the Red Archon | Mysterious, skilled, haunted by his past. |  
 | [Professor Daryl](/characters/professor-daryl-isosaria-torsine-rintegra) | Human | Rowdy Professor | Royal Blood | Hard-drinking, rowdy, unpredictable. |  
-| [Master Tanumar Soulfire](/characters/master-tanu) | Half-Orc | Master of the Academy | Academy Leader | Commanding, wise, protective of the academy. |  
 | [Professor Bovog Wormbrew](/characters/professor-bovog-wormbrew) | Dwarf | Artificer Professor | Artificer Expert | Gruff, skilled, shocking (literally). |  
-| [Clara the Cleric](/characters/clara-the-cleric) | Half-Dwarf | Cleric | Healer | Kind, empathetic, loyal to the [Church of Mordredon](/organizations/church-of-mordredon). |  
-| [Sergeant Lemrick](/characters/sergeant-lemrick) | Human | City Guard | Thomas’s Former Boss | Stern, duty-bound, politically savvy. |  
-| [Treebert](/characters/treebert) | Wood Golem | Assistant | Helper at RVASSS | Tiny, helpful, brings breakfast. |  
-| [Randy the Mimic](/characters/randy-the-mimic) | Mimic | Shapeshifter | Former Dorm Chest | Friendly, deceptive, transforms into a winged creature. |  
+
 
 ## **Antagonists**  
 
 | Name | Race | Class | Background | Notable Traits |  
 |------|------|-------|------------|----------------|  
 | [Gilbert](/characters/gilbert) | Human | Cult Leader | Former Student at RVASSS | Manipulative, dangerous, tied to blood magic. Killed by [Professor Osdimir](/characters/professor-osdimir-lataniel-dera-vrentica). |  
+| [Randy the Mimic](/characters/randy-the-mimic) | Mimic | Shapeshifter | Former Dorm Chest | Friendly, deceptive, transforms into a winged creature. |
 
 # **Characters From Other Times**
 
