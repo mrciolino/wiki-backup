@@ -2,7 +2,7 @@
 title: sessions
 description: Recap of Sessions
 published: true
-date: 2025-04-16T20:16:39.879Z
+date: 2025-04-16T20:17:09.850Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-02T14:16:34.992Z
@@ -31,7 +31,7 @@ dateCreated: 2024-06-02T14:16:34.992Z
 
 3. **🌌 [Season 3: Mortis Lux](/Seasons/campaign_1/Season_3)**  
    *"They chose the Witch King over a god—and doomed a world."*  
-   **Alliances shattered. Cities drowned. A Soul Forge forged.**  
+   **Alliances shattered. Cities drowned. A Forge created.**  
 
 4. **👑 [Season 4: Ascension & Destiny](/Seasons/campaign_1/Season_4)**  
    *"Gods and illithids clashed—and mortals stood in the middle."*  
