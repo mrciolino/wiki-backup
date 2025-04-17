@@ -2,14 +2,13 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-16T18:49:43.828Z
+date: 2025-04-17T12:14:52.075Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
 ---
 
 # **Campaign 1**  
-A list of player characters from **Campaign 1**, including their races, classes, backgrounds, and notable traits.
 
 ## Main Characters
 | Name                             | Race | Class | Background | Traits | Image |
@@ -34,13 +33,12 @@ A list of player characters from **Campaign 1**, including their races, classes,
 |----------------------------------------------------|------------|-------------------|-------------------|-----------------------------------------------------|----------|
 | [Otto Hurtszog](/characters/Otto-Hurtszog) | Wood Elf | Hunter Ranger 9 | Bounty Hunter | Trophy-collector, Refuses to harm the helpless, Feels socially out of place, Forged by hardship | ![otto.png](/characters/other/otto.png =x100) |
 | [Federina](/characters/Federina) | Undead (Elf origin) | Warlock (Great Old One) 9 | Wandering Angst | Telepathic, Necrotic-fueled, Arrogant, Precise, Haunted by grudges | ![federina.jpg](/characters/other/federina.jpg =x100) |
-| [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful |  | ![achilles.png](/characters/adalynn/achilles.png =x100) |
-| Seiriphi | | Druid |  |  | |
-| Kiwi     | | Rogue |  |  | | 
+| [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful | Don't Touch My Dick! | ![achilles.png](/characters/other/achilles.webp =x100) |
+| [Seiriphi](/characters/Seiriphi) | | Druid |  |  | ![seiriphi.png](/characters/other/seiriphi.webp =x100) |
+| [Kiwi](/characters/Kiwi)     | | Rogue |  |  | ![kiwi.png](/characters/other/kiwi.webp =x100) | 
 
 
 # **Campaign 2**  
-A list of player characters from **Campaign 2**, including their races, classes, backgrounds, and notable traits.
 
 ## Main Characters
 | Name                                               | Race       | Class             | Background        | Notable Traits                                      |    Image |
