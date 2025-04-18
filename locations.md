@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-18T14:39:23.745Z
+date: 2025-04-18T14:44:57.188Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -13,16 +13,18 @@ The **Low Bar Brawlers** universe spans multiple worlds, dimensions, and planes 
 
 ## World: Mardun
 
-[Mardun](/locations/Mardun) is the first world of the Low Bar Brawlers campaign. It is home to locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
+Mardun is the first world of the Low Bar Brawlers campaign. It is home to locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
 
-<button href="/locations/Mardun" style="border: 2px solid #198754; color: #198754; background-color: transparent; padding: 8px 16px; border-radius: 4px; cursor: pointer;">
-  Visit Mardun
-</button>
-
+- [🌍 Visit Mardun *The first world of the campaign and the setting of "The Darmuth Saga."*](/locations/Mardun)
+{.links-list}
 
 ## World: Ereriad
 
-[Ereriad](/locations/Ereriad) is the second world of the Low Bar Brawlers campaign. It is visited by the party after defeating [Darmuth](/characters/Darmuth). The party first reaches this world by travelling through Spoops' Well of Many Worlds.
+Ereriad is the second world of the Low Bar Brawlers campaign. It is visited by the party after defeating [Darmuth](/characters/Darmuth). The party first reaches this world by travelling through Spoops' Well of Many Worlds.
+
+- [🌐 Visit Ereriad *Visited after the defeat of Darmuth, accessed via Spoops' Well of Many Worlds.*](/locations/Ereriad)
+{.links-list}
+
 ## Other Worlds
 ### World: Dolarion
 
@@ -36,11 +38,17 @@ Dragon World was visited by Spoops and Bane. Spoops spent time training goblins 
 
 ## Dimension: Library  
 
-The [Library Dimension](/locations/Library-Dimension)   is the resting place of Bazzert, Bazzvrah, and Bazzalt. For some reason, Assassin Mountain also exists within this dimension. 
+The Library Dimension is the resting place of Bazzert, Bazzvrah, and Bazzalt. For some reason, Assassin Mountain also exists within this dimension. 
+
+- [📚 Visit Library Dimension *Resting place of Bazzert, Bazzvrah, and Bazzalt.*](/locations/Library-Dimension)
+{.links-list}
 
 ## Demiplane: The Forge Dimension  
 
-The [Forge Dimension](/locations/Forge-Dimension) exists within the Plane of Fire and is owned by the Forgemaster [Bazzdos](/characters/bazzdos). Some of the most powerful artifacts in the universe have been crafted in this realm.  
+The Forge Dimension exists within the Plane of Fire and is owned by the Forgemaster [Bazzdos](/characters/bazzdos). Some of the most powerful artifacts in the universe have been crafted in this realm.  
+
+- [🔥 Visit Forge Dimension *Home of Forgemaster Bazzdos and legendary artifacts.*](/locations/Forge-Dimension)
+{.links-list}
 
 # Important Party Locations
 
