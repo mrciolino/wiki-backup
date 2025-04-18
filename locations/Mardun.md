@@ -2,14 +2,14 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-18T18:04:36.080Z
+date: 2025-04-18T18:05:58.255Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
 ---
 
 # Mardun
-Mardun is the first world of the Low Bar Brawlers campaign. It is the home of locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
+Mardun is the first world of the Low Bar Brawlers campaign. It is the home of locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "[The Darmuth Saga](/Seasons/campaign_1/Season_2)" takes place in.
 
 - [**Wyrmford**](/locations/Mardun) *The Riverlands of Trade and Steam (Temperate, Deep Green)*  
 **Notable Cities: [Allford](/locations/Mardun/Allford), [Hastow](/locations/Mardun/Hastow), [Demsford](/locations/Mardun/Demsford)**  
@@ -17,7 +17,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 {.links-list}
 
 - [**Kairnheim**](/locations/Mardun) *Realm of Ice and Secrets (Mountainous Cold, Pale Grey)*  
-**Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro), [Kaltraszar Bar](/locations/Mardun/Kaltraszar-Bar), [Fyqick](/locations/Mardun/Fyqick)**  
+**Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro), [Kaltraszar Bar](/locations/Mardun/Kaltraszar-Bar), [Fywick](/locations/Mardun/Fywick)**  
 <sub>Other Cities: City of the Last Lantern, The Shrine of Torment, Silent Forest, Denmach Vale, Formene, Ghostlight Woods, Wafeld, Witchlight Jungle, Ghoulfen River<sub>
 {.links-list}
 
