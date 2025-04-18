@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-18T18:19:58.036Z
+date: 2025-04-18T18:20:37.230Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -27,8 +27,8 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 <sub>Other Cities: City of the Last Lantern, The Shrine of Torment, Silent Forest, Denmach Vale, Formene, Ghostlight Woods, Wafeld, Witchlight Jungle, Ghoulfen River</sub>
 {.links-list}
 ---
-
-- [**Felldora** *Twilight Highlands of Stone and Stars (Windswept, Indigo)*](/locations/Mardun/Felldora)  
+ 
+ - [**Felldora** *Twilight Highlands of Stone and Stars (Windswept, Indigo)*](/locations/Mardun/Felldora)  
 **Notable Cities: [The Bastion of Tiyamanni the Awesome](/locations/Mardun/The-Bastion-of-Tiyamanni-the-Awesome)**  
 <sub>Other Cities: Whispering Jungle, The Hive of Kas the Bloody, Brany, Wefeld, Estis, Llaisy Forest, Celestial Vale, The Plain of Horrors, Wyvern's River, Erpool (City of the True Name), Ellon, The Fortress of the vampire Tyrant, The Desolation of Duki, Ironwood Forest, Nimpa, The Ciadel of Namzeru, The Shrine of the Fallen, Farisetr, Bundabad Crags, Bizirukth Spires, Healey (City of the Veil of Shadows), Ampwold, The Stronghold of Poison Tears, Theawold, Sabrook (The last city of helonde), Great forest, Debrycg, Whitecrown Mountains, Gili's Hold, Nono, Tino</sub>
 {.links-list}
