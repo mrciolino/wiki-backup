@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-18T14:44:57.188Z
+date: 2025-04-18T14:48:51.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -28,7 +28,7 @@ Ereriad is the second world of the Low Bar Brawlers campaign. It is visited by t
 ## Other Worlds
 ### World: Dolarion
 
-Dolarion was a world visited by Spoops and Bane. Spoops spent some time here training goblins and freeing them from an oppressive regime. Spoops and Elira first reached this world by traveling through Spoops' Well of Many Worlds.  
+Dolarion was a world visited by [Spoops](/characters/spoops) and [Bane](/characters/bane). Spoops spent some time here training goblins and freeing them from an oppressive regime. Spoops and [Elira](/characters/elira) first reached this world by traveling through Spoops' [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds).  
 
 ### World: Dragon World
 
@@ -38,7 +38,7 @@ Dragon World was visited by Spoops and Bane. Spoops spent time training goblins 
 
 ## Dimension: Library  
 
-The Library Dimension is the resting place of Bazzert, Bazzvrah, and Bazzalt. For some reason, Assassin Mountain also exists within this dimension. 
+The Library Dimension is the resting place of [Bazzert](/characters/Bazzert), [Bazvrah](/characters/Bazvrah) and [Bazzalt](/characters/Bazzalt).
 
 - [📚 Visit Library Dimension *Resting place of Bazzert, Bazzvrah, and Bazzalt.*](/locations/Library-Dimension)
 {.links-list}
@@ -54,7 +54,7 @@ The Forge Dimension exists within the Plane of Fire and is owned by the Forgemas
 
 ## Mortis Lux Flying City  
 
-The capital city of [Mortis Lux](/organizations/mortis-lux), this city exists as a flying island fortress within a demiplane created by the Archmage Adalynn. Access to and from the city is entirely at Adalynn’s discretion, as the realm exists as a part of her soul.  
+The capital city of [Mortis Lux](/organizations/mortis-lux), this city exists as a flying island fortress within a demiplane created by the [Archmage Adalynn](/characters/adalynn). Access to and from the city is entirely at Adalynn’s discretion, as the realm exists as a part of her soul.  
 
 ## Flying Pirate Ship
 descriptuin
