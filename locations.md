@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-18T14:48:51.167Z
+date: 2025-04-18T14:49:07.146Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -38,7 +38,7 @@ Dragon World was visited by Spoops and Bane. Spoops spent time training goblins 
 
 ## Dimension: Library  
 
-The Library Dimension is the resting place of [Bazzert](/characters/Bazzert), [Bazvrah](/characters/Bazvrah) and [Bazzalt](/characters/Bazzalt).
+The Library Dimension is the resting place of [Bazzert](/characters/bazzert), [Bazvrah](/characters/Bazvrah) and [Bazzalt](/characters/Bazzalt).
 
 - [📚 Visit Library Dimension *Resting place of Bazzert, Bazzvrah, and Bazzalt.*](/locations/Library-Dimension)
 {.links-list}
