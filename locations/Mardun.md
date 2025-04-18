@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-07T20:20:48.758Z
+date: 2025-04-18T18:04:36.080Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -11,23 +11,48 @@ dateCreated: 2024-07-28T16:09:23.664Z
 # Mardun
 Mardun is the first world of the Low Bar Brawlers campaign. It is the home of locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "The Darmuth Saga" takes place in.
 
-## Continents and Cities
+- [**Wyrmford**](/locations/Mardun) *The Riverlands of Trade and Steam (Temperate, Deep Green)*  
+**Notable Cities: [Allford](/locations/Mardun/Allford), [Hastow](/locations/Mardun/Hastow), [Demsford](/locations/Mardun/Demsford)**  
+<sub>Other Cities: Addford, Medi, Cotte Tower, Whispering Waste, Here Castle, The Tower of Curses, Ghostwood Forest<sub>
+{.links-list}
 
-| [**Wyrmford**](/locations/Mardun/Wyrmford) | [**Kairnheim**](/locations/Mardun/Kairnheim) | [**Felldora**](/locations/Mardun/Felldora) | [**Felldun**](/locations/Mardun/Felldun) | [**Heltollán**](/locations/Mardun/Heltollan) | [**Dracofel**](/locations/Mardun/Dracofel) | [**Druidia**](/locations/Mardun/Druidia) |
-|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| [Allford](/locations/Mardun/Allford) | [Fort Suro](/locations/Mardun/Fort-Suro) | [Fywick](/locations/Mardun/Fywick) | [North Geskoworm / Krorg's Hometown](/locations/Mardun/North-Geskoworm) | [Gothriathon](/locations/Mardun/Gothriathon) | [Saragassa](/locations/Mardun/Saragassa) | [Wegate](/locations/Mardun/Wegate) |
-| [Alltricia](/locations/Mardun/Allford) | [The Red Keep](/organizations/The-Red-Keep) | [Hastow](/locations/Mardun/Hastow) | [Galeton](/locations/Mardun/Galeton) | | | |
-| | [Kaltrosar](/locations/Mardun/Kaltrosar) | |  | | | |
+- [**Kairnheim**](/locations/Mardun) *Realm of Ice and Secrets (Mountainous Cold, Pale Grey)*  
+**Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro), [Kaltraszar Bar](/locations/Mardun/Kaltraszar-Bar), [Fyqick](/locations/Mardun/Fyqick)**  
+<sub>Other Cities: City of the Last Lantern, The Shrine of Torment, Silent Forest, Denmach Vale, Formene, Ghostlight Woods, Wafeld, Witchlight Jungle, Ghoulfen River<sub>
+{.links-list}
 
--   Ashenor: For the ash mountains (Top Arctic Area, Light Blue)
--   Kairnheim: "Deadlands" (The area we started in, Red)
--   Heltollán: Helmaer's Tunnel (he failed to go through the ice wall) (Southern Continent, Dark Blue)
--   White Wastes: Completely barren arctic wasteland with a major ice wall (Southern Arctic, Black)
--   Wyrmford: The place where the dragons crossed (The place that contains Alford, Yellow)
--   Dracofel: The place where dragons die (The arcipelago south east of Wymford, Purple)
--   Felldora: The continent on the right side of the largest landmass. (Orange)
--   Felldun: The continent on the left side of the largest landmass. (Brown)
--   Druidia: The Peninsula attached to Felldun. (Green)
+- [**Felldora**](/locations/Mardun) *Twilight Highlands of Stone and Stars (Windswept, Indigo)*  
+**Notable Cities: [The Bastion of Tiyamanni the Awesome](/locations/Mardun/The-Bastion-of-Tiyamanni-the-Awesome)**  
+<sub>Other Cities: Whispering Jungle, The Hive of Kas the Bloody, Brany, Wefeld, Estis, Llaisy Forest, Celestial Vale, The Plain of Horrors, Wyvern's River, Erpool (City of the True Name), Ellon, The Fortress of the vampire Tyrant, The Desolation of Duki, Ironwood Forest, Nimpa, The Ciadel of Namzeru, The Shrine of the Fallen, Farisetr, Bundabad Crags, Bizirukth Spires, Healey (City of the Veil of Shadows), Ampwold, The Stronghold of Poison Tears, Theawold, Sabrook (The last city of helonde), Great forest, Debrycg, Whitecrown Mountains, Gili's Hold, Nono, Tino<sub>
+{.links-list}
+
+- [**Felldun**](/locations/Mardun) *Ash-Choked Lowlands of Bone and Memory (Dry Basin, Charcoal)*  
+**Notable Cities: [Wegate](/locations/Mardun/Wegate)**  
+<sub>Other Cities: North Geskoworm / Krorg's Hometown, Galeton, Minas Galodir, Trane, Hagmoor River, Ravencrag Mountains, Highgate Hills, The Warden City of Spalleklif, Wardson Tower, Copper Hillers, Qora March, Scafa Bluffs, Frostfell mountains, The Bastion of Nabera the Infernal, The Keep of Destruction, Penmerth Woods<sub>
+{.links-list}
+
+- [**Heltollán**](/locations/Mardun) *Scorched Expanse of Obsidian and Flame (Volcanic, Red-Orange)*  
+**Notable Cities: [Gothriathon](/locations/Mardun/Gothriathon), [The Stronghold of Fiery Ruin](/locations/Mardun/The-Stronghold-of-Fiery-Ruin)**  
+<sub>Other Cities: Waford Castle, Khimil's Delve, Shazanarg Highlands, Nuledzar, Tatard Vale, The Tower of Broken Worlds, Haunted Downs, Abaram, Lantry Vale, Sabre River, Blade Mountains, Cotyw Vale, The Ruins of helmaer Stronghold, Awer Tower<sub>  
+{.links-list}
+
+- [**Dracofel**](/locations/Mardun) *The Embered Wilds of Ancient Fire (Jungle-Cracked, Rust Gold)*  
+**Notable Cities: [The Red Keep](/organizations/The-Red-Keep), [The Desolation of Asmal](/locations/Mardun/The-Desolation-of-Asmal), [Jade Forest](/locations/Mardun/Jade-Forest)**  
+<sub>Other Cities: Saragassa, The ruins of Woheath Stronghold, Barad Ashenef, Caer Fineli, Cahyrst Castle, Fibrook<sub>  
+{.links-list}
+
+- [**Druidia**](/locations/Mardun) *Mystic Heartwood of Beasts and Boughs (Lush Forest, Emerald)*  
+**Notable Cities:**  
+<sub>Other Cities: Druid's Grove, The Noble City of Rastone, Tatun Tower, Rowley Keep, The Keep of Broken Worlds<sub>
+{.links-list}
+
+- [**Ashenor**](/locations/Mardun) *For the Ash Mountains (Top Arctic Area, Light Blue)*  
+**Notable Cities: [Bahyrst](/locations/Mardun/Bahyrst)**  
+<sub>Other Cities: Sneaton Tower, Badumunz Mountains, Baham, Ash Mountains, Barrow Downs<sub>  
+{.links-list}
+
+
+
 
 # 🗺️ Campaign 1 Map
 
