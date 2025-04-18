@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-18T18:19:12.714Z
+date: 2025-04-18T18:19:58.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -40,7 +40,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 {.links-list}
 ---
 
-- [**Heltollán** *Scorched Expanse of Obsidian and Flame (Volcanic, Red-Orange)*](/locations/Mardun/Heltollán)  
+- [**Heltollán** *Scorched Expanse of Obsidian and Flame (Volcanic, Red-Orange)*](/locations/Mardun/Heltollan)  
 **Notable Cities: [Gothriathon](/locations/Mardun/Gothriathon), [The Stronghold of Fiery Ruin](/locations/Mardun/The-Stronghold-of-Fiery-Ruin)**  
 <sub>Other Cities: Waford Castle, Khimil's Delve, Shazanarg Highlands, Nuledzar, Tatard Vale, The Tower of Broken Worlds, Haunted Downs, Abaram, Lantry Vale, Sabre River, Blade Mountains, Cotyw Vale, The Ruins of helmaer Stronghold, Awer Tower</sub>
 {.links-list}
@@ -62,10 +62,6 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 **Notable Cities: [Bahyrst](/locations/Mardun/Bahyrst)**  
 <sub>Other Cities: Sneaton Tower, Badumunz Mountains, Baham, Ash Mountains, Barrow Downs</sub>
 {.links-list}
-
-
-
-
 
 
 # 🗺️ Campaign 2 Map
