@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-12T23:15:39.151Z
+date: 2025-04-19T13:57:44.032Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -42,7 +42,6 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Capital/Region | Ruler/Leader | Status |  
 |------|-------------|---------------|-------------|--------|  
 | [Parrot Shogunate](/organizations/parrot-shogunate) | A shogunate ruled by parrots. | - | - | Active |  
-| [Fywick](/locations/Mardun/Fywick) | A notable city. | [Kairnheim](/locations/Mardun/Kairnheim) | - | Active |  
 | [Githzerai (and Githyankii survivors)](/organizations/githzerai) | Surviving Gith factions. | - | - | Scattered |  
 | [Kingdom of Helares](/locations/Ereriad/Hellaress) | A powerful kingdom. | - | - | Active |  
 | [Holy Nation of Elephond](/organizations/holy-nation-of-elephond) | [Aphir The Mighty](/characters/aphir-the-mighty)'s kingdom. | [Elephond](/locations/elephond) | [Aphir The Mighty](/characters/aphir-the-mighty) | Active |  
