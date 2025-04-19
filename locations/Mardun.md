@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-19T12:36:34.393Z
+date: 2025-04-19T12:43:00.410Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -20,7 +20,7 @@ Mardun is the first world of the Low Bar Brawlers campaign. It is the home of lo
 - [**Kairnheim** *Realm of Ice and Secrets (Mountainous Cold, Pale Grey)*](/locations/Mardun/Kairnheim)
 {.links-list}
 
-&ensp; **Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro), [Kaltraszar Bar](/locations/Mardun/Kaltraszar-Bar), [Fyqick](/locations/Mardun/Fyqick)**  
+&ensp; **Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro), [Kaltrosar](/locations/Mardun/Kaltrosar), [Fywick](/locations/Mardun/Fywick), [North Geskoworm](/locations/Mardun/north_geskoworm)**  
 &ensp; <sub>Other Cities: City of the Last Lantern, The Shrine of Torment, Silent Forest, Denmach Vale, Formene, Ghostlight Woods, Wafeld, Witchlight Jungle, Ghoulfen River</sub>
 
 ---
