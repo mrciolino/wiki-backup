@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-19T13:57:44.032Z
+date: 2025-04-19T13:58:48.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -45,8 +45,6 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Githzerai (and Githyankii survivors)](/organizations/githzerai) | Surviving Gith factions. | - | - | Scattered |  
 | [Kingdom of Helares](/locations/Ereriad/Hellaress) | A powerful kingdom. | - | - | Active |  
 | [Holy Nation of Elephond](/organizations/holy-nation-of-elephond) | [Aphir The Mighty](/characters/aphir-the-mighty)'s kingdom. | [Elephond](/locations/elephond) | [Aphir The Mighty](/characters/aphir-the-mighty) | Active |  
-| [Wegate](/locations/Mardun/Wegate) | A known settlement. | [Wegate](/locations/Mardun/Wegate) | - | Active |  
-| [Allford](/locations/Mardun/Allford) | A sovereign nation. | - | - | Active |  
 | [Gothriathon and the Cliffs of Dover Region](/locations/gothriathon) | A significant region. | [Gothriathon](/locations/Mardun/Gothriathon) | - | Active |  
 | [Fortress of the Vampire Tyrant](/locations/fortress-of-the-vampire-tyrant) | At war with the Samurai. | - | [Vampire Tyrant](/characters/vampire-tyrant) | Conflict |  
 | [Hellaresian Centaur Tribe](/organizations/centaur-tribe) | A nomadic centaur tribe. | Outside [Hellaress](/locations/Ereriad/Hellaress) | - | Active |  
