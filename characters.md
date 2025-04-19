@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-18T14:28:42.434Z
+date: 2025-04-19T12:45:20.431Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -31,6 +31,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
 | [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
 | [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
+| [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party/Witch King, His Daughter was Kidnapped |
 
 ## Academic Personnel
 | Name | Role | Description |
