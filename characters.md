@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-19T13:39:28.693Z
+date: 2025-04-19T13:45:14.903Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -50,7 +50,7 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Role | Description |
 |------|------|-------------|
 | [Gith Anarch Kathor](/characters/gith-anarch-kathor) | Gith Leader | Representing the Gith Serai, and many Gith Yankii Survivors |
-| [kierkegaard](/characters/kierkegaard) | Commander | Representing the Unified Forces of Ry-ann |
+| [Kierkegaard](/characters/kierkegaard) | Commander | Representing the Unified Forces of Ry-ann |
 | [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in [Allford](/locations/Mardun/Allford) before its destruction. Guided the party to its power climb into defeatin the Ithilids |
 | [Bugbear Captain](/characters/bugbear-captain) | Pirate Representative | Representing the Pirates of Saragassa |
 | [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing [Narascus](/characters/Narascus)'s corruption. |
