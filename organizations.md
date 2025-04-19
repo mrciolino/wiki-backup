@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-19T13:58:48.055Z
+date: 2025-04-19T16:48:26.286Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -19,6 +19,8 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Council of Gods](/organizations/council-of-gods) | A coalition of deities. | - | - | Active |  
 | [Pirate Crew](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/Mardun/Saragassa) | - | Active |  
 | [Mortis Lux](/organizations/mortis-lux) | A mysterious organization. | - | - | Unknown |  
+| [The Magic College of Porthy](/organizations/college-of-porthy) | TODO | [Highhold](/locations/Ereriad/Highhold) | - | Unknown |  
+| [The Magic College of Highhold](/organizations/college-of-highhold) | TODO | [Porthy](/locations/Ereriad/Porthy) | - | Unknown |  
 
 ## **Gangs**  
 | Name | Description | Location | Notable Members | Status |  
