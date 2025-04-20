@@ -2,17 +2,14 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-19T12:43:00.410Z
+date: 2025-04-20T02:01:30.245Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
 ---
 
-# Mardun
-Mardun is the first world of the Low Bar Brawlers campaign. It is the home of locations such as [Fort Suro](/locations/Mardun/Fort-Suro) and [Allford/Alltricia](/locations/Mardun/Allford), and the main world that "[The Darmuth Saga](/Seasons/campaign_1/Season_2)" takes place in.
-
 # 🗺️ Campaign 1 Map
-
+-
 <img src="/maps/mardun.webp" class="img-fluid" alt="Mardun Map">
 
 ## Continents 
