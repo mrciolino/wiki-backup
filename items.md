@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-21T14:22:14.270Z
+date: 2025-04-21T14:22:47.095Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -150,7 +150,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Modular Laser Unit](/items/Modular-Laser-Unit) | Legendary | Potion | LBB | A Laser unit compatible with the [Runic Spell Focusing Rings](/items/Runic-Spell-Focusing-Rings) and [Magical Power Source](/items/Magical-Power-Source)|
 | [Magical Power Source](/items/Magical-Power-Source) | Legendary | Item | LBB | Stores magical energy. |
 | [Spelljammer Surfboards](/items/Spelljammer-Surfboards) | Legendary | Item | LBB | Spelljammers in surfboard form. |
-| [Penne-trator Missile](/items/Penne-Trator-Missile) | Epic | Vehicle | LBB | Spelljammer equipped missile system for carrying troops. |
+| [Penne-trator Missile](/items/Penne-trator-Missile) | Epic | Vehicle | LBB | Spelljammer equipped missile system for carrying troops. |
 
 ---
 
