@@ -2,7 +2,7 @@
 title: Spells
 description: Custom homebrew spells that have come into the world.
 published: true
-date: 2025-04-21T15:14:32.952Z
+date: 2025-04-21T15:29:26.567Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:34:44.598Z
