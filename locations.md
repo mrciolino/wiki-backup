@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-21T19:16:32.039Z
+date: 2025-04-21T19:17:04.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -47,7 +47,7 @@ The Library Dimension is the resting place of [Bazzert](/characters/bazzert), [B
 
 The Well of Souls is the divine realm and home of Spoops.
 
-- [📚 Visit The Well of Souls](/locations/The-Well-Of-Souls
+- [📚 Visit The Well of Souls](/locations/The-Well-Of-Souls)
 {.links-list}
 
 ## Demiplane: The Forge Dimension  
