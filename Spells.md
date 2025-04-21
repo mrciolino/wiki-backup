@@ -2,7 +2,7 @@
 title: Spells
 description: Custom homebrew spells that have come into the world.
 published: true
-date: 2025-04-21T15:09:56.975Z
+date: 2025-04-21T15:14:32.952Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:34:44.598Z
@@ -14,7 +14,7 @@ Custom spells created by [Bazzdos](/characters/bazzdos), [Spoops](/characters/sp
 | **_Spell Level_** | **_Spell_** | **_Caster_** | **_Description_** |
 |------------------|--------------|--------------|-------------------|
 | 12th | [Divine Command](/Spells/Divine-Command) | Spoops | Allows the caster to compel the target to follow the divine will of the caster. Deities may make a spell save DC against the spell.|
-| 12th | [The Banhammer](/Spells/The-Banhammer) | Spoops | Summons a massive platinum hammer which descends from dar above the caster, landing hard in front of them. Striking someone or something with the hammer removes them from existence. It does not work on Deities. |
+| 12th | [The Banhammer](/Spells/The-Banhammer) | Spoops | Summons a massive platinum hammer which descends from far above the caster, landing hard in front of them. Striking someone or something with the hammer removes them from existence. It does not work on Deities. |
 | 11th | [Soul Absorption](/Spells/Soul-Absorption) | Spoops | The caster may rip the souls out of all creatures within range, converting their souls into consumable energy granting a permanent increase in power. |
 | 11th | [Relentless Snail](/Spells/Relentless-Snail) | Adalynn | Summons an unstoppable, immortal snail to hunt a named target across time and space. |
 | 10th | [Tap The Soul Well](/Spells/Tap-The-Soul-Well) | Spoops | The caster taps into the well of souls, using the energy for various effects. |
