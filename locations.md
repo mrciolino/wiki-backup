@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-21T19:18:29.591Z
+date: 2025-04-21T19:23:11.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -55,6 +55,13 @@ The Well of Souls is the divine realm and home of Spoops.
 The Forge Dimension exists within the Plane of Fire and is owned by the Forgemaster [Bazzdos](/characters/bazzdos). Some of the most powerful artifacts in the universe have been crafted in this realm.  
 
 - [🔥 Visit Forge Dimension *Home of Forgemaster Bazzdos and legendary artifacts.*](/locations/Forge-Dimension)
+{.links-list}
+
+## Dimension: Elemental Plane of Chaos (Spawning Stone)
+
+.
+
+- [📚 Visit The Spawning Stone *Vortex of Chaotic Energy*](/locations/Spawning-Stone)
 {.links-list}
 
 # Important Party Locations
