@@ -2,14 +2,14 @@
 title: Spells
 description: Custom homebrew spells that have come into the world.
 published: true
-date: 2025-04-21T14:52:50.633Z
+date: 2025-04-21T14:55:07.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:34:44.598Z
 ---
 
 # Spells
-Custom spells created by [Bazzdos](/characters/bazzdos) and [Adalynn](/characters/adalynn).
+Custom spells created by [Bazzdos](/characters/bazzdos), [Spoops](/characters/spoops), and [Adalynn](/characters/adalynn).
 
 | **_Spell Level_** | **_Spell_** | **_Caster_** | **_Description_** |
 |------------------|--------------|--------------|-------------------|
