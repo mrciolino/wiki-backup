@@ -2,7 +2,7 @@
 title: Spells
 description: Custom homebrew spells that have come into the world.
 published: true
-date: 2025-04-21T14:36:04.445Z
+date: 2025-04-21T14:49:11.997Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:34:44.598Z
@@ -15,6 +15,7 @@ Custom spells created by [Bazzdos](/characters/bazzdos) and [Adalynn](/character
 |------------------|--------------|--------------|-------------------|
 | 12th | [Divine Command](/Spells/Divine-Command) | Spoops | Allows the caster to compel the target to follow the divine will of the caster. Deities may make a spell save DC against the spell.|
 | 12th | [The Banhammer](/Spells/The-Banhammer) | Spoops | Summons a massive platinum hammer which descends from dar above the caster, landing hard in front of them. Striking someone or something with the hammer removes them from existence. It does not work on Deities. |
+| 11th | [Soul Absorption](/Spells/Soul-Absorption) | Spoops | The caster may rip the souls out of all creatures within range, converting their souls into consumable energy granting a permanent increase in power. |
 | 11th | [Relentless Snail](/Spells/Relentless-Snail) | Adalynn | Summons an unstoppable, immortal snail to hunt a named target across time and space. |
 | 10th | [Ushoran's Cataclysm](/Spells/Ushorans-Cataclysm) | Adalynn | A mile-wide storm of acid, cold, lightning, and fire that lasts up to one day per sacrificed soul or hit die. |
 | 10th | [Moving Mountains](/Spells/Moving-Mountains) | Adalynn | Ritual to levitate and move an entire mountain using trapped air elementals and rare components. |
