@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-21T14:22:47.095Z
+date: 2025-04-21T14:26:11.577Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -203,6 +203,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Gem of Seeing](/items/Gem-Of-Seeing) | Epic | Item | LBB |  Peering through the gem allows magically enhanced sight. |
 | [Magic Lucky Charm](/items/Magic-Lucky-Charm) | Epic | Item | Achilles |  Provides and enhanced version of Lucky. |
 | [Meade's Flask](/items/Meades-Flask) | Epic | Item | Meade |  A genie flask with a lovely bar inside. |
+| [Anti-Magic Field Generator](/items/Anti-Magic-Field-Generator) | Epic | Item | LBB |  A machine that generates a massive Anti-Magic field. |
 
 ---
 
