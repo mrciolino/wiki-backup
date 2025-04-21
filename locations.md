@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-18T14:49:07.146Z
+date: 2025-04-21T19:16:32.039Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -34,13 +34,20 @@ Dolarion was a world visited by [Spoops](/characters/spoops) and [Bane](/charact
 
 Dragon World was visited by Spoops and Bane. Spoops spent time training goblins and freeing them from an oppressive regime. It was also the prison of the Titan Iapetus, who was eventually freed when the world was destroyed by Spoops and Bane.  
 
-# Dimensions
+# Other Dimensions / Planes
 
 ## Dimension: Library  
 
 The Library Dimension is the resting place of [Bazzert](/characters/bazzert), [Bazvrah](/characters/Bazvrah) and [Bazzalt](/characters/Bazzalt).
 
 - [📚 Visit Library Dimension *Resting place of Bazzert, Bazzvrah, and Bazzalt.*](/locations/Library-Dimension)
+{.links-list}
+
+## Dimension: Well of Souls  
+
+The Well of Souls is the divine realm and home of Spoops.
+
+- [📚 Visit The Well of Souls](/locations/The-Well-Of-Souls
 {.links-list}
 
 ## Demiplane: The Forge Dimension  
