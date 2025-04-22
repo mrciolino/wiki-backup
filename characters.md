@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-19T13:45:14.903Z
+date: 2025-04-22T18:37:09.489Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -31,6 +31,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
 | [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
 | [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
+| [Bill the Buttlicker](/characters/Bill-Buttlicker) | A disturbing man who became a ghost. | Human / Ghost |
 | [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
 
 ## Academic Personnel
