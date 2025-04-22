@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T15:39:21.424Z
+date: 2025-04-22T15:58:07.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -58,17 +58,33 @@ As part of the Treaty between Mortis Lux and the Council of Gods, Spoops agreed 
 ### Composition
 Souls are an integral part of all mortal life. They are composed of a matrix of energy whose complex design defines an individual. It contains the base personality traits, latent potential, base power, and memory. Souls come in two varieties, Original and Reborn. Original Souls are freshly created, In the beginning, all souls were Original. Reborn souls have lived and died, having gone through the Well at least once. Most Souls in existence are Reborn and contain a tightly sealed record of the momories of their past lives. 
 
-### Base Personality
+#### Base Personality
 Defined in a Soul's energy matrix, the base personality is a blueprint on which that souls consciousness is created. It does not determine good or evil, it is a basic definition of personality traits such as Extraversion, Agreeableness, Openness, Conscientiousness, and Neuroticism.
 
-### Base Power
+#### Base Power
 Souls are composed of a matrix of energy. The amount of energy present in a given soul varies and influences the power (physical or magical) the soul possesses at birth.
 
-### Latent Potential
+#### Latent Potential
 Each Soul contains its own latent potential. This is the maximum amount of energy (physical or magical) a given soul is capable of wielding in their lifetime without damage. This is not a hard limit and can be increased through training and effort. Souls with a higher latent potential find attaining power (physical or magical) easier and can increase in strength more quickly/easily than those with lower latent potential. 
 
-### Memory
-Each Soul contains a record of their memories. Upon each soul's death, the memories of that lifetime are sealed away to allow a fresh beginning during their next life. This is the most commonly overridden parameter within a soul. Many magical creatures who resurrect or rebirth themselves via spells are unknowingly overriding the mechanism that seals memories, bringing themselves or others back intact.
+#### Memory
+Each Soul contains a record of their memories. Upon each soul's death, the memories of that lifetime are sealed away to allow a fresh beginning during their next life. This is the most commonly overridden parameter within a soul. Many magical creatures who resurrect or rebirth themselves via spells are unknowingly overriding the mechanism that seals memories, base personality, and base power, bringing themselves or others back intact.
+
+#### Physical Form
+Each soul contains a record of their physical form. All changes to the bory are recorded within the soul. Original Souls have an empty definition until they are first born. Reborn souls are not necessarily reborn into the same body or even the same species, however once they die and are reborn, the record of their old Physical Form is sealed away, and their new Physical Form is recorded.
+
+
+## Processing Souls
+
+### Recycling of Souls
+When a creature dies naturally and their soul returns to the Well, the current state of the soul's parameters is recorded and sealed away, then each parameter is returned to their base state before the soul flows back out to be born again.
+
+### Reincarnation
+If a soul is to be reincarnated, the paramters of Memory, and Base Personality are left unsealed as the soul flows through the well. 
+
+### Ressurection
+A resurrected Soul has all parameters left unsealed as it flows through the Well. Returning the soul back to its body, or through the Physical Form record, a new body is created.
+
 
 
 
