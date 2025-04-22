@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T15:10:29.142Z
+date: 2025-04-22T15:39:21.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -54,6 +54,25 @@ The Spoops (body) spent most of the last 1000 years adventuring throughout diffe
 As part of the Treaty between Mortis Lux and the Council of Gods, Spoops agreed to cede the portfolio of Death to Kelemvor and they worked out an agreement on how Souls were to be treated and delivered throughout the cosmos. As in the behinning, before Spoops gained the portfolio of Death from Jergal, unbound souls would return to the Well, and Souls bound to Gods would flow through Kelemvor to their individual God's domains.
 
 
+## Souls
+### Composition
+Souls are an integral part of all mortal life. They are composed of a matrix of energy whose complex design defines an individual. It contains the base personality traits, latent potential, base power, and memory. Souls come in two varieties, Original and Reborn. Original Souls are freshly created, In the beginning, all souls were Original. Reborn souls have lived and died, having gone through the Well at least once. Most Souls in existence are Reborn and contain a tightly sealed record of the momories of their past lives. 
+
+### Base Personality
+Defined in a Soul's energy matrix, the base personality is a blueprint on which that souls consciousness is created. It does not determine good or evil, it is a basic definition of personality traits such as Extraversion, Agreeableness, Openness, Conscientiousness, and Neuroticism.
+
+### Base Power
+Souls are composed of a matrix of energy. The amount of energy present in a given soul varies and influences the power (physical or magical) the soul possesses at birth.
+
+### Latent Potential
+Each Soul contains its own latent potential. This is the maximum amount of energy (physical or magical) a given soul is capable of wielding in their lifetime without damage. This is not a hard limit and can be increased through training and effort. Souls with a higher latent potential find attaining power (physical or magical) easier and can increase in strength more quickly/easily than those with lower latent potential. 
+
+### Memory
+Each Soul contains a record of their memories. Upon each soul's death, the memories of that lifetime are sealed away to allow a fresh beginning during their next life. This is the most commonly overridden parameter within a soul. Many magical creatures who resurrect or rebirth themselves via spells are unknowingly overriding the mechanism that seals memories, bringing themselves or others back intact.
+
+
+
+
 ## Power Derived From The Well
 
 ### Spells
@@ -61,5 +80,6 @@ As part of the Treaty between Mortis Lux and the Council of Gods, Spoops agreed 
 | **_Spell Level_** | **_Spell_** | **_Caster_** | **_Description_** |
 |------------------|--------------|--------------|-------------------|
 | 10th | [Tap The Soul Well](/Spells/Tap-The-Soul-Well) | Spoops | The caster taps into the well of souls, using the energy for various effects. |
+
 
 
