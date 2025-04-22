@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-22T13:17:50.467Z
+date: 2025-04-22T13:24:10.981Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -69,6 +69,13 @@ The Forge Dimension exists within the Plane of Fire and is owned by the Forgemas
 .
 
 - [📚 Visit The Feywild *Dream Spider's Domain*](/locations/Feywild)
+{.links-list}
+
+## Dimension: Fugue Plane
+
+.
+
+- [📚 Visit The Fugue Plane *Home to Jergal's Divine Realm*](/locations/Fugue-Plane)
 {.links-list}
 
 # Important Party Locations
