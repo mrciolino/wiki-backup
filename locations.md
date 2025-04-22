@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-04-21T19:23:11.866Z
+date: 2025-04-22T13:17:50.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -62,6 +62,13 @@ The Forge Dimension exists within the Plane of Fire and is owned by the Forgemas
 .
 
 - [📚 Visit The Spawning Stone *Vortex of Chaotic Energy*](/locations/Spawning-Stone)
+{.links-list}
+
+## Dimension: The Feywild
+
+.
+
+- [📚 Visit The Feywild *Dream Spider's Domain*](/locations/Feywild)
 {.links-list}
 
 # Important Party Locations
