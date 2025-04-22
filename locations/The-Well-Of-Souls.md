@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T14:34:08.608Z
+date: 2025-04-22T14:34:41.366Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -40,7 +40,7 @@ When the crown of Karsus exploded, Spoops lept into the Realm to escape the blas
 
 
 ### Campaign 2
-At the start of the second campaign, Spoops completes his 1000 years of work, returning to the Well only to notice what he had been to distracted to see before. His religion had gone through a schism and his friend's were quite busy with their own issues.
+At the start of the second campaign, Spoops completes his 1000 years of work, returning to the Well only to notice what he had been to0 distracted to see before. His religion had gone through a schism and his friend's were quite busy with their own issues.
 
 The Spoops (body) spent most of the last 1000 years adventuring throughout different worlds, but was now on Mardun, fully aware of the current events of the world and aware of their divinity but also unable to get the divine Spoops' attention, he played many roles over 1000 years, but only returned to Mardun in recent times. Now that the 1000 year quest is over, reuniting with Divine Spoops is imminent.
 
