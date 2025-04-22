@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T16:53:22.198Z
+date: 2025-04-22T17:03:50.030Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -88,7 +88,7 @@ A resurrected Soul has all parameters left unsealed as it flows through the Well
 
 
 ## Soul Surgery
-Performed by Spoops, he has used his ability to manipulate souls to perform modifications on living souls. This is done by manipulating the underlying energy matrix,modifying the parameters defining the soul. 
+Performed by Spoops, he has used his abilities to perform modifications on living souls. This is done by manipulating the underlying energy matrix, modifying the parameters defining the soul. 
 
 Spoops has also performed this surgery on the Divine Soul of the god Gond. In that case the soul was separated into many smaller souls which were then tossed into the Well. At the end of Campaign 1, Spoops began taking the pieces of Gond's soul and carefully stitching their matricies into Bazzdos, keeping most of Gond's Memory, and all of his Base Personality, and Physical Form, paritioned from the rest of the combined soul. Since parts of Gond's soul were not only destroyed but entirely removed from existence, combining his soul with Bazzdos allowed Gond to live once again as a God while keeping Bazzdos as the dominant personality within their shared body. 
 
