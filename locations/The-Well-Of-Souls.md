@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T14:46:27.029Z
+date: 2025-04-22T15:04:49.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -23,6 +23,11 @@ In the beginning, before the creation of worlds and birth of the old gods, The W
 
 ## The Heavens
 At the death of the first devout worhipper of another God, a precedent was set. The soul did not return to the Well, instead it ascended to the "heaven" within the Divine Realm of that God. Spoops was not particularly bothered by this. Perhaps a bit curious as to why someone would lock a soul away "forever" in a heaven. However it did not matter as he believes all Souls will one day return to the cycle, eternities are long and the Well is forever.
+
+### Limitations
+Souls are unable to return to the Well if they are bound by contracts, imprisonment, or ownership of the soul is held by a third party, or other means.
+
+Example: If a soul is owned by another God, it will not return to thr Well but instead will be controlled by that God.
 
 ## Extreme Boredom
 For eons, Souls cycled through the Well. Spoops read their stories as returned, and gazing into the Well he watched mortals live their lives. Eventually he grew bored of just watching and reading, he wanted to experience adventure for himself. He gazed into the well and upon seeing a particularly interesting world, he jumped in. The Well was not exactly designed to transport a living creature somewhere, so while it was able to grt close to his desired location, the flow of the well spit Spoops out through thr nearest body of water. Spoops also hit his head on the way in, Splitting his own body and Divine essence. His Deified Eseence was left behind to form its own ego, Ry-ann, while his body washer ashore with a foggy memory. 
