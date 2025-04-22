@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T14:33:34.290Z
+date: 2025-04-22T14:34:08.608Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -30,7 +30,7 @@ For eons, Souls cycled through the Well. Spoops read their stories as returned, 
 
 ## Appearances In the Campaign
 
-The Well appeared teice in campaign 1. 
+The Well appeared twice in campaign 1. 
 
 ### Ascention of Spoops
 Spoops gained enough power in the material plane to achieve 12th level magic, and regained enough of his memories to learn who he truly was. Used the 12th level spell Divine Command on himself to reunite with Ry-ann to regain his former Divine power. Upon doing so, the door to The Well was opened once again where his divine persona Ry-ann sat on a bony rocky "throne". Spoops and Ry-ann became one and stood alone in the Realm before Adalynn opened a gate to return him to the party.
