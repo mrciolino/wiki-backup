@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T14:32:59.412Z
+date: 2025-04-22T14:33:34.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -28,7 +28,7 @@ At the death of the first devout worhipper of another God, a precedent was set. 
 For eons, Souls cycled through the Well. Spoops read their stories as returned, and gazing into the Well he watched mortals live their lives. Eventually he grew bored of just watching and reading, he wanted to experience adventure for himself. He gazed into the well and upon seeing a particularly interesting world, he jumped in. The Well was not exactly designed to transport a living creature somewhere, so while it was able to grt close to his desired location, the flow of the well spit Spoops out through thr nearest body of water. Spoops also hit his head on the way in, Splitting his own body and Divine essence. His Deified Eseence was left behind to form its own ego, Ry-ann, while his body washer ashore with a foggy memory. 
 
 
-## Appearance In the Campaign
+## Appearances In the Campaign
 
 The Well appeared teice in campaign 1. 
 
@@ -39,7 +39,7 @@ Spoops gained enough power in the material plane to achieve 12th level magic, an
 When the crown of Karsus exploded, Spoops lept into the Realm to escape the blast. After discussing victory with his party, he was jumping into the Well to make a dramatic entrance back into the material plane (instead of using the door). When he once again hit his head on the Well, separating his divine ego from his body. He decided to let himself (his body) have some fun while he dealt with the many tasks he had over the next 1000 years. He gave his Spoops Body some basic info before departing. 
 
 
-## Campaign 2
+### Campaign 2
 At the start of the second campaign, Spoops completes his 1000 years of work, returning to the Well only to notice what he had been to distracted to see before. His religion had gone through a schism and his friend's were quite busy with their own issues.
 
 The Spoops (body) spent most of the last 1000 years adventuring throughout different worlds, but was now on Mardun, fully aware of the current events of the world and aware of their divinity but also unable to get the divine Spoops' attention, he played many roles over 1000 years, but only returned to Mardun in recent times. Now that the 1000 year quest is over, reuniting with Divine Spoops is imminent.
