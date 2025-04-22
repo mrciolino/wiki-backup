@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-04-22T15:04:49.100Z
+date: 2025-04-22T15:10:29.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -48,6 +48,10 @@ When the crown of Karsus exploded, Spoops lept into the Realm to escape the blas
 At the start of the second campaign, Spoops completes his 1000 years of work, returning to the Well only to notice what he had been to0 distracted to see before. His religion had gone through a schism and his friend's were quite busy with their own issues.
 
 The Spoops (body) spent most of the last 1000 years adventuring throughout different worlds, but was now on Mardun, fully aware of the current events of the world and aware of their divinity but also unable to get the divine Spoops' attention, he played many roles over 1000 years, but only returned to Mardun in recent times. Now that the 1000 year quest is over, reuniting with Divine Spoops is imminent.
+
+
+## The Death Domain Agreement
+As part of the Treaty between Mortis Lux and the Council of Gods, Spoops agreed to cede the portfolio of Death to Kelemvor and they worked out an agreement on how Souls were to be treated and delivered throughout the cosmos. As in the behinning, before Spoops gained the portfolio of Death from Jergal, unbound souls would return to the Well, and Souls bound to Gods would flow through Kelemvor to their individual God's domains.
 
 
 ## Power Derived From The Well
