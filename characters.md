@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T17:53:32.254Z
+date: 2025-04-23T17:57:00.449Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -28,7 +28,6 @@ List of non-player-characters from both campaigns and some information about the
 | [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of [Porthy](/locations/Ereriad/Porthy). Fought alongside the party before perishing in [Ereriad](/locations/Ereriad). |
 | [Freedom](/characters/freedom) | Warforged | Overpowered Warfroged we met near level 1. |
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
-| [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
 | [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
 | [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
 | [Ralindu](/characters/Ralindu) | Lich Lord | A powerful Lich from the Lich Wars who was found sealed in a Ruby. |
@@ -58,6 +57,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Kelemvor](/characters/kelemvor) | God of Death | Came to an arrangement on the order of life, death and delivery of souls with Spoops |
 | [Jergal](/characters/jergal) | God of knowledge and scribe of all things | He orchestrated the vote on the death domain and gave Spoops his pen. |
 | [Glub Glub The Immortal](/characters/glub-glub) | Crab Deity | Immortal crab deity who livesnin the elemental plane of water. He hates Spoops |
+| [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
 
 
 ## Academic Personnel
