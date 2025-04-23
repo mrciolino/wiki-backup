@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:46:03.599Z
+date: 2025-04-23T18:50:27.144Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -30,6 +30,12 @@ List of non-player-characters from both campaigns and some information about the
 | [Ralindu](/characters/Ralindu) | Lich Lord | A powerful Lich from the Lich Wars who was found sealed in a Ruby. |
 | [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
 | [Inferno](/characters/inferno) | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
+
+
+## Guardison Family
+| Name | Role | Description |
+|------|------|-------------|
+| [Guardison Sr.](/characters/guardison-senior) | Father of the Family | He lived at the lighthouse north of Fort Suro. Spoops stole his wind amulet |
 
 
 ## Library Dimension Allies
