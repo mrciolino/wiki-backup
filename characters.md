@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:59:52.685Z
+date: 2025-04-23T17:53:32.254Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -57,6 +57,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Cyric](/characters/cyric) | Former God of Death | Usurped Myrkul and hid trom Kelemvor. Lost the domain of death to Kelemvor when killed by Kelemvor and Spoops during the 1000 year atonement. |
 | [Kelemvor](/characters/kelemvor) | God of Death | Came to an arrangement on the order of life, death and delivery of souls with Spoops |
 | [Jergal](/characters/jergal) | God of knowledge and scribe of all things | He orchestrated the vote on the death domain and gave Spoops his pen. |
+| [Glub Glub The Immortal](/characters/glub-glub) | Crab Deity | Immortal crab deity who livesnin the elemental plane of water. He hates Spoops |
 
 
 ## Academic Personnel
