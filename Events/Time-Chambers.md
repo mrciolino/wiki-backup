@@ -2,7 +2,7 @@
 title: Time Chambers
 description: Accelerated Time Chambers made with a Wish. Gokku would be proud.
 published: true
-date: 2025-04-22T18:14:17.242Z
+date: 2025-04-23T12:47:05.762Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-09T20:52:01.312Z
@@ -16,7 +16,7 @@ Created during the later seasons of Campaign 1, Bazzdos and Spoops began craftin
 
 | Chamber | Accomplishments | Power Source | Duration | 
 |---------|-----------------|--------------|----------|
-| **Time Chamber 1** | Spoops' Blade, Subjugated Jormungandr | Wish | 5000 years | 
+| **Time Chamber 1** | Spoops' Blade, Subjugated Jormungandr | Wish | 10000 years | 
 | **Time Chamber 2** | Created The Shard of Divinity, Ring of Magnificent Size, Trained Spoops' divine powers. | Wish from Deck of Many Things cast by Spoops | 5000 years | 
 | **Time Chamber 3** | Enhanced Shard of Divinity, Created Lasers, Lenes, and Magic Modular Rings | Earrings of Respite | 5000 years | 
 
