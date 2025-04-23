@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-23T14:45:52.923Z
+date: 2025-04-23T14:54:08.347Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -63,13 +63,14 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/bane) | Active |  
 | [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/Rathwing) | - | Active |  
 
-## **Guilds and Companies**  
+## **Guilds, Companies, and Orders**  
 | Name | Description | Headquarters | Leader | Status |  
 |------|-------------|-------------|--------|--------|  
 | [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar](/locations/Mardun/Kaltrosar) Bay fire. | - | - | Active |  
 | [Assassins Guild - Library Dimension](/organizations/assassins-guild)  | A secretive guild. | [Library-Dimension](/locations/Library-Dimension) | - | Active |  
 | [Adventurer's-Guild](/organizations/Adventurer's-Guild) | Supports adventurers. | [Fywick](/locations/Mardun/Fywick) | - | Active |  
 | [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
+| [The Soulblade Order](/organizations/Soulblade-Order) | Students of the Soulblade style of combat based on [Spoops'](/characters/spoops) fighting style. | Wardson Tower | - | Active |  
 
 
 # Campaign 2
