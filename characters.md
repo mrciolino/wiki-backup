@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T19:06:13.897Z
+date: 2025-04-23T19:11:56.862Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -42,7 +42,10 @@ List of non-player-characters from both campaigns and some information about the
 ## Paladin Order of the Soul Warden
 | Name | Role | Description |
 |------|------|-------------|
-| [Ghazali](/characters/ghazali) | Archangel of Atonement | He wasnone of Spoops' first paladin recruits. When he died during the Prophet of Profit mission, he was made into Spoops' first Archangel and made to atone for his sins. |
+| [Ghazali](/characters/ghazali) | Archangel of Atonement | He was one of Spoops' first paladin recruits. When he died during the Prophet of Profit mission, he was made into Spoops' first Archangel and made to atone for his sins. |
+| [Niebhur](/characters/niebhur) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with gathering precious metals for Mortis Lux. He also negotiated with and acted as ambassador to the space dwarves. |
+| [Tilich](/characters/tilich) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with recruiting druids and acquiring rare soporiphic herbs for Mortis Lux. |
+| [Wolterstoff](/characters/wolterstoff) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with recruiting spelljammer pilots and troops from among the gith and acting as ambassador to the gith. |
 
 
 ## Library Dimension Allies
