@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:40:50.153Z
+date: 2025-04-23T16:43:13.972Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -18,7 +18,6 @@ List of non-player-characters from both campaigns and some information about the
 ## Party Companions and Allies
 | Name | Role | Description |
 |------|------|-------------|
-| [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Body doubled as the Witch King to the party at [Ereriad](/locations/Ereriad), later a morally ambiguous ally. Destroyed an owlbear planet for souls with [Spoops](/characters/spoops). |
 | [Inferno](/characters/inferno) | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
 | [Os' Wife](/characters/os-wife) | Some Girl | - |
 | [Maria Luigi](/characters/maria-luigi) | Winner of Pirate King Competetion | [Elira](/characters/elira)'s Wife |
@@ -53,6 +52,8 @@ List of non-player-characters from both campaigns and some information about the
 | [Mask](/characters/mask) | Trickster God, masqueraded as Mystra for most of the campaign. Slain by Breezy-e during the timeskip. |
 | [Mystra](/characters/mystra) | Goddess of Magic, imprisoned by Mask for most of the campaign. |
 | [Lolth](/characters/lolth) | Spider Goddess. Allied with Mortis Lux against the Ithilid even before the treaty. |
+| [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Body doubled as the Witch King to the party at [Ereriad](/locations/Ereriad), later a morally ambiguous ally. Destroyed an owlbear planet for souls with [Spoops](/characters/spoops). |
+| [Bhaal](/characters/bhaal) | God of murder. Imprisoned by Cyric within Godbane. Formed a pact with Breezy-e in conjunction with Spoops. |
 
 
 ## Academic Personnel
