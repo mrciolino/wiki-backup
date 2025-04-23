@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:06:35.011Z
+date: 2025-04-23T18:07:41.017Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -19,10 +19,6 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Role | Description |
 |------|------|-------------|
 | [Inferno](/characters/inferno) | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
-| [Bomb the Bear](/characters/Bomb-the-Bear) | Animal Companion | Killed by [Rathwing](/characters/Rathwing)'s cult in Season 1. Later envisioned in the astral plan as Bomb Coin's life blood. |
-| [Josh the Drake](/characters/josh-the-drake) | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |
-| [Mechatarasque](/characters/mechatarasque) | Construct Guardian | A mechanized monstrosity, perhaps created by the [Pythagoreans](/organizations/The-Pythagorean-Empire). Profiled and commandeered by [Bazzdos](/characters/bazzdos). |
-| [Doom Slayer](/characters/doom-slayer) | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |
 | [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of [Porthy](/locations/Ereriad/Porthy). Fought alongside the party before perishing in [Ereriad](/locations/Ereriad). |
 | [Freedom](/characters/freedom) | Warforged | Overpowered Warfroged we met near level 1. |
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
@@ -33,8 +29,19 @@ List of non-player-characters from both campaigns and some information about the
 | [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
 
 ## Party Family Members
+| Name | Role | Description |
+|------|------|-------------|
 | [Os' Wife](/characters/os-wife) | Some Girl | - |
 | [Maria Luigi](/characters/maria-luigi) | Winner of Pirate King Competetion | [Elira](/characters/elira)'s Wife |
+
+
+## Party Pets and Companions
+| Name | Role | Description |
+|------|------|-------------|
+| [Bomb the Bear](/characters/Bomb-the-Bear) | Animal Companion | Killed by [Rathwing](/characters/Rathwing)'s cult in Season 1. Later envisioned in the astral plan as Bomb Coin's life blood. |
+| [Josh the Drake](/characters/josh-the-drake) | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |
+| [Mechatarasque](/characters/mechatarasque) | Construct Guardian | A mechanized monstrosity, perhaps created by the [Pythagoreans](/organizations/The-Pythagorean-Empire). Profiled and commandeered by [Bazzdos](/characters/bazzdos). |
+| [Doom Slayer](/characters/doom-slayer) | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |
 
 
 ## Gods
