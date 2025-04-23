@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:21:06.296Z
+date: 2025-04-23T18:24:30.947Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -108,6 +108,7 @@ List of non-player-characters from both campaigns and some information about the
 |------|------|----------------|  
 | [Darmuth](/characters/Darmuth) | Harbinger of The Emperor | Darmuth paved the way for the [Emperor](/characters/Emperor)'s arrival. | 
 | [Rathwing](/characters/Rathwing) | Demon Servant of Darmuth | He and his Cult terrorized the city of Demsford and [Altricia/Allford](/locations/Mardun/Allford). | 
+| [Daurgothoth](/characters/daurgothoth) | Dracolich | A powerful Dracolich who researches powerful magical spells. They kidnapped Adalynn and were collecting some Gond souls fragments. |
 | [Bill the Buttlicker](/characters/Bill-Buttlicker) | Licker of Butts | A disturbing man who became a ghost. Human / Ghost |
 | [Nemotih](/characters/Nemotih) | Betrayer of Ry-ann | During the two year timeskip, betrayed Spoops and Vesrahan's rebellion in Wegate leading to the deaths of hundreds or Spoops' worshippers. Forced the rebellion back underground. |
 | [Dave Bones](/characters/Dave-Bones) | An immortal being of spite. | Preserved in the memories of those he victimizes, he always seems to find a way back. |   
