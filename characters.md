@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:16:21.687Z
+date: 2025-04-23T18:21:06.296Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -67,6 +67,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Jergal](/characters/jergal) | God of knowledge and scribe of all things | He orchestrated the vote on the death domain and gave Spoops his pen. |
 | [Glub Glub The Immortal](/characters/glub-glub) | Crab Deity | Immortal crab deity who livesnin the elemental plane of water. He hates Spoops |
 | [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
+
 
 
 ## Academic Personnel
