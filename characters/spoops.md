@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2025-03-22T20:13:01.287Z
+date: 2025-04-23T12:59:27.071Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -54,6 +54,10 @@ Spoops once again found himself washed ashore missing most of his memories. This
 # Timeskip Arc
 
 After the fall of Altricia to Darmuth and the death of Krorg at her hands. The party split up to gather their strength and take care of their own individual tasks before reuniting to face Darmuth again. Spoops spent two years working with Vesrahaan in Wegate forming the rebel army, and spreading worship of Spoops/Ry-ann among the population.
+
+Spoops traveled to Wegate with Lokunai the demon, where he had already sent his disciple Vesrahann the snake woman to preach of his coming as the Prophet of their true god. Spoops, Lokunai, and Vesrahann sought to establish a new church of Ry-ann led by the Pope/king Spoops. After their arrival, Spoops spent his the time in Wegate converting followers to his cause to create a pseudo-theorcracy around himself as the holy Prophet of Death and life. 
+
+At the end of the two years, Spoops kust leave the rebels to meet eith the party. He leaves Vesrahaan to lead his followers as he makes his way back to his friends.
 
 
 # Founding of Mortis Lux
