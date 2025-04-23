@@ -2,7 +2,7 @@
 title: Mortis Lux
 description: A massive multi-planar organization started to combat the Ithilid threat
 published: true
-date: 2025-04-23T18:56:02.794Z
+date: 2025-04-23T18:56:28.608Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T23:04:45.637Z
@@ -20,8 +20,7 @@ Mortis Lux's Highest Authority are the Highlords. They have final say and contro
 - [Os Vrntica](/characters/os)
 
 ## Regent
-- Lucidel Illiard
-- [Lucidel Illiard](/characters/illiard)
+- [Lucidel Illiard (/characters/illiard)
 
 ## War Council
 The War Council is the next highest Authority under the Highlords. Most seats at the War Council are occupied by leaders of member organizations. War Council members are appointed by the Highlords. The War Council and Highlords convene to make decicions for the organization, and to govern the bases and territories commonly owned by the organization. Each member of the War Council maintains different aspects and groups within the organization. 
