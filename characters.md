@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:39:19.142Z
+date: 2025-04-23T16:40:50.153Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -52,6 +52,7 @@ List of non-player-characters from both campaigns and some information about the
 | [The Raven Queen](/characters/the-raven-queen) | Goddess of memories. Helped the party with the protein shake of power, brokering the treaty with the Council, and defeating Zeus |
 | [Mask](/characters/mask) | Trickster God, masqueraded as Mystra for most of the campaign. Slain by Breezy-e during the timeskip. |
 | [Mystra](/characters/mystra) | Goddess of Magic, imprisoned by Mask for most of the campaign. |
+| [Lolth](/characters/lolth) | Spider Goddess. Allied with Mortis Lux against the Ithilid even before the treaty. |
 
 
 ## Academic Personnel
