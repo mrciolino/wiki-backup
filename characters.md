@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:24:40.410Z
+date: 2025-04-23T16:26:23.426Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -34,6 +34,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
 | [Ralindu](/characters/Ralindu) | A powerful Lich from the Lich Wars who was found sealed in a Ruby. | Lich |
 | [Jigglypuff](/characters/jigglypuff) | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge |
+| [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad, she was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
 
 ## Academic Personnel
 | Name | Role | Description |
