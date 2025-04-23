@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-22T18:37:09.489Z
+date: 2025-04-23T15:59:48.030Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -33,6 +33,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
 | [Bill the Buttlicker](/characters/Bill-Buttlicker) | A disturbing man who became a ghost. | Human / Ghost |
 | [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
+| [Ralindu](/characters/Ralindu) | A powerful Lich from the Lich Wars who was found sealed in a Ruby. | Lich |
 
 ## Academic Personnel
 | Name | Role | Description |
