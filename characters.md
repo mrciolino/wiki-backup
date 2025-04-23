@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:52:05.971Z
+date: 2025-04-23T16:58:23.818Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -31,32 +31,32 @@ List of non-player-characters from both campaigns and some information about the
 | [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
 | [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
 | [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
-| [Ralindu](/characters/Ralindu) | A powerful Lich from the Lich Wars who was found sealed in a Ruby. | Lich |
-| [Jigglypuff](/characters/jigglypuff) | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge |
-| [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad, she was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
+| [Ralindu](/characters/Ralindu) | Lich Lord | A powerful Lich from the Lich Wars who was found sealed in a Ruby. | Lich |
+| [Jigglypuff](/characters/jigglypuff) | Friend of the Bazz family | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge |
+| [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
 
 
 ## Gods
 | Name | Role | Description |
 |------|------|-------------|
-| [Thor](/characters/thor) | God of Thunder |
-| [Odin](/characters/odin) | Leader of the Norse Pantheon|
-| [Loki](/characters/loki) | Trickster God |
+| [Thor](/characters/thor) | God of Thunder | Member of the Council of Gods |
+| [Odin](/characters/odin) | Leader of the Norse Pantheon| Member of the Council of Gods |
+| [Loki](/characters/loki) | Trickster God | Member of the Council of Gods |
 | [Zeus](/characters/zeus) | God of Thunder and leader of Olympus. | Sought revenge on [Spoops](/characters/spoops) for the destabilization of Bomb Coin. |
-| [Shar](/characters/shar) | Goddess of Pain and Shadow |
-| [Selune](/characters/selune) | Goddess of the moon |
-| [Bahamut](/characters/bahamut) | Dragon God of law and judgement |
-| [Pyrocinae](/characters/pyrocinae) | Goddess of fire |
-| [Gond](/characters/Gond) | God of the forge. His soul was torn apart by Spoops during his time as Myrkul. |
-| [The Raven Queen](/characters/the-raven-queen) | Goddess of memories. Helped the party with the protein shake of power, brokering the treaty with the Council, and defeating Zeus |
-| [Mask](/characters/mask) | Trickster God, masqueraded as Mystra for most of the campaign. Slain by Breezy-e during the timeskip. |
-| [Mystra](/characters/mystra) | Goddess of Magic, imprisoned by Mask for most of the campaign. |
-| [Lolth](/characters/lolth) | Spider Goddess. Allied with Mortis Lux against the Ithilid even before the treaty. |
+| [Shar](/characters/shar) | Goddess of Pain and Shadow | Allies with Spoops when convenient |
+| [Selune](/characters/selune) | Goddess of the moon | Member of the Council of Gods |
+| [Bahamut](/characters/bahamut) | Dragon God of law and judgement | Leader of the Council of Gods |
+| [Pyrocinae](/characters/pyrocinae) | Goddess of fire | Became a friend to Spoops after he took began using her Iron Halo |
+| [Gond](/characters/Gond) | God of the forge | His soul was torn apart by Spoops during his time as Myrkul. |
+| [The Raven Queen](/characters/the-raven-queen) | Goddess of memories | Helped the party with the protein shake of power, brokering the treaty with the Council, and defeating Zeus | 
+| [Mask](/characters/mask) | Trickster God | Masqueraded as Mystra for most of the campaign. Slain by Breezy-e during the timeskip. |
+| [Mystra](/characters/mystra) | Goddess of Magic | Imprisoned by Mask for most of the campaign. |
+| [Lolth](/characters/lolth) | Spider Goddess | Allied with Mortis Lux against the Ithilid even before the treaty. |
 | [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Body doubled as the Witch King to the party at [Ereriad](/locations/Ereriad), later a morally ambiguous ally. Destroyed an owlbear planet for souls with [Spoops](/characters/spoops). |
-| [Bhaal](/characters/bhaal) | God of murder. Imprisoned by Cyric within Godbane. Formed a pact with Breezy-e in conjunction with Spoops. |
-| [Cyric](/characters/cyric) | Former God of Death. Usurped Myrkul and hid trom Kelemvor. Lost the domain of death to Kelemvor when killed by Kelemvor and Spoops during the 1000 year atonement. |
-| [Kelemvor](/characters/kelemvor) | God of Death. Came to an arrangement on the order of life, death and delivery of souls with Spoops |
-| [Jergal](/characters/jergal) | God of knowledge and scribe of all things. He orchestrated the vote on the death domain and gave Spoops his pen. |
+| [Bhaal](/characters/bhaal) | God of murder | Imprisoned by Cyric within Godbane. Formed a pact with Breezy-e in conjunction with Spoops. |
+| [Cyric](/characters/cyric) | Former God of Death | Usurped Myrkul and hid trom Kelemvor. Lost the domain of death to Kelemvor when killed by Kelemvor and Spoops during the 1000 year atonement. |
+| [Kelemvor](/characters/kelemvor) | God of Death | Came to an arrangement on the order of life, death and delivery of souls with Spoops |
+| [Jergal](/characters/jergal) | God of knowledge and scribe of all things | He orchestrated the vote on the death domain and gave Spoops his pen. |
 
 
 ## Academic Personnel
