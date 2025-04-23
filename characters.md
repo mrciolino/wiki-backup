@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:26:23.426Z
+date: 2025-04-23T16:35:03.136Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -35,6 +35,19 @@ List of non-player-characters from both campaigns and some information about the
 | [Ralindu](/characters/Ralindu) | A powerful Lich from the Lich Wars who was found sealed in a Ruby. | Lich |
 | [Jigglypuff](/characters/jigglypuff) | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge |
 | [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad, she was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
+
+
+## Gods
+| Name | Role | Description |
+|------|------|-------------|
+| [Thor](/characters/thor) | God of Thunder |
+| [Odin](/characters/odin) | Leader of the Norse Pantheon|
+| [Loki](/characters/loki) | Trickster God |
+| [Zeus](/characters/zeus) | God of Thunder and leader of Olympus. | Sought revenge on [Spoops](/characters/spoops) for the destabilization of Bomb Coin. |
+| [Shar](/characters/shar) | Goddess of Pain and Shadow |
+| [Selune](/characters/selune) | Goddess of the moon |
+| [Bahamut](/characters/bahamut) | Dragon God of law and judgement |
+
 
 ## Academic Personnel
 | Name | Role | Description |
@@ -76,8 +89,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Rathwing](/characters/Rathwing) | Demon Servant of Darmuth | He and his Cult terrorized the city of Demsford and [Altricia/Allford](/locations/Mardun/Allford). | 
 | [Bill the Buttlicker](/characters/Bill-Buttlicker) | A disturbing man who became a ghost. | Human / Ghost |
 | [Nemotih](/characters/Nemotih) | Betrayer of Ry-ann | During the two year timeskip, betrayed Spoops and Vesrahan's rebellion in Wegate leading to the deaths of hundreds or Spoops' worshippers. Forced the rebellion back underground. |
-| [Dave Bones](/characters/Dave-Bones) | An immortal being of spite. | Preserved in the memories of those he victimizes, he always seems to find a way back. |  
-| [Zeus](/characters/zeus) | God of Thunder and leader of Olympus. | Sought revenge on [Spoops](/characters/spoops) for the destabilization of Bomb Coin. |  
+| [Dave Bones](/characters/Dave-Bones) | An immortal being of spite. | Preserved in the memories of those he victimizes, he always seems to find a way back. |   
 | [Emperor](/characters/Emperor) | The final boss | Sought the destruction of the Anchor Worlds which keep Cronos sealed in Carceri. |  
 
 # **Campaign 2**  
