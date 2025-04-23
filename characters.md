@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:15:27.389Z
+date: 2025-04-23T18:16:21.687Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -20,7 +20,7 @@ List of non-player-characters from both campaigns and some information about the
 |------|------|-------------|
 | [Inferno](/characters/inferno) | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
 | [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of [Porthy](/locations/Ereriad/Porthy). Fought alongside the party before perishing in [Ereriad](/locations/Ereriad). |
-| [Freedom](/characters/freedom) | Warforged | Overpowered Warfroged we met near level 1. |
+| [Freedom](/characters/freedom) | Warforged | Overpowered Warfroged we met outside the tavern at Fort Suro |
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
 | [Lokunai](/characters/lokunai) | Like Low Level Adventures | Demon with a Fetish |
 | [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
