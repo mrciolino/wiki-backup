@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:43:54.139Z
+date: 2025-04-23T18:46:03.599Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -36,6 +36,7 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Role | Description |
 |------|------|-------------|
 | [Jigglypuff](/characters/jigglypuff) | Friend of the Bazz family | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge |
+| [Starfox](/characters/starfox) | Friend of the Bazz family | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge. He silently showed Spoops how to Soul Steal. |
 
 
 ## Party Family Members
