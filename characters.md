@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:35:03.136Z
+date: 2025-04-23T16:39:19.142Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -47,6 +47,11 @@ List of non-player-characters from both campaigns and some information about the
 | [Shar](/characters/shar) | Goddess of Pain and Shadow |
 | [Selune](/characters/selune) | Goddess of the moon |
 | [Bahamut](/characters/bahamut) | Dragon God of law and judgement |
+| [Pyrocinae](/characters/pyrocinae) | Goddess of fire |
+| [Gond](/characters/Gond) | God of the forge. His soul was torn apart by Spoops during his time as Myrkul. |
+| [The Raven Queen](/characters/the-raven-queen) | Goddess of memories. Helped the party with the protein shake of power, brokering the treaty with the Council, and defeating Zeus |
+| [Mask](/characters/mask) | Trickster God, masqueraded as Mystra for most of the campaign. Slain by Breezy-e during the timeskip. |
+| [Mystra](/characters/mystra) | Goddess of Magic, imprisoned by Mask for most of the campaign. |
 
 
 ## Academic Personnel
