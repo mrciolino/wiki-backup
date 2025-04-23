@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:07:41.017Z
+date: 2025-04-23T18:12:08.880Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -99,8 +99,8 @@ List of non-player-characters from both campaigns and some information about the
 | [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in [Fywick](/locations/Mardun/Fywick)'s [Bartenders Guild](/organizations/bartenders_guild). |
 | [Gnomio the Weaponsmith](/characters/gnomio-the-weaponsmith) | Weaponsmith | - |
 | [Baxter the Potion Master](/characters/baxter-the-potion-master) | Potion Master | - |
-| [Vesrahaan](/characters/vesrahaan) | Unknown | - |
-| [Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco) | Unknown | - |
+| [Vesrahaan](/characters/vesrahaan) | Eternal Queen of Wegate | Loyal servant to Spoops. She led the rebellion in Wegate alongside Spoops, restoring the city as a theocratic kingdom worshipping Spoops. |
+| [Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco) | A Devil Fighter | A fighter from Hell, he served the dsughter of Asmodeus before Spoops took a liming to him and reauested he be given to Mortis Lux. |
 
 ## **Villains**  
 | Name | Role | Notable Actions |  
