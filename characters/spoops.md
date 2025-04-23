@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2025-04-23T14:29:01.033Z
+date: 2025-04-23T14:34:01.789Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -86,7 +86,10 @@ As the door to his realm closed behind him, the blast caused hin to knock his he
 
 Spoops' final act among the party was sending each of them a goblet of ale and a note thanking them for the adventure of a lifetime. The party enjoyed one final bittersweet drink together before saying goodbye to the Low Bar Brawlers.
 
+# Campaign 2
+At the start of the second campaign, Spoops completes his 1000 years of work, returning to the Well only to notice what he had been to0 distracted to see before. His religion had gone through a schism and his friend's were quite busy with their own issues.
 
+The Spoops (body) spent most of the last 1000 years adventuring throughout different worlds, but was now on Mardun, fully aware of the current events of the world and aware of their divinity but also unable to get the divine Spoops' attention, he played many roles over 1000 years, but only returned to Mardun in recent times. Now that the 1000 year quest is over, reuniting with Divine Spoops is imminent.
 
 
 # Stats
