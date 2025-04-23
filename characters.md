@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T16:43:13.972Z
+date: 2025-04-23T16:52:05.971Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -54,6 +54,9 @@ List of non-player-characters from both campaigns and some information about the
 | [Lolth](/characters/lolth) | Spider Goddess. Allied with Mortis Lux against the Ithilid even before the treaty. |
 | [Bane (Witch King)](/characters/bane) | Antagonist-turned-ally | Body doubled as the Witch King to the party at [Ereriad](/locations/Ereriad), later a morally ambiguous ally. Destroyed an owlbear planet for souls with [Spoops](/characters/spoops). |
 | [Bhaal](/characters/bhaal) | God of murder. Imprisoned by Cyric within Godbane. Formed a pact with Breezy-e in conjunction with Spoops. |
+| [Cyric](/characters/cyric) | Former God of Death. Usurped Myrkul and hid trom Kelemvor. Lost the domain of death to Kelemvor when killed by Kelemvor and Spoops during the 1000 year atonement. |
+| [Kelemvor](/characters/kelemvor) | God of Death. Came to an arrangement on the order of life, death and delivery of souls with Spoops |
+| [Jergal](/characters/jergal) | God of knowledge and scribe of all things. He orchestrated the vote on the death domain and gave Spoops his pen. |
 
 
 ## Academic Personnel
