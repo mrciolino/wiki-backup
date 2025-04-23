@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2025-04-23T14:34:01.789Z
+date: 2025-04-23T14:38:29.906Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -49,6 +49,9 @@ Spoops found himself washed ashore in a new world engulfed in war. As a group of
 
 # Arrival to the Modern Era (Start of the Low Bar Brawlers)
 Spoops once again found himself washed ashore missing most of his memories. This time he was not far from where he last sank into the sea, still finding himself within the kingdom of Kaltrussar. He remembered that he was a Paladin, and was wearing some of his basic gear. He dried himself off in the sun before walking into the nearest tavern for a drink. It was in this tavern that he finds himself joining up with 11 others to form the Low Bar Brawlers.
+
+# Death of Bomb the Bear
+During the battle against Rathwing's cultists, bomb the bear was killed. The desth of this beloved member of the party traumatized Spoops as he desperately eished he could bring Bomb back to life. Spoops resolved to never again let death be the end. As he swore this oath, his divine soul Ry-ann blessed this Oath, becoming his God. 
 
 
 # Timeskip Arc
