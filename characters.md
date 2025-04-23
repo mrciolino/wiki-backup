@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T17:57:00.449Z
+date: 2025-04-23T18:06:35.011Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -19,8 +19,6 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Role | Description |
 |------|------|-------------|
 | [Inferno](/characters/inferno) | Red Great Wyrm | A dragon of apocalyptic power, progenitor of many dragons, and the beating heart of the worlds largest volcano |
-| [Os' Wife](/characters/os-wife) | Some Girl | - |
-| [Maria Luigi](/characters/maria-luigi) | Winner of Pirate King Competetion | [Elira](/characters/elira)'s Wife |
 | [Bomb the Bear](/characters/Bomb-the-Bear) | Animal Companion | Killed by [Rathwing](/characters/Rathwing)'s cult in Season 1. Later envisioned in the astral plan as Bomb Coin's life blood. |
 | [Josh the Drake](/characters/josh-the-drake) | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |
 | [Mechatarasque](/characters/mechatarasque) | Construct Guardian | A mechanized monstrosity, perhaps created by the [Pythagoreans](/organizations/The-Pythagorean-Empire). Profiled and commandeered by [Bazzdos](/characters/bazzdos). |
@@ -33,6 +31,10 @@ List of non-player-characters from both campaigns and some information about the
 | [Ralindu](/characters/Ralindu) | Lich Lord | A powerful Lich from the Lich Wars who was found sealed in a Ruby. |
 | [Jigglypuff](/characters/jigglypuff) | Friend of the Bazz family | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge |
 | [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
+
+## Party Family Members
+| [Os' Wife](/characters/os-wife) | Some Girl | - |
+| [Maria Luigi](/characters/maria-luigi) | Winner of Pirate King Competetion | [Elira](/characters/elira)'s Wife |
 
 
 ## Gods
