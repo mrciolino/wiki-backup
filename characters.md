@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T18:50:27.144Z
+date: 2025-04-23T18:54:08.681Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -36,6 +36,12 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Role | Description |
 |------|------|-------------|
 | [Guardison Sr.](/characters/guardison-senior) | Father of the Family | He lived at the lighthouse north of Fort Suro. Spoops stole his wind amulet |
+
+
+## Paladin Order of the Soul Warden
+| Name | Role | Description |
+|------|------|-------------|
+| [Ghazali](/characters/ghazali) | Archangel of Atonement | He wasnone of Spoops' first paladin recruits. When he died during the Prophet of Profit mission, he was made into Spoops' first Archangel and made to atone for his sins. |
 
 
 ## Library Dimension Allies
