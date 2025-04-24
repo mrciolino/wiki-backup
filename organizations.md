@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-24T14:47:16.501Z
+date: 2025-04-24T14:50:33.216Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -57,8 +57,9 @@ Groups of entities that represent various factions, guilds, nations, religious s
 ## **Religious Groups**  
 | Name | Description | Worships | Leader | Status |  
 |------|-------------|---------|--------|--------|  
+| [Church of Spoops](/organizations/church-of-spoops) | The orgsnized religious body of [Ryan-Spoops](/characters/spoops) worship. | [Spoops](/characters/spoops) | - | Active |
 | [Narascene Clerics](/organizations/narascene-clerics) | A religious order serving the Red Archon (false prophet) [Narascus](/characters/narascus). | [Narascus](/characters/narascus) as Prophet of [Spoops](/characters/spoops) | [Narascus](/characters/narascus) | Active |  
-| [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/spoops) who rule Wegate. | [Ryan-Spoops](/characters/spoops) | - | Active |  
+| [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/spoops) who rule Wegate. | [Ryan-Spoops](/characters/spoops) | - | Active | 
 | [The Soulwardens](/organizations/paladin-order-of-spoops) | A knightly order of paladins serving their God Spoops. | [Spoops](/characters/spoops) | [Kierkegaard](/characters/kierkegaard) | Active |  
 | [Knights of Sidonia](/organizations/knights-of-sidonia) | A knightly order of Oath of Vengeance Paladins. | Formerly [Spoops](/characters/spoops) | Justice | Inactive |  
 | [Inevitables](/organizations/inevitables) | Agents of divine justice. | - | - | Active |  
