@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-24T13:41:31.830Z
+date: 2025-04-24T13:44:05.393Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -74,7 +74,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Doom Slayer](/characters/doom-slayer) | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |
 
 
-## Gods
+## Gods and Titans
 | Name | Role | Description |
 |------|------|-------------|
 | [Thor](/characters/thor) | God of Thunder | Member of the Council of Gods |
@@ -97,6 +97,8 @@ List of non-player-characters from both campaigns and some information about the
 | [Jergal](/characters/jergal) | God of knowledge and scribe of all things | He orchestrated the vote on the death domain and gave Spoops his pen. |
 | [Glub Glub The Immortal](/characters/glub-glub) | Crab Deity | Immortal crab deity who livesnin the elemental plane of water. He hates Spoops |
 | [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
+| [Iapetus](/characters/iapetus) | Titan | He was set loose by Bane and Spoops. After Campaign 1 he was slain by Spoops and Bazz piloting Mecha-Tu'narath |
+| [Cronos](/characters/cronos) | Titan | The most powerful titan. He is sealed in carceri. |
 
 
 
