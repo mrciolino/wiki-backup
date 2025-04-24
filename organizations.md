@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-24T14:33:13.777Z
+date: 2025-04-24T14:33:37.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -32,7 +32,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 ## **Races**  
 | Name | Description | Common Locations | Notable Figures | Status |  
 |------|-------------|-----------------|-----------------|--------|  
-| [Ithilid](/organizations/ithilid) | A hive of mind flayers seeing to release [Kronos](/characters/kronos) and reshape reality. | Astral Sea | [Emperor](/characters/Emperor) | Hostile/Destroyed |  
+| [Ithilid](/organizations/ithilid) | A hive of mind flayers seeking to release [Kronos](/characters/kronos) and reshape reality. | Astral Sea | [Emperor](/characters/Emperor) | Hostile/Destroyed |  
 
 ## **Pirate Crews**  
 | Name | Description | Ship Name | Captain | Status |  
