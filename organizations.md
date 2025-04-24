@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-23T14:55:24.062Z
+date: 2025-04-24T14:23:32.901Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -58,7 +58,8 @@ Groups of entities that represent various factions, guilds, nations, religious s
 |------|-------------|---------|--------|--------|  
 | [Narascene Clerics](/organizations/narascene-clerics) | A religious order. | - | - | Active |  
 | [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/spoops). | [Ryan-Spoops](/characters/spoops) | - | Active |  
-| [Paladin Order of Spoops](/organizations/paladin-order-of-spoops) | A knightly order. | [Spoops](/characters/spoops) | - | Active |  
+| [Paladin Order of Spoops](/organizations/paladin-order-of-spoops) | A knightly order of paladins serving their God Spoops. | [Spoops](/characters/spoops) | - | Active |  
+| [Knights of Sidonia](/organizations/knights-of-sidonia) | A knightly order of Oath of Vengeance Paladins. | [Spoops](/characters/spoops) | - | Active |  
 | [Inevitables](/organizations/inevitables) | Agents of divine justice. | - | - | Active |  
 | [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/bane) | Active |  
 | [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/Rathwing) | - | Active |  
