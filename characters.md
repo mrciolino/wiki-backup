@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-24T13:44:05.393Z
+date: 2025-04-24T13:44:24.832Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -98,7 +98,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Glub Glub The Immortal](/characters/glub-glub) | Crab Deity | Immortal crab deity who livesnin the elemental plane of water. He hates Spoops |
 | [Aphyr the Mighty](/characters/aphir-the-mighty) | Deity | Floating Elephant God who gave us boons |
 | [Iapetus](/characters/iapetus) | Titan | He was set loose by Bane and Spoops. After Campaign 1 he was slain by Spoops and Bazz piloting Mecha-Tu'narath |
-| [Cronos](/characters/cronos) | Titan | The most powerful titan. He is sealed in carceri. |
+| [Kronos](/characters/kronos) | Titan | The most powerful titan. He is sealed in carceri. |
 
 
 
