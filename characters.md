@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-24T13:36:50.536Z
+date: 2025-04-24T13:39:05.613Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -53,6 +53,7 @@ List of non-player-characters from both campaigns and some information about the
 ## Library Dimension Allies
 | Name | Role | Description |
 |------|------|-------------|
+| [Tree of Knowledge](/characters/tree-of-knowledge) | Ruler and index of the Library | A tree at the center of thr infinite library dimension. This entity contains all knowledge within the library. |
 | [Jigglypuff](/characters/jigglypuff) | Friend of the Bazz family | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge |
 | [Starfox](/characters/starfox) | Friend of the Bazz family | A denizen of the Library and friend to Bazzvrah / The Tree of Knowledge. He silently showed Spoops how to Soul Steal. |
 
