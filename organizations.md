@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-24T14:33:37.479Z
+date: 2025-04-24T14:37:01.758Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -52,6 +52,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Hellaresian Centaur Tribe](/organizations/centaur-tribe) | A nomadic centaur tribe. | Outside [Hellaress](/locations/Ereriad/Hellaress) | - | Active |  
 | [Astral Dwarf Clans](/organizations/astral-dwarf-clans) | Dwarven clans in the Astral Plane. | [Astral Plane](/locations/astral-plane) | - | Active |  
 | [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/Mardun/Kaltrosar) | - | Active |  
+| [Holy Empire of Wegate](/organizations/wegate) | A theocracy ruled by [Vesrahaan](/characters/vesrahaan) and the [Cult of Wegate](/organizations/cult-of-wegate). | [Vesrahaan](/characters/vesrahaan) | - | Active |  
 
 ## **Religious Groups**  
 | Name | Description | Worships | Leader | Status |  
