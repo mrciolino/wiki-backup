@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-23T20:02:57.261Z
+date: 2025-04-24T13:36:50.536Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -47,6 +47,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Niebhur](/characters/niebhur) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with gathering precious metals for Mortis Lux. He also negotiated with and acted as ambassador to the space dwarves. |
 | [Tilich](/characters/tilich) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with recruiting druids and acquiring rare soporiphic herbs for Mortis Lux. |
 | [Wolterstoff](/characters/wolterstoff) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with recruiting spelljammer pilots and troops from among the gith and acting as ambassador to the gith. |
+| [Luther](/characters/luther) | Paladin of Spoops | He was one of Spoops' first paladin recruits. |
 
 
 ## Library Dimension Allies
