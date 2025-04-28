@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-04-28T23:43:37.022Z
+date: 2025-04-28T23:48:28.193Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -61,8 +61,9 @@ List of non-player-characters from both campaigns and some information about the
 ## Party Family Members
 | Name | Role | Description |
 |------|------|-------------|
-| [Daera Vrintica](/characters/Daera) | Os' Wife | Died of natural causes at 83 years old. |
-| [Maria Luigi](/characters/maria-luigi) | Winner of Pirate King Competetion | [Elira](/characters/elira)'s Wife |
+| [Daera Vrintica](/characters/Daera) | Os' 1st Wife | From [Gothriathon](/locations/Mardun/Gothriathon). Died of natural causes at 83 years old. |
+| TBD | Os' 2nd Wife | - |
+| [Maria Luigi](/characters/maria-luigi) | Winner of Pirate King Competetion | [Elira](/characters/elira)'s Wife. Met on [Saragassa](/locations/Mardun/Saragassa). |
 
 
 ## Party Pets and Companions
