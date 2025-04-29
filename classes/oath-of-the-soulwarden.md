@@ -2,7 +2,7 @@
 title: Paladin: Oath of The Soul Warden
 description: Oath taken up by paladins loyal to Spoops and the Cycle of Souls.
 published: true
-date: 2025-04-29T19:49:51.002Z
+date: 2025-04-29T19:50:19.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-29T19:49:17.311Z
@@ -37,8 +37,7 @@ You can use your channel divinity to keep control of your undead servants when t
 The amount of undead you may maintain control over equals your level / 2, rounded down. When cast at a higher level, plus an additional undead for each spell slot above 3rd.
 
 | Spell Slot Level | Additional Undead Controlled | 
-|---------------|
-----------------------------------|
+|---------------|----------------------------------|
 | 3rd | 1 |
 | 4th | 2 |
 | 5th | 3 |
