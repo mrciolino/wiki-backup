@@ -2,11 +2,13 @@
 title: session_7_summary
 description: 
 published: true
-date: 2025-04-22T03:10:29.458Z
+date: 2025-04-29T00:03:48.531Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-22T03:10:29.458Z
 ---
+
+❌ This order of operation is wrong ❌
 
 ### **[Session Metadata]**  
 **Date:** April 22, 2025  
