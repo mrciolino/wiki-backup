@@ -2,7 +2,7 @@
 title: Paladin: Oath of The Soul Warden
 description: Oath taken up by paladins loyal to Spoops and the Cycle of Souls.
 published: true
-date: 2025-04-29T19:49:17.311Z
+date: 2025-04-29T19:49:51.002Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-29T19:49:17.311Z
@@ -20,9 +20,8 @@ dateCreated: 2025-04-29T19:49:17.311Z
 
 ## Oath Spells
 
-| Paladin Level | Spell(s) | Additional Spell Slots | 
-|---------------|
--------------------|---------------------|
+| Paladin Level | Spell(s) | Additional Spell Slots |
+|---------------|-------------------|---------------------|
 | 3rd | [Animate Dead](/spells/Animate-Dead), Sanctuary | 1 x 3rd level |
 | 5th | Spirit Guardians, Inflict Wounds | | 
 | 9th | Crusader's Mantle, Life Transference | | 
