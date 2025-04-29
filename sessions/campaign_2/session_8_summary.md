@@ -2,158 +2,193 @@
 title: session_8_summary
 description: 
 published: true
-date: 2025-04-29T03:38:39.452Z
+date: 2025-04-29T19:47:11.154Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-29T03:38:39.452Z
 ---
 
-### **[Session Metadata]**  
-**Date:** April 29, 2025  
-**Session Number:** 8  
+### **[Session Metadata]**
+- **Date:** April 28th, 2025 
+- **Session Number:** 8
+- **Duration:** ~3 hours
+- **Players Present:** Logan (Tiberian), Nick (Goopy), Breezy (Breezy Bee), Matthew (Oran), Peter (Thomas), Ryan (DM)
 
----
+### **[Recap of Previous Session]**
+The party received an urgent message from Vamir of the Church of Crows, reducing Oran's deadline to retrieve the "mechanism" from one month to two days under threat of his brother being sold into slavery. Tiberian was revealed to possess a dangerous orb (the mechanism) - a powerful energy source created by his mother that Clan Euryxias covets. The group split to gather resources: Goopy and Breezy sought magical items/backup, while Thomas and Oran investigated leads at the academy. Key developments included:
+- Tiberian handing the depression-inducing orb to Oran during a mental breakdown
+- Thomas learning his father is magically enslaved by Archsorcerer Soulfire
+- Oran securing the orb in a magic-suppressing box from Osdemir
+- Recruitment of Runt, the academy's battle-hardened gardener
 
-### **[Recap of Previous Session]**  
-- The party learned the black orb (the "mechanism") is a dangerous power source created by Tiberian's mother, capable of catastrophic destruction if misused.  
-- Oran's brother Verrick is held hostage by Vamir, who demanded the orb within 2 days or Verrick would be sold into slavery.  
-- The party split to prepare: securing a fake orb (Tiberian's creation), recruiting allies (Runt), and investigating the Church of Crows.  
+**Unresolved Plot Threads:**
+1. Can the party rescue Oran's brother without surrendering the orb?
+2. What is the true nature/power of Tiberian's orb?
+3. How is Vamir connected to Clan Euryxias?
+4. Will Thomas pursue vengeance against the Admiral who killed his mother?
+5. Can the party maintain cover while transporting illegal weapons into Vrentia?
+6. What are Soulfire's true motives regarding Thomas' father?
+7. How will the party navigate the Church of Crows' slave operations?
 
-**Unresolved Threads:**  
-- Rescue Verrick without handing over the real orb.  
-- Survive the fight against Vamir's forces, including the shadow-teleporting half-orc assassin.  
-- Prevent the orb from falling into enemy hands (Clan Norexias/Vamir).  
-- Thomas's vendetta against Admiral Walter Bestwater Vrintia (mother's murderer).  
+### **[Session Log] - Major Events**
 
----
+**Entities:**
+- **PCs:** 
+  - **Tiberian Caipao:** Dragonborn Artificer (School of Sorcery, Sign of Dragon) - Recovering from depressive episode
+  - **Goopy Globulon:** Plasmoid Fighter (School of Swords, Sign of Spider) - Currently "injured" disguise
+  - **Breezy Bee:** Aarakocra Sorcerer (School of Sorcery, Sign of Dragon) - Newly manifesting powers
+  - **Oran:** Deep Gnome Rogue (School of Songs, Sign of Spider) - Carrying contained orb
+  - **Thomas Stonebrook:** Human Barbarian (School of Swords, Sign of Bear) - Recently discovered mother's murderer
+  - **Runt:** Goliath Gardener - Wielding massive rune-inscribed greatsword
 
-### **[Session Log]**  
-**Entities:**  
-- **PCs:**  
-  - **Tiberian:** Desperate to reclaim the orb, revealed its apocalyptic potential.  
-  - **Oran:** Focused on rescuing Verrick; attempted to incite a slave revolt.  
-  - **Thomas:** Barbarian rage activated, wielding a pew as a weapon.  
-  - **Goopy:** Invisible in the bell tower after slashing a guard.  
-  - **Breezy:** Badly wounded, fled outside but surrounded.  
-  - **Runt:** Grappling Grimsley, yelling "WAR!"  
-- **NPCs:**  
-  - **Vamir:** Crime boss posing as a priest; offered to halve debts for loyalty.  
-  - **Grimsley:** Dwarf enforcer; locked in a grapple with Runt.  
-  - **Shadow-Teleporting Half-Orc:** Assassin who alerted the church to the attack.  
-- **Locations:**  
-  - **Church of Crows:** Front for slaving operations; blue/gold heraldry instead of traditional Os colors.  
-- **Items:**  
-  - **Black Orb:** Contained in Osdemeer's magic box; radiates despair.  
-  - **Fake Orb:** Glass/oil construct with magical tinkering (whispers, glow).  
+**Relationships & Interactions:**
+- **Tiberian and Oran:** Tense custodial dispute over the orb, with Oran refusing to return it despite Tiberian's warnings
+- **Party and Vamir:** High-stakes negotiation begins under false pretenses of a "birthday gift"
+- **Thomas and City Guards:** Leveraged former guard status to bypass weapon checks
+- **Goopy and Breezy:** Successful aerial infiltration but compromised position
+- **Runt and Grimsley:** Physical confrontation erupting during the sermon
 
-**Relationships & Interactions:**  
-- **Party Cohesion:** Strained by Tiberian's orb secrecy and Goopy/Breezy's reckless scouting.  
-- **Vamir & Slaves:** Exploitative; slaves hesitated until Vamir dangled debt reduction.  
-- **Runt & Grimsley:** Physical showdown; Runt sees this as divine mandate ("WAR").  
+**Important Dialogue:**
+1. "Oren, all you need to know is that if I don't have it, everyone will fucking die." - Tiberian reveals the orb's apocalyptic potential
+2. "We're not getting ready to fight. We're going to retrieve my brother without combat." - Oran's failed attempt at peaceful resolution
+3. "Power to the people! That is what Os believed in!" - Oran's attempt to incite slave rebellion
+4. "You think this is my first rodeo? You think this is my first trade?" - Tiberian asserting experience during negotiations
 
-**Key Decisions:**  
-1. **Fake Orb Gambit:** Tiberian crafted a decoy to buy time.  
-2. **Combat Initiation:** Goopy attacked guards, escalating to full combat.  
-3. **Crowd Manipulation:** Oran tried (and failed) to rally slaves; Vamir countered with promises.  
+**Notable Actions:**
+- **Tiberian:** Crafted convincing fake orb using magical tinkering
+- **Goopy/Breezy:** Executed aerial infiltration of church bell tower
+- **Thomas:** Successfully tipped off guards using coded "Guard's Cant"
+- **Oran:** Attempted to rally enslaved congregants during service
+- **Party:** Transported weapons through city via "injured Goopy" ruse
 
-**Notable Actions:**  
-- Breezy fled after finding coded ledgers.  
-- Thomas raged, using a pew as an improvised weapon.  
-- Tiberian withheld breath weapon for strategic use.  
+### **[Session Timeline]**
 
----
+**1. Dormitory Confrontation (1/4 session)**
+The party regrouped at the academy dorms where Tiberian demanded the orb's return from Oran. A tense standoff revealed the orb's origins as a Caipao family power source capable of mass destruction. The group agreed to create a fake orb for negotiations while keeping the real one contained.
 
-### **[Session Timeline]**  
-1. **Infiltration (1/4 session):**  
-   - Party entered the church under the guise of delivering a gift.  
-   - Goopy/Breezy scouted the bell tower; Breezy found coded ledgers.  
+**2. City Infiltration (1/3 session)**
+Using Thomas' guard knowledge and Goopy's "injured" disguise, the party smuggled weapons through multiple checkpoints. Breezy scouted the Church of Crows' location, noting crow activity around a well-maintained stone building in the slums.
 
-2. **Combat Erupts (1/2 session):**  
-   - Half-orc assassin discovered Goopy, triggering a fight.  
-   - Tiberian faked a bomb threat; Thomas raged with a pew.  
-   - Runt grappled Grimsley; slaves remained passive.  
+**3. Church Infiltration (1/3 session)**
+Goopy and Breezy infiltrated the bell tower while the main party entered under guise of delivering a "birthday gift." Oran identified enslaved individuals marked by wrist/neck indentations among the congregation.
 
-3. **Desperation (1/4 session):**  
-   - Vamir offered debt cuts to sway slaves.  
-   - Breezy fled, wounded; Goopy invisible but cornered.  
+**4. Combat Erupts (1/4 session)**
+The half-orc Renaud discovered the infiltrators, triggering combat. Goopy turned invisible while Breezy escaped through a window. Tiberian engaged guards as Oran unsuccessfully tried rallying the slaves. The session ended with Grimsley fighting Runt and Vamir offering clemency to those who side with him.
 
----
+### **[Character Progress Breakdown]**
 
-### **[Character Progress Breakdown]**  
-**Tiberian:**  
-- **Progress:** Revealed the orb's true nature; crafted a convincing fake.  
-- **Key Action:** Deceived guards, withheld breath weapon for critical moment.  
-- **Relationships:** Distrusted by party for orb secrecy; bonded with Thomas over shared trauma.  
+**Tiberian Caipao**
+- **Progress:** 25% toward understanding orb's full capabilities
+- **Key Actions:** 
+  - Crafted fake orb under pressure
+  - Initiated melee combat to protect Goopy
+- **Relationships Changed:** Increased tension with Oran over orb custody
+- **Emotional Arc:** Transitioned from depressive isolation to protective aggression
 
-**Oran:**  
-- **Progress:** Prioritized Verrick's rescue over orb security.  
-- **Key Action:** Attempted slave revolt; now isolated in a side room.  
-- **Emotional Arc:** Desperation → defiance ("Power to the people!").  
+**Goopy Globulon**
+- **Progress:** Demonstrated tactical infiltration skills
+- **Key Actions:** 
+  - Maintained "injured" disguise through multiple checkpoints
+  - Executed surprise attack from invisibility
+- **Relationships Changed:** Strengthened partnership with Breezy through aerial ops
+- **Emotional Arc:** Confidence shaken after near-discovery
 
-**Thomas:**  
-- **Progress:** Embraced rage; learned mother was murdered by Admiral Walter.  
-- **Key Action:** Used pew as a weapon; positioned to guard Oran.  
-- **Emotional Arc:** Vengeance → protective fury.  
+**Oran**
+- **Progress:** 50% toward brother's rescue
+- **Key Actions:** 
+  - Refused to return orb despite risks
+  - Attempted slave revolt during service
+- **Relationships Changed:** Tested trust with Tiberian
+- **Emotional Arc:** Increasing desperation to save family
 
-**Goopy:**  
-- **Progress:** Invisible but trapped; triggered combat prematurely.  
-- **Key Action:** Slashed guard, whistled to maintain invisibility.  
-- **Relationships:** Runt sees him as a divine herald ("black rose").  
+**Thomas Stonebrook**
+- **Progress:** Discovered mother's killer identity
+- **Key Actions:** 
+  - Successfully alerted authorities
+  - Initiated barbarian rage in combat
+- **Relationships Changed:** Deepened resolve against royal corruption
+- **Emotional Arc:** Struggling with lawful duty vs personal vengeance
 
-**Breezy:**  
-- **Progress:** Discovered coded ledgers; fled wounded.  
-- **Key Action:** Jumped through a window to escape.  
-- **Emotional Arc:** Reformist zeal → survival instinct.  
+### **[NPCs Encountered]**
 
----
+**Vamir**
+- **First Impression:** Charismatic but sinister priest with ugly haircut
+- **Notable Actions:** Conducted slave auction disguised as sermon
+- **Allegiances:** Church of Crows (front for criminal operations)
+- **Relationships:** Clearly knows about Clan Euryxias' interest in the orb
 
-### **[NPCs Encountered]**  
-**Vamir:**  
-- **First Impression:** Charismatic crime boss in priest robes.  
-- **Notable Action:** Offered debt reduction to quell revolt.  
-- **Allegiance:** Church of Crows (front for slaving).  
+**Renaud**
+- **First Impression:** Half-orc assassin with shadow teleportation
+- **Notable Actions:** Escaped after being wounded by Goopy
+- **Allegiances:** Unknown third party observing Church operations
+- **Relationships:** Hostile to all party members
 
-**Grimsley:**  
-- **First Impression:** Dwarf enforcer with spiked knuckles.  
-- **Notable Action:** Grappled by Runt; mocked unionization.  
+**Grimsley**
+- **First Impression:** Dwarven enforcer with spiked knuckles
+- **Notable Actions:** Engaged Runt in grapple
+- **Allegiances:** Church of Crows lieutenant
+- **Relationships:** Suspicious of Tiberian's group
 
-**Shadow-Teleporting Half-Orc:**  
-- **First Impression:** Silent assassin with curved daggers.  
-- **Notable Action:** Alerted church; vanished after being slashed.  
+### **[Locations Visited]**
 
----
+**Church of Crows**
+- **Description:** Well-maintained stone church flying blue/gold banners
+- **Notable Features:** 
+  - Bell tower with storage (wine, manacles)
+  - Congregation area with enslaved individuals
+  - Hidden basement access suspected
+- **Dangers:** Multiple armed guards, shadow-walking assassin
+- **Lore:** Operates slave trade under religious guise
 
-### **[Loot & Rewards]**  
-- **Coded Ledgers:** Found by Breezy; may expose Church of Crows' operations.  
-- **Manacles & Wine:** Stolen by Goopy; potential utility.  
+### **[Combat Encounters]**
 
----
+**"Birthday Party Gone Wrong"**
+- **Battlefield:** Church interior with pews and pulpit
+- **Enemies:** 
+  - 6+ guards (short swords)
+  - Renaud (shadow teleportation)
+  - Grimsley (spiked knuckles)
+- **Party Strategy:** 
+  - Goopy/Breezy: Infiltration and surprise attacks
+  - Tiberian: Frontline engagement
+  - Oran: Crowd manipulation
+- **Outcome:** Ongoing with party surrounded and outnumbered
 
-### **[Quest Progression]**  
-**Current Objective:** Rescue Verrick and escape the Church of Crows.  
-**Steps Completed:**  
-- Infiltrated church; fake orb delivered.  
-- Engaged enemies; half-orc assassin revealed.  
-**Next Steps:**  
-- Kill/capture Vamir and Grimsley.  
-- Free Verrick and slaves.  
-**Obstacles:**  
-- Outnumbered by guards and hesitant slaves.  
-- Shadow-teleporting assassin.  
+### **[Highlights & Memorable Moments]**
 
----
+**Critical Moments:**
+- Goopy's critical hit from invisibility
+- Thomas' successful guard deception rolls
+- Breezy's dramatic window escape
 
-### **[World & Lore Discoveries]**  
-- **Church of Crows:** Officially the 72nd Church of Os; flies blue/gold heraldry.  
-- **Os's Absence:** High clerics notice diminished power but keep it secret.  
-- **Black Roses:** Divine sign urging "WAR" (linked to Runt's zealotry).  
+**Funny Quotes:**
+1. "I'm filled with the confidence of a god." - Goopy after seeing imaginary reinforcements
+2. "It's not gay if it's at magic school." - Tiberian on group huddles
+3. "I breathe through the rest of my skin." - Goopy on smelling capabilities
 
----
+### **[Loot & Rewards]**
 
-### **[Highlights & Memorable Moments]**  
-- **Comedy:** Goopy's invisibility whistle ("Is it in yet?").  
-- **Tension:** Tiberian's orb reveal vs. Oran's brotherly desperation.  
-- **Quote:**  
-  - **Thomas:** *"We’ve got to tear this whole city down."*  
-  - **Goopy:** *"If you can’t be the sharpest tool in the shed, be the dullest hammer."*  
-- **Plot Twist:** Vamir's debt-reduction offer swayed the slaves.  
+- **Acquired:** 
+  - Manacles (Goopy)
+  - Bottle of wine (Goopy)
+  - Church ledger (Breezy - encoded)
+- **Knowledge:** Confirmed slave operations at church
+
+### **[Quest Progressions]**
+
+**Main Quest:**
+- **Rescue Oran's Brother:** 50% - Located Church but combat erupted
+- **Protect the Orb:** Contained but custody disputed
+
+**New Complications:**
+- Renaud's escape means enemies know party capabilities
+- Slave congregation may turn against party
+- City guards potentially arriving mid-combat
+
+### **[World & Lore Discoveries]**
+
+**New Revelations:**
+- Church of Crows operates sanctioned slave trade
+- Vrentian guard corruption (accepting bribes)
+- Os's prolonged absence causing subtle divine power waning
+- Regency Council governs in Os's stead (includes Soulfire and Grand Admiral)
