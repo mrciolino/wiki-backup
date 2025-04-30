@@ -2,7 +2,7 @@
 title: Low Bar Brawlers
 description: Overview of the Low Bar Brawlers' World.
 published: true
-date: 2025-04-30T12:42:39.283Z
+date: 2025-04-30T12:43:09.138Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-29T19:29:59.510Z
@@ -38,7 +38,7 @@ The primary setting for Campaigns 1 and 2, as well as various one-shot adventure
 > Check out the **[Adventures Page](/Adventures)** to see a list of all stories of Mardun.
 
 # 🔊 Lore Talks  
-Some pages have been derived from specific lore talks in a podcasting style. These pages are marked with the [audio](/t/audio) tag and may contain information summarized from a transcript of the audio clips.
+Some pages have been derived from specific lore talks in a podcasting style. These pages are marked with the audio tag and may contain information summarized from a transcript of the audio clips.
 
 > **Audio-Based Lore**  
 > Explore the **[Audio Tag](/t/audio)** to find pages built from recorded lore discussions.
