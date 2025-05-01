@@ -2,7 +2,7 @@
 title: How to Kill Gods
 description: The Druid Book
 published: true
-date: 2025-05-01T23:16:12.300Z
+date: 2025-05-01T23:23:13.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-01T23:16:12.300Z
@@ -10,7 +10,7 @@ dateCreated: 2025-05-01T23:16:12.300Z
 
 ## The Druid Book
 
-A booked owned by [Bazzert](/characters/bazzert) in [Season_1](/Seasons/campaign_1/Season_1).
+A booked owned by [Bazzert](/characters/bazzert) in [Season_1](/Seasons/campaign_1/Season_1). Bazzert spent many months meditating over the book and trying to understand how this lowly group of adventure could take on such an exestential threat as the Ithilids.
 
 **How to Kill Gods:**
 1. Formulate a plan
