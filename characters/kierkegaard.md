@@ -2,7 +2,7 @@
 title: Kierkegaard
 description: Apprentice Spoops 
 published: true
-date: 2025-05-01T00:08:43.121Z
+date: 2025-05-01T00:09:43.956Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T13:39:11.288Z
@@ -24,6 +24,9 @@ After the party departed, he led the newly formed order in training, cleansing s
 
 ### 2 Year Timeskip
 During Spoops and Vesrahaan's revolution in Wegate, Spoops contacted Kierkegaard, inviting the paladin order to join. However the paladin order was still needed in Bahryst as they were in the middle of training, and setting up a functioning government. Not to mention the issue of travelling halfway accross the globe on short notice.
+
+### Obox-Ob's Curse
+
 
 ### The Unified Forces of Spoops
 
