@@ -2,7 +2,7 @@
 title: Kierkegaard
 description: Apprentice Spoops 
 published: true
-date: 2025-04-30T19:01:26.918Z
+date: 2025-05-01T00:08:43.121Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T13:39:11.288Z
