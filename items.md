@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-04-21T14:26:11.577Z
+date: 2025-05-01T23:21:03.148Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -162,6 +162,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Tome of The Stilled Tongue](/items/Tome-Of-The-Stilled-Tongue) | Rare | Book | LBB |  The spellbook of Adalynn. |
 | [Apprentice Wizard Spellbook](/items/Apprentice-Wizard-Spellbook) | Rare | Book | LBB |  A book for apprentice wizards. |
 | [How to be a good friend](/items/How-To-Be-A-Good-Friend) | Rare | Book | Spoops |  A book on how to be a good friend. |
+| [How to Kill Gods](/items/How-To-Kill-Gods) | Rare | Book | Bazzdos |  A procesudre for killing the ithilds. Also known as `The Druid Book` |
 
 ---
 
