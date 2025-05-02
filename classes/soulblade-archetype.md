@@ -2,7 +2,7 @@
 title: Soulblade Archetype
 description: Fighting school based on watching Spoops fight.
 published: true
-date: 2025-05-02T14:09:21.319Z
+date: 2025-05-02T14:38:05.317Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T14:09:21.319Z
@@ -15,12 +15,46 @@ This fighting style was developed by a Soldier of Mortis Lux who witnessed Spoop
 ## Soul Blade (3rd Level)
 
 ### Soul Blade Creation
+You imbue your weapon with a piece of your soul, binding it to yourself. The ritual takes 1 hour, which can take place during a short rest. The weapon must be within reach during the ritual. 
+
+### Ethereal Strike
+You can strike into the ethereal plane with your Soul Blade.
+
+### Teleport to Soul Blade
+As a bonus action, you can teleport yourself to the location of your weapon so long as it is within 200ft. of you. Teleporting to the weapons location places it in your grasp while the weapon remains in place.
+
+If you are greater than 200ft from your soul weapon, you are unable to teleport to it, but you have a sense of what direction the weapon is in. 
+
+Teleport Range increases at higher levels.
+| Player Level | Range |
+|--------------|--------|
+| 3rd | 200ft. |
+| 7th | 300ft. | 
+| 10th | 400ft. |
+| 15th | 600ft. |
+| 18th | 800ft. |
 
 
 ## Second Chance (3rd Level)
+Once per long rest, if you are slain in battle, you may retrieve your soul from your weapon, rising as an undead, and healed for half of your total health. 
+
+For the next minute as your soul returns to your body, strikes made with your formerly soul-bound weapon deal an additional 1d6 necrotic and 1d6 radiant damage. You also gain Haste.
+
+Your weapon is no longer a Soul Blade and abilities requiring the use of a Soul Blade are unusable.
+While in their undead state, the Soul Blade Fighter is trained to use their zombified state to their advantage. Following the Revenant Path.
 
 
 ## Revenant Path (3rd Level)
+The fighter has trained themselves to use the unique characteristics of being undead to their advantage.
+
+### Features
+- Dark Vision to a range of 60ft.
+- Immune to being Charmed, and Poison.
+- You do not need to breathe, or eat, and must meditate rather than sleep.
+
+### Necrotic Rot
+Healing magics deal their healing as damage to you, unless from a Lay On Hands performed by a Paladin or Cleric of the Church of the Soul Warden. Necrotic damage taken restores hit points.
+
 
 
 ## Soul Essence and Empowered Attacks (7th Level)
