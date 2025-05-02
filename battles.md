@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2025-05-02T00:16:51.311Z
+date: 2025-05-02T00:17:09.374Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -35,7 +35,7 @@ dateCreated: 2024-06-03T12:56:16.826Z
 
 ---
 
-## Battles
+# Battles
 
 ### **Glub Glub**
 **June 3rd, 2024 | Season 4**  
