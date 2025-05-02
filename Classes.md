@@ -2,7 +2,7 @@
 title: Classes
 description: Homebrew classes created for the campaigns
 published: true
-date: 2025-04-24T15:16:49.956Z
+date: 2025-05-02T20:57:57.141Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-24T15:16:15.590Z
