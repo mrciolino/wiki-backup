@@ -2,7 +2,7 @@
 title: Soulblade Archetype
 description: Fighting school based on watching Spoops fight.
 published: true
-date: 2025-05-02T14:39:02.603Z
+date: 2025-05-02T20:49:01.410Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T14:09:21.319Z
@@ -87,7 +87,7 @@ Add additional Radiant damage (Necrotic if you are on Revenant Path) to your att
 ### Spirit Spear
 You have trained your accuracy to perfection. Any weapon you wield has the thrown property. 
 
-When throwing your weapon, you can attempt to lodge it in various surfaces, creatures or objects (DM’s discretion).
+When throwing your weapon, you can attempt to lodge it in various surfaces, creatures or objects by making a thrown weapon Attack and choosing to Lodge the weapon on a successful hit.
 
 The Range increases as you level up.
 | Player Level | Range |
