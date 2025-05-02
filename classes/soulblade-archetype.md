@@ -2,7 +2,7 @@
 title: Soulblade Archetype
 description: Fighting school based on watching Spoops fight.
 published: true
-date: 2025-05-02T14:38:05.317Z
+date: 2025-05-02T14:39:02.603Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T14:09:21.319Z
