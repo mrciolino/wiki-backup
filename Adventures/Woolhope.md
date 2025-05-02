@@ -2,7 +2,7 @@
 title: Woolhope
 description: A vampire patron shields a lone village amid a thousand-year war's no man's land.
 published: true
-date: 2025-05-02T02:06:28.066Z
+date: 2025-05-02T02:08:50.712Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T02:25:13.945Z
@@ -10,7 +10,7 @@ dateCreated: 2025-04-08T02:25:13.945Z
 
 # Woolhope
 
-In Woolhope, three eccentric thralls—spaghetti warlock Alfredo, vampire Kael, and amnesiac doctor Roy—serve their vampiric patron Rye Linguinius in a magically sealed village caught between warring factions. Their world unravels after discovering Arfer, a marked soldier from beyond the barrier, leading to chaotic schemes: kidnapping village elder Aynuk to conceal Arfer’s identity, disguising him with stolen shears and makeup, and scrambling to hide him as rival delegates arrive for a tense neutrality dinner, all while ominous signs of betrayal and supernatural threats stir beneath the village’s uneasy peace.
+In Woolhope, three outcast thralls—Alfredo the spaghetti-wielding warlock, Kael the aloof vampire, and Roy the amnesiac doctor—serve their enigmatic master, Rye Linguinius, in a village trapped within a magical seal. Their fragile order fractures when Arfer, a branded soldier from the outside world, breaches the barrier, drawing the attention of powerful factions: the militant Wegateians, the shadowy Nercenses, and the fiery Red Archon. As tensions mount ahead of a precarious diplomatic summit, the trio scrambles to disguise Arfer, abduct a suspicious village elder, and navigate a web of rivalries, conspiracies, and looming supernatural forces.
 
 ## Location
 b/w wegate and hastow
