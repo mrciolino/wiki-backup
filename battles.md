@@ -2,14 +2,14 @@
 title: Battles
 description: 
 published: true
-date: 2025-03-31T22:04:40.385Z
-tags: battles
+date: 2025-05-02T00:15:01.836Z
+tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
 ---
 
 # Battles Overview
-Overview of memorable battles during [Campaign 1](/sessions/campaign_1/overview) and [Campaign 2](/sessions/campaign_2/overview).
+Overview of memorable battles during [Campaign 1](/Seasons/campaign_1) and [Campaign 2](/Seasons/campaign_2)
 
 ## Campaign 1
 
@@ -26,6 +26,14 @@ Overview of memorable battles during [Campaign 1](/sessions/campaign_1/overview)
 | **Guardison's Quest (Goblin Cave)** | Unknown        | -      | Details unknown. |
 | **Kaltrazar Bay Burning (Prison)** | Unknown         | -      | Party imprisoned; town burned down in their escape. |
 | **Final Fight**                  | Unknown           | -      | Massive battle against the [Ithilid](/factions/ithilid) threat with an undead army, divine support, and space-faring ships. |
+
+
+## Campaign 2
+
+| Battle Name                      | Date              | Season | Key Events Summary |
+|----------------------------------|-------------------|--------|--------------------|
+| **The Church of Crows**          | April 28th, 2025  | 1      | ... |
+
 
 ---
 
