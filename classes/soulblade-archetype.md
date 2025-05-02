@@ -2,7 +2,7 @@
 title: Soulblade Archetype
 description: Fighting school based on watching Spoops fight.
 published: true
-date: 2025-05-02T20:49:01.410Z
+date: 2025-05-02T20:55:50.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T14:09:21.319Z
@@ -153,6 +153,17 @@ This attack can only be made using a Soul Blade and only be used while the Techn
 As you overwhelm your enemy with soul energy, If they have a soul, they must make a Con save against your Soul Save DC (8 + Prof + Str) on a failed save they gain 1 level of exhaustion. 
 - Damage: 6d12 radiant. (If on the Revenant Path, the damage is necrotic.) Added to your Soul Blade weapon's attack.
 - Cost: 2 Soul Essence Points.
+
+
+
+
+| Player Level | Teleport Range | Thrown Range | Soulbound Strike Damage |
+|--------------|----------------|---------------|----------------------------|
+| 3rd | 200ft. | | |
+| 7th | 300ft. | 20/60 | 1d6 |
+| 10th | 400ft. | 30/120 | 2d6 |
+| 15th | 600ft. | 80/320 | 3d6 |
+| 18th | 800ft. | 150/600 | 4d6 |
 
 
 
