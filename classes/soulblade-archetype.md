@@ -2,7 +2,7 @@
 title: Soulblade Archetype
 description: Fighting school based on watching Spoops fight.
 published: true
-date: 2025-05-02T20:55:50.761Z
+date: 2025-05-02T20:56:31.158Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T14:09:21.319Z
@@ -157,6 +157,8 @@ As you overwhelm your enemy with soul energy, If they have a soul, they must mak
 
 
 
+
+## Soul Blade Leveling Table
 | Player Level | Teleport Range | Thrown Range | Soulbound Strike Damage |
 |--------------|----------------|---------------|----------------------------|
 | 3rd | 200ft. | | |
