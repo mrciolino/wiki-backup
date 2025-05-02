@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2025-05-02T00:15:01.836Z
+date: 2025-05-02T00:16:18.212Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -32,7 +32,8 @@ Overview of memorable battles during [Campaign 1](/Seasons/campaign_1) and [Camp
 
 | Battle Name                      | Date              | Season | Key Events Summary |
 |----------------------------------|-------------------|--------|--------------------|
-| **The Church of Crows**          | April 28th, 2025  | 1      | ... |
+| **Vaymar's Birthday**          | April 28th, 2025  | 1      | Church of Crows |
+| **Battle at the Golden Bear Tavern**          | April 28th, 2025  | 1      | First session of the cmapaign, osmidir introduciton, blood cult |
 
 
 ---
