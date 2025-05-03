@@ -2,7 +2,7 @@
 title: Goopy Globulon
 description: Eccentric, haunted by a dark past, seeks redemption, has a knack for explosives.
 published: true
-date: 2025-03-20T00:03:06.057Z
+date: 2025-05-03T18:26:23.932Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-20T00:00:18.030Z
@@ -11,7 +11,7 @@ dateCreated: 2025-03-20T00:00:18.030Z
 # Goopy Globulon
 
 - **Race:** [Plasmoid](/races/plasmoid)  
-- **Class:** [Soulblade Fighter](/classes/soulblade-fighter)  
+- **Class:** [Soulblade Fighter](/classes/Soulblade-Archetype)  
 - **Background:** [Astral Drifter](/backgrounds/astral-drifter)  
 - **Key Traits:** Eccentric, haunted by a dark past, seeks redemption, has a knack for explosives.  
 
