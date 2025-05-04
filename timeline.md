@@ -2,7 +2,7 @@
 title: timeline
 description: 
 published: true
-date: 2025-05-04T02:57:14.498Z
+date: 2025-05-04T03:10:23.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -88,8 +88,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey) to Krorg and his wife Kayla**.
 
 ### The End of the Age of Mortals (0 AD)
-
-**Cataclysmic Events:**  
 - Darmuth destroys Altricia and kills Krorg.
 - Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Darmuth is killed after Os drops her into a volcano.
@@ -117,31 +115,33 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - Bazzdos and Gilthur return to North Geskoworm.
   - Meade returns to Fywick.
   - Adalynn remains in her flying fortress.
+- Gilthur abdicates his titles as Pirate King of Saragossa and King of Altricia.
 - The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from Mystra, causing Breezy-e to kill her. 
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
+- Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from Mortis Lux members, but his claim is challenged by others.
 - Bazzdos sees the party fractures taking hold and accelerates his plan to collect more [Gond](/characters/Gond) souls by abducting more gnomes named Gond. This leads to direct conflict with Gilthur who must protect the Geskoworm Gnomes. 
 - Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire.
 ### 15 AC The Hastow-Wegate War
-- Narascus uses hundreds of spelljammers to attack Wegate and marches a land force on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
+- In an effort to seize power as the new ruler of Mortis Lux, Narascus uses hundreds of spelljammers to launch a surprise attack Wegate and marches a land force on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
 #### Battle of Wegate
 - Narascus bombards Wegate, dropping undead on and outside the less defended city. Undead vs Undead and necrotic magical combat ensue. 
 - However, this attack was forseen by the oracle of Fywick who shared this intel with allies of Mortis Lux, who all were prepared to defend Wegate. 2/3 of Hastow spelljammers are destroyed.
 - Breezy-e teleports to Narascus' command ship, demanding an explanation for this attack. Narascus almost manages to convince breezy-e that this is the will of Spoops, but to seal the deal that there is nothing suspicious, Breezy-e offers to share a bowl of spaghetti which Narascus hates. This sours his ruse with Breezy-e, leading to a duel where Narascus is defeated. Breezy-e thinks he killed Narascus and commands the fleet to leave. 
-- Hastow spelljammer forces are forced to retreat back to Hastow. Breezy-e returns to Os at gothriathon. 
-- The Hastow land force arrive in Wegate and find out Narascus has already been defeated. Most of the living are persuiaded diplomatically to side with Wegate. The turncoats inform Wegate that [Altricia](/locations/Mardun/Allford) is captured and Luther was taken prisoner and sent back to Hastow. The new Wegate army is sent to march back to [Altricia](/locations/Mardun/Allford)
+- Hastow spelljammer forces are forced to retreat back to Hastow. Breezy-e returns to Os at Gothriathon. 
+- The Hastow land force arrive in Wegate and find out Narascus has already been defeated. Most of the living necromancers are persuaded diplomatically to side with Wegate. The turncoats inform Wegate that [Altricia](/locations/Mardun/Allford) is captured and Luther was taken prisoner back in Hastow. The new Wegate army is sent to march back to [Altricia](/locations/Mardun/Allford)
 #### Preparation for the Counterattack
-- Narascus returns via spelljammer and finds Luther and other Altrician nobility imprisoned. Most of his forces are destroyed or turned to Wegate, and he himself is strongly injured. Narascus' body is rejuvinated via a demonic blood ritual where Luther and the other nobles are sacrificed. Narascus arises, empowered anew, and reinvigorated.
+- Narascus returns via spelljammer and finds Luther and other Altrician nobility imprisoned. Most of his forces are destroyed or turned to Wegate, and he himself is strongly injured. Narascus' body is rejuvinated via a demonic blood ritual where Luther and the other nobles are sacrificed. Narascus arises, empowered anew, and reinvigorated as the Red Archon.
 - Wegate begins rebuilding some spelljammers without Bazzdos' assistance. New spelljammers used as aerial support. 
-- Os in Gothriathon, having grown distant from Mortis Lux takes a removed approach from the counterattack. Not willing to die over the remains of Mortis Lux, he only sends Breezy-E. 
+- Os in Gothriathon, having grown distant from Mortis Lux, takes a removed approach from the counterattack. Not willing to die over the remains of Mortis Lux, he only sends Breezy-E. 
 - In Bayrhys, learning of the death of Luther in a blood sacrifice, Kierkegaard swears eternal vengance and has sent out forces of elite paladins. 
-- In North Geskoworm, the new young ruler Krorgfrey abstains from participating in the counterattack in favor of focusing on starting the city of New Geskoworm. 
-- In Fywick, the oracle provides her final remaining intel to Wegate, the intel being that Narascus is still alive. After seeing this horrifying visage, the oracle dies. Fywick does not send any additional support.
+- In North Geskoworm, the new young ruler Krorgfrey abstains from participating in the counterattack in favor of focusing on forming the city of New Geskoworm. 
+- In Fywick, the oracle provides her final remaining intel to Wegate, the intel being that Narascus is still alive and reborn as the Red Archon, a being of unspeakable power and cruelty. After seeing this horrifying visage, the oracle dies. Fywick does not send any additional support.
 #### The Counterattack on Hastow
 - Breezy-e arrives first, teleporting directly to Hastow to go and rekill Narascu. The new Narascus (aka The Red Archon) is able to not just fight off Breezy-e but gets to back down by threatening to use a wish to cause the Illithid Empire to return. Not understanding how wish works, Breezy-e backs down from fighting and killing him, and makes a peace deal. Hostilities with Gothriathon and Hastow cease. 
 
 - **Bayrhys's northern invasion**. They travel by small boat through the sea of ghosts. They pick up some undead to assist them. Fighting on the northern shores of the continent against Hastow, which forces them to divert resources away from fighting Wegate. It is more a distraction rather than an effective incursion due to the size of Bayrhys's forces.
 
-- Wegate and Hastow land forces engage in battle to the south of wardson tower. Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle.
+- Wegate and Hastow land forces engage in battle to the south of wardson tower. Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new advances in the battle lines are created as both sides just send endless waves of undead at one another, and resurrect them back up to fight again.
 
 - Wegate learns that Gothriathon made their own peace and doesn't take the news well. Vesrahan sees this as a betrayal, citing written docs and alliances, however they were never signed by Os. Os sees no obligation to contribute support, but Breezy-e being a signer, must stand before Asmodeus for breach of contract. Breezye is in the wrong if he fights the Red Archon or if he doesn't. A new deal with Asmodeus is brokered where Breezy-e may never kill on Mardun again. Though he has the means, Breezy-e never leaves to other planets since quality spaghetti can only be grown on Mardun. 
 
@@ -159,9 +159,10 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - 200 AC Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared.
   
 - [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.  
-- **Breezye** founds **[La Rocca della Sugo](/locations/la-rocca-della-sugo)** deep in the dark continent.
+- **Breezye** is mournfully exiled from Vrintia for being undead. He leaves for the west, and his departure is marked with the Lost Wind Gate. Travelling deep into the dark continent, he founds **[La Rocca della Sugo](/locations/la-rocca-della-sugo)**, a major vampire castle.
 - **[Erriad](/locations/erriad)'s Fall**: [Bane](/characters/bane) killed Erriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
 - **[Kaltrosar Bay](/locations/kaltrosar-bay)'s Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. Dragonborn exiles flee south to Vrintia and Tiamar's Bazzar.
+- **Arn's Rebellion**: The mainly human inhabitants of Arnsworth are not happy under the mainly elvish and dwarvish rule of Vrintia. A rebellion occurs within Vrinia, leading to a crushing defeat of Arnsworth.
 - **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
 ---
 
