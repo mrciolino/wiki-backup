@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T13:35:34.990Z
+date: 2025-05-06T13:36:50.886Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -98,7 +98,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Darmuth destroys Altricia and kills Krorg.
 - Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Darmuth is killed after Os drops her into a volcano.
-- Spoops founds a military group called Mortis Lux and begins recruiting allies to fight off the Illithids.
+- Spoops proposes the partyestablish an alliance called Mortis Lux and begins recruiting allies to fight off the Illithids.
 - The **Low Bar Brawlers** ascend to godhood.  
 - The Githyanki Empire falls.  
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
