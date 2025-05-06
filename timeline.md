@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T13:36:50.886Z
+date: 2025-05-06T13:47:57.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -100,6 +100,9 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Darmuth is killed after Os drops her into a volcano.
 - Spoops proposes the partyestablish an alliance called Mortis Lux and begins recruiting allies to fight off the Illithids.
 - The **Low Bar Brawlers** ascend to godhood.  
+- Spoops and Adalynn are brought before Vlaakith while looking for allies. Vlaakith makes a counter offer, she will help fight Illithids if Mortis Lux serves her. Upon Spoops and Adalynn's refusal, Vlaakith tries to subjugate them, Spoops takes offense and swears revenge. They use the anti-magic armor and teleport away before Vlaakith can hold them captive any longer. 
+- Vlaakith gives the party two months to reconsider her offer.
+- Mortis Lux begins mass producing Spelljammer warships.
 - The Githyanki Empire falls.  
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
