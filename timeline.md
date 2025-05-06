@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:26:36.349Z
+date: 2025-05-06T17:33:59.890Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -143,6 +143,10 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 ## The Age of Ascended (1 AC – ?)
 ### Sundering of Mortis Lux
+- Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
+- Spoops begins by meeting up with Kelemvor to confront Cyric together. After some time they are sble to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
+- Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
+- Spoops moves onto his next task
 - Without Spoops to guide Mortis Lux, the main lieutenants return to Mardun, with the exception of the Saragossa Pirates who stay in space.
 	- Narascus becomes regent of Hastow.
   - Versrahan becomes regent of Wegate.
@@ -157,7 +161,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 - Bazzdos sees the party fractures taking hold and accelerates his plan to collect more [Gond](/characters/Gond) souls by abducting more gnomes named Gond. This leads to direct conflict with Gilthur who must protect the Geskoworm Gnomes. 
-- Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire.
+- Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire. 
 ### 15 AC The Hastow-Wegate War
 - In an effort to seize power as the new ruler of Mortis Lux, Narascus uses hundreds of spelljammers to launch a surprise attack Wegate and marches a land force on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
 #### Battle of Wegate
