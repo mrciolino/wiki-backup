@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T16:30:44.322Z
+date: 2025-05-06T16:32:04.459Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -116,7 +116,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - After two months of prep, the party gives their response to Vlaakith's demands by beginning an all out assault on Tu'nareth.
 - The Githyanki Empire falls. 
 - Tu'nareth, is now an undead titan corpse controlled by Spoops.
-- The Ithillids Arrive at Tu'narath: As the battle ends and Mortis Lux is in the process of flying back home through their portals, The Ithillids giant creature arrives. Simply behilding it melts the minds of any still on that side of thr portal. Hundreds of Mortis Lux soldiers and Githyanki had their minds obliterated.
+- The Ithillids Arrive at Tu'narath: As the battle ends and Mortis Lux is in the process of flying back home through their portals, The Ithillids giant creature arrives. Simply behilding it melts the minds of any still on that side of the portal. Hundreds of Mortis Lux soldiers and Githyanki had their minds obliterated.
 - The surviving Githyanki are offered refuge by the Githzerai and Mortis Lux.
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
