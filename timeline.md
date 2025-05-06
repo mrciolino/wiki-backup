@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:13:54.255Z
+date: 2025-05-06T17:16:43.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -134,6 +134,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Investigating Reports of Illithids on Mardun: The party hears of an Illithid nest somewhere under the Frostfell mountains. Bane insists on coming along and goes on Breezy's ship. Bane discovers hes the only one of the dead three not to have blessed Breezy-E so much to Spoops' dismay and Breezy-E's excitement he grants his blessing. The nest of Illithids is found, however they turn out not to be part of the Same hive that thrbparty is fighting. These Illithids who are still living and conscious, explain that they are aware of the menace the party is fighting and do not want any part of it. The party, not wishing to slaughter this nest unprovoked, allow these Illithid to live so long as they do not threaten the inhabitants of the world. 
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
 - 
+- 
+- The Ithilid War: The Ithilid's creature and Nautiloids break through thr crystal sohere of Mardun, beginning their attack in multiple cities. Mortis Lux begins the assault on the the creature, and sends squads of ships to each city being attacked on the surface.
 - Zeus' soul is freed, the Prophet of Profit turns back into Gilthur, and the Illithid Emperor is defeated.
 - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun.
 - Spoops spends the next 1000 years fulfilling his promises to Mortis Lux and the Council of Gods.
