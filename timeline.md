@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T14:25:07.822Z
+date: 2025-05-06T14:29:48.347Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -111,7 +111,10 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Os is invited to a gathering in Selune's divine realm to discuss Spoops problem. The party go to Selune's divine realm, Spoops is convincingly disguised as "Spencer". Os bargains with Bahamut to ascend to become the God of Sex. He is told he must give up the power received by the Soul Absorption and prevent Spoops from ascending to godhood. Os convinces Bahamut to let him try convincing Spoops instead killing him. Spoops, Adalynn, and Elira are caught looking for powerful magic in Selune's library by Selune herself. Spoops deflects Selune's moonbeam attacks and eacapes to The dragon planet (ruled by bahamut and tiamat's child) through the Well of Many Worlds with Elira. The rest of the party leaves the party regroups in Selune's realm before Adalynn teleports them to the dragon world. 
 - Spoops Ascends back to Godhood: Spoops prays to His Divine Self Ry-ann and uses the 12th level spell Divine Command on himself to re-merge his split being into one.
 - The party reunites. Os tells Spoops that the make peace with thr Gods they want hom to cease any attempts to ascend. Spoops tells Os its too late because he just ascended 5 minutes ago. 
-- The Githyanki Empire falls.  
+- Two months of Preparations: After an eventful few days, the party return to Wegate to spend two months preparing for war. 
+- During the preparations Spoops and Bazzros go into the second time chamber. Creating the Shard of Divinity.
+- After two months of prep, the party gives their response to Vlaakith's demands by beginning an all out assault on Tu'nareth.
+- The Githyanki Empire falls. 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
 - Spoops crashes the value of Bombcoin to 0, a newly bankrupt Zeus challenges him to a duel.
