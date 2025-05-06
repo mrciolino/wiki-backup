@@ -2,7 +2,7 @@
 title: Woolhope
 description: A vampire patron shields a lone village amid a thousand-year war's no man's land.
 published: true
-date: 2025-05-02T02:08:50.712Z
+date: 2025-05-06T00:16:16.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T02:25:13.945Z
@@ -10,13 +10,10 @@ dateCreated: 2025-04-08T02:25:13.945Z
 
 # Woolhope
 
-In Woolhope, three outcast thralls—Alfredo the spaghetti-wielding warlock, Kael the aloof vampire, and Roy the amnesiac doctor—serve their enigmatic master, Rye Linguinius, in a village trapped within a magical seal. Their fragile order fractures when Arfer, a branded soldier from the outside world, breaches the barrier, drawing the attention of powerful factions: the militant Wegateians, the shadowy Nercenses, and the fiery Red Archon. As tensions mount ahead of a precarious diplomatic summit, the trio scrambles to disguise Arfer, abduct a suspicious village elder, and navigate a web of rivalries, conspiracies, and looming supernatural forces.
+In Woolhope, three outcast thralls—Alfredo the spaghetti-wielding warlock, Kael the aloof vampire, and Roy the amnesiac doctor—serve their enigmatic master, Rye Linguinius, in a village trapped within a magical seal. Their fragile order fractures when Arfer, a branded soldier from the outside world, breaches the barrier, drawing the attention of powerful factions: the militant **Wegateians**, the shadowy **Nercenses**, and the fiery Red Archon. As tensions mount ahead of a precarious diplomatic summit, the trio scrambles to disguise Arfer, abduct a suspicious village elder, and navigate a web of rivalries, conspiracies, and looming supernatural forces.
 
-## Location
-b/w wegate and hastow
-
-## Timeline
-TBD
+## Set and Settings
+South-West of Wardson Tower in [Felldun](/locations/Mardun/Felldun) near the border of [Wyrmford](/locations/Mardun/Wyrmford). This adenture takes place around 110 AC. 
 
 # Sessions
 
