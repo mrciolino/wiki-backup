@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T12:38:30.640Z
+date: 2025-05-06T12:47:19.796Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -74,7 +74,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **Collapse of Tiyamanni**: Led by Darmuth's cruelty and mismanagement, combined with natural forces, the capital of Tiyamanni is rendered to ruin.
 ### The Necrotic Wars & The Fall of Empires
 
-- **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on Mardun, becomes Grandmaster of the Paladin order called the Knights of Sedonia. 
+- **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on Mardun, becomes Grandmaster the Knights of Sedonia and is assassinated and dumped into the sea.
 - **4 BC:** Spoops washes ashore near **[Witchlight Jungle](/locations/witchlight-jungle)**.  
 
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
