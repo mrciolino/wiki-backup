@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T18:00:50.213Z
+date: 2025-05-06T18:06:16.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -180,7 +180,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - In North Geskoworm, the new young ruler Krorgfrey abstains from participating in the counterattack in favor of focusing on forming the city of New Geskoworm. 
 - In Fywick, the oracle provides her final remaining intel to Wegate, the intel being that Narascus is still alive and reborn as the Red Archon, a being of unspeakable power and cruelty. After seeing this horrifying visage, the oracle dies. Fywick does not send any additional support.
 #### The Counterattack on Hastow
-- Breezy-e arrives first, teleporting directly to Hastow to go and rekill Narascu. The new Narascus (aka The Red Archon) is able to not just fight off Breezy-e but gets to back down by threatening to use a wish to cause the Illithid Empire to return. Not understanding how wish works, Breezy-e backs down from fighting and killing him, and makes a peace deal. Hostilities with Gothriathon and Hastow cease. 
+- Breezy-e arrives first, teleporting directly to Hastow to go and rekill Narascus. The new Narascus (aka The Red Archon) is able to not just fight off Breezy-e but gets to back down by threatening to use a wish to cause the Illithid Empire to return. Not understanding how wish works, Breezy-e backs down from fighting and killing him, and makes a peace deal. Hostilities with Gothriathon and Hastow cease. 
 
 - **Bayrhys's northern invasion**. They travel by small boat through the sea of ghosts. They pick up some undead to assist them. Fighting on the northern shores of the continent against Hastow, which forces them to divert resources away from fighting Wegate. It is more a distraction rather than an effective incursion due to the size of Bayrhys's forces.
 
