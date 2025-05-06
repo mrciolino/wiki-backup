@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T18:10:54.284Z
+date: 2025-05-06T18:24:32.030Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -192,7 +192,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 - The constant death and resurrection of Hastow and Wegate forces creats a new kind of undead: Soultorn. This new monster is found only on the eternal battlefield. They can no longer distinguish friend or foe and simply kill whoever they can. Apparently they cannot die. Wardson Tower uses them for target practice. 
 
-- Being mortal, Vesrahon eventually dies and enters the afterlife. 
 - From the backing out of Os from the alliance with Wegate, a new revulsion of necromancy in all its forms occurs in Gothriathon. 
 
 ### Other Major Events
