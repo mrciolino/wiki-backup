@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:58:51.397Z
+date: 2025-05-06T18:00:50.213Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -165,7 +165,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Bazzdos sees the party fractures taking hold and accelerates his plan to collect more [Gond](/characters/Gond) souls by abducting more gnomes named Gond. This leads to direct conflict with Gilthur who must protect the Geskoworm Gnomes. 
 - Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire. 
 ### 15 AC The Hastow-Wegate War
-- In an effort to seize power as the new ruler of Mortis Lux, Narascus uses hundreds of spelljammers to launch a surprise attack Wegate and marches a land force on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
+- In an effort to seize power and crush any religious opposition, Narascus uses hundreds of spelljammers to launch a surprise attack on Wegate, and marched his armies over land on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
 #### Battle of Wegate
 - Narascus bombards Wegate, dropping undead on and outside the less defended city. Undead vs Undead and necrotic magical combat ensue. 
 - However, this attack was forseen by the oracle of Fywick who shared this intel with allies of Mortis Lux, who all were prepared to defend Wegate. 2/3 of Hastow spelljammers are destroyed.
