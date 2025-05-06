@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T15:40:53.067Z
+date: 2025-05-06T15:41:32.815Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -117,7 +117,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The Githyanki Empire falls. 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
-- Zeus travels to the Illithid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
+- Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 - Zeus' soul is freed, the Prophet of Profit turns back into Gilthur, and the Illithid Emperor is defeated.
 - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun.
 - Spoops disappears???
