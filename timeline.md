@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T18:24:32.030Z
+date: 2025-05-06T19:53:42.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -87,16 +87,26 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - The party is sent to investigate cult activity in the town of Demsford.
   - Bomb the Bear is killed by Rathwing. 
   - Illiard is killed by Frederina for seemingly no reason.
-  - The party is sent into the Alford castle vault to kill a dreaming beholder. Wrathwing is summoned and slain by Breezy-E.
+  - The party is sent into the Alford castle vault to kill a dreaming beholder. Krorg unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank.
   - Drakham unleashes bone spiders, causing chaos in Alford.
-  - Krorg organizes a pirate raid to plunder Alford; **[Altricia](/locations/altricia)** is founded from the ashes.
+  - The party retreats to Saragossa, where Krorg organizes a pirate raid to plunder Alford.
+  - The Great Pirate Raid occurs
+  	- Rathwing destroys Saragossa
+  	- Dave Bones is killed by the party for the first time
+    - Rathwing is summoned to Alford and killed by Breezy-E
+    - Bazzert kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
+    - Without Saragossa, the new pirate capital of **[Altricia](/locations/altricia)** is founded from the ashes of Alford.
   - After celebrating a successful raid, the party splits off for 3 years. Os Vrintia is exiled to Gothriathon after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
   
-- **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey) to Krorg and his wife Kayla**.
+- **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
+- Despite his bounty, Os becomes the secret ruler and law enforcer of Gothriathon. He disconnects Gothriathon from the Dragon Sea trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
 
 ### The End of the Age of Mortals (0 AC)
-- Darmuth destroys Altricia and kills Krorg.
-- Meade departs the party and creates the "Three Swishes" bar in Fywick.
+- Krorg sends Spoops, Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
+- Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
+- Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage. 
+- The party acquires a flying ship in Gothriathon.
+- After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Darmuth is killed after Os drops her into a volcano.
 - The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the protal with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
