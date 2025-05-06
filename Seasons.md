@@ -2,7 +2,7 @@
 title: Seasons
 description: The seasons of the campaign
 published: true
-date: 2025-04-13T17:19:24.592Z
+date: 2025-05-06T03:19:22.448Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-05T01:48:57.361Z
@@ -18,6 +18,24 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 > 👉 Learn more: [Campaign 1 Seasons](/Seasons/campaign_1)
 {.is-info}
 
+## **Seasons at a Glance**  
+1. **🌪️ [Season 1: The Rathwing Saga](/Seasons/campaign_1/Season_1)**  
+   *"They met in a tavern—and ended up fleeing a burning city."*  
+   **Cults. Pirates. Betrayal.** The spark that lit the fire.  
+
+2. **🧠 [Season 2: The Darmuth Saga](/Seasons/campaign_1/Season_2)**  
+   *"An illithid lich rose—and reality cracked open."*  
+   **Undead horrors. A tear in the sky.** The first glimpse of the greater threat.  
+
+3. **🌌 [Season 3: Mortis Lux](/Seasons/campaign_1/Season_3)**  
+   *"They chose the Witch King over a god—and doomed a world."*  
+   **Alliances shattered. Cities drowned. A Forge created.**  
+
+4. **👑 [Season 4: Ascension & Destiny](/Seasons/campaign_1/Season_4)**  
+   *"Gods and illithids clashed—and mortals stood in the middle."*  
+   **Githyanki civil war. Genocide. A moon-sized abomination.**  
+
+
 # 🛡️ Campaign 2: *The Age of Reclamation*  
 🏛️ A new era dawns as the world rebuilds and contends with ancient powers. Factions rise, gods stir, and new heroes emerge.
 
@@ -27,3 +45,9 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 > 👉 Learn more: [Campaign 2 Seasons](/Seasons/campaign_2)
 {.is-info}
+
+## **Seasons at a Glance**  
+
+1. **🌑 [Season 1: The Academy’s Dark Welcome](/Seasons/campaign_2/Season_1)** 
+  *"They came to learn magic—but the academy is teaching them survival."*  
+	 **Shadow demons. Vanishing students. A divine sorting gone wrong.**
