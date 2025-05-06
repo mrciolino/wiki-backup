@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T13:34:53.935Z
+date: 2025-05-06T13:35:34.990Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -87,7 +87,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - The party is sent to investigate cult activity in the town of Demsford.
   - Bomb the Bear is killed by Rathwing. 
   - Illiard is killed by Frederina for seemingly no reason.
-  - The party is sent into the Alford castle vault to kill a dreaming beholder. Wrsthwing is summoner snd slain by Breezy-E.
+  - The party is sent into the Alford castle vault to kill a dreaming beholder. Wrathwing is summoned and slain by Breezy-E.
   - Drakham unleashes bone spiders, causing chaos in Alford.
   - Krorg organizes a pirate raid to plunder Alford; **[Altricia](/locations/altricia)** is founded from the ashes.
   - After celebrating a successful raid, the party splits off for 3 years. Os Vrintia is exiled to Gothriathon after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
