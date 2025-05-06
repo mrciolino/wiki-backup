@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2025-05-02T00:17:09.374Z
+date: 2025-05-06T13:30:13.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -29,7 +29,7 @@ dateCreated: 2024-06-03T12:56:16.826Z
 
 | Battle Name                      | Date              | Season | Key Events Summary |
 |----------------------------------|-------------------|--------|--------------------|
-| **Vaymar's Birthday**          | April 28th, 2025  | 1      | Church of Crows |
+| **Vaymar's Birthday**          | April 28th, 2025  | 1      | Church of Crows; Goopy's Death; Party Imprisoned; Oran escaped |
 | **Battle at the Golden Bear Tavern**          | April 28th, 2025  | 1      | First session of the cmapaign, osmidir introduciton, blood cult |
 
 
