@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-04-29T03:39:57.972Z
+date: 2025-05-06T02:57:38.558Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
@@ -20,5 +20,6 @@ dateCreated: 2025-04-12T13:24:16.371Z
 | Session 5 | [Session 5 Summary](/sessions/campaign_2/session_5_summary) | The party attends the Sorting Ceremony and bonds over shared goals. | The party is sorted into their respective schools and signs. Tiberian reveals his vendetta against Clan Norexias, and Orin shares his debt to Vamir. Goopy hints at being from the future. |  
 | Session 6 (AI Cutoff) | [Session 6 Summary](/sessions/campaign_2/session_6_summary) | The party experiences their first day of classes and pursues individual adventures throughout the academy. | Goopy and Tiberian complete a rat-killing quest while drunk; a book goblin combusts in the cathedral revealing discrimination; Thomas visits his guard father; Baloo joins a heavy metal choir; and Breezy confronts unjust academy laws. | 
 | **Session 7** | [Session 7 Summary](/sessions/campaign_2/session_7_summary) | The party scrambles to rescue Oran’s brother from the Church of Crows. | Oran receives a dire ultimatum from Vamir; Tiberian provides a cursed black orb (possibly the "mechanism"); Thomas learns his mother was murdered by nobles; Goopy recruits Runt and trades his rat cloak for magic items; the party departs for the Church of Crows. |  
-| Session 8 | [Session 8 Summary](/sessions/campaign_2/session_8_summary) | The party infiltrates the Church of Crows to rescue Oran’s brother, triggering a chaotic battle. | Tiberian delivers a fake orb; Goopy slashes a guard and hides invisibly; Thomas rages with a pew; Breezy flees with coded ledgers; Runt grapples Grimsley; Oran fails to incite revolt; Vamir offers slaves debt reduction, shifting their loyalty. |
+| **Session 8** | [Session 8 Summary](/sessions/campaign_2/session_8_summary) | The party infiltrates the Church of Crows to rescue Oran’s brother, triggering a chaotic battle. | Tiberian delivers a fake orb; Goopy slashes a guard and hides invisibly; Thomas rages with a pew; Breezy flees with coded ledgers; Runt grapples Grimsley; Oran fails to incite revolt; Vamir offers slaves debt reduction, shifting their loyalty. |
+| **Session 9** | [Session 9 Summary](/sessions/campaign_2/session_9_summary) | The party suffers a crushing defeat at the Church of Crows, leading to imprisonment and a character death. | Goopy dies and his soul is taken; Tiberian, Breezy, and Thomas are captured; Oran escapes to seek help; Verick is introduced in the slave pits; Renault and Vamir tighten their grip on the prisoners. |
 
