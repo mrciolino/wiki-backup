@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:49:58.918Z
+date: 2025-05-06T17:50:49.681Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -156,7 +156,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - Kierkegaard returns to rule Bahryst with his wife.
   - Bazzdos and Gilthur return to North Geskoworm.
   - Meade returns to Fywick.
-  - Adalynn remains in her flying fortress.
+  - Adalynn remains in her flying fortress for a time until her betrayal.
 - Gilthur abdicates his titles as Pirate King of Saragossa and King of Altricia.
 - The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from Mystra whos been subdued by Mask, causing Breezy-e to kill her. 
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
