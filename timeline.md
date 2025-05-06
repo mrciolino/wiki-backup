@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T16:33:58.556Z
+date: 2025-05-06T16:41:08.414Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -98,6 +98,10 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Darmuth destroys Altricia and kills Krorg.
 - Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Darmuth is killed after Os drops her into a volcano.
+- The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the protal with the purpose of eliminating all the Devastation Vermin.
+- **Events that happened on Ereriad**
+- 
+- 
 - Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.
 - The **Low Bar Brawlers** ascend to godhood.  
 - Spoops and Adalynn are brought before Vlaakith while looking for allies. Vlaakith makes a counter offer, she will help fight Illithids if Mortis Lux serves her. Upon Spoops and Adalynn's refusal, Vlaakith tries to subjugate them, Spoops takes offense and swears revenge. They use the anti-magic armor and teleport away before Vlaakith can hold them captive any longer. 
