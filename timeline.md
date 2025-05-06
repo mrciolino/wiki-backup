@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T13:47:57.424Z
+date: 2025-05-06T13:53:46.657Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -102,11 +102,13 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The **Low Bar Brawlers** ascend to godhood.  
 - Spoops and Adalynn are brought before Vlaakith while looking for allies. Vlaakith makes a counter offer, she will help fight Illithids if Mortis Lux serves her. Upon Spoops and Adalynn's refusal, Vlaakith tries to subjugate them, Spoops takes offense and swears revenge. They use the anti-magic armor and teleport away before Vlaakith can hold them captive any longer. 
 - Vlaakith gives the party two months to reconsider her offer.
-- Mortis Lux begins mass producing Spelljammer warships.
+- Bazzdos finds an assassination note from someone seeking combat with Spoops. He proceeds to work eith a lawyer in the library to set up a fight between Zeus and Spoops.
+- Mortis Lux constructs the Great Port of Wegate and begins mass producing Spelljammer warships.
+- Spoops commands Wegate snd his Paladins to scour the surrounding areas for corpses.
+- 
 - The Githyanki Empire falls.  
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
-- Spoops, now **Myrkul**, the god of bones, retreats into hiding.  
 - Spoops crashes the value of Bombcoin to 0, a newly bankrupt Zeus challenges him to a duel.
 - Zeus travels to the Illithid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 - Zeus' soul is freed, the Prophet of Profit turns back into Gilthur, and the Illithid Emperor is defeated.
