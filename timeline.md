@@ -2,7 +2,7 @@
 title: timeline
 description: 
 published: true
-date: 2025-05-04T03:10:23.596Z
+date: 2025-05-06T00:16:19.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -87,7 +87,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
   
 - **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey) to Krorg and his wife Kayla**.
 
-### The End of the Age of Mortals (0 AD)
+### The End of the Age of Mortals (0 AC)
 - Darmuth destroys Altricia and kills Krorg.
 - Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Darmuth is killed after Os drops her into a volcano.
