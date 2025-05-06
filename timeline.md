@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T15:40:45.603Z
+date: 2025-05-06T15:40:53.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -112,7 +112,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Spoops Ascends back to Godhood: Spoops prays to His Divine Self Ry-ann and uses the 12th level spell Divine Command on himself to re-merge his split being into one.
 - The party reunites. Os tells Spoops that to make peace with the Gods, they want him to cease any attempts to ascend. Spoops tells Os its too late because he just ascended 5 minutes ago. 
 - Two months of Preparations: After an eventful few days, the party return to Wegate to spend two months preparing for war. 
-- During the preparations Spoops and Bazzros go into the second time chamber. Creating the Shard of Divinity.
+- During the preparations Spoops and Bazzdos go into the second time chamber. Creating the Shard of Divinity.
 - After two months of prep, the party gives their response to Vlaakith's demands by beginning an all out assault on Tu'nareth.
 - The Githyanki Empire falls. 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
