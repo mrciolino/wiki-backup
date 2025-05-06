@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:42:56.915Z
+date: 2025-05-06T17:43:07.588Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -146,7 +146,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
 - Spoops begins by meeting up with Kelemvor to confront Cyric together. After some time they are sble to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
 - Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
-- Spoops moves onto his next task, combining all lost fragments of Gond's soul. He scours the universe, finding every last fragment of Gond and putting it within Bazzdos. 
+- Spoops moves onto his final task, combining all lost fragments of Gond's soul. He scours the universe, finding every last fragment of Gond and putting it within Bazzdos. 
 - Without Spoops to guide Mortis Lux, the main lieutenants return to Mardun, with the exception of the Saragossa Pirates who stay in space.
 	- Narascus becomes regent of Hastow.
   - Versrahan becomes regent of Wegate.
