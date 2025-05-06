@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:13:09.555Z
+date: 2025-05-06T17:13:32.771Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -107,7 +107,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The **Low Bar Brawlers** ascend to godhood.  
 - Spoops and Adalynn are brought before Vlaakith while looking for allies. Vlaakith makes a counter offer, she will help fight Illithids if Mortis Lux serves her. Upon Spoops and Adalynn's refusal, Vlaakith tries to subjugate them, Spoops takes offense and swears revenge. They use the anti-magic armor and teleport away before Vlaakith can hold them captive any longer. 
 - Vlaakith gives the party two months to reconsider her offer.
-- Bazzdos finds an assassination note from someone seeking combat with Spoops. He proceeds to work eith a lawyer in the library to set up a fight between Zeus and Spoops.
+- Bazzdos finds an assassination note from someone seeking combat with Spoops. He proceeds to work with a lawyer in the library to set up a fight between Zeus and Spoops.
 - Spoops and Zeus fight 1v1: Spoops throws everything he has at Zeus but cabt even scratch him. He is able to drag Zeus through the far realms by drinking a Protein Shake of Power. This greatly affects Zeus' mind, however Spoops is still slain by Zeus. Spoops resurrects and sneaks away through the well of many worlds to Dolarion.
 - The first great sin of Spoops: Spoops and Bane conquer goblin clans of Dolarion while Bane leads Spoops around activating magic pillars. Bane promises this ritual will empower them both. The final pillar ends up shattering the planet, freeing the titan Iapetus. Spoops is granted the Titanite Blade. 
 - The second great sin of Spoops: Spoops and Os go to the astral plane and Spoops uses Seed Life to spawn two planets worth of Owlbears which Os gathers into a bowl using his shield. Spoops casts Soul Absorption to harvest their power and distribute it among the party, granting them Epic Boons.
