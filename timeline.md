@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:20:54.870Z
+date: 2025-05-06T17:26:36.349Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -148,14 +148,14 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - Versrahan becomes regent of Wegate.
   - Luther becomes regent of Altricia.
   - Os and Breeze-e return to Gothriathon.
-  - Kierkegaard returns to Bahryst.
+  - Kierkegaard returns to rule Bahryst with his wife.
   - Bazzdos and Gilthur return to North Geskoworm.
   - Meade returns to Fywick.
   - Adalynn remains in her flying fortress.
 - Gilthur abdicates his titles as Pirate King of Saragossa and King of Altricia.
-- The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from Mystra, causing Breezy-e to kill her. 
+- The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from Mystra whos been subdued by Mask, causing Breezy-e to kill her. 
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
-- Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from Mortis Lux members, but his claim is challenged by others.
+- Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 - Bazzdos sees the party fractures taking hold and accelerates his plan to collect more [Gond](/characters/Gond) souls by abducting more gnomes named Gond. This leads to direct conflict with Gilthur who must protect the Geskoworm Gnomes. 
 - Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire.
 ### 15 AC The Hastow-Wegate War
