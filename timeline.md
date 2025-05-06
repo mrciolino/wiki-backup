@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T17:50:49.681Z
+date: 2025-05-06T17:58:51.397Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -149,6 +149,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Spoops moves onto his final task, combining all lost fragments of Gond's soul. He scours the universe, finding every last fragment of Gond and putting it within Bazzdos. 
 - After the war ends and the party departs on various quests, Mortis Lux goes into standby mode. The main Generals, and lieutenants return to Mardun, with the exception of the Saragossa Pirates who stay in space after taking possession of their promised Spelljammer ships. 
 - Illiard is made regent of Mortis Lux HQ during the party's absence, and is granted immortality by Spoops. He oversees basic operations and keeps HQ secure with the help of a legion of undead granted to him by Spoops, and a small group of living members. He keeps Mortis Lux's resources and finances active in case the old treaties and armies need to be called upon again. Jergal also hangs out with him sometimes.
+- Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of Hastow and Wegate, and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
 	- Narascus becomes regent of Hastow.
   - Versrahan becomes regent of Wegate.
   - Luther becomes regent of Altricia.
