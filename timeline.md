@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T12:19:37.445Z
+date: 2025-05-06T12:20:53.917Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -46,6 +46,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **Deep Gnome Lore:** *TODO*
 - **Fall of the Illithid Empire:** *TODO*
 - **Giants vs. Dragons War:** The Giants' defeat marks the end of the **Age of Giants** and the start of the **Age of Dragons**.
+- Spoops spends time under the name Myrkul and the dead 3 
 
 ## The Age of Dragons (??? BC - ~2100 BC)
 
