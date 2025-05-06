@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T16:20:27.635Z
+date: 2025-05-06T16:20:33.148Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -125,7 +125,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Mortis Lux acquires a potion master. To counter the Ithilids Peionics they mass produce potions of Mind Blank.
 - Treaty With the Council of Gods
 - Weakening of Cyric: The party investigates Breezy-E's sword Godsbane. They find that it is not the god Mask but is instead the imprisoned form of Bhaal. Bazzdos uses Mordenkainen's Disjunction to destroy Cyric's connection to the blade by rending the part of his soul inhabiting it. Spoops and Bhaal race to grab whatever they can of Cyric's soul. Bhaal gets some, but Spoops gets most of it which he provides to the party as power.
-- Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by thr vanguard during the start of the final battle.
+- Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
 - 
 - Zeus' soul is freed, the Prophet of Profit turns back into Gilthur, and the Illithid Emperor is defeated.
 - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun.
