@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T13:26:02.389Z
+date: 2025-05-07T13:26:35.302Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -143,10 +143,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Two months of Preparations: After an eventful few days, the party return to Wegate to spend two months preparing for war. 
 - During the preparations Spoops and Bazzdos go into the second time chamber. Creating the Shard of Divinity.
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
-- Tu'nareth, is now an undead titan corpse controlled by Spoops.
-- The Ithillids Arrive at Tu'narath: As the battle ends and Mortis Lux is in the process of flying back home through their portals, The Ithillids giant creature arrives. Simply behilding it melts the minds of any still on that side of the portal. Hundreds of Mortis Lux soldiers and Githyanki had their minds obliterated.
-- Tu'narath is teleported into orbit around Mardun, becoming a new moon until it is needed again.
-- The surviving Githyanki are offered refuge by the Githzerai and Mortis Lux.
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
