@@ -2,7 +2,7 @@
 title: Githyanki War Preparation
 description: The longest two months in history.
 published: true
-date: 2025-05-07T14:05:24.526Z
+date: 2025-05-07T15:12:42.483Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T13:45:55.403Z
@@ -29,10 +29,24 @@ Mortis Lux constructs the Great Port of Wegate and begins mass producing Spellja
 
 
 ## Selune's Gathering
-Os is invited to a gathering in Selune's divine realm to discuss the Spoops problem. The party go to Selune's divine realm, Spoops is convincingly disguised as "Spencer". Os bargains with Bahamut to ascend to become the God of Sex. He is told he must give up the power received by the Soul Absorption and prevent Spoops from ascending to godhood. Os convinces Bahamut to let him try convincing Spoops instead killing him. Spoops, Adalynn, and Elira are caught looking for powerful magic in Selune's library by Selune herself. Spoops deflects Selune's moonbeam attacks and eacapes to The dragon planet (ruled by bahamut and tiamat's child) through the Well of Many Worlds with Elira. The rest of the party leaves the party regroups in Selune's realm before Adalynn teleports them to the dragon world.
+Os is invited to a gathering in Selune's divine realm to discuss the Spoops problem. The party go to Selune's divine realm, Spoops is convincingly disguised as "Spencer". 
 
-## Spoops' Ascention
-Spoops prays to His Divine Self Ry-ann and uses the 12th level spell Divine Command on himself to re-merge his split being into one. The party reunites in front of thr gates to the castle. Os tells Spoops that to make peace with the Gods, they want him to cease any attempts to ascend. Spoops tells Os its too late because he just ascended 5 minutes ago. 
+Spoops, Adalynn, and Elira are caught looking for powerful magic in Selune's library by Selune herself. Spoops deflects Selune's moonbeam attacks and eacapes to another planet. They find themselves on a floating island kingdom inhabited by half-dragon people ruled by Faaspraanaam (child of Bahamut and Tiamat) through the Well of Many Worlds with Elira.
+
+Os Adalynn and Bazzdows are brought before the Goddess Selune. Os is confronted by a furious Selune who is trying to convince him to turn against and destroy Spoops and ascend to godhood, joining the pantheon. Os is able to convince her anr Bahamut to give him one last chance to convince Spoops not to ascend to godhood. Selune accepts and grants Os power and allows him to ascend to join the pantheon as a new demigod under herself and her daughter Sune.
+
+
+## Spoops' Ascention 
+After landing in the floating island kingdom with half dragon people Spoops goes to meet the locals and see what's the deal with this place.
+
+Then Bazzdows, Adalynn, and Os are sent to the floating island dragon kingdom where Spoops and Elira are currently. 
+
+The party reunites in front of the gates to the castle where Spoops is praying to His Divine Self Ry-ann and uses the 12th level spell Divine Command on himself to re-merge his split being into one.
+
+Then the party is wuickly presented by some guards before Faaspraanaam a huge double headed Purple Dragon, apparently the son of Bahamut and Tiamat. After some questioning Faaspraanaam's initial hostility subsides after the party agrees to leave, and so they do without any further incidents.
+
+Before departing, Os tells Spoops that to make peace with the Gods, they want him to cease any attempts to ascend. Spoops tells Os its too late because he just ascended 5 minutes ago. The party then returns back to Mardun.
+
 
 
 ## Two months of Preparations
