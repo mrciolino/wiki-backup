@@ -2,7 +2,7 @@
 title: Rathwing
 description: Darmuth's first officer
 published: true
-date: 2025-04-11T17:31:41.641Z
+date: 2025-05-07T01:43:36.200Z
 tags: audio
 editor: markdown
 dateCreated: 2024-08-07T21:46:23.750Z
@@ -15,11 +15,11 @@ An evil draconic sorcerer with large bat wings. He is the descendant of both Dar
 ### Powers
 Flight, control of an evil cult, pioneer of the Rathwing-style of fighting which is to turn invisible, teleport, and spam fireball. Also he could cast animate object on a stack of coins to deal many attacks.
 ### Evil Deeds
-- Destroyed Saragossa, and that other village. 
+- Destroyed Saragossa, and Demsford. 
 - Ran a cult which committed widespread human slaughter.
 - Killed Bomb the Bear. 
 ### Fate
-Shot to death by Breezy-E at the end of the Pirate Raid.
+Shot to death by Breezy-E at the end of the Great Pirate Raid.
 
 # Trivia
 - Rathwing has a villain song 
