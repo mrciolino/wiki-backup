@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2025-05-07T16:08:49.926Z
+date: 2025-05-07T16:36:46.351Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
