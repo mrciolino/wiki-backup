@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-05-07T15:51:18.549Z
+date: 2025-05-07T15:53:20.858Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -22,7 +22,10 @@ The Ithilid's creature and Nautiloids break through the crystal sphere of Mardun
 
 During the assault, the party was stationed on their command ship where they blasted through the battlefield using their lasers. Upon their arrival to the city atop the beast's head, they fired all lasers to attempt to tunnel into its brain to kill it. The laser attack caused countless tentacles to emerge from the beast's flesh, ripping their ship apart. Before the ship fell, all aboard managed to mount the Mechatarasque piloted by Bazzdos as they fell into the opening they created in the creature's head. Spoops managed to grab ahold of the main laser and power supply before using Peace Was Never an Option to descend into the city.
 
+## Within the Ithilid's Creature
+
 Spoops beheld the chaos before him as the tentacles writed and flesh heaved. He tried to contact the party via speaking stone but could not get a message through. He resolved to follow them into the wound and find them, he flew upwards, hauling the massive laser into the air, then redirecting into the wound he fired the laser, dodging tentacles and burjing into the flesh of the beast. He managed to dig his way down, eventually finding a system of tunnels. Rather than waste time exploring he began using the laser to blast his way through. After going deeper he finally accudentally blaster a hole into a wider cavern where he found Knott Emportent and the rest of his party. Together they proceeded deeper into the creature until coming upon the golden lobster who directed them to a portal.
+
 Upon entering the portal, they found themselves in a massive hall within the creature. 
 
 ## Ceremorph Zeus
