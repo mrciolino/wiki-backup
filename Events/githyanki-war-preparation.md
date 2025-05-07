@@ -2,7 +2,7 @@
 title: Githyanki War Preparation
 description: The longest two months in history.
 published: true
-date: 2025-05-07T15:22:40.025Z
+date: 2025-05-07T15:23:08.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T13:45:55.403Z
@@ -22,7 +22,7 @@ Spoops grts roped into the fight against Zeus who is wants revenge for the crash
 
 
 ## Quest for Power
-After being humiliated and slain, Spoops gets desperate for more strength. He puts all his focus on acquiring more power quickly. This leads him to commit his [Two Great Sins] (/Events/the-great-sins-of-spoops).
+After being humiliated and slain, Spoops gets desperate for more strength. He puts all his focus on acquiring more power quickly. This leads him to commit his [Two Great Sins](/Events/the-great-sins-of-spoops).
 
 ## The Great Port of Wegate and Infinite Undead Army
 Mortis Lux constructs the Great Port of Wegate and begins mass producing Spelljammer warships. Spoops commands Wegate and his Paladins to scour the surrounding areas for corpses.
