@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T18:18:29.578Z
+date: 2025-05-07T21:54:14.030Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -174,7 +174,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 - Bazzdos sees the party fractures taking hold and accelerates his plan to collect more [Gond](/characters/Gond) souls by abducting more gnomes named Gond. This leads to direct conflict with Gilthur who must protect the Geskoworm Gnomes. 
 - Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire. 
-### 15 AC The Hastow-Wegate War
+### 15-16 AC The Hastow-Wegate War
 - In an effort to seize power and crush any religious opposition, Narascus uses hundreds of spelljammers to launch a surprise attack on Wegate, and marched his armies over land on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
 #### Battle of Wegate
 - Narascus bombards Wegate, dropping undead on and outside the less defended city. Undead vs Undead and necrotic magical combat ensue. 
@@ -205,14 +205,32 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - From the backing out of Os from the alliance with Wegate, a new revulsion of necromancy in all its forms occurs in Gothriathon. 
 
 ### Other Major Events
-- The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent begins.
-- [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers.
-- **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
-- 200 AC Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared.
-- [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.  
-- **Breezye** is mournfully exiled from Vrintia for being undead. He leaves for the west, and his departure is marked with the Lost Wind Gate. Travelling deep into the dark continent, he founds **[La Rocca della Sugo](/locations/la-rocca-della-sugo)**, a major vampire castle.
+- 51 AC The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent of Felldora begins. 
+- 72 AC [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers. Though some say his spirit still lingers among bars where adventures begin...
+- 180 AC **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
+- 200 AC Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared. 
+- 201 AC / 1 VY Gothriathon is incorporated into the Kingdom of Vrintia. Dwarvish and Elvish relations at an all time high.
+- ??? Bank of Os founded in Vrintia. 
+- ??? Inferno subsides at the volcano on the Osian Vale at the age of 2150+AC, becoming the first Greatwyrm due to his old age.
+- ??? Royal Vrintian Academy of Swords, Songs, and Sorcery founded on the Osian Vale.
+- 333 AC / 133 VY [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.  
+- 350 AC / 150 VY **[Kaltrosar Bay](/locations/kaltrosar-bay)'s Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. Dragonborn exiles flee south to Vrintia and Tiamar's Bazzar.
+### 365 AC / 165 VY The Voyages of Breezy-E
+- Despite his heroic deeds which saved the world, being a powerful force of protection, easily fighting against the strongest foes, and their long standing friendship, **Breezy-E** is mournfully banished from the lands of Vrintia by Os for being undead. The Royals and Nobility fear and revile his necrotic nature, and his newest contract with Asmodeus makes him far less useful as a protector or weapon. 
+- Breezy-E leaves for the west seeking the best place to grow spaghetti on Mardun. He goes over the Saber river, and through Arn, and his departure from the lands of Vrintia is marked with the Lost Wind Gate. 
+- He spends the next few decades travelling up and down the Wild Coast, planting spaghetti and becoming a folk legend as a wandering samurai.
+- He travelled up through the Witchlight Jungles, and eventually wanders into Fywick. Missing his old days as an adventurer, and given how nobody recognized him anymore, and perhaps through the spirit of Meade, he finds himself as part of an adventuring team once more. 
+- His adventure team is part of the Fywick colonization efforts of making Felldora more habitable for mortal life, by clearing out ancient ruins, and fighting off monsters on the Emerald Shores. 
+- Getting around his ban on killing from Asmodeus, Breezy-E makes quick work of monsters and dungeons by leaving everyone at 1 hp so his party members can kill them. His party is completely at awe since they are unaware that they are in the presence of possibly the strongest fighter on Mardun and the chosen of Bhaal. 
+- Unfortunately the dark powers of Felldora take notice to this unknown lowly adventurer almost killing everything with ease, and the vampire tribe of La Bocca della Fuoco (The Mouth of Fire) are set to kill this party.
+- Breezy-E's party is deep in the Ironwood forests hunting down great beasts when suddenly they are attacked by Fuoco vampires. Breezy-E's efforts are not enough this time and the vampires kill his party. Unable to kill them, Breezy-E is left with no choice but to reveal himself. ---- Something about the spaghetti god here----
+- Breezy-E eventually finds La Bocca della Fuoco and breaks inside, casting away all opponents until he finds Dante Flamma, the powerful head vampire of the tribe. ---he defeats him in some stupid way---
+- He's so angry that he doesn't even care about his contract with Asmodeus anymore and prepares his ultimate spaghetti god attack to wipe out all the Fuoco vampires. But then he notices out of the corner of his eye a soil acidity chart, and average yearly temperature and rainfall graph and realizes that this small corner of Mardun is the optimal place for growing spaghetti. This calms him down, saving the vampires and his own soul from Asmodeus.
+- As the new head of the vampire tribe, Breezy-E renames La Bocca della Fuoco **[La Rocca della Sugo](/locations/la-rocca-della-sugo)** (The Rock of Sauce).
+
+### 
+
 - **[Erriad](/locations/erriad)'s Fall**: [Bane](/characters/bane) killed Erriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
-- **[Kaltrosar Bay](/locations/kaltrosar-bay)'s Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. Dragonborn exiles flee south to Vrintia and Tiamar's Bazzar.
 - **Arn's Rebellion**: The mainly human inhabitants of Arnsworth are not happy under the mainly elvish and dwarvish rule of Vrintia. A rebellion occurs within Vrinia, leading to a crushing defeat of Arnsworth.
 - **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
 ---
