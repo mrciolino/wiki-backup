@@ -2,7 +2,7 @@
 title: Githyanki War Preparation
 description: The longest two months in history.
 published: true
-date: 2025-05-07T14:05:08.626Z
+date: 2025-05-07T14:05:24.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T13:45:55.403Z
@@ -43,4 +43,4 @@ During the preparations Spoops and Bazzdos go into the second time chamber. Crea
 
 During the two months, Spoops uses the hundreds os thiusands of corpses gathered by his followers and undead to raise an army of hundreds of thousands of Undead soldiers. 
 
-The Wegatian shipyard constructs a few hundred spelljammer warships equipped with crystal powered weaponry. Pilots are recruited from the ranks of the Wizards of Porthy, and Highhold, the Clerics of Wegate, Clerics of Hastow, and Pirates of Saragossa.
+The Wegatian shipyard constructs a few hundred more spelljammer warships equipped with crystal powered weaponry. Pilots are recruited from the ranks of the Wizards of Porthy, and Highhold, the Clerics of Wegate, Clerics of Hastow, and Pirates of Saragossa.
