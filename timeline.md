@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T15:23:49.778Z
+date: 2025-05-07T15:53:55.835Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -134,7 +134,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
-- The party begin preparations for the final War against the Ithilids.
+- The party begins preparations for the final War against the Ithilids.
 - Mortis Lux acquires a potion master. To counter the Ithilids Peionics they mass produce potions of Mind Blank.
 - Treaty With the Council of Gods
 - Weakening of Cyric: The party investigates Breezy-E's sword Godsbane. They find that it is not the god Mask but is instead the imprisoned form of Bhaal. Bazzdos uses Mordenkainen's Disjunction to destroy Cyric's connection to the blade by rending the part of his soul inhabiting it. Spoops and Bhaal race to grab whatever they can of Cyric's soul. Bhaal gets some, but Spoops gets most of it which he provides to the party as power. Bhaal departs but first grsnts Breezy-E his blessing, becoming the second "Death God" to do so.
@@ -142,8 +142,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
 - 
 - 
-- The Ithilid War: The Ithilid's creature and Nautiloids break through thr crystal sohere of Mardun, beginning their attack in multiple cities. Mortis Lux begins the assault on the the creature, and sends squads of ships to each city being attacked on the surface.
-- Zeus' soul is freed, the Prophet of Profit turns back into Gilthur, and the Illithid Emperor is defeated.
+- [The Ithilid War](/Events/ithilid-war)
 - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun.
 - Spoops spends the next 1000 years fulfilling his promises to Mortis Lux and the Council of Gods.
 ---
