@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T17:09:28.703Z
+date: 2025-05-07T17:25:49.667Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -137,6 +137,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 - The party begins preparations for the final War against the Ithilids.
+- [Saragassa Mortis Lix Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - Mortis Lux acquires a potion master. To counter the Ithilids Peionics they mass produce potions of Mind Blank.
 - Treaty With the Council of Gods
 - Weakening of Cyric: The party investigates Breezy-E's sword Godsbane. They find that it is not the god Mask but is instead the imprisoned form of Bhaal. Bazzdos uses Mordenkainen's Disjunction to destroy Cyric's connection to the blade by rending the part of his soul inhabiting it. Spoops and Bhaal race to grab whatever they can of Cyric's soul. Bhaal gets some, but Spoops gets most of it which he provides to the party as power. Bhaal departs but first grsnts Breezy-E his blessing, becoming the second "Death God" to do so.
