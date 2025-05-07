@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T02:33:53.900Z
+date: 2025-05-07T13:26:02.389Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -142,8 +142,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The party reunites. Os tells Spoops that to make peace with the Gods, they want him to cease any attempts to ascend. Spoops tells Os its too late because he just ascended 5 minutes ago. 
 - Two months of Preparations: After an eventful few days, the party return to Wegate to spend two months preparing for war. 
 - During the preparations Spoops and Bazzdos go into the second time chamber. Creating the Shard of Divinity.
-- After two months of prep, the party gives their response to Vlaakith's demands by beginning an all out assault on Tu'nareth.
-- The Githyanki Empire falls. 
+- [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Tu'nareth, is now an undead titan corpse controlled by Spoops.
 - The Ithillids Arrive at Tu'narath: As the battle ends and Mortis Lux is in the process of flying back home through their portals, The Ithillids giant creature arrives. Simply behilding it melts the minds of any still on that side of the portal. Hundreds of Mortis Lux soldiers and Githyanki had their minds obliterated.
 - Tu'narath is teleported into orbit around Mardun, becoming a new moon until it is needed again.
