@@ -2,7 +2,7 @@
 title: Githyanki War Preparation
 description: The longest two months in history.
 published: true
-date: 2025-05-07T15:21:47.166Z
+date: 2025-05-07T15:22:40.025Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T13:45:55.403Z
@@ -53,8 +53,8 @@ Before departing, Os tells Spoops that to make peace with the Gods, they want hi
 
 After an eventful few days, the party return to Wegate to spend two months preparing for war. 
 
-During the preparations Spoops and Bazzdos go into the second time chamber. Creating the Shard of Divinity.
+During the preparations Spoops and Bazzdos go into the second time chamber. Creating the Shard of Divinity, and training Spoops' new divine powers.
 
-During the two months, Spoops uses the hundreds os thiusands of corpses gathered by his followers and undead to raise an army of hundreds of thousands of Undead soldiers. 
+During the two months, Spoops uses the corpses gathered by his followers and undead to raise an army of hundreds of thousands of Undead soldiers. 
 
 The Wegatian shipyard constructs a few hundred more spelljammer warships equipped with crystal powered weaponry. Pilots are recruited from the ranks of the Wizards of Porthy, and Highhold, the Clerics of Wegate, Clerics of Hastow, and Pirates of Saragossa.
