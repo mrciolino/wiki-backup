@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T15:53:55.835Z
+date: 2025-05-07T17:08:05.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -120,7 +120,9 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage. 
 - The party acquires a flying ship in Gothriathon.
-- After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
+- The party travels to Fywick to seek the Oracles guidance on the crack over Altricia.
+- Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
+- The Battle of Fywick: Os is implanted with the Shield Generator, and Spoops takes down Darmuth's Bone Demon from the inside. 
 - Darmuth is killed after Os drops her into a volcano.
 - The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the protal with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
