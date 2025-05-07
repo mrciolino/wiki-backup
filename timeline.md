@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-06T19:53:42.346Z
+date: 2025-05-07T02:19:13.826Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -49,15 +49,21 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Spoops spends time under the name Myrkul and adventures as one of the dead 3. The Time of Troubles occurs.
 
 ## The Age of Dragons (??? BC - ~2100 BC)
-
-- **2150 BC:** Birth of **[Inferno](/characters/inferno)**.
-- **[Darmuth](/characters/darmuth)**'s body begins to form.
+- With no creatures on earth left to challenge them, Dragons become the hegemonic power of Mardun.
+- **2150 BC:** Birth of **[Inferno](/characters/inferno)**, who would go on to become the longest living dragon.
+- **[Darmuth](/characters/darmuth)**'s body begins to form in response to the heightened levels of magic on Mardun.
 - **Rise of the [Pythagorean Empire](/organizations/The-Pythagorean-Empire):**  
-  - The first mortal empire to harness **[Runic Magic](/magic/runes)**.
-  - Leyline project completed and Pythas Prime founded.
-  - Fall of Pythas Prime and the Pythagorean people flee, spreading the knowledge of magic around the world.
-- **2100 BC:** The **Desolation of Asmal** ends the **Age of Dragons** and starts the **Age of Mortals**.
-	- Asmal, the mad mage of Pythas Prime, travels to Dracofell with a cult of antipode loyalists. It is unclear the exact method he used, but the result was harnessing a new form of dark magic that lead to the extinction of 99% of dragons of Mardun. All remaining survivors fled to Wyrmford, as Dracofell became a desolate wasteland hostile to all life. It is unclear what happened to Asmal and his followers, but his actions lead to the creation of dark magic.
+	- Arcanographers, Astronomers, and Line-walkers pool their knowledge together to discover the existence and paths of the three leylines that exist on Mardun: The leylines of **Vitality**, **Flux**, and **Insight**.
+  - The multi-century leyline project, where the three leylines are aligned together, completed and **Pythas Prime** founded at the point of their union.
+  - The Arcanomancers of Pythas Price harness **[Runic Magic](/magic/runes)**, the first form of magic that can be harnassed without natural or divine forces. The field that would be known as Wizardry is begun.
+  - Asmal, an accomplished Arcanomancer (proto-wizard), is imprisoned in Pythas Prime for his dangerous and heretical ideas concerning the "antipode" powers of Vitality, Flux, and Insight. He is given the title of "*Asmal the Mad*".
+  - Dragons from Dracofell, where the antipode of Pythas Prime is located, grow concerned that the new power harnessed by mortals could threaten their strength, and coordinates a massive assault on Pythas Prime. Despite their magic, the Arcanomancers' magic is too primitive to fight off Dragons.
+#### **~2100 BC:** The **Desolation of Asmal**
+- Asmal, the Mad of Pythas Prime, is freed from Pythas Prime after 80 years of captivity during the Dragon assault by a cult of followers who gained interest in his heretical ideas. They decide to make the very long and perilous journey to Dracofell to get revenge on the Dragons.
+- Asmal reaches Dracofell undetected, and his thesis is correct that an enormous amount of "negative energy" has built up at the antipode of Pythas Prime. 
+- It is unclear the exact method he used, but the result was harnessing a new form of dark magic that lead to the extinction of 99% of dragons on all of Mardun. All surviving Dragons fled to Wyrmford, as Dracofell became a desolate wasteland hostile to all life. It is unclear what happened to Asmal and his followers, but his actions lead to the creation of dark magic. Such an enormous release of power also shook the leylines from their foundations, setting them free from the restraints setup up by Pythas Prime. Asmal the Mad leaves behind the legacy of the harbringer of dark magic (anti-Vitality, anti-Flux, anti-Insight) to Mardun.
+- Without the leylines in place, Pythas Prime falls into ruin and the Pythagorean people flee, spreading the knowledge of magic around Mardun. Being supported on an artificial island by the leyline of Vitality, Pythas Prime sinks into the water, to what is now know as the Triangle Sea.
+
 ## The Age of Mortals (~2100 BC - ~1 AC)
 - Various survivng factions of the Pythagorean Empire found new settlements.
 	- A guild of astronomers travel north to the Celestial Vale and begin a new tradition of studying stars for scrying and fortelling abilities.
@@ -92,8 +98,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - The party retreats to Saragossa, where Krorg organizes a pirate raid to plunder Alford.
   - The Great Pirate Raid occurs
   	- Rathwing destroys Saragossa
-  	- Dave Bones is killed by the party for the first time
-    - Rathwing is summoned to Alford and killed by Breezy-E
+  	- Dave Bones is killed by the party for the first time, leading to his long lasting vendetta against the party.
+    - Rathwing is summoned via wish to Alford and killed by Breezy-E
     - Bazzert kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
     - Without Saragossa, the new pirate capital of **[Altricia](/locations/altricia)** is founded from the ashes of Alford.
   - After celebrating a successful raid, the party splits off for 3 years. Os Vrintia is exiled to Gothriathon after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
@@ -208,8 +214,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent begins.
 - [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers.
 - **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
-  - 200 AC Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared.
-  
+- 200 AC Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared.
 - [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.  
 - **Breezye** is mournfully exiled from Vrintia for being undead. He leaves for the west, and his departure is marked with the Lost Wind Gate. Travelling deep into the dark continent, he founds **[La Rocca della Sugo](/locations/la-rocca-della-sugo)**, a major vampire castle.
 - **[Erriad](/locations/erriad)'s Fall**: [Bane](/characters/bane) killed Erriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
@@ -220,8 +225,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 ## The New Campaign
 
-### 1000 AC – Present
+### 1000 AC / 800 VY – Present
 - ??? Tiberian's family is killed
 - ??? Tomas' mother is forced to jump of Queen Daera Bridge by Walter Beste Wotera Vrintia
-- **1000 AD:** **[Goopy](/characters/goopy)** arrives from space.  
-- **10XX AD:** The **[Slaughter Bridge Battle](/events/slaughter-bridge-battle)** occurs, leading to the destruction of the Brass Brigade.
+- **1000 AC / 800 VY:** **[Goopy](/characters/goopy)** arrives from space.  
+- **10XX AC / 8XX VY:** The **[Slaughter Bridge Battle](/events/slaughter-bridge-battle)** occurs, leading to the destruction of the Brass Brigade.
