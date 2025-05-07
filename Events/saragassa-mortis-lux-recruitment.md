@@ -2,7 +2,7 @@
 title: Saragassa Mortis Lux Recruitment
 description: The party returns to Saragassa to recruit the pirates into Mortis Lux
 published: true
-date: 2025-05-07T17:24:11.098Z
+date: 2025-05-07T17:27:58.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T17:24:11.098Z
@@ -21,3 +21,5 @@ Spoops enters the tournament but is in need of a gun in order to participate in 
 While Spoops works with Gnomio on this, Elira is flirting with Captain  Maria Luigi her future wife.
 
 With this new weapon Spoops won the tournament bybone shotting every opponent, becoming thr new Piraye King. As Pirate King he commanded the crews to unite and join Mortis Lux, promising mountains of loot as well as a flying ship to keep for each crew who joined. After being offered gold and flying ships the crews all joined up and traveled back to Mortis Lux HQ with the party.
+
+Gnomio joins Mortis Lus as a Weaponsmith.
