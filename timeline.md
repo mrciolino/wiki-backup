@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T17:27:18.464Z
+date: 2025-05-07T18:18:29.578Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -111,6 +111,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
     - Bazzert kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
     - Without Saragossa, the new pirate capital of **[Altricia](/locations/altricia)** is founded from the ashes of Alford.
   - After celebrating a successful raid, the party splits off for 3 years. Os Vrintia is exiled to Gothriathon after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
+  - [Wegate Revolution](/Events/wegate-revolution)
   
 - **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
 - Despite his bounty, Os becomes the secret ruler and law enforcer of Gothriathon. He disconnects Gothriathon from the Dragon Sea trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
