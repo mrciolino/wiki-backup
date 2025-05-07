@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T02:19:13.826Z
+date: 2025-05-07T02:33:53.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -48,8 +48,16 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **Giants vs. Dragons War:** The Giants' defeat marks the end of the **Age of Giants** and the start of the **Age of Dragons**.
 - Spoops spends time under the name Myrkul and adventures as one of the dead 3. The Time of Troubles occurs.
 
+## The Age of Giants (??? BC - ??? BC)
+- The largest and most powerful creatures on Mardun, their reign spread over Felldora and Felldun. 
+- They bread dinosaurs as beasts of burden as well as beasts of war.
+### The Giants vs Dragon war
+- Eventually they went to war with the Dragons.
+- The great Giant leader **Blavog**, who rode a T-rex into battle, lead the final assault against the Dragons, but could not match up to their air superiority.
+- The Giants lost, and they became scattered across the world only the be hunted to near extinction or pass their genes off to other races (who became larger after the fact).
+
 ## The Age of Dragons (??? BC - ~2100 BC)
-- With no creatures on earth left to challenge them, Dragons become the hegemonic power of Mardun.
+- With no creatures on earth left to challenge them, Dragons become the hegemonic power of Mardun. **Cosmos, the Champion of the Skies**, declares to all Mardun that the Age of Dragons has begun. All major powers remaining on Mardun, be they Orc, Goblin, or Elvish, are under dominion of the Dragons. 
 - **2150 BC:** Birth of **[Inferno](/characters/inferno)**, who would go on to become the longest living dragon.
 - **[Darmuth](/characters/darmuth)**'s body begins to form in response to the heightened levels of magic on Mardun.
 - **Rise of the [Pythagorean Empire](/organizations/The-Pythagorean-Empire):**  
