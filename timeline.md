@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T13:39:49.885Z
+date: 2025-05-07T15:23:22.570Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -129,17 +129,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
 -  
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.
 - The **Low Bar Brawlers** ascend to godhood.  
-- Spoops and Adalynn are brought before Vlaakith while looking for allies. Vlaakith makes a counter offer, she will help fight Illithids if Mortis Lux serves her. Upon Spoops and Adalynn's refusal, Vlaakith tries to subjugate them, Spoops takes offense and swears revenge. They use the anti-magic armor and teleport away before Vlaakith can hold them captive any longer. 
-- Vlaakith gives the party two months to reconsider her offer.
-- Bazzdos finds an assassination note from someone seeking combat with Spoops. He proceeds to work with a lawyer in the library to set up a fight between Zeus and Spoops.
-- Spoops and Zeus fight 1v1: Spoops throws everything he has at Zeus but cabt even scratch him. He is able to drag Zeus through the far realms by drinking a Protein Shake of Power. This greatly affects Zeus' mind, however Spoops is still slain by Zeus. Spoops resurrects and sneaks away through the well of many worlds to Dolarion.
-- The first great sin of Spoops: Spoops and Bane conquer goblin clans of Dolarion while Bane leads Spoops around activating magic pillars. Bane promises this ritual will empower them both. The final pillar ends up shattering the planet, freeing the titan Iapetus. Spoops is granted the Titanite Blade. 
-- The second great sin of Spoops: Spoops and Os go to the astral plane and Spoops uses Seed Life to spawn two planets worth of Owlbears which Os gathers into a bowl using his shield. Spoops casts Soul Absorption to harvest their power and distribute it among the party, granting them Epic Boons.
-- Mortis Lux constructs the Great Port of Wegate and begins mass producing Spelljammer warships.
-- Spoops commands Wegate and his Paladins to scour the surrounding areas for corpses.
-- Os is invited to a gathering in Selune's divine realm to discuss the Spoops problem. The party go to Selune's divine realm, Spoops is convincingly disguised as "Spencer". Os bargains with Bahamut to ascend to become the God of Sex. He is told he must give up the power received by the Soul Absorption and prevent Spoops from ascending to godhood. Os convinces Bahamut to let him try convincing Spoops instead killing him. Spoops, Adalynn, and Elira are caught looking for powerful magic in Selune's library by Selune herself. Spoops deflects Selune's moonbeam attacks and eacapes to The dragon planet (ruled by bahamut and tiamat's child) through the Well of Many Worlds with Elira. The rest of the party leaves the party regroups in Selune's realm before Adalynn teleports them to the dragon world. 
-- Spoops Ascends back to Godhood: Spoops prays to His Divine Self Ry-ann and uses the 12th level spell Divine Command on himself to re-merge his split being into one.
-- The party reunites. Os tells Spoops that to make peace with the Gods, they want him to cease any attempts to ascend. Spoops tells Os its too late because he just ascended 5 minutes ago. 
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparations)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
