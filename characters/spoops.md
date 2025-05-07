@@ -2,7 +2,7 @@
 title: Spoops
 description: Overview of the God of Undeath.
 published: true
-date: 2025-05-06T12:15:24.273Z
+date: 2025-05-07T16:08:49.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-01T22:42:52.715Z
@@ -64,6 +64,13 @@ After the fall of Altricia to Darmuth and the death of Krorg at her hands. The p
 Spoops traveled to Wegate with Lokunai the demon, where he had already sent his disciple Vesrahann the snake woman to preach of his coming as the Prophet of their true god. Spoops, Lokunai, and Vesrahann sought to establish a new church of Ry-ann led by the Pope/king Spoops. After their arrival, Spoops spent his the time in Wegate converting followers to his cause to create a pseudo-theorcracy around himself as the holy Prophet of Death and life. 
 
 At the end of the two years, Spoops kust leave the rebels to meet with the party. He leaves Vesrahaan to lead his followers as he makes his way back to his friends.
+
+## Killed by The Emperor
+After being brought to the Emperor in a dream, Spoops was instantly killed by them.
+
+While his Soul floated in thr Astral Plane, Spoops ran into an old friend, Bomb The Bear. He spoke to bomb’s soul in the astral plane and Bomb said he was at peace outside of his material form and had no intention of returning to life.
+
+Bomb then inspired the dead spoops who had been killed by the eldrich abomination the illithids serve,  to try resurrecting himself.
 
 
 # Founding of Mortis Lux
