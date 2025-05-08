@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T16:13:56.266Z
+date: 2025-05-08T16:22:44.795Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -67,12 +67,6 @@ The Library Dimension is the resting place of [Bazzert](/characters/bazzert), [B
 - [📚 Visit Library Dimension *Resting place of Bazzert, Bazzvrah, and Bazzalt.*](/locations/Library-Dimension)
 {.links-list}
 
-## Dimension: Well of Souls  
-
-The Well of Souls is the divine realm and home of Spoops.
-
-- [📚 Visit The Well of Souls *Divine realm and home of Spoops*](/locations/The-Well-Of-Souls)
-{.links-list}
 
 ## Demiplane: The Forge Dimension  
 
@@ -95,13 +89,6 @@ Home of [Verondera](/characters/verondera) the giant dream spider who was recrui
 - [📚 Visit The Feywild *Dream Spider's Domain*](/locations/Feywild)
 {.links-list}
 
-## Dimension: Fugue Plane
-
-Home to Jergal's divine realm, the Bone Castle.
-
-- [📚 Visit The Fugue Plane *Home to Jergal's Divine Realm*](/locations/Fugue-Plane)
-{.links-list}
-
 
 ## Demiplane: Mortis Lux Flying City(HQ)  
 
@@ -118,4 +105,33 @@ Tu'narsth was once home to the Githyanki before Spoops raised thr titan corpse a
 
 - [📚 Visit Tu'narath *Titan Corpse*](/locations/tunarath)
 {.links-list}
+
+
+# Divine Realms
+
+## Realm: Well of Souls
+
+The Well of Souls is the divine realm and home of Spoops.
+
+- [📚 Visit The Well of Souls *Divine realm and home of Spoops*](/locations/The-Well-Of-Souls)
+{.links-list}
+
+
+
+## Realm: Olympus
+
+Home of the Gods of Olympus, and ruled by Zeus.
+
+- [📚 Visit Olympus *Divine realm of the Olympians*](/locations/olympus)
+{.links-list}
+
+
+
+## Realm: The Bone Castle
+
+Kelemvor and Jergal's divine realm, the Bone Castle.
+
+- [📚 Visit The Bone Castle *Home to Kelemvor and Jergal's Divine Realm*](/locations/bone-castle)
+{.links-list}
+
 
