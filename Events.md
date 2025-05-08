@@ -2,7 +2,7 @@
 title: Events
 description: Glossary of Memorable Events in the Low Bar Brawlers
 published: true
-date: 2025-05-08T15:41:29.042Z
+date: 2025-05-08T15:43:06.040Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T13:18:10.934Z
@@ -21,6 +21,7 @@ dateCreated: 2025-03-25T13:18:10.934Z
 | [**Time Chambers**](/Events/Time-Chambers) 	| Spoops Blade + Jngmgander + Shard of Divinty 	| 1 BC - 0 AD	| [Bazzdos](/characters/bazzdos), [Spoops](/characters/spoops), [Shard of Divinity](/items/shard-of-divinity)	|
 | [Wegate Revolution](/Events/wegate-revolution)   | The cult of Spoops first attempt to re-take Wegate. | [Spoops](/characters/spoops), [Vesrahaan](/characters/vesrahaan), [Nemotih](/characters/nemotih), [Lokunai](/characters/lokunai)  | [Wegate](/locations/Mardun/wegate) |
 | [Githyanki War Preparation](/Events/githyanki-war-preparation)   | Two month timeskip and power leveling to prepare for battle against Vlaakith. | The Party | [Wegate](/locations/Mardun/wegate), [Mortis Lux HQ](/locations/mortis-lux-hq), [Gates of The Moon](/locations/gates-of-the-moon)  |
+| [Githyanki War](/Events/githyanki-war)   | The battle against Vlaakith. | The Party | [Wegate](/locations/Mardun/wegate), [Mortis Lux HQ](/locations/mortis-lux-hq), [Tu'narath](/locations/tunarath)  |
 
 ## Campaign 2
 | Event Name         | Description | Date (if known) | Related Characters / Locations |
