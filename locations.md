@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T14:36:16.105Z
+date: 2025-05-08T15:48:58.242Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -81,9 +81,9 @@ The Forge Dimension exists within the Plane of Fire and is owned by the Forgemas
 
 # Important Party Locations
 
-## Mortis Lux Flying City  
+## Mortis Lux Flying City(HQ)  
 
-The capital city of [Mortis Lux](/organizations/mortis-lux), this city exists as a flying island fortress within a demiplane created by the [Archmage Adalynn](/characters/adalynn). Access to and from the city is entirely at Adalynn’s discretion, as the realm exists as a part of her soul.  
+The capital city of [Mortis Lux](/organizations/mortis-lux), this city exists as a flying island fortress within a demiplane created by the [Archmage Adalynn](/characters/adalynn). Access to and from the city is entirely at Adalynn’s discretion, as the realm exists as a part of her soul. After Adalynn's death, the portion of her soul tied to the demiplane was soul-surgically transferred to Illiard.
 
 ## Flying Pirate Ship
 descriptuin
