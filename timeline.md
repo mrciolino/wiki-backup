@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-07T21:54:14.030Z
+date: 2025-05-08T13:15:55.144Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -94,7 +94,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
 
 - **3 BC:**  
-  - The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)**.  
+  - The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
+  - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) Bomb The Bear is captured by Krorg.
   - Kaltozar Bay is burned down by Freedom.
   - The party travels to Alford aboard the Robin Trading company ship.
   - The party meets Illiard in his tower.
