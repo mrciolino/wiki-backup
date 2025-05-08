@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T16:22:44.795Z
+date: 2025-05-08T16:26:08.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -133,5 +133,20 @@ Kelemvor and Jergal's divine realm, the Bone Castle.
 
 - [📚 Visit The Bone Castle *Home to Kelemvor and Jergal's Divine Realm*](/locations/bone-castle)
 {.links-list}
+
+
+## Realm: Mount Celestia
+
+Home to Bahamut's divine realm. Mortis Lux and the Council of Gods gathered here to sign their treaty.
+
+- [📚 Visit Mount Celestia *Home to Bahamut's Divine Realm*](/locations/mount-celestia)
+{.links-list}
+
+
+
+
+
+
+
 
 
