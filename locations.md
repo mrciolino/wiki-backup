@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T15:58:47.597Z
+date: 2025-05-08T16:00:12.663Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -65,8 +65,7 @@ Location if Rabiah the storm giant's golem factory. Also the site of the final b
 {.links-list}
 
 ## Dimension: The Feywild
-
-.
+Home of [Verondera](/characters/verondera) the giant dream spider who was recruited into Mortis Lux and is a devout worshipper of Spoops.
 
 - [📚 Visit The Feywild *Dream Spider's Domain*](/locations/Feywild)
 {.links-list}
