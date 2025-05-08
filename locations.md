@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T16:26:08.326Z
+date: 2025-05-08T16:33:47.063Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -143,10 +143,12 @@ Home to Bahamut's divine realm. Mortis Lux and the Council of Gods gathered here
 {.links-list}
 
 
+## Realm: Shadowfell, Letherna
 
+The Raven Queen's divine realm, Letherna resides in thr Shadowfell. The party visited here to make a deal with the raven queen to empower the Protein Shake of Power.
 
-
-
+- [📚 Visit Letherna *Home to The Raven Queen's Divine Realm*](/locations/letherna)
+{.links-list}
 
 
 
