@@ -2,7 +2,7 @@
 title: Events
 description: Glossary of Memorable Events in the Low Bar Brawlers
 published: true
-date: 2025-04-09T21:52:39.580Z
+date: 2025-05-08T15:41:29.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T13:18:10.934Z
@@ -14,9 +14,13 @@ dateCreated: 2025-03-25T13:18:10.934Z
 
 | Event Name         | Description | Date (if known) | Related Characters / Locations |
 |--------------------|------------|----------------|--------------------------------|
+| [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)   | The start of campaign one and The Low Bar Brawlers. | The Party | [Fort Suro](/locations/Mardun/fort-suro) |
+| [Fort Suro Goblin Mine Quest](/Events/fort-suro-tavern-brawl)   | The The Low Bar Brawlers first real quest. | The Party | [Fort Suro](/locations/Mardun/fort-suro) |
 | [**Pirate Raid**](/Events/Pirate-Raid)   | A major pirate assault that reshaped regional power. | ??? | [Allford](/locations/Mardun/Allford), [Saragassa](/locations/Mardun/Saragassa)  |
 |	**The Deal with the Council of the Gods** |	The loss of the boon, council of the gods Event to be filled in | 0 AD	|	|
 | [**Time Chambers**](/Events/Time-Chambers) 	| Spoops Blade + Jngmgander + Shard of Divinty 	| 1 BC - 0 AD	| [Bazzdos](/characters/bazzdos), [Spoops](/characters/spoops), [Shard of Divinity](/items/shard-of-divinity)	|
+| [Wegate Revolution](/Events/wegate-revolution)   | The cult of Spoops first attempt to re-take Wegate. | [Spoops](/characters/spoops), [Vesrahaan](/characters/vesrahaan), [Nemotih](/characters/nemotih), [Lokunai](/characters/lokunai)  | [Wegate](/locations/Mardun/wegate) |
+| [Githyanki War Preparation](/Events/githyanki-war-preparation)   | Two month timeskip and power leveling to prepare for battle against Vlaakith. | The Party | [Wegate](/locations/Mardun/wegate), [Mortis Lux HQ](/locations/mortis-lux-hq), [Gates of The Moon](/locations/gates-of-the-moon)  |
 
 ## Campaign 2
 | Event Name         | Description | Date (if known) | Related Characters / Locations |
