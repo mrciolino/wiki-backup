@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T16:00:12.663Z
+date: 2025-05-08T16:01:09.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -71,8 +71,7 @@ Home of [Verondera](/characters/verondera) the giant dream spider who was recrui
 {.links-list}
 
 ## Dimension: Fugue Plane
-
-.
+Home to Jergal's divine realm, the Bone Castle.
 
 - [📚 Visit The Fugue Plane *Home to Jergal's Divine Realm*](/locations/Fugue-Plane)
 {.links-list}
