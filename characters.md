@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-05-07T17:20:53.728Z
+date: 2025-05-08T14:38:26.387Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -126,6 +126,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Bugbear Captain](/characters/bugbear-captain) | Pirate Representative | Representing the Pirates of Saragassa |
 | [Oracle of Fywick](/characters/oracle-of-fywick) | Seer | A mysterious oracle providing cryptic guidance to the party. Died after witnessing [Narascus](/characters/Narascus)'s corruption. |
 | [Lord Kippers](/characters/lord-kippers) | Fywick Council Leader | Served Mortis Lux as representative of the citizens of Fywick.  |
+| [Faaspraanaam](/characters/faaspraanaam) | Dragon World Ruler | They are the child of Bahamut and Tiamat.  |
 
 
 ## Merchants & Other Associates
