@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T16:08:44.680Z
+date: 2025-05-08T16:13:56.266Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -111,4 +111,11 @@ The capital city of [Mortis Lux](/organizations/mortis-lux), this city exists as
 {.links-list}
 
 
+
+## Astral Plane: Tu'narath
+
+Tu'narsth was once home to the Githyanki before Spoops raised thr titan corpse as an undead servant. It served as a military asset of Mortis Lux until its destruction during its battle with the titan Iapetus.
+
+- [📚 Visit Tu'narath *Titan Corpse*](/locations/tunarath)
+{.links-list}
 
