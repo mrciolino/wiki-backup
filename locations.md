@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T15:51:11.888Z
+date: 2025-05-08T15:58:47.597Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -59,8 +59,7 @@ The Forge Dimension exists within the Plane of Fire and is owned by the Forgemas
 {.links-list}
 
 ## Dimension: Elemental Plane of Chaos (Spawning Stone)
-
-.
+Location if Rabiah the storm giant's golem factory. Also the site of the final battle between the Low Bar Brawlers and the Emperor of the Ithillid.
 
 - [📚 Visit The Spawning Stone *Vortex of Chaotic Energy*](/locations/Spawning-Stone)
 {.links-list}
