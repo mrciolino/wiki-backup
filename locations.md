@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-08T16:05:17.973Z
+date: 2025-05-08T16:06:52.164Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -36,7 +36,7 @@ It was also the prison of the Titan Iapetus, who was eventually freed when the w
 
 ## World: Dragon World
 
-The Dragon World was visited by thr party after Spoops Elira first traveled there through the Well if Many Worlds to escape attack by Selune. It is ruled by Faaspraanaam and populated by half dragon people.
+The Dragon World was visited by thr party after Spoops and [Elira](/characters/elira) first reached this world by traveling through Spoops' [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds) to escape attack by Selune. It is ruled by Faaspraanaam and populated by half dragon people.
 
 - [🌐 Visit the Dragon World *Accessed via Spoops' Well of Many Worlds.*](/locations/dragon-world)
 {.links-list}
@@ -44,7 +44,7 @@ The Dragon World was visited by thr party after Spoops Elira first traveled ther
 
 ## World: Giant Os World
 
-Spoops and Elira traveled to this world once where they found themelves in the home of a giant version of Os Vrntica. 
+Spoops and [Elira](/characters/elira) first reached this world by traveling through Spoops' [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds). Here they found themelves in the home of a giant version of Os Vrntica. 
 
 - [🌐 Visit Giant Os World *Accessed via Spoops' Well of Many Worlds.*](/locations/giant-os-world)
 {.links-list}
