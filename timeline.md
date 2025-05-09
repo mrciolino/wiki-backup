@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-08T17:27:37.710Z
+date: 2025-05-09T01:08:30.688Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -161,6 +161,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Spoops moves onto his final task, combining all lost fragments of Gond's soul. He scours the universe, finding every last fragment of Gond and putting it within Bazzdos. 
 - After the war ends and the party departs on various quests, Mortis Lux goes into standby mode. The main Generals, and lieutenants return to Mardun, with the exception of the Saragossa Pirates who stay in space after taking possession of their promised Spelljammer ships. 
 - Illiard is made regent of Mortis Lux HQ during the party's absence, and is granted immortality by Spoops. He oversees basic operations and keeps HQ secure with the help of a legion of undead granted to him by Spoops, and a small group of living members. He keeps Mortis Lux's resources and finances active in case the old treaties and armies need to be called upon again. Jergal also hangs out with him sometimes.
+- **[Erriad](/locations/erriad)'s Fall**: [Bane](/characters/bane) killed Erriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
 - Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of Hastow and Wegate, and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
 	- Narascus becomes regent of Hastow.
   - Versrahan becomes regent of Wegate.
@@ -206,7 +207,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 - From the backing out of Os from the alliance with Wegate, a new revulsion of necromancy in all its forms occurs in Gothriathon. 
 
-### Other Major Events
+### The Rise of Vrintia
 - 51 AC The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent of Felldora begins. 
 - 72 AC [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers. Though some say his spirit still lingers among bars where adventures begin...
 - 180 AC **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
@@ -216,8 +217,14 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - ??? Inferno subsides at the volcano on the Osian Vale at the age of 2150+AC, becoming the first Greatwyrm due to his old age.
 - ??? Royal Vrintian Academy of Swords, Songs, and Sorcery founded on the Osian Vale.
 - 333 AC / 133 VY [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.  
-- 350 AC / 150 VY **[Kaltrosar Bay](/locations/kaltrosar-bay)'s Transformation**: Became an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. Dragonborn exiles flee south to Vrintia and Tiamar's Bazzar.
-### 365 AC / 165 VY The Voyages of Breezy-E
+#### 343-360 AC / 143-160 VY Kaltrosar Incursion
+- **[Kaltrosar Bay](/locations/kaltrosar-bay)**: Becomes an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. 
+- Dragonborn exiles flee south towards Vrintia, and Tiamar's Bazzar.
+- Agressions from Kaltrosar begin to impede upon the human kingdom of Arn. Border skirmishes become common as the slave state requires more bodies.
+- Arn continues to militarize, but cannot overcome the demonic influence of Kaltrosar, and soon full scale war breaks out. 
+- Seeking to expand westward, Os offers to protect Arn in return for their fealty. King Reuben of Arn begrugingly agrees. 
+- Vrintia steps in, providing much needed magical defense and assault capabilities that Arn lacks. Os, Breezy-E, and Inferno are able to easily fend off Kaltrosar, ending their incursions southward. 
+### 365 AC / 165 VY The Voyage of Breezy-E
 - Despite his heroic deeds which saved the world, being a powerful force of protection, easily fighting against the strongest foes, and their long standing friendship, **Breezy-E** is mournfully banished from the lands of Vrintia by Os for being undead. The Royals and Nobility fear and revile his necrotic nature, and his newest contract with Asmodeus makes him far less useful as a protector or weapon. 
 - Breezy-E leaves for the west seeking the best place to grow spaghetti on Mardun. He goes over the Saber river, and through Arn, and his departure from the lands of Vrintia is marked with the Lost Wind Gate. 
 - He spends the next few decades travelling up and down the Wild Coast, planting spaghetti and becoming a folk legend as a wandering samurai.
@@ -229,12 +236,17 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Breezy-E eventually finds La Bocca della Fuoco and breaks inside, casting away all opponents until he finds Dante Flamma, the powerful head vampire of the tribe. ---he defeats him in some stupid way---
 - He's so angry that he doesn't even care about his contract with Asmodeus anymore and prepares his ultimate spaghetti god attack to wipe out all the Fuoco vampires. But then he notices out of the corner of his eye a soil acidity chart, and average yearly temperature and rainfall graph and realizes that this small corner of Mardun is the optimal place for growing spaghetti. This calms him down, saving the vampires and his own soul from Asmodeus.
 - As the new head of the vampire tribe, Breezy-E renames La Bocca della Fuoco **[La Rocca della Sugo](/locations/la-rocca-della-sugo)** (The Rock of Sauce).
-
-### 
-
-- **[Erriad](/locations/erriad)'s Fall**: [Bane](/characters/bane) killed Erriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
-- **Arn's Rebellion**: The mainly human inhabitants of Arnsworth are not happy under the mainly elvish and dwarvish rule of Vrintia. A rebellion occurs within Vrinia, leading to a crushing defeat of Arnsworth.
+###
 - **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
+- 550 AC / 350 VY: At age 2700 Inferno's slumber begins. While not dead, Inferno enters a very deep sleep which he has not waken up from.
+
+### 553-555 AC / 353-355 VY Arn's Rebellion
+- The mainly human inhabitants of Arnsworth are not happy under the mainly elvish and dwarvish rule of Vrintia. Emboldened by their defensive capabilities, the loss of Breezy-E, and the Slumber of Inferno, **Duke Othniel of Arnsworth** declares independence from Vrintia, and himself as the new king.
+- Arnsworth takes control of Tiamar's Bazzar, securing the major magical weapons depot. It is uncertain even to this day if the dragonborn clans of Tiamar's Bazzar were complicit in this takeover, preferring rule of Arnsworth over the rule of Vrintia. However it can be clear that a scism between Tiamar dragonborn and Vrintia dragonborn remains to this day.
+- Arnsworth also practices new fae magic learned from the fey forests that are near the capital castle, in an effort to counteract any of Vrintia's powerful mages.
+- ---todo wargame this out to find any cool tactics----
+- In the end, Arn's Rebellion is crushed, **Duke Othniel** is executed for treason, and a new elvish **Duke Feno Herfiel Lozzit Vrintia** is put in charge of Arnsworth. Arnsworth would remain under elvish occupation for 445 years until 798 VY when human **Duke Blackshield** would be symbolically given power.
+
 ---
 
 ## The New Campaign
