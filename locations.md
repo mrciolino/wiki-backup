@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-12T11:23:02.718Z
+date: 2025-05-12T11:24:00.211Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -51,7 +51,7 @@ Spoops and [Elira](/characters/elira) first reached this world by traveling thro
 
 
 ## World: Unknown
-Spoops' [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds) contsins a door way to 6 worlds. 5 were seen during Campaign 1. One world is still unknown.
+Spoops' [Well-Of-Many-Worlds](/items/Well-Of-Many-Worlds) contains a doorway to 6 worlds. 5 were seen during Campaign 1. One world is still unknown.
 
 
 - [🌐 Visit Unknown *Accessed via Spoops' Well of Many Worlds.*](/locations/unknown-world)
