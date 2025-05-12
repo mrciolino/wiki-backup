@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-12T13:34:48.555Z
+date: 2025-05-12T13:52:59.693Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -101,7 +101,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - The party travels to Alford aboard the Robin Trading company ship.
   - The party meets Illiard in his tower.
   - The party is sent to investigate cult activity in the town of Demsford.
-  - Bomb the Bear is killed by Rathwing. 
+  - The party encounters Rathwing and his cult in Demsford. Rathwing's goal is to restart the necrotic wars.
+  - Bomb the Bear is killed by Rathwing.
   - Illiard is killed by Frederina for seemingly no reason.
   - The party is sent into the Alford castle vault to kill a dreaming beholder. Krorg unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank.
   - Drakham unleashes bone spiders, causing chaos in Alford.
