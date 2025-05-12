@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-09T01:08:30.688Z
+date: 2025-05-12T12:48:02.527Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -89,6 +89,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 ### The Necrotic Wars & The Fall of Empires
 
 - **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on Mardun, becomes Grandmaster the Knights of Sedonia and is assassinated and dumped into the sea.
+    - [Ralindu](/characters/ralindu) and the other Lich lords wage war on the living world.
 - **4 BC:** Spoops washes ashore near **[Witchlight Jungle](/locations/witchlight-jungle)**.  
 
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
