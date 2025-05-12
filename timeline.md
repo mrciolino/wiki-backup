@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-12T12:51:29.060Z
+date: 2025-05-12T13:20:21.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -126,6 +126,14 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The party travels to Fywick to seek the Oracles guidance on the crack over Altricia.
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - The Battle of Fywick: Os is implanted with the Shield Generator, and Spoops takes down Darmuth's Bone Demon from the inside. 
+- 
+- 
+- The party visits the Library dimension for the first time.
+- 
+- 
+- Aku is slain when the party drops dragon turtles on his castle.
+- 
+- 
 - Darmuth is killed after Os drops her into a volcano.
 - The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the protal with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
