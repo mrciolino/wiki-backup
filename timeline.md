@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-12T12:48:02.527Z
+date: 2025-05-12T12:49:50.947Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -142,7 +142,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 - The party begins preparations for the final War against the Ithilids.
 - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
-- Mortis Lux acquires a potion master. To counter the Ithilids Peionics they mass produce potions of Mind Blank.
+- Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
 - Treaty With the Council of Gods
 - Weakening of Cyric: The party investigates Breezy-E's sword Godsbane. They find that it is not the god Mask but is instead the imprisoned form of Bhaal. Bazzdos uses Mordenkainen's Disjunction to destroy Cyric's connection to the blade by rending the part of his soul inhabiting it. Spoops and Bhaal race to grab whatever they can of Cyric's soul. Bhaal gets some, but Spoops gets most of it which he provides to the party as power. Bhaal departs but first grsnts Breezy-E his blessing, becoming the second "Death God" to do so.
 - Investigating Reports of Illithids on Mardun: The party hears of an Illithid nest somewhere under the Frostfell mountains. Bane insists on coming along and goes on Breezy's ship. Bane discovers hes the only one of the dead three not to have blessed Breezy-E so much to Spoops' dismay and Breezy-E's excitement he grants his blessing. The nest of Illithids is found, however they turn out not to be part of the Same hive that thrbparty is fighting. These Illithids who are still living and conscious, explain that they are aware of the menace the party is fighting and do not want any part of it. The party, not wishing to slaughter this nest unprovoked, allow these Illithid to live so long as they do not threaten the inhabitants of the world. 
