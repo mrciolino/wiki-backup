@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-12T14:00:21.875Z
+date: 2025-05-13T02:22:20.844Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -246,7 +246,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Unfortunately the dark powers of Felldora take notice to this unknown lowly adventurer almost killing everything with ease, and the vampire tribe of La Bocca della Fuoco (The Mouth of Fire) are set to kill this party.
 - Breezy-E's party is deep in the Ironwood forests hunting down great beasts when suddenly they are attacked by Fuoco vampires. Breezy-E's efforts are not enough this time and the vampires kill his party. Unable to kill them, Breezy-E is left with no choice but to reveal himself. ---- Something about the spaghetti god here----
 - Breezy-E eventually finds La Bocca della Fuoco and breaks inside, casting away all opponents until he finds Dante Flamma, the powerful head vampire of the tribe. ---he defeats him in some stupid way---
-- He's so angry that he doesn't even care about his contract with Asmodeus anymore and prepares his ultimate spaghetti god attack to wipe out all the Fuoco vampires. But then he notices out of the corner of his eye a soil acidity chart, and average yearly temperature and rainfall graph and realizes that this small corner of Mardun is the optimal place for growing spaghetti. This calms him down, saving the vampires and his own soul from Asmodeus.
+- He's so angry that he doesn't even care about his contract with Asmodeus anymore and prepares his ultimate spaghetti god attack to wipe out all the Fuoco vampires. But then he notices out of the corner of his eye a soil acidity chart, and average yearly temperature and rainfall graph and realizes that this small corner of Mardun is the optimal place for growing wheat and tomatos. This calms him down, saving the vampires and his own soul from Asmodeus.
 - As the new head of the vampire tribe, Breezy-E renames La Bocca della Fuoco **[La Rocca della Sugo](/locations/la-rocca-della-sugo)** (The Rock of Sauce).
 ###
 - **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
