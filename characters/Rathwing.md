@@ -2,7 +2,7 @@
 title: Rathwing
 description: Darmuth's first officer
 published: true
-date: 2025-05-15T02:49:04.127Z
+date: 2025-05-15T02:49:30.499Z
 tags: audio
 editor: markdown
 dateCreated: 2024-08-07T21:46:23.750Z
@@ -22,7 +22,7 @@ Flight, control of an evil cult, pioneer of the Rathwing-style of fighting which
 - Ran a cult which committed widespread human slaughter.
 - Killed Bomb the Bear. 
 ### Fate
-Shot to death by Breezy-E at the end of the Great Pirate Raid.
+Shot to death by [Breezy-E](/characters/breezy) at the end of the [Great Pirate Raid](/Events/pirate_raid).
 
 # Trivia
 Rathwing has a villain song
