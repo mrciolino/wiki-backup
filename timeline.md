@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-13T02:22:20.844Z
+date: 2025-05-15T02:55:06.105Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -13,7 +13,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 ## The Early Universe
 
 ### Creation of Worlds & Primordial Chaos
-- Spoops awakens alone in **[The Well of Souls](/locations/The-Well-Of-Souls)**. The creation of Souls begins, and AO jams his door shut.
+- [Spoops](/characters/spoops) awakens alone in **[The Well of Souls](/locations/The-Well-Of-Souls)**. The creation of Souls begins, and AO jams his door shut.
 - The universe begins with chaotic primordial energy, birthing the **[Old Gods](/entities/old-gods)**.
 - The Old Gods impose order, shaping planets, planes, and celestial structures.
 
@@ -24,18 +24,18 @@ dateCreated: 2025-03-23T00:15:37.336Z
 ### Divine Rule & the Birth of Titans
 - The New Gods take dominion and prevent another power shift.
 - They create **[Titans](/entities/titans)**—lesser godlike beings—to maintain order.
-- Spoops opens the floodgates of The Well, allowing souls to flow into creation.
+- Spoops opens the floodgates of [The Well](/locations/The-Well-Of-Souls), allowing souls to flow into creation.
 - Mortal races emerge, alongside the primordial forces of **Good** and **Evil**.
 
 ### The War in Heaven
 - The Titans rebel against the New Gods, foreseeing their obsolescence.
 - The Titans are defeated; **Kronos**, the most powerful Titan, is sealed in the **[Chains of Karseri](/artifacts/chains-of-karseri)**.
-- These chains anchor his prison to the celestial order, including Mardun.
+- These chains anchor his prison to the celestial order, including [Mardun](/locations/Mardun).
 
 ### The Continuation of Creation
 - Gods, Titans, and angels collaborate to populate worlds like **[Mardun](/locations/mardun)**.
 - **Magic** emerges as a natural phenomenon, not a divine creation.
-- New gods enter the divine system.
+- New gods enter the divine system, such as [Zeus](/characters/zeus) and [Bane](/characters/bane).
 
 ---
 
@@ -49,7 +49,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Spoops spends time under the name Myrkul and adventures as one of the dead 3. The Time of Troubles occurs.
 
 ## The Age of Giants (??? BC - ??? BC)
-- The largest and most powerful creatures on Mardun, their reign spread over Felldora and Felldun. 
+- The largest and most powerful creatures on [Mardun](/locations/Mardun), their reign spread over Felldora and Felldun. 
 - They bread dinosaurs as beasts of burden as well as beasts of war.
 ### The Giants vs Dragon war
 - Eventually they went to war with the Dragons.
@@ -69,55 +69,56 @@ dateCreated: 2025-03-23T00:15:37.336Z
 #### **~2100 BC:** The **Desolation of Asmal**
 - Asmal, the Mad of Pythas Prime, is freed from Pythas Prime after 80 years of captivity during the Dragon assault by a cult of followers who gained interest in his heretical ideas. They decide to make the very long and perilous journey to Dracofell to get revenge on the Dragons.
 - Asmal reaches Dracofell undetected, and his thesis is correct that an enormous amount of "negative energy" has built up at the antipode of Pythas Prime. 
-- It is unclear the exact method he used, but the result was harnessing a new form of dark magic that lead to the extinction of 99% of dragons on all of Mardun. All surviving Dragons fled to Wyrmford, as Dracofell became a desolate wasteland hostile to all life. It is unclear what happened to Asmal and his followers, but his actions lead to the creation of dark magic. Such an enormous release of power also shook the leylines from their foundations, setting them free from the restraints setup up by Pythas Prime. Asmal the Mad leaves behind the legacy of the harbringer of dark magic (anti-Vitality, anti-Flux, anti-Insight) to Mardun.
-- Without the leylines in place, Pythas Prime falls into ruin and the Pythagorean people flee, spreading the knowledge of magic around Mardun. Being supported on an artificial island by the leyline of Vitality, Pythas Prime sinks into the water, to what is now know as the Triangle Sea.
+- It is unclear the exact method he used, but the result was harnessing a new form of dark magic that lead to the extinction of 99% of dragons on all of [Mardun](/locations/Mardun). All surviving Dragons fled to Wyrmford, as Dracofell became a desolate wasteland hostile to all life. It is unclear what happened to Asmal and his followers, but his actions lead to the creation of dark magic. Such an enormous release of power also shook the leylines from their foundations, setting them free from the restraints setup up by Pythas Prime. Asmal the Mad leaves behind the legacy of the harbringer of dark magic (anti-Vitality, anti-Flux, anti-Insight) to Mardun.
+- Without the leylines in place, Pythas Prime falls into ruin and the Pythagorean people flee, spreading the knowledge of magic around Mardun. Being supported on an artificial island by the leyline of Vitality, Pythas Prime sinks into the water, to what is now know as the [Triangle Sea](/locations/triangle_sea).
 
 ## The Age of Mortals (~2100 BC - ~1 AC)
 - Various survivng factions of the Pythagorean Empire found new settlements.
 	- A guild of astronomers travel north to the Celestial Vale and begin a new tradition of studying stars for scrying and fortelling abilities.
   - A guild of warriors travel east to what is now called Helmaer and begin a tradition of magic for combattive purposes.
-  - A guild of vitalists travel west to Druidia and the Wild Jungles to continue their traditions of healing magic, and beast husbandry. Eventually they create dinosaurs.
+  - A guild of vitalists travel west to Druidia and the Wild Jungles of the emerald coast to continue their traditions of healing magic, and beast husbandry. Eventually they rediscover giant beasts from the Age of Giants.
 	- The few remaining dragons scatter around the earth, forever living in fear of the Desolation of Asmal.
 - **~1000 BC:**  
   - **[Os Vrintia](/characters/os-vrintia)** travels back in time and founds the **[Empire of Tiyamanni](/organizations/empire-of-tiyamanni)**.
 - **Darmuth’s Reign (650 BC):**  
-  - Darmuth seals Inferno in **[The Lovers’ Promise Mountain](/locations/lovers-promise-mountain)**.  
-  - Marries Os Vrintia’s son, Evhal, and ascends as Empress of Tiyamanni.
-  - Gnomes are driven out; they and residents of the Celestial Vale go and found **[Fywick](/locations/fywick)**.
+  - A fully formed [Darmuth](/characters/Darmuth) seals Inferno in **[The Lovers’ Promise Mountain](/locations/lovers-promise-mountain)**.  
+  - [Darmuth](/characters/Darmuth) Marries [Os Vrintia](/characters/os)’s son, Evhal, and ascends as Empress of Tiyamanni.
+  - Gnomes are driven out from Tiyamanni; they and residents of the Celestial Vale go and found **[Fywick](/locations/fywick)**.
 
 - **Collapse of Tiyamanni**: Led by Darmuth's cruelty and mismanagement, combined with natural forces, the capital of Tiyamanni is rendered to ruin.
-### The Necrotic Wars & The Fall of Empires
+### The Necrotic Wars 
 
-- **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on Mardun, becomes Grandmaster the Knights of Sedonia and is assassinated and dumped into the sea.
-    - [Ralindu](/characters/ralindu) and the other Lich lords wage war on the living world.
-- **4 BC:** Spoops washes ashore near **[Witchlight Jungle](/locations/witchlight-jungle)**.  
+- **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on [Mardun](/locations/Mardun), becomes Grandmaster the [Knights of Sedonia](/organizations/sedonia) and is assassinated and dumped into the sea.
+    - [Ralindu](/characters/ralindu) and the other Lich lords wage war on the living world. 
+- **4 BC:** Spoops washes ashore near **[Witchlight Jungle](/locations/witchlight-jungle)** and makes his way to [Fort Suro](/locations/Mardun/Fort-Suro). Gilthur is exiled from [North Geskoworm](/locations/Mardun/north_geskoworm) for being unfunny, and wanders to [Fort Suro](/locations/Mardun/Fort-Suro). North Geskoworm changes its name to "Krorg's Hometown" to disassociate itself from Gilthur.
 
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
 
 - **3 BC:**  
   - The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
-  - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) Bomb The Bear is captured by Krorg.
-  - Kaltozar Bay is burned down by Freedom.
-  - The party travels to Alford aboard the Robin Trading company ship.
-  - The party meets Illiard in his tower.
-  - The party is sent to investigate cult activity in the town of Demsford.
-  - The party encounters Rathwing and his cult in Demsford. Rathwing's goal is to restart the necrotic wars.
-  - Bomb the Bear is killed by Rathwing.
-  - Illiard is killed by Frederina for seemingly no reason.
-  - The party is sent into the Alford castle vault to kill a dreaming beholder. Krorg unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank.
-  - Drakham unleashes bone spiders, causing chaos in Alford.
-  - The party retreats to Saragossa, where Krorg organizes a pirate raid to plunder Alford.
-  - The Great Pirate Raid occurs
-  	- Rathwing destroys Saragossa
-  	- Dave Bones is killed by the party for the first time, leading to his long lasting vendetta against the party.
-    - Rathwing is summoned via wish to Alford and killed by Breezy-E
-    - Bazzert kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
+  - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
+  - [Kaltrosar Bay](/locations/Mardun/Kaltrosar) is burned down by [Freedom](/characters/freedom).
+  - The party travels to [Alford](/locations/Mardun/Allford) aboard the Robin Trading company ship.
+  - The party meets [Illiard](/characters/illiard) in his tower.
+  - The party is sent to investigate cult activity in the town of [Demsford](/locations/Mardun/Demsford).
+  - The party encounters [Rathwing](/characters/Rathwing) and his cult in an abandoned fortress near Demsford.
+  - [Bomb the Bear](/characters/Bomb-the-Bear) is killed by [Rathwing](/characters/Rathwing).
+  - [Illiard](/characters/illiard) is killed by Frederina for seemingly no reason.
+  - The party is sent into the Alford castle vault to kill a dreaming beholder. [Krorg](/characters/krorg) unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank.
+  - [Drakham](/characters/drakham) unleashes bone spiders, causing chaos in Alford.
+  - The party retreats to [Saragossa](/locations/Mardun/saragossa), where Krorg organizes a pirate raid to plunder Alford.
+  - The [Great Pirate Raid](/Events/Pirate-Raid) occurs
+  	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa).
+  	- [Dave Bones](/characters/Dave-Bones) is killed by the party for the first time, leading to his long lasting vendetta against the party.
+    - [Rathwing](/characters/Rathwing) is summoned via wish to Alford and killed by [Breezy-E](/characters/breezy)
+    - [Bazzert](/characters/bazzert) kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
     - Without Saragossa, the new pirate capital of **[Altricia](/locations/altricia)** is founded from the ashes of Alford.
-  - After celebrating a successful raid, the party splits off for 3 years. Os Vrintia is exiled to Gothriathon after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
+  - After celebrating a successful raid, the party splits off for 3 years. [Os Vrintia](/characters/os) is exiled to [Gothriathon](/locations/Mardun/Gothriathon) after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
   - [Wegate Revolution](/Events/wegate-revolution)
   
 - **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
-- Despite his bounty, Os becomes the secret ruler and law enforcer of Gothriathon. He disconnects Gothriathon from the Dragon Sea trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
+- Despite his bounty, Os becomes the secret ruler and law enforcer of [Gothriathon](/locations/Mardun/Gothriathon). He disconnects Gothriathon from the [Dragon Sea](/locations/Mardun/dragon_sea) trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
+- [Meade](/characters/meade) joins up with [Os](/characters/os) to promote justice in [Gothriathon](/locations/Mardun/Gothriathon).
 
 ### The End of the Age of Mortals (0 AC)
 - Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
