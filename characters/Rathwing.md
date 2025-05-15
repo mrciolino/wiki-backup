@@ -2,7 +2,7 @@
 title: Rathwing
 description: Darmuth's first officer
 published: true
-date: 2025-05-07T01:49:54.312Z
+date: 2025-05-15T02:49:04.127Z
 tags: audio
 editor: markdown
 dateCreated: 2024-08-07T21:46:23.750Z
@@ -11,9 +11,12 @@ dateCreated: 2024-08-07T21:46:23.750Z
 ## Veerian Rathwing
 ![wrath.png](/wrath.png)
 ### Background
-An evil draconic sorcerer with large bat wings. He is the descendant of both Darmuth and Inferno. He was encouraged by Darmuth to commit acts of greater and greater evil, which he happily obliged.
+An evil draconic sorcerer with large bat wings. He is the descendant of both [Darmuth](/characters/Darmuth) and [Inferno](/characters/inferno). He was encouraged by Darmuth to commit acts of greater and greater evil, which he happily obliged.
 ### Powers
 Flight, control of an evil cult, pioneer of the Rathwing-style of fighting which is to turn invisible, teleport, and spam fireball. Also he could cast animate object on a stack of coins to deal many attacks.
+### Goals
+- Restarting the necrotic wars.
+- Gain the approval of his ancestor [Darmuth](/characters/Darmuth).
 ### Evil Deeds
 - Destroyed Saragossa, and Demsford. 
 - Ran a cult which committed widespread human slaughter.
