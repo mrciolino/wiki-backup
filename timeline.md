@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-16T17:41:04.571Z
+date: 2025-05-16T18:13:54.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -155,6 +155,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
+- The party learns that the something is wrong with the sun, it appears to be pulsing and dimming. They gate there with some ships and find that the sun actually has a massive castle complex built around it. They find the sun is being attacked by a cult who believe that destroying all the stars will bring about a new age for their god. This cult is unknowingly serving the Ithilids. The party works to stop the cult from stealing the power of  
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
