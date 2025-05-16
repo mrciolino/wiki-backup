@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-15T02:55:06.105Z
+date: 2025-05-16T17:21:22.050Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -122,7 +122,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 ### The End of the Age of Mortals (0 AC)
 - Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
-- Os Gothriathon Faction: Os is the leader of a group affiliated with thr southern provinces of Gothriathon. He has an army of dwarves.
+- Os Gothriathon Faction: Os is the leader of a group affiliated with the southern provinces of Gothriathon. He has an army of dwarves.
 - Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Frederina is sent back to Krorg with a message of peace.
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage. 
