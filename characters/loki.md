@@ -2,14 +2,14 @@
 title: Loki
 description: God of Mischief
 published: true
-date: 2025-05-16T17:14:02.297Z
+date: 2025-05-16T17:14:16.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T17:14:02.297Z
 ---
 
 # Loki
-Son of Odin and Norse pantheon god of Mischief. He resides in Asgard. He also has a seat on the Council of Gods. Alongside his Father Odin and brother Loki.
+Son of Odin and Norse pantheon god of Mischief. He resides in Asgard. He also has a seat on the Council of Gods. Alongside his Father Odin and brother Thor.
 
 
 # Encounters
