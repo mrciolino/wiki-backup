@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-16T18:42:58.973Z
+date: 2025-05-16T18:44:00.004Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -153,6 +153,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 -  
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
+- [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Saving the Sun: The party learns that the something is wrong with the sun, it appears to be pulsing and dimming. They gate there with some ships and find that the sun actually has a massive castle complex built around it. They find the sun is being attacked by a cult who believe that destroying all the stars will bring about a new age for their god. This cult is unknowingly serving the Ithilids. Adalyn learns that the sun is actually the home of a powerful ancient solar dragon, and the cult's true goal is to slay that dragon to shut off the sun. The party works to stop the cult and save the dragon. The party fights off the cult around the castle as quickly as they can as they realize the cult is performing ritual that uses some sort of blood sacrifice to force their way into the realm within the sun where the dragon's lair is. During thr battle Spoops uses his ring to maximize his size, using his gisnt mirror shoeld to deflect a powerful solar beam which attacks any flying creatures within the area. Once the party teleports into the lair, Spoops is horrified to find the result of the sacrifice. The party finds themselves surrounded by a field of millions of roses, each one is the manifestation of the shattered soul of one of the sacrifices. Spoops is devastated by this sight and ipon realizing the souls are irreparable, he uses Soul Absorption to put them to a final rest. He distributes this energy among the party, granting them minor boons to help punish those who committed this sin. The party proceeds to the nest of the Solar Dragon where they fight off the enemy and Adalynn is able to make a deal with the Ancient Solar Dragon to become a dragon herself.
@@ -164,7 +165,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 - The party begins preparations for the final War against the Ithilids.
-- [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
 - Treaty With the Council of Gods
 - Weakening of Cyric: The party investigates Breezy-E's sword Godsbane. They find that it is not the god Mask but is instead the imprisoned form of Bhaal. Bazzdos uses Mordenkainen's Disjunction to destroy Cyric's connection to the blade by rending the part of his soul inhabiting it. Spoops and Bhaal race to grab whatever they can of Cyric's soul. Bhaal gets some, but Spoops gets most of it which he provides to the party as power. Bhaal departs but first grsnts Breezy-E his blessing, becoming the second "Death God" to do so.
