@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-16T17:21:22.050Z
+date: 2025-05-16T17:24:10.281Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -127,7 +127,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage. 
 - The party acquires a flying ship in Gothriathon.
-- The party travels to Fywick to seek the Oracles guidance on the crack over Altricia.
+- The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - The Battle of Fywick: Os is implanted with the Shield Generator, and Spoops takes down Darmuth's Bone Demon from the inside. 
 - 
@@ -139,13 +139,12 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - 
 - Darmuth is killed after Os drops her into a volcano.
-- The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the protal with the purpose of eliminating all the Devastation Vermin.
+- The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the portal with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
 - 
 - 
 -  
-- Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.
-- The **Low Bar Brawlers** ascend to godhood.  
+- Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
