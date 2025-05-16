@@ -2,7 +2,7 @@
 title: Thor
 description: God of thunder.
 published: true
-date: 2025-05-16T16:57:58.158Z
+date: 2025-05-16T16:58:13.994Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T16:57:58.158Z
@@ -17,8 +17,7 @@ Son of Odin and Norse pantheon god of thunder. He resides in Asgard. He also has
 ## First Encounter
 The party first meets Thor upon arrival in Asgard to train and plan for the war against the Ithilids. 
 
-As agreed upon in the treaty, The Council of Gods would assist Mortis
-Lux in their war against the Ithilids, one part of thst agreement was dorect intervention by the Council. The council assigned Orin, Thor, and Loki to the task.
+As agreed upon in the treaty, The Council of Gods would assist Mortis Lux in their war against the Ithilids, one part of thst agreement was dorect intervention by the Council. The council assigned Orin, Thor, and Loki to the task.
 
 To prepare for the battle, Odin agreed to help train the party and troops on killing titans and fighting in general. Also he provided the party with a horn thst would summon the three Norse gods to the battlefield when the party required.
 
