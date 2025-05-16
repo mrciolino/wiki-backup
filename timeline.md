@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-16T18:39:39.654Z
+date: 2025-05-16T18:42:58.973Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -155,9 +155,9 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
-- Saving the Sun: The party learns that the something is wrong with the sun, it appears to be pulsing and dimming. They gate there with some ships and find that the sun actually has a massive castle complex built around it. They find the sun is being attacked by a cult who believe that destroying all the stars will bring about a new age for their god. This cult is unknowingly serving the Ithilids. Adalyn learns that the sun is actually the home of a powerful ancient solar dragon, and the cult's true goal is to slay that dragon to shut off the sun. The party works to stop the cult and save the dragon. The party fights off the cult around the castle as wuickly as they can as they realize the cult is performing ritual that uses some sort of blood sacrifice to force their way into the realm within the sun where the dragon's lair is. Once the party teleports into the lair, Spoops is horrified to find the result of the sacrifice. The party finds themselves surrounded by a field of millions of roses, each one is the manifestation of the shattered soul of one of the sacrifices. Spoops is devastated by this sight and ipon realizing the souls are irreparable, he uses Soul Absorption to put them to a final rest. He distributes this energy among the party, granting them minor boons to help punish those who committed this sin. The party proceeds to the nest of the Solar Dragon where they fight off the enemy and Adalynn is able to make a deal with the Ancient Solar Dragon to become a dragon herself.
+- Saving the Sun: The party learns that the something is wrong with the sun, it appears to be pulsing and dimming. They gate there with some ships and find that the sun actually has a massive castle complex built around it. They find the sun is being attacked by a cult who believe that destroying all the stars will bring about a new age for their god. This cult is unknowingly serving the Ithilids. Adalyn learns that the sun is actually the home of a powerful ancient solar dragon, and the cult's true goal is to slay that dragon to shut off the sun. The party works to stop the cult and save the dragon. The party fights off the cult around the castle as quickly as they can as they realize the cult is performing ritual that uses some sort of blood sacrifice to force their way into the realm within the sun where the dragon's lair is. During thr battle Spoops uses his ring to maximize his size, using his gisnt mirror shoeld to deflect a powerful solar beam which attacks any flying creatures within the area. Once the party teleports into the lair, Spoops is horrified to find the result of the sacrifice. The party finds themselves surrounded by a field of millions of roses, each one is the manifestation of the shattered soul of one of the sacrifices. Spoops is devastated by this sight and ipon realizing the souls are irreparable, he uses Soul Absorption to put them to a final rest. He distributes this energy among the party, granting them minor boons to help punish those who committed this sin. The party proceeds to the nest of the Solar Dragon where they fight off the enemy and Adalynn is able to make a deal with the Ancient Solar Dragon to become a dragon herself.
 
-
+- Searching for Gond Souls: 
 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
