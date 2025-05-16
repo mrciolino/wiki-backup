@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-16T17:32:18.867Z
+date: 2025-05-16T17:34:07.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -131,7 +131,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - Breezy-E becomes blind, but gains infra-red vision.
   - Spoops gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
   - Spoops is magically granted ownership of a castle in Bahryst.
-- The 
+  - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distsnce between them.
+- 
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - The Battle of Fywick: Os is implanted with the Shield Generator, and Spoops takes down Darmuth's Bone Demon from the inside. 
