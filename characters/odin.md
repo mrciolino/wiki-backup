@@ -2,7 +2,7 @@
 title: Odin
 description: Head God of the Norse pantheon
 published: true
-date: 2025-05-16T16:50:18.536Z
+date: 2025-05-16T16:51:07.786Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-16T16:47:43.986Z
