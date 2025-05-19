@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T16:07:32.852Z
+date: 2025-05-19T16:14:44.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -188,6 +188,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
 - 
 - Hunting down devastation vermin
+- 
+- 
 - 
 - Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
 - 
