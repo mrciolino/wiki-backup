@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-12T11:24:00.211Z
+date: 2025-05-19T12:34:20.545Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -145,10 +145,20 @@ Home to Bahamut's divine realm. Mortis Lux and the Council of Gods gathered here
 
 ## Realm: Shadowfell, Letherna
 
-The Raven Queen's divine realm, Letherna resides in thr Shadowfell. The party visited here to make a deal with the raven queen to empower the Protein Shake of Power.
+The Raven Queen's divine realm, Letherna resides in the Shadowfell. The party visited here to make a deal with the raven queen to empower the Protein Shake of Power.
 
 - [📚 Visit Letherna *Home to The Raven Queen's Divine Realm*](/locations/letherna)
 {.links-list}
+
+
+## Realm: Asgard
+
+The Norse god's divine realm, Asgard is ruled by [Odin](/characters/odin) and is home to all
+the Norse gods. The party visited here to plan and train with Odin and his soms prior to the Ithilid war.
+
+- [📚 Visit Asgard *Home to The Norse god's Divine Realm*](/locations/asgard)
+{.links-list}
+
 
 
 
