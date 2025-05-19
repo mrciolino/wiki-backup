@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T15:11:45.552Z
+date: 2025-05-19T15:12:05.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -142,7 +142,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - The Ice Castle of Bahryst
 - 
-- The party returns to Kaltrusar Bay (I dont remember why)
+- The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again)
 - 
 - The party visits the Library dimension for the first time.
 - 
