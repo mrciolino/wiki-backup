@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T15:10:26.647Z
+date: 2025-05-19T15:10:47.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -138,7 +138,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - The Battle of Fywick: Os is implanted with the Shield Generator, and Spoops takes down Darmuth's Bone Demon from the inside. 
 - 
-- The party encounters Otto Hurtzog on their way north to Bahryst. Otto is capptured during thr fitht snd interrogated by Narascus.
+- The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus.
 - 
 - The Ice Castle of Bahryst
 - 
