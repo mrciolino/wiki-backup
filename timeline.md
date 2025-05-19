@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T14:21:14.981Z
+date: 2025-05-19T14:25:48.801Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -163,6 +163,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
 - 
 - Hunting down devastation vermin
+- 
+- Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
 - 
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
