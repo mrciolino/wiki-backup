@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T15:12:46.346Z
+date: 2025-05-19T15:17:12.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -150,6 +150,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
+- 
+- 
 - 
 - The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. They find Ralindu the lich sealed inside the Ruby.
 - 
