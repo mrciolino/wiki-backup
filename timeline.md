@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T14:55:07.845Z
+date: 2025-05-19T14:56:33.076Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -143,6 +143,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - 
 - The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. They find Ralindu the lich sealed inside the Ruby.
+- 
 - 
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - 
