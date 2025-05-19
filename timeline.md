@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T15:20:44.193Z
+date: 2025-05-19T16:07:32.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -168,7 +168,14 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the portal with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
 - 
+- Investigating the Magic College of Highhold.
+- 
+- 
 - Quest to save princess of hellaress
+- 
+- Magical College Porthy
+- 
+- Spoops is captured by Marut and brought to Sigil. He is a room with other captives about to stand trial before a panel of judges composed of Archangels of various gods. He begins talking to a prisoner next to him named Elira. He sympathizes woth her story and tells her to follow him out of there. He uses his anti-magic armor to break his restraints, then grabs Elira and jumps into his Well of Many Worlds. They quickly traverse a few planets using the well before arriving before the rest of the party at the Magical College of Porthy on Ereriad.
 - 
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
