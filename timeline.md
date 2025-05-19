@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T15:18:10.753Z
+date: 2025-05-19T15:20:44.193Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -157,6 +157,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - 
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
+- 
+- Finishing the Wegate Revolution: The party goes to Wegate to find Spoops' contact Vesrahaan and help the cult of Spoops take over the country. 
 - 
 - Aku is slain when the party drops dragon turtles on his castle.
 - 
