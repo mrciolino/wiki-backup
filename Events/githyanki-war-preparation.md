@@ -2,7 +2,7 @@
 title: Githyanki War Preparation
 description: The longest two months in history.
 published: true
-date: 2025-05-19T16:23:26.360Z
+date: 2025-05-19T16:23:44.048Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T13:45:55.403Z
