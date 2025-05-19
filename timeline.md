@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-19T14:13:06.744Z
+date: 2025-05-19T14:16:25.907Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -149,6 +149,19 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Darmuth is killed after Os drops her into a volcano.
 - The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the portal with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
+- 
+- Quest to save princess of hellaress
+- 
+- Siege of the Witch King's castle
+- Death of the Witch King and Quest to give his ring to King Sunfenix.
+- 
+- 
+- Fiad found and killed in a tower on the centaur tribal planes.
+- 
+- The party seeks out Aphir the Mighty
+- 
+- Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
+- 
 - 
 - 
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
