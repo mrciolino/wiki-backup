@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-20T16:19:15.488Z
+date: 2025-05-20T16:21:18.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -259,7 +259,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Hastow spelljammer forces are forced to retreat back to Hastow. Breezy-e returns to Os at Gothriathon. 
 - The Hastow land force arrive in Wegate and find out Narascus has already been defeated. Most of the living necromancers are persuaded diplomatically to side with Wegate. The turncoats inform Wegate that [Altricia](/locations/Mardun/Allford) is captured and Luther was taken prisoner back in Hastow. The new Wegate army is sent to march back to [Altricia](/locations/Mardun/Allford)
 #### Preparation for the Counterattack
-- Narascus returns via spelljammer and finds Luther and other Altrician nobility imprisoned. Most of his forces are destroyed or turned to Wegate, and he himself is strongly injured. Narascus' body is rejuvinated via a demonic blood ritual where Luther and the other nobles are sacrificed. Narascus arises, empowered anew, and reinvigorated as the Red Archon.
+- Narascus returns via spelljammer and finds Luther and other Altrician nobility imprisoned. Most of his forces are destroyed or turned to Wegate, and he himself is gravely injured. Narascus' body is rejuvinated via a demonic blood ritual where Luther and the other nobles are sacrificed. Narascus arises, empowered anew, and reinvigorated as the Red Archon.
 - Wegate begins rebuilding some spelljammers without Bazzdos' assistance. New spelljammers used as aerial support. 
 - Os in Gothriathon, having grown distant from Mortis Lux, takes a removed approach from the counterattack. Not willing to die over the remains of Mortis Lux, he only sends Breezy-E. 
 - In Bayrhys, learning of the death of Luther in a blood sacrifice, Kierkegaard swears eternal vengance and has sent out forces of elite paladins. 
