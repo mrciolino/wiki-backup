@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-20T14:23:51.393Z
+date: 2025-05-20T14:33:12.547Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -200,10 +200,9 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Creation of Mortis Lux HQ
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - 
-- Saving the Sun: 
-
+- [Saving the Sun](/Events/saving-the-sun)
 - Searching for Gond Souls: 
-
+- 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
