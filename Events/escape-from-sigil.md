@@ -2,7 +2,7 @@
 title: Escape From Sigil
 description: Spoops and Elira escape kangaroo court on Sigil
 published: true
-date: 2025-05-20T14:18:19.503Z
+date: 2025-05-20T14:19:01.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T14:12:36.664Z
@@ -25,4 +25,4 @@ After entering the well, Spoops and Elira quickly traverse a few planets using t
 
 
 ## Elira Joins The Party
-After their prison break, Elira seems to be a bit distrustful of Spoops due to his erratic personality, however she decides to join up with the low bar brawlers and study magic alongside Adalynn until such time that they can return to their own plane to rescue their sister from an evil tyrant.
+After their prison break, Elira seems to be a bit distrustful of Spoops due to his erratic personality, however she decides to join up with the low bar brawlers and study her own magic alongside Adalynn until such time that they can return to their own plane to rescue their sister from an evil tyrant.
