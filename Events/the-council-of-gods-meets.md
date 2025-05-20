@@ -1,14 +1,14 @@
 ---
-title: The Council of Gods Meets
+title: The Council of Gods Convene
 description: The council meets to discuss the Spoops problem
 published: true
-date: 2025-05-20T18:23:46.370Z
+date: 2025-05-20T18:24:35.739Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T18:19:46.738Z
 ---
 
-# The Council of Gods Meets
+# The Council of Gods Convene
 The Council of Gods meets to discuss the Spoops problem. 
 
 
