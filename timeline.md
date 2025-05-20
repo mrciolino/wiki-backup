@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-20T18:17:20.350Z
+date: 2025-05-20T18:25:42.574Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -209,7 +209,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - The party begins preparations for the final War against the Ithilids.
 - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
 - [Deal with Lolth](/Events/deal-with-lolth)
-- The Council of Gods meets to discuss the Spoops problem: The party wants to find allies among the gods to help with the war, they begin reaching out to gods who have not been actively hostile in an attempt to make friends. Shar mysteriously does not answer their prayers. Next they try Mystra eho is also silent until Adalynn prays to them and Mystra simply responds "No". Next they try the ever reliable Pyrocinae who shockingly also does not answer. Now the party is very concerned and contscts their recent ally Lolth. Lolth does answer and in a hushed tone informs the party that the major Gods are locked in a council meeting to discuss "The Spoops Problem" she unfortunately cannot provide more detail as she is not allowed to attend the meeting due to her being a minor God owing allegiance to Shar. The party grows increasingly concerned over this apparent "Council of Gods" which seem to be relentlessly pursuing Spoops with no interest in speaking.
+- [The Council of Gods Convene](/Events/the-council-of-gods-convene)
 - 
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 - 
