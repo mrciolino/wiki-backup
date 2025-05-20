@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-20T14:37:48.444Z
+date: 2025-05-20T14:56:35.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -206,9 +206,12 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
-- Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 - The party begins preparations for the final War against the Ithilids.
 - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
+- The Council of Gods meets to discuss the Spoops problem: The party wants to find allies among the gods to help with the war, they begin reaching out to gods who have not been actively hostile in an attempt to make friends. Shar mysteriously does not answer their prayers. Next they try Mystra eho is also silent until Adalynn prays to them and Mystra simply responds "No". Next they try the ever reliable Pyrocinae who shockingly also does not answer. Now the party is very concerned and contscts their recent ally Lolth. Lolth does answer and in a hushed tone informs the party that the major Gods are locked in a council meeting to discuss "The Spoops Problem" she unfortunately cannot provide more detail as she is not allowed to attend the meeting due to her being a minor God owing allegiance to Shar. The party grows increasingly concerned over this apparent "Council of Gods" which seem to be relentlessly pursuing Spoops eith no interest in speaking.
+- 
+- Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
+- 
 - Investigating Godsbane: The party Tries various methods to destroy Godsbane.
 - Adalynn Captured by Daurgothoth
 - Investigating Reports of Illithids on Mardun: The party hears of an Illithid nest somewhere under the Frostfell mountains. Bane insists on coming along and goes on Breezy's ship. Bane discovers hes the only one of the dead three not to have blessed Breezy-E so much to Spoops' dismay and Breezy-E's excitement he grants his blessing. The nest of Illithids is found, however they turn out not to be part of the Same hive that thrbparty is fighting. These Illithids who are still living and conscious, explain that they are aware of the menace the party is fighting and do not want any part of it. The party, not wishing to slaughter this nest unprovoked, allow these Illithid to live so long as they do not threaten the inhabitants of the world. 
