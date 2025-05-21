@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T14:24:49.269Z
+date: 2025-05-21T14:31:26.330Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -144,7 +144,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - Mort joins the party
 - 
-- The Ice Castle of Bahryst: When the party found out that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard Fiad who recently took over the castle, they rallied the townsfolk around the fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer. After the party departed the city, Kierkegaard led the newly formed paladin order in training, cleansing sickness and death, recruitment, as well as running the affairs of the city now that Fiad was defeated and Spoops was away.
+- The Ice Castle of Bahryst: When the party found out that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard Fiad who recently took over the castle, they rallied the townsfolk around the fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer. The party then goes to inflitrate the castle. They find the castle to be heavily guarded with magical traps and illusions. Spoops takes a turn into s room alone and finds himself trapped within nester illusions. After activating his Anti-magic armor he begins breaking out of the illusions at which point he finds he has been captured and restrained to a chair within a prison cell in the dungeon. With his armor activated he uses his knife leg and brute force to get out of his cell and retrieve the rest of his weapons. Spoops then flies through the bone devil infested dungeon to rejoin the party.  After the party departed the city, Kierkegaard led the newly formed paladin order in training, cleansing sickness and death, recruitment, as well as running the affairs of the city now that Fiad was defeated and Spoops was away.
 - 
 - The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again).
 - 
