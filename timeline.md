@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T13:51:06.037Z
+date: 2025-05-21T13:51:27.614Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -127,7 +127,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage. 
 - The party acquires the Deck of Many Things and begins drawing cards.
-  - The party (Frederina) acquires a flying ship from the deck while in Gothriathon
+  - The party (Frederina) acquires a flying ship from the deck while in Gothriathon. The ship is manned bu skeletons with strange power symbols on their heads.
   - Breezy-E becomes blind, but gains infra-red vision.
   - Spoops gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
   - Spoops is magically granted ownership of a castle in Bahryst.
