@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T14:18:20.984Z
+date: 2025-05-21T14:22:40.451Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -144,7 +144,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - Mort joins the party
 - 
-- The Ice Castle of Bahryst
+- The Ice Castle of Bahryst: When the party found out that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard Fiad who recently took over the castle, they rallied the townsfolk around the fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer. After the party departed the city, Kierkegaard led the newly formed paladin order in training, cleansing sickness and death, recruitment, as well as running the affairs of the city now that Fiad was defeated and Spoops was away.
 - 
 - The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again)
 - 
