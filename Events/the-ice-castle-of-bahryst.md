@@ -2,7 +2,7 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-05-21T15:01:58.179Z
+date: 2025-05-21T15:03:08.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
