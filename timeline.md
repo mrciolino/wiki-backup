@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T15:28:44.484Z
+date: 2025-05-21T16:03:31.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -221,7 +221,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - Investigating Godsbane: The party Tries various methods to destroy Godsbane.
 - Adalynn Captured by Daurgothoth
-- Investigating Reports of Illithids on Mardun: The party hears of an Illithid nest somewhere under the Frostfell mountains. Bane insists on coming along and goes on Breezy's ship. Bane discovers hes the only one of the dead three not to have blessed Breezy-E so much to Spoops' dismay and Breezy-E's excitement he grants his blessing. The nest of Illithids is found, however they turn out not to be part of the Same hive that thrbparty is fighting. These Illithids who are still living and conscious, explain that they are aware of the menace the party is fighting and do not want any part of it. The party, not wishing to slaughter this nest unprovoked, allow these Illithid to live so long as they do not threaten the inhabitants of the world. 
+- [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - Weakening of Cyric: The party investigates Breezy-E's sword Godsbane. They find that it is not the god Mask but is instead the imprisoned form of Bhaal. Bazzdos uses Mordenkainen's Disjunction to destroy Cyric's connection to the blade by rending the part of his soul inhabiting it. Spoops and Bhaal race to grab whatever they can of Cyric's soul. Bhaal gets some, but Spoops gets most of it which he provides to the party as power. Bhaal departs but first grants Breezy-E his blessing, becoming the second "Death God" to do so. Breezy hangs on to the sword now that Cyric's influence has been removed.
 - Treaty With the Council of Gods
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
