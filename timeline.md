@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T14:01:25.938Z
+date: 2025-05-21T14:02:58.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -133,7 +133,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - Spoops is magically granted ownership of a castle in Bahryst.
   - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
   - Spoops acquires Dio the map.
-- 
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
 - The Demon Goose: While meeting with the Oracle of Fywick, the party was attacked by a Demonic Goose wielding a magic dagger. The Goose spoke the activation phrase "Peace was never an option" and the dagger was sent flying at the party. After defeating the Goose, Spoops took the dagger and spoke the phrase. Spoops managed to hold onto the dagger as it shot through the window next to him and he was dragged through the air to the island in the middle of the city where he met the Parrot Shogunate. After a brief conversation with these talking parrots Spoops returned to the party. 
