@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T14:38:02.985Z
+date: 2025-05-21T14:49:48.783Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -138,7 +138,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Spoops uses a wish he gained from the deck of many things to wish for "all members of the party to each obtain a legendary magical item which would be the most useful for them". Spoops receives the Anti-Magic Armor.
-- The Battle of Fywick: Os is implanted with the Shield Generator, and Spoops takes down Darmuth's Bone Demon from the inside. As the rest of the party held off the assault, the lich Ralindu, Freedom, and the Oracle of Fywick performed the procedure to implant the shield generator device into Os' heart. Once the device was implanted, Os began his most brilliant performance yet, manifesting the Shield around the city, keeping the waves of monsters at bay while allowing the party and Fywick’s forces to clean up anything inside the barrier. Once Darmuth’s Creature reached the shield, Os managed to keep it at bay long enough for Spoops wearing the Shield Ring to leap spinning into the mouth of the monster, tearing it up from the inside, finishing the fight. Spoops came out the other side of the creature into the water in a mess of blood snd gore, the party pulled him out. Spoops was ok aside from his right leg which had been bitten off below the knee as he entered the mouth of the beast. Spoops replaced his missing leg using the Peace Was Never An Option knife he obtained earlier, attaching it to his bone with some of Narascus' soverign glue. 
+- [The Battle of Fywick](/Events/the-battle-of-fywick)
 - 
 - The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus. Otto has his hands glued to the floor of Narascus' room during the interrogation.
 - 
