@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T15:21:52.225Z
+date: 2025-05-21T15:22:27.760Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -162,7 +162,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - Finishing the Wegate Revolution: The party goes to Wegate to find Spoops' contact Vesrahaan and help the cult of Spoops take over the country. 
 - The party goes to a magic item shop in the city and obtains various magical items such ss the Tiara of Life and Death.
-- The party meets Vesrahaan and the resistsnc in a tavern in Wegate. The table is made of Mahogany and constantly says Mahogany.
+- The party meets Vesrahaan and the cult in a tavern in Wegate. The table is made of Mahogany and constantly says Mahogany.
 - 
 - Aku is slain when the party drops dragon turtles on his castle.
 - 
