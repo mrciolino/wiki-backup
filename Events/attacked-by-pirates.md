@@ -2,7 +2,7 @@
 title: Attacked By Pirates
 description: The party is attacked by pirates while escaping Kaltrosar Bay
 published: true
-date: 2025-05-22T15:16:10.586Z
+date: 2025-05-22T15:44:49.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:56:11.434Z
@@ -34,3 +34,9 @@ The first shot knocks Freedom deep into the ship, before Drakham casts reduce on
 Off the side of the ship, a Dragon Turtle appears and attacks the ships. Freedom jumps aboard the Dragon Turtle and begins riding it, and drives it into the remaining pirate ships, destroying them. Krorg thanks Bomb for saving him, and decides to leave Bomb behind to the safety of the Low Bar Brawlers. Then Krorg runs and dives off of the mast into the water, catching the dragon turtle's tail before being dragged off into the horizon...
 
 The rest of the gang now heads off to Alford with the Captain and his ship.
+
+
+## On to Alford
+The activity on the ship is still hectic. The crew and some of the party help to repair what they can and so some fishing for more food on the voyage to Allford.
+
+After some "hole" fixing shenanigans, Os confronts the Elven task master of the ship who is in fact his cousin Eugene Vrntica. Although Os only notices this fact after a short musical battle between the two.
