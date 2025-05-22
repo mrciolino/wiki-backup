@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T18:41:51.943Z
+date: 2025-05-22T22:45:09.664Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -103,9 +103,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - [Arrival to Illiard's Tower](/items/arrival-to-illiards-tower)
   - [Traveling to Demsford](/Events/traveling-to-demsford)
   - [Fighting Cultists in Demsford](/Events/fighting-cultists-in-demsford)
-  - The party is sent to investigate cult activity in the town of [Demsford](/locations/Mardun/Demsford).
-  - The party encounters [Rathwing](/characters/Rathwing) and his cult in an abandoned fortress near Demsford.
-  - [Bomb the Bear](/characters/Bomb-the-Bear) is killed by [Rathwing](/characters/Rathwing).
   - [Illiard](/characters/illiard) is killed by Frederina for seemingly no reason.
   - The party is sent into the Alford castle vault to kill a dreaming beholder. [Krorg](/characters/krorg) unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank.
   - [Drakham](/characters/drakham) unleashes bone spiders, causing chaos in Alford.
