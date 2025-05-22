@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T13:59:02.333Z
+date: 2025-05-22T14:09:05.126Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -160,11 +160,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - 
-- Finishing the Wegate Revolution: The party goes to Wegate to find Spoops' contact Vesrahaan and help the cult of Spoops take over the country. 
-- The party goes to a magic item shop in the city and obtains various magical items such ss the Tiara of Life and Death.
-- The party meets Vesrahaan and the cult in a tavern in Wegate. The table is made of Mahogany and constantly says Mahogany. They plan the attack on the castle.
-- The attack on Wegate begins, many cultists flood the streets, soldiers loyal to the cause join the cultists revolution and this army storms the castle. During the battle, the Wegate army utilizes an anti-magic field generator.
-- The party and Cult of Spoops conquer Wegate and install Vesrahaan as Priestess Queen of the new Theocratic Empire of Wegate. The party secretly empties the treasury into Adalynn's tressure demi-plane, they lend resources back to Wegate as needed. 
+- [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - 
 - Aku is slain when the party drops dragon turtles on his castle.
 - 
