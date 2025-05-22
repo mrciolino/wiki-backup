@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T14:09:58.863Z
+date: 2025-05-22T14:10:37.732Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -201,7 +201,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Feywild Buffoonery
 - Creation of Mortis Lux HQ
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
-- 
+- Meeting Obox-Ob
 - [Saving the Sun](/Events/saving-the-sun)
 - Searching for Gond Souls: 
 - 
