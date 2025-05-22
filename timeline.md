@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T15:59:49.017Z
+date: 2025-05-22T16:39:50.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -100,8 +100,8 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - [Chaos in Kaltrosar](/Events/chaos-in-kaltrosar)
   - [Attacked by Pirates](/Events/attacked-by-pirates)
   - [Chasing Thieves in Allford](/Events/chasing-thieves-in-allford)
-  - The party travels to [Alford](/locations/Mardun/Allford) aboard the Robin Trading company ship.
-  - The party meets [Illiard](/characters/illiard) in his tower.
+  - [Arrival to Illiard's Tower](/items/arrival-to-illiards-tower)
+  - 
   - The party is sent to investigate cult activity in the town of [Demsford](/locations/Mardun/Demsford).
   - The party encounters [Rathwing](/characters/Rathwing) and his cult in an abandoned fortress near Demsford.
   - [Bomb the Bear](/characters/Bomb-the-Bear) is killed by [Rathwing](/characters/Rathwing).
