@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T17:49:14.639Z
+date: 2025-05-22T17:49:26.412Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -102,6 +102,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - [Chasing Thieves in Allford](/Events/chasing-thieves-in-allford)
   - [Arrival to Illiard's Tower](/items/arrival-to-illiards-tower)
   - [Traveling to Demsford](/Events/traveling-to-demsford)
+  - 
   - The party is sent to investigate cult activity in the town of [Demsford](/locations/Mardun/Demsford).
   - The party encounters [Rathwing](/characters/Rathwing) and his cult in an abandoned fortress near Demsford.
   - [Bomb the Bear](/characters/Bomb-the-Bear) is killed by [Rathwing](/characters/Rathwing).
