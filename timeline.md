@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T15:16:56.909Z
+date: 2025-05-22T15:17:17.657Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -99,6 +99,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
   - [Chaos in Kaltrosar](/Events/chaos-in-kaltrosar)
   - [Attacked by Pirates](/Events/attacked-by-pirates)
+  - 
   - The party travels to [Alford](/locations/Mardun/Allford) aboard the Robin Trading company ship.
   - The party meets [Illiard](/characters/illiard) in his tower.
   - The party is sent to investigate cult activity in the town of [Demsford](/locations/Mardun/Demsford).
