@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T14:16:24.695Z
+date: 2025-05-22T14:23:09.909Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -97,6 +97,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **3 BC:**  
   - The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
   - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
+  - Chaos in Kaltrosar
   - [Kaltrosar Bay](/locations/Mardun/Kaltrosar) is burned down by [Freedom](/characters/freedom).
   - The party travels to [Alford](/locations/Mardun/Allford) aboard the Robin Trading company ship.
   - The party meets [Illiard](/characters/illiard) in his tower.
