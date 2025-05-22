@@ -2,7 +2,7 @@
 title: Attacked By Pirates
 description: The party is attacked by pirates while escaping Kaltrosar Bay
 published: true
-date: 2025-05-22T15:10:05.317Z
+date: 2025-05-22T15:16:10.586Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:56:11.434Z
