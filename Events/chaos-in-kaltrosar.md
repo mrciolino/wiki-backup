@@ -2,7 +2,7 @@
 title: Chaos in Kaltrosar
 description: The party arrives in Kaltrosar Bay looking for work, chaos ensues
 published: true
-date: 2025-05-22T14:35:54.796Z
+date: 2025-05-22T14:39:40.342Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:24:28.249Z
@@ -32,8 +32,10 @@ Drakham tries valiantly to unfuck the situation by attempting to persuade the gu
 
 The group gives in and is arrested but then Drakham accidently kills lord Barrymoore in one hit.
 
-then more guards straight from the king of Kaltrosar, Bazzert angers the guards and They try to kill Bazzert so combat
+Then more guards arrive directly from the king of Kaltrosar. Bazzert angers the guards so they try to kill him.
 
-After fighting through a large meaty man the group frees themselves, and freedom and get their stuff back and Freedom sets fire to the castle and as the group escapes they gather Os, Seiphiri, Spoops, and Kiwi and escape.
+After fighting through a large meaty man, the group frees themselves from the dungeon and Freedom gets their stuff back. 
 
-they escaped by distracting dock workers with free beer and by freeedom setting fire to the dock and everyone stowed away in cargo crates and got on a ship leaving Kaltrosar Bay
+Then Freedom sets fire to the castle, and as the group escapes they gather Os, Seiphiri, Spoops, and Kiwi.
+
+The group escapes by distracting dock workers with free beer while freeedom set fire to the dock before they everyone stowed away in cargo crates on a ship owned by the Robin Trading Company who was leaving Kaltrosar Bay.
