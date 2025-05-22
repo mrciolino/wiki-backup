@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T14:09:05.126Z
+date: 2025-05-22T14:09:21.510Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -164,7 +164,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - Aku is slain when the party drops dragon turtles on his castle.
 - 
-- Spoops ends up trapped by Darmuth in what was formerly a dragon's hoard far to the south west of Gothriathon. He uses his knife leg, ring of misty step, and immunity to poison to easily bypass the defenses of the hoard, returning to thr surface. He then uses hisnknife leg to fly back to gothriathon to meet up with the party.
+- Spoops ends up trapped by Darmuth in what was formerly a dragon's hoard far to the south west of Gothriathon. He uses his knife leg, ring of misty step, and immunity to poison to easily bypass the defenses of the hoard, returning to thr surface. He then uses his knife leg to fly back to gothriathon to meet up with the party.
 - 
 - Darmuth is killed after Os drops her into a volcano.
 - The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the portal with the purpose of eliminating all the Devastation Vermin.
