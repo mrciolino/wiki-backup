@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T14:09:36.604Z
+date: 2025-05-22T14:09:58.863Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -173,7 +173,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Investigating the Magic College of Highhold.
 - 
 - 
-- Quest to save princess of hellaress
+- Quest to save the princess of hellaress
 - 
 - Magical College Porthy
 - 
