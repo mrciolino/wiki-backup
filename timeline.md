@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-22T14:10:37.732Z
+date: 2025-05-22T14:16:24.695Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -182,7 +182,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
 - 
-- 
+- A traveling merchant sells interesting magic items to the party: Spoops buys Jack Sparrow's Compass. 
 - Fiad found and killed in a tower on the centaur tribal planes.
 - 
 - The party seeks out Aphir the Mighty
