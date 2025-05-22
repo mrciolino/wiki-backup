@@ -2,7 +2,7 @@
 title: Chasing Thieves in Allford
 description: Some of the party get robbed upon arrival in Allford
 published: true
-date: 2025-05-22T16:08:57.925Z
+date: 2025-05-22T16:09:57.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T15:51:12.075Z
@@ -38,6 +38,8 @@ Os Vrntica follows up this excitement with a calming ballad which reinvigorate t
 
 The gang finds a mysterious wall of fire and weird paintings that light up with proper activation, but before figuring out the mystery they have to deal with a mimic.
 
-And then BOOM in from the outside and out of nowhere Krorg re-enters the fray and with a pirate crew with one goal to kill Freedom
+And then BOOM in from the outside and out of nowhere Krorg re-enters the fray and with a pirate crew with one goal to kill Freedom.
 
 After some introductions and re-introductions Krorg's crew dispel the wall of fire and are ready to move on to the dungeon exit.
+
+Behind the wall of fire, Spoops obtains an immovable rod and mirror shield.
