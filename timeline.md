@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-21T16:03:31.024Z
+date: 2025-05-22T13:59:02.333Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -222,7 +222,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Investigating Godsbane: The party Tries various methods to destroy Godsbane.
 - Adalynn Captured by Daurgothoth
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
-- Weakening of Cyric: The party investigates Breezy-E's sword Godsbane. They find that it is not the god Mask but is instead the imprisoned form of Bhaal. Bazzdos uses Mordenkainen's Disjunction to destroy Cyric's connection to the blade by rending the part of his soul inhabiting it. Spoops and Bhaal race to grab whatever they can of Cyric's soul. Bhaal gets some, but Spoops gets most of it which he provides to the party as power. Bhaal departs but first grants Breezy-E his blessing, becoming the second "Death God" to do so. Breezy hangs on to the sword now that Cyric's influence has been removed.
+- [Weakening of Cyric](/Events/weakening-of-cyric)
 - Treaty With the Council of Gods
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
 - 
