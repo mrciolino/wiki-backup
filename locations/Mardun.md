@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-04-20T02:01:30.245Z
+date: 2025-05-23T14:49:18.603Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -17,7 +17,8 @@ dateCreated: 2024-07-28T16:09:23.664Z
 - [**Kairnheim** *Realm of Ice and Secrets (Mountainous Cold, Pale Grey)*](/locations/Mardun/Kairnheim)
 {.links-list}
 
-&ensp; **Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro), [Kaltrosar](/locations/Mardun/Kaltrosar), [Fywick](/locations/Mardun/Fywick), [North Geskoworm](/locations/Mardun/north_geskoworm)**  
+&ensp; **Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro),
+[Trelston](/locations/Mardun/trelston),[Kaltrosar](/locations/Mardun/Kaltrosar), [Fywick](/locations/Mardun/Fywick), [North Geskoworm](/locations/Mardun/north_geskoworm)**  
 &ensp; <sub>Other Cities: City of the Last Lantern, The Shrine of Torment, Silent Forest, Denmach Vale, Formene, Ghostlight Woods, Wafeld, Witchlight Jungle, Ghoulfen River</sub>
 
 ---
