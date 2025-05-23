@@ -2,7 +2,7 @@
 title: Arrival in Trelston
 description: The party arrives in the small fishing village of Trelston
 published: true
-date: 2025-05-23T17:07:12.206Z
+date: 2025-05-23T17:08:18.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T16:12:40.172Z
@@ -27,7 +27,9 @@ The party went to the tavern in town called "The Wispy Rat". Guardison the guard
 
 Bazzert, Drakham, and Frederina happens upon very hostile badgers near town, they escspe their assault and and get to the lighthouse where they happen to meet Guardison Sr. Rhey lead him back to town to meet Spoops and the rest of the party.
 
-Guardison gets absolutely freaked out by Spoops who then chased him around. Eventually he introduces himself as Guardison Sr. and tells Spoops what he knows.
+But right before Guardison can meet the team Drakham's uncontrollable powers of the magic weave have acted strangely and now his magic is cursed.
+
+The party makes it to town where Guardison gets absolutely freaked out by Spoops who then chased him around. Eventually he introduces himself as Guardison Sr. and tells Spoops what he knows.
 
 Guardison Sr. tells Spoops that there was a Paladin named Spoops during the Lich Wars who departed on a ship from Trelston but was betrayed by his own crew and drowned at sea.
 
