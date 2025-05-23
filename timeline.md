@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-23T14:41:55.345Z
+date: 2025-05-23T16:09:36.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -95,7 +95,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
 
 - **3 BC:**  
-  - The **Low Bar Brawlers** form at **[Fort Suro](/locations/fort-suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
+  - The **Low Bar Brawlers** form at **[Fort Suro](/locations/Mardun/Fort-Suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
   - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
   - [Chaos in Kaltrosar](/Events/chaos-in-kaltrosar)
   - [Attacked by Pirates](/Events/attacked-by-pirates)
