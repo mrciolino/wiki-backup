@@ -2,7 +2,7 @@
 title: Fighting Cultists in Demsford
 description: The party hunts downs and battles the cultists in Demsford
 published: true
-date: 2025-05-23T13:58:34.045Z
+date: 2025-05-23T14:07:28.149Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T18:29:57.061Z
@@ -45,6 +45,11 @@ In the ensuing battle Krorg throws his trident into the side of Rathwing and the
 Not knowing Bomb was just slain, Krorg runs to aid Drakham, breaking two of the five animated gold coins on his way as Drakham is dying on the ground. Spoops continues to battle an invisible Rathwing and Bazzert attacks Rathwing with his Moonbeam but also Scorching Spoops with the holy moonfire which causes Spoops to fall unconcious. Krorg helps Drakham who pulls out some wild magic and absorbs the life force of the animated coins, and some of Krorgs, and rises from near death like a phoenix. Quickly after this Rathwing disengages from the fight and says "You are all vermin who aren't worth my time and these peasants are useless, I've already got what I wanted. Au revoir" Rathwing disappears and moments later Krorg sees him flying away westward over the hills and trees.
 
 Krorg now goes back to where Bomb was lying on the ground and discovers that bomb is dead. He and Drakham are greatly saddened by this loss and move him to the riverside to bury him. Meanwhile Bazzert decides to try and decipher his book and is able to just read the first line in the the book... "How to kill Gods"
+
+## The Burial of Bomb
+Drakham and Spoops are arguing over what to do with Bomb as Krorg sleeps. Drakham wants to bury Bomb and Spoops in desperation, demands they keep thr corpse until they find a way to Bring him back to life. Being undead himself, yet unable to save his friend Bomb from death devastates Spoops. They enter into a mexican standoff, Drakham clutching his last grande and Spoops with rope threatening to take Bomb's corpse. Eventually Krorg wakes up and decides to bury Bomb, Drakham Charms Spoops and forces him to go along with this plan. Drakham used a patch from his cloak to excavate a 10 by 10 by 10ft hole to bury bomb and after some kind words the group bury bomb with the cultists. But there were too many cultists for the hole and so the party burned the corpses and then finished the burial.
+
+Spoops desperately prayed to whoever this mysterious God of his was, begging for guidance and swearing he would never let a tragedy like this happen again. His god answered hos prayer, granting him the powers of his Oath.
 
 
 
