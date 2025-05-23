@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-05-23T18:15:43.227Z
+date: 2025-05-23T18:19:59.778Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -23,7 +23,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 
 ---
 
-- [**Wyrmford** *Former land of Dragons*](/locations/Mardun/Wyrmford)
+- [**Wyrmford** *Former land of Dragons (Covered in Forests and Mountains)*](/locations/Mardun/Wyrmford)
 {.links-list}
 
 &ensp; **Notable Cities: [Altricia](/locations/Mardun/Allford), [Hastow](/locations/Mardun/Hastow)*
