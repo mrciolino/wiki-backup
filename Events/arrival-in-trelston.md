@@ -2,14 +2,14 @@
 title: Arrival in Trelston
 description: The party arrives in the small fishing village of Trelston
 published: true
-date: 2025-05-23T16:44:17.010Z
+date: 2025-05-23T16:55:29.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T16:12:40.172Z
 ---
 
 # Arrival in Trelston
-The party arrives in the small fishing village of Trelston. They get involved in some situations with a guardison, a horrible creature, and badgers.
+The party arrives in the small fishing village of Trelston. They get involved in some situations with a guardison, a horrible creature, and badgers. Upon arrival the caravan pays the party for their protection.
 
 ## The Party Take Care of Individual Things
 While in the village, the party have very different ideas on what to do next. On the village dock, Frederina met her warlock patron. A giant faceless tentacled thing which she now serves.
@@ -21,7 +21,7 @@ Drakham's wild magic was still Eff'd so he was just casting random spell effects
 Krorg managed to tame and befriend the Bear in the box. After befriending him, Krorg renames him Bomb the Bear.
 
 ## Guardison Senior
-The party went to the barkeep Guardison the guard talked about, and absolutely freaked him out and chased him around town but got him to give up the info Spoops needed.
+The party went to the tavern in town called "The Wispy Rat".  Guardison the guard talked about, and absolutely freaked him out and chased him around town but got him to give up the info Spoops needed.
 
 Guardison Sr. tells Spoops that there was a Paladin named Spoops during the Lich Wars who departed on a ship from Trelston but was betrayed by his own crew and drowned at sea.
 
