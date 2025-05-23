@@ -2,13 +2,11 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-05-23T21:47:52.486Z
+date: 2025-05-23T21:48:12.034Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
 ---
-
-<img src="/maps/mardun.webp" class="img-fluid" style="max-height: 100px;" alt="Mardun Map">
 
 # **Campaign 1**  
 
