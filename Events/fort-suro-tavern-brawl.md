@@ -2,7 +2,7 @@
 title: Fort Suro Tavern Brawl
 description: The formation of the Low Bar Brawlers
 published: true
-date: 2025-05-23T17:33:57.731Z
+date: 2025-05-23T17:35:07.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T12:31:53.244Z
@@ -21,5 +21,7 @@ Drakham and Seriphi asked the demon if he was their father, they gained no evide
 At this point Frederina ran to get the guards to break up the fighting between Spoops and Os, but the demon was now involved too. Once the guards arrived they were surprised to see a skeleton and began attacking. Spoops fought the guards alongside the Lokunai and proceeded to seduce the demon well. A romantic moment ensues, and Lokunai gives Spoops a weird stone with a glyph, alongside some vials of blood and hair. An odd gift but one Spoops appreciated greatly. 
 
 Otto Hurtzog didn’t like Os’s bard antics, so he fired an arrow and knocked Os unconscious. He tried to play it off by lying and saying that Os had a bounty on him. At this moment Freedom the robot arrives to retrieve the party on behalf of Illiard the Wizard who sent the invitations. However as he arrives, Freedom sees Otto Hurtszog attacking Os and rushes to defend him. After ensuring Os' safety, Freedom goes to fight Lokunai. Lokinai is slain, however his body mysteriously disappears. It will be years before anyone realizes but in that moment, Lokunai did not perish, but instead possessed Freedom.
+
+Frederina lost a dagger and forgot to go back to get it at the pub.
 
 With the tavern brawl finally at an end, the party rests. (Session 2 begins) Lokunai (now posessing Freedom's body) gives the party a quest to free his people, the warforged, from slavery. He points is in the direction of the Guard captain to find help then promptly departs. The captain asks the party to first help to clear the iron mines of goblins. The party goes from here to begin a life changing quest.
