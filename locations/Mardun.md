@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-05-23T14:50:03.721Z
+date: 2025-05-23T16:01:30.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
