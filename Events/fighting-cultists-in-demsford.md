@@ -2,7 +2,7 @@
 title: Fighting Cultists in Demsford
 description: The party hunts downs and battles the cultists in Demsford
 published: true
-date: 2025-05-23T13:55:56.193Z
+date: 2025-05-23T13:57:53.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T18:29:57.061Z
@@ -33,7 +33,7 @@ Drakham proposes a second plan to ride around the side of the fortress and flank
 This plan while a bit better also failed as one of the cultist ran to get his boss. During the time before the cultist boss shows up Bazzert is attack by the fortress firing squad and gets struck by crossbow bolts and fire bolts and falls unconscious in a burning tree, good thing Frederina stopped the flames from burning Bazzert alive and pulling him from the tree. 
 
 
-## Veerian Ratheing Arrives
+## Veerian Rathwing Arrives
 Bazzert is now pulling a lot of weight and starts obliterating the cultists with lightning and moonbeams, thinning out the firing squad targeting Krorg and Bomb. 
 
 However Krorg and Bomb have bigger issues now as Veerian animates 5 gold coins from his pocket and sends them to attack Bomb. The coins brutalize Bomb and Bomb falls unconscious after a tiring fight being pin-cushioned by cultist crossbows, burned by firebolts and now he succumbs to the coins. Everyone now focuses on Rathwing as the cultists are all dead except for two, and those who decided to run rather than die. 
