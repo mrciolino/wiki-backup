@@ -2,7 +2,7 @@
 title: Ghazali
 description: Archangel of Atonement
 published: true
-date: 2025-05-23T13:38:59.949Z
+date: 2025-05-23T13:51:22.774Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T13:25:35.173Z
@@ -25,11 +25,11 @@ Ghazali was first encoutnered by the party in canpaign 1 when he becsme one of S
 
 
 ## Prophet of Profit (Campaign)
-As Mortis Lux was forming back on Mardun, Spoops ordered Ghazali to acquire funds for the organization. Ghazali joined up with a band of arventurers to acquire some gold after receiving an invitation from the mysterious Prophet of Profit. 
+As Mortis Lux was forming back on Mardun, Spoops ordered Ghazali to acquire funds for the organization. Ghazali joined up with a band of arventurers to acquire some gold after receiving an invitation from the mysterious Prophet of Profit. He ended up dying during the adventure, acquiring nothing. 
 
 
 ## Ascention to Archangel
-The operation fell apart in the end, and Ghazali ended up lost in the wilderness around Sigil, surviving alone until Spoops called on him for a status update. As punishment for his failure, and reward for his servitude and loyalty, Spoops tranformed Ghazali into his first Archangel. He was dubbed the Archangel of Atonement and provided a powerful greataxe forged by Bazzdos.
+The operation fell apart in the end, and Ghazali ended up dying, but as a paladin of Spoops he came back from the dead only to become lost in the wilderness around Sigil, surviving alone until Spoops called on him for a status update. As punishment for his failure, and reward for his servitude and loyalty, Spoops tranformed Ghazali into his first Archangel. He was dubbed the Archangel of Atonement and provided a powerful greataxe forged by Bazzdos.
 
 ## Treaty With The Council of Gods
 Ghazali joined the party as Spoops' attendant during their meeting with the Council of Gods. 
