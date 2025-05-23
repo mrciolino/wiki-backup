@@ -2,7 +2,7 @@
 title: Fort Suro Goblin Mine
 description: The first real quest for the Low Bar Brawlers
 published: true
-date: 2025-05-23T16:39:57.755Z
+date: 2025-05-23T16:41:20.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T12:57:33.341Z
@@ -22,8 +22,6 @@ The party stuffs the goblin csptain into the cannon and takes him alive to bring
 
 
 ## The Ghostly Pickle
-After defeating the goblins and their spoils looted, the party collects their rewards from captain guardison in the fort suro barracks. After being a bit disatisfied eith their reward, the party narrowly decides against violence. Seeking work, the party join a caravan as an escort which leaves for Trelston on the way to Kaltrosar in the morning. The party sleeps in Popes Pub for free, and Otto is disturbed out of his sleep by a ghostly pickle.
-
-
+After defeating the goblins and their spoils looted, the party collects their rewards from captain guardison in the fort suro barracks. After being a bit disatisfied eith their reward, the party narrowly decides against violence. Seeking work, the party join a caravan as an escort which leaves for Trelston on the way to Kaltrosar in the morning. The party sleeps in Popes Pub for free, and Otto is disturbed out of his sleep by a ghostly pickle. After waking a couple other people, the party talk with the ghostly pickle and it gives them a clue to Spoops' forgotten past, and that the truth of the matter lies with Guardison SR in Trelston.
 
 
