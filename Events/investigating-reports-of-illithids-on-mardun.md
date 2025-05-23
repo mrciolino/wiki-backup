@@ -2,7 +2,7 @@
 title: Investigating Reports of Illithids on Mardun
 description: The party descends on Mardun hunting Illithids
 published: true
-date: 2025-05-21T16:02:47.357Z
+date: 2025-05-23T13:51:56.224Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T16:02:47.357Z
@@ -28,4 +28,4 @@ The party proceeds deep into the underdark where they find an Illithid lair. The
 
 Shocked that unlike the Ithilids rhey have encountered before, the Illithid speaks, they question it. They ask how the Illithid is capable of speech and how it is even alove after Spoops commanded the hive mind to kill themselves. The Illithid explains that their hive is completely separate from the Emperor's hive. They managed to escape and hide from the Itholid hive before they could be dominated. They gonon to explain that they want nothing to do with the Ithilids. 
 
-The party decides not to exterminate this unrelated hive on the condition they leave the people of this world unharmed and do not seek domination over Marrun or its people. The Illithids swear to obey this condition and the party leaves after delivering one final threat "Mortis Lux will be watching".
+The party decides not to exterminate this unrelated hive on the condition they leave the people of this world unharmed and do not seek domination over Mardun or its people. The Illithids swear to obey this condition and the party leaves after delivering one final threat "Mortis Lux will be watching".
