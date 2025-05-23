@@ -2,7 +2,7 @@
 title: Fort Suro Goblin Mine
 description: The first real quest for the Low Bar Brawlers
 published: true
-date: 2025-05-08T14:03:13.344Z
+date: 2025-05-23T16:39:57.755Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T12:57:33.341Z
@@ -19,3 +19,11 @@ The quest began as thr party went into the iron mine. They fought the goblins wi
 Krorg suplexes Bomb the Bear into a chest and carries him out of the mine. As the party is on their way out of the mine, the goblin captain rolls a cannon out and fires it at the party, but they are still in the cave and able to dodge out of the way.
 
 The party stuffs the goblin csptain into the cannon and takes him alive to bring him back to the town guard captain. The guard captain thanks the party and says there is a merchant transport going to a fishing village towards the major city of Kaltrusar, and we should join them on the journey.
+
+
+## The Ghostly Pickle
+After defeating the goblins and their spoils looted, the party collects their rewards from captain guardison in the fort suro barracks. After being a bit disatisfied eith their reward, the party narrowly decides against violence. Seeking work, the party join a caravan as an escort which leaves for Trelston on the way to Kaltrosar in the morning. The party sleeps in Popes Pub for free, and Otto is disturbed out of his sleep by a ghostly pickle.
+
+
+
+
