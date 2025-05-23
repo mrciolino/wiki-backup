@@ -2,7 +2,7 @@
 title: Fighting Cultists in Demsford
 description: The party hunts downs and battles the cultists in Demsford
 published: true
-date: 2025-05-22T18:41:11.195Z
+date: 2025-05-23T13:55:56.193Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T18:29:57.061Z
@@ -42,7 +42,7 @@ In the ensuing battle Krorg throws his trident into the side of Rathwing and the
 
 
 ## Bomb The Bear Dies
-Notnlnowing Bomb was just slain, Krorg runs to aid Drakham, breaking two of the five animated gold coins on his way as Drakham is dying on the ground. Spoops continues to battle an invisible Rathwing and Bazzert attacks Rathwing with his Moonbeam but also Scorching Spoops with the holy moonfire which causes Spoops to fall unconcious. Krorg helps Drakham who pulls out some wild magic and absorbs the life force of the animated coins, and some of Krorgs, and rises from near death like a phoenix. Quickly after this Rathwing disengages from the fight and says "You are all vermin who aren't worth my time and these peasants are useless, I've already got what I wanted. Au revoir" Rathwing disappears and moments later Krorg sees him flying away westward over the hills and trees.
+Not knowing Bomb was just slain, Krorg runs to aid Drakham, breaking two of the five animated gold coins on his way as Drakham is dying on the ground. Spoops continues to battle an invisible Rathwing and Bazzert attacks Rathwing with his Moonbeam but also Scorching Spoops with the holy moonfire which causes Spoops to fall unconcious. Krorg helps Drakham who pulls out some wild magic and absorbs the life force of the animated coins, and some of Krorgs, and rises from near death like a phoenix. Quickly after this Rathwing disengages from the fight and says "You are all vermin who aren't worth my time and these peasants are useless, I've already got what I wanted. Au revoir" Rathwing disappears and moments later Krorg sees him flying away westward over the hills and trees.
 
 Krorg now goes back to where Bomb was luong on the ground and discovers that bomb is dead. He and Drakham are greatly saddened by this loss and move him to the riverside to bury him. Meanwhile Bazzert decides to try and decipher his book and is able to just read the first line in the the book... "How to kill Gods"
 
