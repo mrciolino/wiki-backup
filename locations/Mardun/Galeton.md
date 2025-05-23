@@ -1,14 +1,14 @@
 ---
-title: Galeton
-description: A fishing town near the city of Kaltrussar.
+title: Trelston
+description: A fishing town near the city of Kaltrosar.
 published: true
-date: 2024-07-28T19:14:16.070Z
+date: 2025-05-23T16:01:09.287Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:44:26.303Z
 ---
 
-Galeton is a fishing town near the city of Kaltrussar Bay. The Town is a fishing village of the Kingdom of Kaltrussar.
+Trelston is a fishing town near the city of Kaltrosar Bay. The Town is a fishing village of the Kingdom of Kaltrosar.
 
 # Key Information
 - Population: 236
@@ -27,4 +27,4 @@ Galeton is a fishing town near the city of Kaltrussar Bay. The Town is a fishing
 - Kat, Os, and Drakham hang around the docks. Frederina's patron, a yellow lobster, appears to Frederina. A void portal opens, and Os and Drakham join Kat in jumping into the void, encountering lots of teeth and evil patron vibes.
 - Federina accepts servitude to her patron. Os and Drakham agree to help her as well.
 - The Wind Amulet needs to be recovered so Gaurdison can man the lighthouse, but Spoops really wants it. We go to get it; Drakham gets it first and places it in a lockbox at the nature shrine. Spoops breaks into the lockbox, angering the spirit who summons badgers. In response, Federina sets the forest on fire.
-- Crow helps us stop the fire from burning the town. After that, we follow the merchant caravan to the big city, Kaltrazar Bay.
+- Crow helps us stop the fire from burning the town. After that, we follow the merchant caravan to the big city, Kaltrosar Bay.
