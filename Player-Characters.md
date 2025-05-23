@@ -2,40 +2,42 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-04-17T12:14:52.075Z
+date: 2025-05-23T21:47:52.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
 ---
+
+<img src="/maps/mardun.webp" class="img-fluid" style="max-height: 100px;" alt="Mardun Map">
 
 # **Campaign 1**  
 
 ## Main Characters
 | Name                             | Race | Class | Background | Traits | Image |
 |----------------------------------|------|-------|------------|--------|-------|
-| [Spoops](/characters/spoops)     | Undead   | Oath of The Soul Warden Paladin    | Lost at Sea         | Highly Erratic, Overconfident, Constantly in Survival Mode     | ![Spoops](/characters/spoops.webp =x100) 		|
-| [Bazzdos](/characters/bazzdos)   | Warforged   | Armorer Artificer 20 / Hexblade Warlock 1 / Wizard 1  | Artificial Intelligence | Indestructible AI engineer obsessed with order and complexity.     | ![Bazzdos](/characters/bazzdos.webp =x100) |
-| [Breezy-E](/characters/breezy)   | Human Vampire   | Samurai Fighter    | ??         | ??     | ![Breezy-e](/characters/breezy/breezy.webp =x100) |
-| [Adalynn](/characters/adalynn)   | Bitch   | Wizard    | Fool | Betrayer.     | ![Adalynn](/characters/adalynn.webp =x100) |
-| [Elira](/characters/elira)       | Human(?) | Inkling Sorcerer / Pact Mage     | Escaped Cultist        | Rebellious, Co-dependent, Fiercely loyal, Trauma-forged leader, Divine fugitive            | ![elira_v1.jpg](/characters/other/elira_v1.jpg =x100) |
-| [Krorg](/characters/krorg)       | Gnome   | Barbarian    | Drifter         | Economic Schemer     | ![Krorg](/characters/krorg/krorg.png =x100) |
-| [Os Vrtnica](/characters/os)     | Elf   | Bard    | ??         | ??     | ![Os](/characters/os.webp =x100) |
-| [Meade](/characters/meade)       | Human   | Warlock    | Charlatan         | Witty Drinker     | ![Meade](/characters/other/meade.webp =x100) |
-| [Mort](/characters/mort)         | Yugoloth   | Rogue    | Contract Assassin         | Shapeshifting Killer     | ![Mort](/characters/mort/m.webp =x100) |
-| [Bazzert](/characters/bazzert)   | Elf   | Land Druid 8    | Guide | An exploratory druid with stealth and inventiveness whose time came too soon. | ![bazzert.webp](/characters/bazzert/bazzert.webp =x100) | 
-| [Bazvrah](/characters/Bazvrah) 	 | Winged Wood Elf | Moon Druid 11, Soulknife Rogue 3, Trickery Cleric 1     | Criminal: Hired Killer | Stealth master, psychic assassin, ruthless, trophy collector, driven by revenge     | ![bazvrah.webp](/characters/bazzert/bazvrah.webp =x100) |
-| [Bazzalt](/characters/Bazzalt)   | Anuran (Frog)   | Druid 17    | Sage         | ??     | ![bazzalt.webp](/characters/bazzert/bazzalt.webp =x100) |
-| [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | ![drakham.png](/characters/adalynn/drakham.png =x100) |
-| [Narascus](/characters/Narascus) | Demon   | (Narascene) Soul Domain Cleric    | Potion Drinker, Betrayer | Evil demon seeking godhood through manipulation and control. Self absorbed.     | ![narascus.png](/characters/adalynn/narascus.png =x100) |
+| [Spoops](/characters/spoops)     | Undead   | Oath of The Soul Warden Paladin    | Lost at Sea         | Highly Erratic, Overconfident, Constantly in Survival Mode     | <img src="/characters/spoops.webp" class="img-fluid" style="max-height: 100px;" alt="Spoops"> |
+| [Bazzdos](/characters/bazzdos)   | Warforged   | Armorer Artificer 20 / Hexblade Warlock 1 / Wizard 1  | Artificial Intelligence | Indestructible AI engineer obsessed with order and complexity.     | <img src="/characters/bazzdos.webp" class="img-fluid" style="max-height: 100px;" alt="Bazzdos"> |
+| [Breezy-E](/characters/breezy)   | Human Vampire   | Samurai Fighter    | ??         | ??     | <img src="/characters/breezy/breezy.webp" class="img-fluid" style="max-height: 100px;" alt="Breezy-e"> |
+| [Adalynn](/characters/adalynn)   | Bitch   | Wizard    | Fool | Betrayer.     | <img src="/characters/adalynn.webp" class="img-fluid" style="max-height: 100px;" alt="Adalynn"> |
+| [Elira](/characters/elira)       | Human(?) | Inkling Sorcerer / Pact Mage     | Escaped Cultist        | Rebellious, Co-dependent, Fiercely loyal, Trauma-forged leader, Divine fugitive            | <img src="/characters/other/elira_v1.jpg" class="img-fluid" style="max-height: 100px;" alt="Elira"> |
+| [Krorg](/characters/krorg)       | Gnome   | Barbarian    | Drifter         | Economic Schemer     | <img src="/characters/krorg/krorg.png" class="img-fluid" style="max-height: 100px;" alt="Krorg"> |
+| [Os Vrtnica](/characters/os)     | Elf   | Bard    | ??         | ??     | <img src="/characters/os.webp" class="img-fluid" style="max-height: 100px;" alt="Os"> |
+| [Meade](/characters/meade)       | Human   | Warlock    | Charlatan         | Witty Drinker     | <img src="/characters/other/meade.webp" class="img-fluid" style="max-height: 100px;" alt="Meade"> |
+| [Mort](/characters/mort)         | Yugoloth   | Rogue    | Contract Assassin         | Shapeshifting Killer     | <img src="/characters/mort/m.webp" class="img-fluid" style="max-height: 100px;" alt="Mort"> |
+| [Bazzert](/characters/bazzert)   | Elf   | Land Druid 8    | Guide | An exploratory druid with stealth and inventiveness whose time came too soon. | <img src="/characters/bazzert/bazzert.webp" class="img-fluid" style="max-height: 100px;" alt="Bazzert"> |
+| [Bazvrah](/characters/Bazvrah) 	 | Winged Wood Elf | Moon Druid 11, Soulknife Rogue 3, Trickery Cleric 1     | Criminal: Hired Killer | Stealth master, psychic assassin, ruthless, trophy collector, driven by revenge     | <img src="/characters/bazzert/bazvrah.webp" class="img-fluid" style="max-height: 100px;" alt="Bazvrah"> |
+| [Bazzalt](/characters/Bazzalt)   | Anuran (Frog)   | Druid 17    | Sage         | ??     | <img src="/characters/bazzert/bazzalt.webp" class="img-fluid" style="max-height: 100px;" alt="Bazzalt"> |
+| [Drakham](/characters/drakham)   | ??   | ??    | ??         | ??     | <img src="/characters/adalynn/drakham.png" class="img-fluid" style="max-height: 100px;" alt="Drakham"> |
+| [Narascus](/characters/Narascus) | Demon   | (Narascene) Soul Domain Cleric    | Potion Drinker, Betrayer | Evil demon seeking godhood through manipulation and control. Self absorbed.     | <img src="/characters/adalynn/narascus.png" class="img-fluid" style="max-height: 100px;" alt="Narascus"> |
 
 ## **Other Guest Stars**
 | Name                                               | Race       | Class             | Background        | Notable Traits                                     |    Image |
 |----------------------------------------------------|------------|-------------------|-------------------|-----------------------------------------------------|----------|
-| [Otto Hurtszog](/characters/Otto-Hurtszog) | Wood Elf | Hunter Ranger 9 | Bounty Hunter | Trophy-collector, Refuses to harm the helpless, Feels socially out of place, Forged by hardship | ![otto.png](/characters/other/otto.png =x100) |
-| [Federina](/characters/Federina) | Undead (Elf origin) | Warlock (Great Old One) 9 | Wandering Angst | Telepathic, Necrotic-fueled, Arrogant, Precise, Haunted by grudges | ![federina.jpg](/characters/other/federina.jpg =x100) |
-| [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful | Don't Touch My Dick! | ![achilles.png](/characters/other/achilles.webp =x100) |
-| [Seiriphi](/characters/Seiriphi) | | Druid |  |  | ![seiriphi.png](/characters/other/seiriphi.webp =x100) |
-| [Kiwi](/characters/Kiwi)     | | Rogue |  |  | ![kiwi.png](/characters/other/kiwi.webp =x100) | 
+| [Otto Hurtszog](/characters/Otto-Hurtszog) | Wood Elf | Hunter Ranger 9 | Bounty Hunter | Trophy-collector, Refuses to harm the helpless, Feels socially out of place, Forged by hardship | <img src="/characters/other/otto.png" class="img-fluid" style="max-height: 100px;" alt="Otto Hurtszog"> |
+| [Federina](/characters/Federina) | Undead (Elf origin) | Warlock (Great Old One) 9 | Wandering Angst | Telepathic, Necrotic-fueled, Arrogant, Precise, Haunted by grudges | <img src="/characters/other/federina.jpg" class="img-fluid" style="max-height: 100px;" alt="Federina"> |
+| [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful | Don't Touch My Dick! | <img src="/characters/other/achilles.webp" class="img-fluid" style="max-height: 100px;" alt="Achilles"> |
+| [Seiriphi](/characters/Seiriphi) | | Druid |  |  | <img src="/characters/other/seiriphi.webp" class="img-fluid" style="max-height: 100px;" alt="Seiriphi"> |
+| [Kiwi](/characters/Kiwi)     | | Rogue |  |  | <img src="/characters/other/kiwi.webp" class="img-fluid" style="max-height: 100px;" alt="Kiwi"> | 
 
 
 # **Campaign 2**  
@@ -43,12 +45,9 @@ dateCreated: 2025-03-22T19:33:14.617Z
 ## Main Characters
 | Name                                               | Race       | Class             | Background        | Notable Traits                                      |    Image |
 |----------------------------------------------------|------------|-------------------|-------------------|-----------------------------------------------------|----------|
-| [Tiberian Caipao](/characters/tiberian-caipao) 		 | Dragonborn | Artificer         | Noble Weaponsmith | Ambitious, resourceful, haunted by his past, gambling addiction. | ![tilmur_rasqull.avatar.webp](/characters/tilmur_rasqull.avatar.webp =x100) |
-| [Goopy Globulon](/characters/goopy-globulon) 	 		 | Plasmoid   | Soulblade Fighter | Astral Drifter    | Eccentric, enigmatic, haunted by visions of the future, dark past. | ![goopy_globulon.avatar.webp](/characters/goopy_globulon.avatar.webp =x100) |
-| [Thomas Stonebrook](/characters/thomas-stonebrook) | Human      | Barbarian         | Former Guard      | Loyal, duty-bound, struggling with inadequacy, gambling addiction. | ![tomas_stonebrook.avatar.webp](/characters/tomas_stonebrook.avatar.webp =x100) |
-| [Breezy Bee](/characters/breezy-bee)        			 | Aarakocra  | Sorcerer          | Entertainer       | Carefree, ambitious, gambling addiction, untapped magical potential. | ![breezy_b.avatar.webp](/characters/breezy_b.avatar.webp =x100) | 
-| [Oran](/characters/oran)                  				 | Deep Gnome | Soulknife Rogue   | Bounty Hunter     | Cautious, resourceful, driven by debt, mysterious. | ![oran_dusktea.avatar.webp](/characters/oran_dusktea.avatar.webp =x100)  |
-| [Baloo](/characters/baloo)                				 | Bugbear    | Bard              | Entertainer       | Humorous, resilient, determined to change perceptions, gambling addiction. | ![baloo.avatar.webp](/characters/baloo.avatar.webp =x100) |
-
-
-
+| [Tiberian Caipao](/characters/tiberian-caipao) 		 | Dragonborn | Artificer         | Noble Weaponsmith | Ambitious, resourceful, haunted by his past, gambling addiction. | <img src="/characters/tilmur_rasqull.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Tiberian Caipao"> |
+| [Goopy Globulon](/characters/goopy-globulon) 	 		 | Plasmoid   | Soulblade Fighter | Astral Drifter    | Eccentric, enigmatic, haunted by visions of the future, dark past. | <img src="/characters/goopy_globulon.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Goopy Globulon"> |
+| [Thomas Stonebrook](/characters/thomas-stonebrook) | Human      | Barbarian         | Former Guard      | Loyal, duty-bound, struggling with inadequacy, gambling addiction. | <img src="/characters/tomas_stonebrook.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Thomas Stonebrook"> |
+| [Breezy Bee](/characters/breezy-bee)        			 | Aarakocra  | Sorcerer          | Entertainer       | Carefree, ambitious, gambling addiction, untapped magical potential. | <img src="/characters/breezy_b.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Breezy Bee"> | 
+| [Oran](/characters/oran)                  				 | Deep Gnome | Soulknife Rogue   | Bounty Hunter     | Cautious, resourceful, driven by debt, mysterious. | <img src="/characters/oran_dusktea.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Oran"> |
+| [Baloo](/characters/baloo)                				 | Bugbear    | Bard              | Entertainer       | Humorous, resilient, determined to change perceptions, gambling addiction. | <img src="/characters/baloo.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Baloo"> |
