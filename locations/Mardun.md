@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-05-23T14:49:18.603Z
+date: 2025-05-23T14:50:03.721Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -18,7 +18,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 {.links-list}
 
 &ensp; **Notable Cities: [Fort Suro](/locations/Mardun/Fort-Suro),
-[Trelston](/locations/Mardun/trelston),[Kaltrosar](/locations/Mardun/Kaltrosar), [Fywick](/locations/Mardun/Fywick), [North Geskoworm](/locations/Mardun/north_geskoworm)**  
+[Trelston](/locations/Mardun/trelston), [Kaltrosar](/locations/Mardun/Kaltrosar), [Fywick](/locations/Mardun/Fywick), [North Geskoworm](/locations/Mardun/north_geskoworm)**  
 &ensp; <sub>Other Cities: City of the Last Lantern, The Shrine of Torment, Silent Forest, Denmach Vale, Formene, Ghostlight Woods, Wafeld, Witchlight Jungle, Ghoulfen River</sub>
 
 ---
