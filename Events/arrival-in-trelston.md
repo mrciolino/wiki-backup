@@ -2,7 +2,7 @@
 title: Arrival in Trelston
 description: The party arrives in the small fishing village of Trelston
 published: true
-date: 2025-05-23T16:44:08.364Z
+date: 2025-05-23T16:44:17.010Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T16:12:40.172Z
@@ -23,7 +23,7 @@ Krorg managed to tame and befriend the Bear in the box. After befriending him, K
 ## Guardison Senior
 The party went to the barkeep Guardison the guard talked about, and absolutely freaked him out and chased him around town but got him to give up the info Spoops needed.
 
-Guardison Sr. tells spoops that there was a Paladin named Spoops during the Lich Wars who departed on a ship from Trelston but was betrayed by his own crew and drowned at sea.
+Guardison Sr. tells Spoops that there was a Paladin named Spoops during the Lich Wars who departed on a ship from Trelston but was betrayed by his own crew and drowned at sea.
 
 Spoops then tried to kidnap and rob Guardison Senior outside the lighthouse to obtain his magic Wind Amulet. Guardison was able to mostly evade Spoops when he used the pwoer of the wind amet to bypass the powerful gale force winds blocking the path to the lighthouse. However Spoops eventually prevails and gets the amulet from him. 
 
