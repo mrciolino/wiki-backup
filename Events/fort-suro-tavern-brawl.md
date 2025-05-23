@@ -2,7 +2,7 @@
 title: Fort Suro Tavern Brawl
 description: The formation of the Low Bar Brawlers
 published: true
-date: 2025-05-23T17:36:48.868Z
+date: 2025-05-23T17:40:55.205Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T12:31:53.244Z
@@ -27,3 +27,8 @@ Bazzert got his ass kicked by the guards but was saved by freedom so that he may
 Frederina lost a dagger and forgot to go back to get it at the pub.
 
 With the tavern brawl finally at an end, the party rests. (Session 2 begins) Lokunai (now posessing Freedom's body) gives the party a quest to free his people, the warforged, from slavery. He points is in the direction of the Guard captain to find help then promptly departs. The captain asks the party to first help to clear the iron mines of goblins. The party goes from here to begin a life changing quest.
+
+## Waking Up in The Barracks
+The party woke up well rested in the basement of the Fort Suro guard barracks. However Drakham was chained up as the guards were convinced he had summoned the demon in Pope's Pub. The party went up to confont the captain of the guards about this, but then instantly tried to steal from him, and beg him for money and equipment. After getting $3.50 and three daggers, they pissed off the captain, received a quest from him to eliminate tur Goblin threat from the mines, and left shortly afterwards. 
+
+
