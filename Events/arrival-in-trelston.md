@@ -2,7 +2,7 @@
 title: Arrival in Trelston
 description: The party arrives in the small fishing village of Trelston
 published: true
-date: 2025-05-23T16:26:12.758Z
+date: 2025-05-23T16:26:34.252Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T16:12:40.172Z
@@ -23,7 +23,11 @@ Krorg managed to tame and befriend the Bear in the box. After befriending him, K
 ## Guardison Senior
 The party went to the barkeep Guardison the guard talked about, and absolutely freaked him out and chased him around town but got him to give up the info Spoops needed.
 
-Spoops met Guardison Senior outside the lighthouse. Then Spoops tried to kidnap him and rob him to obtain his magic Wind Amulet. Guardison was able to mostly evade Spoops when he used the pwoer of the wind amet to bypass the powerful gale force winds blocking the path to the lighthouse. However Spoops eventually prevails and gets the amulet from him. Drakham ends up getting his hands on the amulet from Spoops and deposits it in a donation box at a shrine in the forest. Spoops reaches in and grabs the amulet back, accidentally desecrating the shrine.
+Spoops met Guardison Senior outside the lighthouse. Then Spoops tried to kidnap him and rob him to obtain his magic Wind Amulet. Guardison was able to mostly evade Spoops when he used the pwoer of the wind amet to bypass the powerful gale force winds blocking the path to the lighthouse. However Spoops eventually prevails and gets the amulet from him. 
+
+
+## Badger Badger Badger
+Drakham ends up getting his hands on the amulet from Spoops and deposits it in a donation box at a shrine in the forest. Spoops reaches in and grabs the amulet back, accidentally desecrating the shrine.
 
 This action caused a swarm of badgers to appear and attack the group. As they attacked, the badgers chanted "Badger Badger Badger".
 
