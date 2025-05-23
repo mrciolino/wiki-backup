@@ -2,7 +2,7 @@
 title: Fort Suro Goblin Mine
 description: The first real quest for the Low Bar Brawlers
 published: true
-date: 2025-05-23T17:28:21.078Z
+date: 2025-05-23T17:29:13.826Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T12:57:33.341Z
@@ -14,9 +14,9 @@ The first real quest the party receives after their brawl at the tavern. The par
 ## The Quest
 Prior to beginning the quest, Spoops stops at a local church on the way to the mine. His memory still hazy after washing ashore, he knows he is a paladin, but needs to remember what god he served and receive their blessing. Unfortunately he didn’t get the blessing he was looking for from the priests instead he was turned away due to being a skeleton.
 
-The quest began as the party went into the iron mine. They fought the goblins within, and found Bomb the Bear. Os died to after being shot by multiple arrows and getting hit by a minecart.
+The quest began as the party went into the iron mine. They fought the goblins within, and found Bomb the Bear. 
 
-Krorg suplexes Bomb the Bear into a chest and carries him out of the mine. As the party is on their way out of the mine, the goblin captain comes back with a badger and rolls a cannon out and fires it at the party, but they are still in the cave and able to dodge out of the way except for Os who is killed. However like the fucking gambler he is, Drakham used his tides of chaos to get himself back up from death and fucked with the winds of magic and reincarnated Os Vrntica back into a high elf.
+Krorg suplexes Bomb the Bear into a chest and carries him out of the mine. As the party is on their way out of the mine, the goblin captain comes back with a badger and rolls a cannon out and fires it at the party, but they are still in the cave and able to dodge out of the way. Os died after being shot by multiple arrows and getting hit by a minecart. However like the fucking gambler he is, Drakham used his tides of chaos to get himself back up from death and fucked with the winds of magic and reincarnated Os Vrntica back into a high elf.
 
 
 
