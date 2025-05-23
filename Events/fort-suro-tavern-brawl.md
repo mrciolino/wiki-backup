@@ -2,7 +2,7 @@
 title: Fort Suro Tavern Brawl
 description: The formation of the Low Bar Brawlers
 published: true
-date: 2025-05-23T17:36:11.314Z
+date: 2025-05-23T17:36:48.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T12:31:53.244Z
