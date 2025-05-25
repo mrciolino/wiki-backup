@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-25T18:35:00.823Z
+date: 2025-05-25T20:25:26.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -45,27 +45,28 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 - **Deep Gnome Lore:** *TODO*
 - **Fall of the Illithid Empire:** *TODO*
-- **Giants vs. Dragons War:** The Giants' defeat marks the end of the **Age of Giants** and the start of the **Age of Dragons**.
 - Spoops spends time under the name Myrkul and adventures as one of the dead 3. The Time of Troubles occurs.
 
 ## The Age of Giants (??? BC - ??? BC)
-- The largest and most powerful creatures on [Mardun](/locations/Mardun), their reign spread over Felldora and Felldun. 
-- They bread dinosaurs as beasts of burden as well as beasts of war.
+- The race of Giants become the largest and most powerful creatures on [Mardun](/locations/Mardun), their reign spread over Felldora and Felldun.
+- Ancient structures are erected and dinosaurs are bred as beasts of burden.
 ### The Giants vs Dragon war
-- Eventually they went to war with the Dragons.
+- Eventually Dragons go to war with the Giants.
 - The great Giant leader **Blavog**, who rode a T-rex into battle, lead the final assault against the Dragons, but could not match up to their air superiority.
 - The Giants lost, and they became scattered across the world only the be hunted to near extinction or pass their genes off to other races (who became larger after the fact).
+- An ancient Cyclopian dungeon in what is now known as the Celestial Vale is shut away, which housed a portal that could lead to potentially anywhere.
 
 ## The Age of Dragons (??? BC - ~2100 BC)
-- With no creatures on earth left to challenge them, Dragons become the hegemonic power of Mardun. **Cosmos, the Champion of the Skies**, declares to all Mardun that the Age of Dragons has begun. All major powers remaining on Mardun, be they Orc, Goblin, or Elvish, are under dominion of the Dragons. 
-- **2150 BC:** Birth of **[Inferno](/characters/inferno)**, who would go on to become the longest living dragon.
+- With no creatures on earth left to challenge them, Dragons become the hegemonic power of Mardun. **Cosmos, the Champion of the Skies**, declares to all Mardun that the Age of Dragons has begun. All major powers remaining on Mardun, be they Giant, Orc, Goblin, or Elvish, are under dominion of the Dragons. 
+- Dragons migrate to the lands of Dracofell, which becomes a holy land to their kind. Only Dragons, dragonborn, and kobolds may enter it. 
+- **2150 BC:** **[Inferno](/characters/inferno)**, who would go on to become the longest living dragon, is born in Dracofell to parents **Blazius** and **Ierris**. 
 - **[Darmuth](/characters/darmuth)**'s body begins to form in response to the heightened levels of magic on Mardun.
 - **Rise of the [Pythagorean Empire](/organizations/The-Pythagorean-Empire):**  
 	- Arcanographers, Astronomers, and Line-walkers pool their knowledge together to discover the existence and paths of the three leylines that exist on Mardun: The leylines of **Vitality**, **Flux**, and **Insight**.
   - The multi-century leyline project, where the three leylines are aligned together, completed and **Pythas Prime** founded at the point of their union.
   - The Arcanomancers of Pythas Price harness **[Runic Magic](/magic/runes)**, the first form of magic that can be harnassed without natural or divine forces. The field that would be known as Wizardry is begun.
   - Asmal, an accomplished Arcanomancer (proto-wizard), is imprisoned in Pythas Prime for his dangerous and heretical ideas concerning the "antipode" powers of Vitality, Flux, and Insight. He is given the title of "*Asmal the Mad*".
-  - Dragons from Dracofell, where the antipode of Pythas Prime is located, grow concerned that the new power harnessed by mortals could threaten their strength, and coordinates a massive assault on Pythas Prime. Despite their magic, the Arcanomancers' magic is too primitive to fight off Dragons.
+  - Dragons from Dracofell, where the antipode of Pythas Prime is located, grow concerned that the new power harnessed by mortals could threaten their strength, and coordinates a massive assault on Pythas Prime. Despite their strength, the Arcanomancers' magic is too primitive to fight off Dragons.
 #### **~2100 BC:** The **Desolation of Asmal**
 - Asmal, the Mad of Pythas Prime, is freed from Pythas Prime after 80 years of captivity during the Dragon assault by a cult of followers who gained interest in his heretical ideas. They decide to make the very long and perilous journey to Dracofell to get revenge on the Dragons.
 - Asmal reaches Dracofell undetected, and his thesis is correct that an enormous amount of "negative energy" has built up at the antipode of Pythas Prime. 
@@ -73,18 +74,18 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Without the leylines in place, Pythas Prime falls into ruin and the Pythagorean people flee, spreading the knowledge of magic around Mardun. Being supported on an artificial island by the leyline of Vitality, Pythas Prime sinks into the water, to what is now know as the [Triangle Sea](/locations/triangle_sea).
 
 ## The Age of Mortals (~2100 BC - ~1 AC)
+- During this period, magic as a discipline develops very rapidly. The primitive runic leylines eventually are replaced by the weave and the major magical schools are formalized. Great sages during this period invent the common and well known spells whose knowledge of are spread throughout Mardun.
 - Various survivng factions of the Pythagorean Empire found new settlements.
 	- A guild of astronomers travel north to the Celestial Vale and begin a new tradition of studying stars for scrying and fortelling abilities.
   - A guild of warriors travel east to what is now called Helmaer and begin a tradition of magic for combattive purposes.
   - A guild of vitalists travel west to Druidia and the Wild Jungles of the emerald coast to continue their traditions of healing magic, and beast husbandry. Eventually they rediscover giant beasts from the Age of Giants.
 	- The few remaining dragons scatter around the earth, forever living in fear of the Desolation of Asmal.
-- **~1000 BC:**  
+### Rise and Fall of Tiyamanni **1000 BC - 500 BC:**  
   - **[Os Vrintia](/characters/os-vrintia)** travels back in time and founds the **[Empire of Tiyamanni](/organizations/empire-of-tiyamanni)**.
 - **Darmuth’s Reign (650 BC):**  
   - A fully formed [Darmuth](/characters/Darmuth) seals Inferno in **[The Lovers’ Promise Mountain](/locations/lovers-promise-mountain)**.  
   - [Darmuth](/characters/Darmuth) Marries [Os Vrintia](/characters/os)’s son, Evhal, and ascends as Empress of Tiyamanni.
   - Gnomes are driven out from Tiyamanni; they and residents of the Celestial Vale go and found **[Fywick](/locations/fywick)**.
-
 - **Collapse of Tiyamanni**: Led by Darmuth's cruelty and mismanagement, combined with natural forces, the capital of Tiyamanni is rendered to ruin.
 ### The Necrotic Wars 
 
@@ -99,7 +100,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
   - [Entertaining Bandits](/Events/entertaining-bandits)
   - [Arrival in Trelston](/Events/arrival-in-trelston)
-  - 
   - [Chaos in Kaltrosar](/Events/chaos-in-kaltrosar)
   - [Attacked by Pirates](/Events/attacked-by-pirates)
   - [Chasing Thieves in Allford](/Events/chasing-thieves-in-allford)
@@ -111,8 +111,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - [Return to Allford](/Events/return-to-allford)
   
   - [Illiard](/characters/illiard) is killed by Frederina for seemingly no reason.
-  - The party is sent into the Alford castle vault to kill a dreaming beholder. [Krorg](/characters/krorg) unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank.
-  - [Drakham](/characters/drakham) unleashes bone spiders, causing chaos in Alford.
+  - The party is sent into the Alford castle vault to kill a dreaming beholder. [Krorg](/characters/krorg) unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank before [Drakham](/characters/drakham) unleashes bone spiders, causing chaos in Alford.
   - The party retreats to [Saragossa](/locations/Mardun/saragossa), where Krorg organizes a pirate raid to plunder Alford.
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs
   	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa).
@@ -126,6 +125,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
 - Despite his bounty, Os becomes the secret ruler and law enforcer of [Gothriathon](/locations/Mardun/Gothriathon). He disconnects Gothriathon from the [Dragon Sea](/locations/Mardun/dragon_sea) trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
 - [Meade](/characters/meade) joins up with [Os](/characters/os) to promote justice in [Gothriathon](/locations/Mardun/Gothriathon).
+- On a fateful journey for the Robin Trading Co, Os' brother Eugene Vrintia is eaten by a dragon turtle. 
 
 ### The End of the Age of Mortals (0 AC)
 - Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
@@ -149,22 +149,17 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus. Otto has his hands glued to the floor of Narascus' room during the interrogation.
 - 
-- Mort joins the party
+- [Mort](/characters/mort), disguised as an eccentric old man, is found in the arctic. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
 - 
 - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
 - 
 - The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again).
 - 
-- The party visits the Library dimension for the first time.
+- The party visits the Library dimension for the first time. 
 - 
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
-- 
-- 
-- 
 - The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. They find Ralindu the lich sealed inside the Ruby.
-- 
-- 
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - 
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
@@ -234,7 +229,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 
 - 
 - [The Ithilid War](/Events/ithilid-war)
-- Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun.
+- Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun. The Age of Mortals ends and the Age of Ascended begins.
 - Spoops spends the next 1000 years fulfilling his promises to Mortis Lux and the Council of Gods.
 ---
 
@@ -261,7 +256,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 - Bazzdos sees the party fractures taking hold and accelerates his plan to collect more [Gond](/characters/Gond) souls by abducting more gnomes named Gond. This leads to direct conflict with Gilthur who must protect the Geskoworm Gnomes. 
-- Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire. 
+- Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of Garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire. 
 ### 15-16 AC The Hastow-Wegate War
 - In an effort to seize power and crush any religious opposition, Narascus uses hundreds of spelljammers to launch a surprise attack on Wegate, and marched his armies over land on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
 #### Battle of Wegate
@@ -337,10 +332,13 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - After the rebellion is put down, Os becomes more reclusive.
 ---
 - ??? Os disappears from Vrintia.
+- ??? Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
 ## The New Campaign
-
-### 1000 AC / 800 VY – Present
 - ??? Tiberian's family is killed
 - ??? Tomas' mother is forced to jump of Queen Daera Bridge by Walter Beste Wotera Vrintia
-- **1000 AC / 800 VY:** **[Goopy](/characters/goopy)** arrives from space.  
+### 1000 AC / 800 VY – Present
+- **[Goopy](/characters/goopy)** arrives from space.
+- The party is inducted into the [Royal Vrintian Academy](/organizations/rvasss)
+- An urgent deadline sees the party leave to go free Oran's brother Verrick from the evil **Vaymir** in the Church of Crows. However the party is defeated and put in a slave pit, and **Goopy** and **Verrick** are killed.
+### Future Events
 - **10XX AC / 8XX VY:** The **[Slaughter Bridge Battle](/events/slaughter-bridge-battle)** occurs, leading to the destruction of the Brass Brigade.
