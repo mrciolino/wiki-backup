@@ -2,14 +2,14 @@
 title: Wegate Revolution
 description: The cult of Spoops attempts to take control of Wegate
 published: true
-date: 2025-05-07T18:16:23.812Z
+date: 2025-05-25T20:07:32.811Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T18:16:23.812Z
 ---
 
 # Wegate Revolution
-During the three year timeskip after the death of Krorg, Spoops and his loyal follower Vesrahaan traveled from Altricia to Wegate to re-establish the nation as a theocracy led by the Cult of Ry-ann. 
+During the three year timeskip after the [Great Pirate Raid](/Events/Pirate-Raid), Spoops and his loyal follower Vesrahaan traveled from Altricia to Wegate to re-establish the nation as a theocracy led by the Cult of Ry-ann. 
 
 ## The cult of Ry-ann
 Spoops and Vesrahaan arrived in Wegate and made contact with Vesrahaan's trusted companion Nemotih who had been overseeing the Cult of Ry-ann's activities while Vesrahaan was away. His divine nature still forgotten to him, Spoops was lnown as the Prophet of Ry-ann. The three of them began to preach throughout the city, gathering followers while narrowly avoiding capture by the guards who was still loyal to the current government. 
