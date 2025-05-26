@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-25T20:25:26.912Z
+date: 2025-05-26T23:12:56.119Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -238,7 +238,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
 - Spoops begins by meeting up with Kelemvor to confront Cyric together. After some time they are sble to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
 - Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
-- Spoops moves onto his final task, combining all lost fragments of Gond's soul. He scours the universe, finding every last fragment of Gond and putting it within Bazzdos. 
+- Spoops moves onto his final task, combining all lost fragments of Gond's soul. He scours the universe, finding every last fragment of Gond for which he first scattered to be put within Bazzdos.
 - After the war ends and the party departs on various quests, Mortis Lux goes into standby mode. The main Generals, and lieutenants return to Mardun, with the exception of the Saragossa Pirates who stay in space after taking possession of their promised Spelljammer ships. 
 - Illiard is made regent of Mortis Lux HQ during the party's absence, and is granted immortality by Spoops. He oversees basic operations and keeps HQ secure with the help of a legion of undead granted to him by Spoops, and a small group of living members. He keeps Mortis Lux's resources and finances active in case the old treaties and armies need to be called upon again. Jergal also hangs out with him sometimes.
 - **[Ereriad](/locations/ereriad)'s Fall**: [Bane](/characters/bane) killed Ereriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
@@ -248,23 +248,42 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - Luther becomes regent of Altricia.
   - Os and Breeze-e return to Gothriathon.
   - Kierkegaard returns to rule Bahryst with his wife.
-  - Bazzdos and Gilthur return to North Geskoworm.
+  - Bazzdos returns to the Forge Dimension and begins creation of the first automaton prototypes—an iteration of the AI bots used for fabrication work in the Forge.
+  - Gilthur return to North Geskoworm.
   - Meade returns to Fywick.
   - Adalynn remains in her flying fortress for a time until her betrayal.
 - Gilthur abdicates his titles as Pirate King of Saragossa and King of Altricia.
 - The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from Mystra whos been subdued by Mask, causing Breezy-e to kill her. 
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
-- Bazzdos sees the party fractures taking hold and accelerates his plan to collect more [Gond](/characters/Gond) souls by abducting more gnomes named Gond. This leads to direct conflict with Gilthur who must protect the Geskoworm Gnomes. 
-- Bazzdos' warforged army attacks and easily takes North Geskoworm. Gilthur and Bazzdos duel, both deal significant damage to eachother. Bazzdos attempts a temporary retreat into the Forge Dimenstion, but his ring breaks after closing off the portal, trapping him inside. The remaining warforged lose their coordination and are finished off by the gnomes. Gilthur succumbs to his wounds and the blessing of Garl Glittergold is passed to Krorgfrey. The speaking stone networks decay into dysfunction as the forge dimension gets sucked further into the Plane of Fire. 
+
+### Date: ~10 AC
+- Bazzdos sees party fractures taking hold and begins planning to assume control of the gnomish people by emulating the god Gond. He begins creating infrastructure for a massive mining and forge operation in North Geskoworm. He recruits gnomes from all over Mardun to support this operation and establish mining for iron, mithril, and other metals.
+
+### Date: ~14 AC
+
+- With the incredibly fast industrialization of North Geskoworm, it becomes a wealthy trade city and the leading exporter of mithril and mithril goods. The gnomes begin to see Bazzdos as a god of the forge akin to Gond, but just as they begin to worship him, Bazzdos starts seeing them as a means to an end. He begins using gnomes named Gond to collect Gond souls and incorporate them into his own soul core. This leaves many gnomes in a state of having to relearn their world, as a small part of their soul is missing.
+
+### Date: ~15 AC
+
+- Gilthur learns of Bazzdos taking a small part of Gond from the gnomes and confronts him to protect the Gnomish Gonds.
+- Bazzdos’s first automatons, originally used to run the mining operations, easily take control of North Geskoworm in an occupation that lasts two months. In a final battle of the rebellion, Gilthur and Bazzdos duel, both dealing significant damage to each other. Seeing the people he wished to lead rise against him, Bazzdos retreats into the Forge Dimension.
+- The remaining automatons lose coordination due to delays in the speaking stone networks, making them vulnerable to coordinated attacks and are destroyed by the gnomes.
+- Gilthur, Hero of North Geskoworm, succumbs to his wounds, and the blessing of Garl Glittergold passes to Krorgfrey.
+- As the party crumbles, Bazzdos begins shutting down the speaking stone network, as it is too exposed to the Naracenes.
+- Bazzdos starts developing a new, more secure speaking stone network, unconnected to the old system, allowing better control over the automatons and AI robots.
+- Bazzdos decides to leave Mardun for a time and travels to the Plane of Fire, where he begins new projects and future plans.
+
 ### 15-16 AC The Hastow-Wegate War
 - In an effort to seize power and crush any religious opposition, Narascus uses hundreds of spelljammers to launch a surprise attack on Wegate, and marched his armies over land on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
+
 #### Battle of Wegate
 - Narascus bombards Wegate, dropping undead on and outside the less defended city. Undead vs Undead and necrotic magical combat ensue. 
 - However, this attack was forseen by the oracle of Fywick who shared this intel with allies of Mortis Lux, who all were prepared to defend Wegate. 2/3 of Hastow spelljammers are destroyed.
 - Breezy-e teleports to Narascus' command ship, demanding an explanation for this attack. Narascus almost manages to convince breezy-e that this is the will of Spoops, but to seal the deal that there is nothing suspicious, Breezy-e offers to share a bowl of spaghetti which Narascus hates. This sours his ruse with Breezy-e, leading to a duel where Narascus is defeated. Breezy-e thinks he killed Narascus and commands the fleet to leave. 
 - Hastow spelljammer forces are forced to retreat back to Hastow. Breezy-e returns to Os at Gothriathon. 
 - The Hastow land force arrive in Wegate and find out Narascus has already been defeated. Most of the living necromancers are persuaded diplomatically to side with Wegate. The turncoats inform Wegate that [Altricia](/locations/Mardun/Allford) is captured and Luther was taken prisoner back in Hastow. The new Wegate army is sent to march back to [Altricia](/locations/Mardun/Allford)
+
 #### Preparation for the Counterattack
 - Narascus returns via spelljammer and finds Luther and other Altrician nobility imprisoned. Most of his forces are destroyed or turned to Wegate, and he himself is gravely injured. Narascus' body is rejuvinated via a demonic blood ritual where Luther and the other nobles are sacrificed. Narascus arises, empowered anew, and reinvigorated as the Red Archon.
 - Wegate begins rebuilding some spelljammers without Bazzdos' assistance. New spelljammers used as aerial support. 
@@ -272,6 +291,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - In Bayrhys, learning of the death of Luther in a blood sacrifice, Kierkegaard swears eternal vengance and has sent out forces of elite paladins. 
 - In North Geskoworm, the new young ruler Krorgfrey abstains from participating in the counterattack in favor of focusing on forming the city of New Geskoworm. 
 - In Fywick, the oracle provides her final remaining intel to Wegate, the intel being that Narascus is still alive and reborn as the Red Archon, a being of unspeakable power and cruelty. After seeing this horrifying visage, the oracle dies. Fywick does not send any additional support.
+
 #### The Counterattack on Hastow
 - Breezy-e arrives first, teleporting directly to Hastow to go and rekill Narascus. The new Narascus (aka The Red Archon) is able to not just fight off Breezy-e but gets to back down by threatening to use a wish to cause the Illithid Empire to return. Not understanding how wish works, Breezy-e backs down from fighting and killing him, and makes a peace deal. Hostilities with Gothriathon and Hastow cease. 
 
@@ -293,11 +313,26 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - 180 AC **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
 - 200 AC Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared. 
 - 201 AC / 1 VY Gothriathon is incorporated into the Kingdom of Vrintia. Dwarvish and Elvish relations at an all time high.
+
+#### The Construction (215 AC / 15 VY)
+- Bazzdos finds the City of Brass in the Plane of Fire and, with his army of automatons, begins occupying the city. Taking over the crucial lava rivers and foundries, he begins constructing a vessel for a Large Construct.
+- With advanced automatons carrying out Bazzdos’s will and Spoops continuing to provide Gond souls into the soul core, Bazzdos subsides his body inside this new vessel, becoming a Gargantuan Construct of Brass. While capable of leaving the construct, Bazzdos prefers to remain within it, as it provides a more powerful and durable body than his previous one.
+- Bazzdos initiates a 100-year plan to create a new empire of construction and infrastructure in the Plane of Fire, using the City of Brass as his base of operations. He begins creating a new army of automatons and constructs, using the city's resources to fuel his ambitions.
+
+### Development of Vrintica
+
 - ??? Bank of Os founded in Vrintia. 
 - ??? Inferno subsides at the volcano on the Osian Vale at the age of 2150+AC, becoming the first Greatwyrm due to his old age.
 - ??? Royal Vrintian Academy of Swords, Songs, and Sorcery founded on the Osian Vale.
 - 250 AC / 50 VY Refugees arrive from [Ereriad](/locations/Ereriad) fleeing from [Bane](/characters/bane). They settle around Vrintia and are welcomed in by Os.
-- 333 AC / 133 VY [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.  
+
+
+- 333 AC / 133 VY [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass. 
+
+### The Great Escape (333 AC / 133 VY)
+- Upon hearing of a new power source that could fuel his foundries, [Bazzdos](/characters/bazzdos) drops the **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)** on Mardun. Inadvertently, Bazzdos the Brass becomes trapped inside his creation under thousands of tons of burning brass, along with the majority of his automatons. He loses communication with the outside, and the remaining automatons in the Realm of Fire are left to wander.
+- This renders a major ocean pathway near the Sea of Ice into a nearly unnavigable sea of icebergs and steam.
+
 #### 343-360 AC / 143-160 VY Kaltrosar Incursion
 - **[Kaltrosar Bay](/locations/kaltrosar-bay)**: Becomes an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. 
 - Dragonborn exiles flee south towards Vrintia, and Tiamar's Bazzar.
@@ -306,6 +341,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Seeking to expand westward, Os offers to protect Arnsworth in return for their fealty. King Reuben of Arnsworth begrugingly agrees. 
 - Vrintia steps in, providing much needed magical defense and assault capabilities that Arn lacks. Os, Breezy-E, and Inferno are able to easily fend off Kaltrosar, ending their incursions southward.
 - Os Vrintia establishes evlish control of Arsworth by anointing his son ??? ??? Daera Vrintia to the throne as Duke. 
+
 ### 365 AC / 165 VY The Voyage of Breezy-E
 - Despite his heroic deeds which saved the world, being a powerful force of protection, easily fighting against the strongest foes, and their long standing friendship, **Breezy-E** is mournfully banished from the lands of Vrintia by Os for being undead. The Royals and Nobility fear and revile his necrotic nature, and his newest contract with Asmodeus makes him far less useful as a protector or weapon. 
 - Breezy-E leaves for the west seeking the best place to grow spaghetti on Mardun. He goes over the Saber river, and through Arn, and his departure from the lands of Vrintia is marked with the Lost Wind Gate. 
