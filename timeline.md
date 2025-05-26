@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-26T23:12:56.119Z
+date: 2025-05-26T23:26:34.738Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -10,53 +10,54 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 # History
 
-## The Early Universe
+# The Early Universe
 
-### Creation of Worlds & Primordial Chaos
+## Creation of Worlds & Primordial Chaos
 - [Spoops](/characters/spoops) awakens alone in **[The Well of Souls](/locations/The-Well-Of-Souls)**. The creation of Souls begins, and AO jams his door shut.
 - The universe begins with chaotic primordial energy, birthing the **[Old Gods](/entities/old-gods)**.
 - The Old Gods impose order, shaping planets, planes, and celestial structures.
 
-### Rise of the New Gods
+## Rise of the New Gods
 - A second generation of gods, more powerful and attuned to order, overthrows the Old Gods.
 - Some Old Gods are contained or dispersed; others flee to the **[Far Realms](/locations/far-realms)**.
 
-### Divine Rule & the Birth of Titans
+## Divine Rule & the Birth of Titans
 - The New Gods take dominion and prevent another power shift.
 - They create **[Titans](/entities/titans)**—lesser godlike beings—to maintain order.
 - Spoops opens the floodgates of [The Well](/locations/The-Well-Of-Souls), allowing souls to flow into creation.
 - Mortal races emerge, alongside the primordial forces of **Good** and **Evil**.
 
-### The War in Heaven
+## The War in Heaven
 - The Titans rebel against the New Gods, foreseeing their obsolescence.
 - The Titans are defeated; **Kronos**, the most powerful Titan, is sealed in the **[Chains of Karseri](/artifacts/chains-of-karseri)**.
 - These chains anchor his prison to the celestial order, including [Mardun](/locations/Mardun).
 
-### The Continuation of Creation
+## The Continuation of Creation
 - Gods, Titans, and angels collaborate to populate worlds like **[Mardun](/locations/mardun)**.
 - **Magic** emerges as a natural phenomenon, not a divine creation.
 - New gods enter the divine system, such as [Zeus](/characters/zeus) and [Bane](/characters/bane).
 
 ---
 
-## History of Mardun
+# History of Mardun
 
-### Ancient Events
+## Ancient Events
 
 - **Deep Gnome Lore:** *TODO*
 - **Fall of the Illithid Empire:** *TODO*
 - Spoops spends time under the name Myrkul and adventures as one of the dead 3. The Time of Troubles occurs.
 
-## The Age of Giants (??? BC - ??? BC)
+# The Age of Giants (??? BC - ??? BC)
 - The race of Giants become the largest and most powerful creatures on [Mardun](/locations/Mardun), their reign spread over Felldora and Felldun.
 - Ancient structures are erected and dinosaurs are bred as beasts of burden.
-### The Giants vs Dragon war
+
+## The Giants vs Dragon war
 - Eventually Dragons go to war with the Giants.
 - The great Giant leader **Blavog**, who rode a T-rex into battle, lead the final assault against the Dragons, but could not match up to their air superiority.
 - The Giants lost, and they became scattered across the world only the be hunted to near extinction or pass their genes off to other races (who became larger after the fact).
 - An ancient Cyclopian dungeon in what is now known as the Celestial Vale is shut away, which housed a portal that could lead to potentially anywhere.
 
-## The Age of Dragons (??? BC - ~2100 BC)
+# The Age of Dragons (??? BC - ~2100 BC)
 - With no creatures on earth left to challenge them, Dragons become the hegemonic power of Mardun. **Cosmos, the Champion of the Skies**, declares to all Mardun that the Age of Dragons has begun. All major powers remaining on Mardun, be they Giant, Orc, Goblin, or Elvish, are under dominion of the Dragons. 
 - Dragons migrate to the lands of Dracofell, which becomes a holy land to their kind. Only Dragons, dragonborn, and kobolds may enter it. 
 - **2150 BC:** **[Inferno](/characters/inferno)**, who would go on to become the longest living dragon, is born in Dracofell to parents **Blazius** and **Ierris**. 
@@ -67,27 +68,33 @@ dateCreated: 2025-03-23T00:15:37.336Z
   - The Arcanomancers of Pythas Price harness **[Runic Magic](/magic/runes)**, the first form of magic that can be harnassed without natural or divine forces. The field that would be known as Wizardry is begun.
   - Asmal, an accomplished Arcanomancer (proto-wizard), is imprisoned in Pythas Prime for his dangerous and heretical ideas concerning the "antipode" powers of Vitality, Flux, and Insight. He is given the title of "*Asmal the Mad*".
   - Dragons from Dracofell, where the antipode of Pythas Prime is located, grow concerned that the new power harnessed by mortals could threaten their strength, and coordinates a massive assault on Pythas Prime. Despite their strength, the Arcanomancers' magic is too primitive to fight off Dragons.
-#### **~2100 BC:** The **Desolation of Asmal**
+
+## ~2100 BC: The Desolation of Asmal
 - Asmal, the Mad of Pythas Prime, is freed from Pythas Prime after 80 years of captivity during the Dragon assault by a cult of followers who gained interest in his heretical ideas. They decide to make the very long and perilous journey to Dracofell to get revenge on the Dragons.
 - Asmal reaches Dracofell undetected, and his thesis is correct that an enormous amount of "negative energy" has built up at the antipode of Pythas Prime. 
 - It is unclear the exact method he used, but the result was harnessing a new form of dark magic that lead to the extinction of 99% of dragons on all of [Mardun](/locations/Mardun). All surviving Dragons fled to Wyrmford, as Dracofell became a desolate wasteland hostile to all life. It is unclear what happened to Asmal and his followers, but his actions lead to the creation of dark magic. Such an enormous release of power also shook the leylines from their foundations, setting them free from the restraints setup up by Pythas Prime. Asmal the Mad leaves behind the legacy of the harbringer of dark magic (anti-Vitality, anti-Flux, anti-Insight) to Mardun.
 - Without the leylines in place, Pythas Prime falls into ruin and the Pythagorean people flee, spreading the knowledge of magic around Mardun. Being supported on an artificial island by the leyline of Vitality, Pythas Prime sinks into the water, to what is now know as the [Triangle Sea](/locations/triangle_sea).
 
-## The Age of Mortals (~2100 BC - ~1 AC)
+# The Age of Mortals (~2100 BC - ~1 AC)
 - During this period, magic as a discipline develops very rapidly. The primitive runic leylines eventually are replaced by the weave and the major magical schools are formalized. Great sages during this period invent the common and well known spells whose knowledge of are spread throughout Mardun.
 - Various survivng factions of the Pythagorean Empire found new settlements.
 	- A guild of astronomers travel north to the Celestial Vale and begin a new tradition of studying stars for scrying and fortelling abilities.
   - A guild of warriors travel east to what is now called Helmaer and begin a tradition of magic for combattive purposes.
   - A guild of vitalists travel west to Druidia and the Wild Jungles of the emerald coast to continue their traditions of healing magic, and beast husbandry. Eventually they rediscover giant beasts from the Age of Giants.
 	- The few remaining dragons scatter around the earth, forever living in fear of the Desolation of Asmal.
-### Rise and Fall of Tiyamanni **1000 BC - 500 BC:**  
+
+## Rise and Fall of Tiyamanni (1000 BC - 500 BC)  
   - **[Os Vrintia](/characters/os-vrintia)** travels back in time and founds the **[Empire of Tiyamanni](/organizations/empire-of-tiyamanni)**.
-- **Darmuth’s Reign (650 BC):**  
-  - A fully formed [Darmuth](/characters/Darmuth) seals Inferno in **[The Lovers’ Promise Mountain](/locations/lovers-promise-mountain)**.  
-  - [Darmuth](/characters/Darmuth) Marries [Os Vrintia](/characters/os)’s son, Evhal, and ascends as Empress of Tiyamanni.
+
+### Darmuth's Reign (650 BC)
+  - A fully formed [Darmuth](/characters/Darmuth) seals Inferno in **[The Lovers' Promise Mountain](/locations/lovers-promise-mountain)**.  
+  - [Darmuth](/characters/Darmuth) Marries [Os Vrintia](/characters/os)'s son, Evhal, and ascends as Empress of Tiyamanni.
   - Gnomes are driven out from Tiyamanni; they and residents of the Celestial Vale go and found **[Fywick](/locations/fywick)**.
-- **Collapse of Tiyamanni**: Led by Darmuth's cruelty and mismanagement, combined with natural forces, the capital of Tiyamanni is rendered to ruin.
-### The Necrotic Wars 
+
+### Collapse of Tiyamanni
+Led by Darmuth's cruelty and mismanagement, combined with natural forces, the capital of Tiyamanni is rendered to ruin.
+
+## The Necrotic Wars 
 
 - **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on [Mardun](/locations/Mardun), becomes Grandmaster the [Knights of Sedonia](/organizations/sedonia) and is assassinated and dumped into the sea.
     - [Ralindu](/characters/ralindu) and the other Lich lords wage war on the living world. 
@@ -95,7 +102,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
 
-- **3 BC:**  
+### 3 BC Campaign Events
   - The **Low Bar Brawlers** form at **[Fort Suro](/locations/Mardun/Fort-Suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
   - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
   - [Entertaining Bandits](/Events/entertaining-bandits)
@@ -125,9 +132,9 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
 - Despite his bounty, Os becomes the secret ruler and law enforcer of [Gothriathon](/locations/Mardun/Gothriathon). He disconnects Gothriathon from the [Dragon Sea](/locations/Mardun/dragon_sea) trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
 - [Meade](/characters/meade) joins up with [Os](/characters/os) to promote justice in [Gothriathon](/locations/Mardun/Gothriathon).
-- On a fateful journey for the Robin Trading Co, Os' brother Eugene Vrintia is eaten by a dragon turtle. 
+- On a fateful journey for the Robin Trading Co, Os' brother Eugene Vrintia is eaten by a dragon turtle.
 
-### The End of the Age of Mortals (0 AC)
+## The End of the Age of Mortals (0 AC)
 - Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
 - Os Gothriathon Faction: Os is the leader of a group affiliated with the southern provinces of Gothriathon. He has an army of dwarves.
 - Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Frederina is sent back to Krorg with a message of peace.
@@ -146,26 +153,17 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Spoops uses a wish he gained from the deck of many things to wish for "all members of the party to each obtain a legendary magical item which would be the most useful for them". Spoops receives the Anti-Magic Armor.
 - [The Battle of Fywick](/Events/the-battle-of-fywick)
-- 
 - The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus. Otto has his hands glued to the floor of Narascus' room during the interrogation.
-- 
 - [Mort](/characters/mort), disguised as an eccentric old man, is found in the arctic. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
-- 
 - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
-- 
 - The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again).
-- 
 - The party visits the Library dimension for the first time. 
-- 
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
 - The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. They find Ralindu the lich sealed inside the Ruby.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
-- 
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
-- 
 - Aku is slain when the party drops dragon turtles on his castle.
-- 
 - Spoops ends up trapped by Darmuth in what was formerly a dragon's hoard far to the south west of Gothriathon. He uses his knife leg, ring of misty step, and immunity to poison to easily bypass the defenses of the hoard, returning to thr surface. He then uses his knife leg to fly back to gothriathon to meet up with the party.
 - Assault on Darmuth Begins
 - The party arrive above Altricia in their flying ship. 
@@ -174,32 +172,18 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Darmuth is killed after Os drops her into a volcano.
 - The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the portal with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
-- 
 - Investigating the Magic College of Highhold.
-- 
-- 
 - Quest to save the princess of hellaress
-- 
 - Magical College Porthy
-- 
 - [Escape From Sigil](/Events/escape-from-sigil)
-- 
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
-- 
 - A traveling merchant sells interesting magic items to the party: Spoops buys Jack Sparrow's Compass. 
 - Fiad found and killed in a tower on the centaur tribal planes.
-- 
 - The party seeks out Aphir the Mighty
-- 
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
-- 
 - Hunting down devastation vermin
-- 
-- 
-- 
 - Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
-- 
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
@@ -209,7 +193,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Meeting Obox-Ob
 - [Saving the Sun](/Events/saving-the-sun)
 - Searching for Gond Souls: 
-- 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
@@ -217,24 +200,22 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
 - [Deal with Lolth](/Events/deal-with-lolth)
 - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
-- 
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
-- 
 - Investigating Godsbane: The party Tries various methods to destroy Godsbane.
 - Adalynn Captured by Daurgothoth
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - [Weakening of Cyric](/Events/weakening-of-cyric)
 - Treaty With the Council of Gods
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
-- 
-- 
 - [The Ithilid War](/Events/ithilid-war)
 - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun. The Age of Mortals ends and the Age of Ascended begins.
 - Spoops spends the next 1000 years fulfilling his promises to Mortis Lux and the Council of Gods.
+
 ---
 
-## The Age of Ascended (1 AC – ?)
-### Sundering of Mortis Lux
+# The Age of Ascended (1 AC – ?)
+
+## Sundering of Mortis Lux
 - Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
 - Spoops begins by meeting up with Kelemvor to confront Cyric together. After some time they are sble to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
 - Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
@@ -257,34 +238,34 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 
-### Date: ~10 AC
+## ~10 AC
 - Bazzdos sees party fractures taking hold and begins planning to assume control of the gnomish people by emulating the god Gond. He begins creating infrastructure for a massive mining and forge operation in North Geskoworm. He recruits gnomes from all over Mardun to support this operation and establish mining for iron, mithril, and other metals.
 
-### Date: ~14 AC
+## ~14 AC
 
 - With the incredibly fast industrialization of North Geskoworm, it becomes a wealthy trade city and the leading exporter of mithril and mithril goods. The gnomes begin to see Bazzdos as a god of the forge akin to Gond, but just as they begin to worship him, Bazzdos starts seeing them as a means to an end. He begins using gnomes named Gond to collect Gond souls and incorporate them into his own soul core. This leaves many gnomes in a state of having to relearn their world, as a small part of their soul is missing.
 
-### Date: ~15 AC
+## ~15 AC
 
 - Gilthur learns of Bazzdos taking a small part of Gond from the gnomes and confronts him to protect the Gnomish Gonds.
-- Bazzdos’s first automatons, originally used to run the mining operations, easily take control of North Geskoworm in an occupation that lasts two months. In a final battle of the rebellion, Gilthur and Bazzdos duel, both dealing significant damage to each other. Seeing the people he wished to lead rise against him, Bazzdos retreats into the Forge Dimension.
+- Bazzdos's first automatons, originally used to run the mining operations, easily take control of North Geskoworm in an occupation that lasts two months. In a final battle of the rebellion, Gilthur and Bazzdos duel, both dealing significant damage to each other. Seeing the people he wished to lead rise against him, Bazzdos retreats into the Forge Dimension.
 - The remaining automatons lose coordination due to delays in the speaking stone networks, making them vulnerable to coordinated attacks and are destroyed by the gnomes.
 - Gilthur, Hero of North Geskoworm, succumbs to his wounds, and the blessing of Garl Glittergold passes to Krorgfrey.
 - As the party crumbles, Bazzdos begins shutting down the speaking stone network, as it is too exposed to the Naracenes.
 - Bazzdos starts developing a new, more secure speaking stone network, unconnected to the old system, allowing better control over the automatons and AI robots.
 - Bazzdos decides to leave Mardun for a time and travels to the Plane of Fire, where he begins new projects and future plans.
 
-### 15-16 AC The Hastow-Wegate War
+## The Hastow-Wegate War (15-16 AC)
 - In an effort to seize power and crush any religious opposition, Narascus uses hundreds of spelljammers to launch a surprise attack on Wegate, and marched his armies over land on Altricia. Altricia falls easily, Luther is captured, and the remaining troops march on Wegate.
 
-#### Battle of Wegate
+### Battle of Wegate
 - Narascus bombards Wegate, dropping undead on and outside the less defended city. Undead vs Undead and necrotic magical combat ensue. 
 - However, this attack was forseen by the oracle of Fywick who shared this intel with allies of Mortis Lux, who all were prepared to defend Wegate. 2/3 of Hastow spelljammers are destroyed.
 - Breezy-e teleports to Narascus' command ship, demanding an explanation for this attack. Narascus almost manages to convince breezy-e that this is the will of Spoops, but to seal the deal that there is nothing suspicious, Breezy-e offers to share a bowl of spaghetti which Narascus hates. This sours his ruse with Breezy-e, leading to a duel where Narascus is defeated. Breezy-e thinks he killed Narascus and commands the fleet to leave. 
 - Hastow spelljammer forces are forced to retreat back to Hastow. Breezy-e returns to Os at Gothriathon. 
 - The Hastow land force arrive in Wegate and find out Narascus has already been defeated. Most of the living necromancers are persuaded diplomatically to side with Wegate. The turncoats inform Wegate that [Altricia](/locations/Mardun/Allford) is captured and Luther was taken prisoner back in Hastow. The new Wegate army is sent to march back to [Altricia](/locations/Mardun/Allford)
 
-#### Preparation for the Counterattack
+### Preparation for the Counterattack
 - Narascus returns via spelljammer and finds Luther and other Altrician nobility imprisoned. Most of his forces are destroyed or turned to Wegate, and he himself is gravely injured. Narascus' body is rejuvinated via a demonic blood ritual where Luther and the other nobles are sacrificed. Narascus arises, empowered anew, and reinvigorated as the Red Archon.
 - Wegate begins rebuilding some spelljammers without Bazzdos' assistance. New spelljammers used as aerial support. 
 - Os in Gothriathon, having grown distant from Mortis Lux, takes a removed approach from the counterattack. Not willing to die over the remains of Mortis Lux, he only sends Breezy-E. 
