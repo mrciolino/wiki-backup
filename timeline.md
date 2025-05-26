@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-26T23:29:24.780Z
+date: 2025-05-26T23:44:09.001Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -271,11 +271,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - In North Geskoworm, the new young ruler Krorgfrey abstains from participating in the counterattack in favor of focusing on forming the city of New Geskoworm. 
 - In Fywick, the oracle provides her final remaining intel to Wegate, the intel being that Narascus is still alive and reborn as the Red Archon, a being of unspeakable power and cruelty. After seeing this horrifying visage, the oracle dies. Fywick does not send any additional support.
 
-#### The Counterattack on Hastow
+## The Counterattack on Hastow
+
 - Breezy-e arrives first, teleporting directly to Hastow to go and rekill Narascus. The new Narascus (aka The Red Archon) is able to not just fight off Breezy-e but gets to back down by threatening to use a wish to cause the Illithid Empire to return. Not understanding how wish works, Breezy-e backs down from fighting and killing him, and makes a peace deal. Hostilities with Gothriathon and Hastow cease. 
 
-- **Bayrhys's northern invasion**. They travel by small boat through the sea of ghosts. They pick up some undead to assist them. Fighting on the northern shores of the continent against Hastow, which forces them to divert resources away from fighting Wegate. It is more a distraction rather than an effective incursion due to the size of Bayrhys's forces.
+## Bayrhys's Northern Invasion
+- They travel by small boat through the sea of ghosts. They pick up some undead to assist them. Fighting on the northern shores of the continent against Hastow, which forces them to divert resources away from fighting Wegate. It is more a distraction rather than an effective incursion due to the size of Bayrhys's forces.
 
+## The Eternal Battlefield
 - Wegate and Hastow land forces engage in battle to the south of wardson tower. Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new advances in the battle lines are created as both sides just send endless waves of undead at one another, and resurrect them back up to fight again.
 
 - Wegate learns that Gothriathon made their own peace and doesn't take the news well. Vesrahan sees this as a betrayal, citing written docs and alliances, however they were never signed by Os. Os sees no obligation to contribute support, but Breezy-e being a signer, must stand before Asmodeus for breach of contract. Breezye is in the wrong if he fights the Red Archon or if he doesn't. A new deal with Asmodeus is brokered where Breezy-e may never kill on Mardun again. Though he has the means, Breezy-e never leaves to other planets since quality spaghetti can only be grown on Mardun. 
@@ -286,42 +289,46 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - From the backing out of Os from the alliance with Wegate, a new revulsion of necromancy in all its forms occurs in Gothriathon. 
 
-### The Rise of Vrintia
-- 51 AC The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent of Felldora begins. 
-- 72 AC [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers. Though some say his spirit still lingers among bars where adventures begin...
-- 180 AC **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
-- 200 AC Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared. 
-- 201 AC / 1 VY Gothriathon is incorporated into the Kingdom of Vrintia. Dwarvish and Elvish relations at an all time high.
+# The Rise of Vrintia
 
-#### The Construction (215 AC / 15 VY)
+- **51 AC** The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent of Felldora begins. 
+- **72 AC** [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers. Though some say his spirit still lingers among bars where adventures begin...
+- **180 AC** **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
+- **200 AC** Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared. 
+- **201 AC / 1 VY** Gothriathon is incorporated into the Kingdom of Vrintia. Dwarvish and Elvish relations at an all time high.
+
+## The Construction (215 AC / 15 VY)
+
 - Bazzdos finds the City of Brass in the Plane of Fire and, with his army of automatons, begins occupying the city. Taking over the crucial lava rivers and foundries, he begins constructing a vessel for a Large Construct.
-- With advanced automatons carrying out Bazzdos’s will and Spoops continuing to provide Gond souls into the soul core, Bazzdos subsides his body inside this new vessel, becoming a Gargantuan Construct of Brass. While capable of leaving the construct, Bazzdos prefers to remain within it, as it provides a more powerful and durable body than his previous one.
+- With advanced automatons carrying out Bazzdos's will and Spoops continuing to provide Gond souls into the soul core, Bazzdos subsides his body inside this new vessel, becoming a Gargantuan Construct of Brass. While capable of leaving the construct, Bazzdos prefers to remain within it, as it provides a more powerful and durable body than his previous one.
 - Bazzdos initiates a 100-year plan to create a new empire of construction and infrastructure in the Plane of Fire, using the City of Brass as his base of operations. He begins creating a new army of automatons and constructs, using the city's resources to fuel his ambitions.
 
-### Development of Vrintica
+## Early Development of Vrintia
 
-- ??? Bank of Os founded in Vrintia. 
-- ??? Inferno subsides at the volcano on the Osian Vale at the age of 2150+AC, becoming the first Greatwyrm due to his old age.
-- ??? Royal Vrintian Academy of Swords, Songs, and Sorcery founded on the Osian Vale.
-- 250 AC / 50 VY Refugees arrive from [Ereriad](/locations/Ereriad) fleeing from [Bane](/characters/bane). They settle around Vrintia and are welcomed in by Os.
+- **??? AC** Bank of Os founded in Vrintia. 
+- **??? AC** Inferno subsides at the volcano on the Osian Vale at the age of 2150+AC, becoming the first Greatwyrm due to his old age.
+- **??? AC** Royal Vrintian Academy of Swords, Songs, and Sorcery founded on the Osian Vale.
+- **250 AC / 50 VY** Refugees arrive from [Ereriad](/locations/Ereriad) fleeing from [Bane](/characters/bane). They settle around Vrintia and are welcomed in by Os.
 
+## The Great Escape (333 AC / 133 VY)
 
-- 333 AC / 133 VY [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass. 
+- **333 AC / 133 VY** [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.
 
-### The Great Escape (333 AC / 133 VY)
 - Upon hearing of a new power source that could fuel his foundries, [Bazzdos](/characters/bazzdos) drops the **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)** on Mardun. Inadvertently, Bazzdos the Brass becomes trapped inside his creation under thousands of tons of burning brass, along with the majority of his automatons. He loses communication with the outside, and the remaining automatons in the Realm of Fire are left to wander.
 - This renders a major ocean pathway near the Sea of Ice into a nearly unnavigable sea of icebergs and steam.
 
-#### 343-360 AC / 143-160 VY Kaltrosar Incursion
+## Kaltrosar Incursion (343-360 AC / 143-160 VY)
+
 - **[Kaltrosar Bay](/locations/kaltrosar-bay)**: Becomes an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. 
 - Dragonborn exiles flee south towards Vrintia, and Tiamar's Bazzar.
 - Agressions from Kaltrosar begin to impede upon the human kingdom of Arnsworth. Border skirmishes become common as the slave state requires more bodies.
 - Arn continues to militarize, but cannot overcome the demonic influence of Kaltrosar, and soon full scale war breaks out. 
 - Seeking to expand westward, Os offers to protect Arnsworth in return for their fealty. King Reuben of Arnsworth begrugingly agrees. 
 - Vrintia steps in, providing much needed magical defense and assault capabilities that Arn lacks. Os, Breezy-E, and Inferno are able to easily fend off Kaltrosar, ending their incursions southward.
-- Os Vrintia establishes evlish control of Arsworth by anointing his son ??? ??? Daera Vrintia to the throne as Duke. 
+- Os Vrintia establishes evlish control of Arsworth by anointing his son ??? ??? Daera Vrintia to the throne as Duke.
 
-### 365 AC / 165 VY The Voyage of Breezy-E
+# The Voyage of Breezy-E (365 AC / 165 VY)
+
 - Despite his heroic deeds which saved the world, being a powerful force of protection, easily fighting against the strongest foes, and their long standing friendship, **Breezy-E** is mournfully banished from the lands of Vrintia by Os for being undead. The Royals and Nobility fear and revile his necrotic nature, and his newest contract with Asmodeus makes him far less useful as a protector or weapon. 
 - Breezy-E leaves for the west seeking the best place to grow spaghetti on Mardun. He goes over the Saber river, and through Arn, and his departure from the lands of Vrintia is marked with the Lost Wind Gate. 
 - He spends the next few decades travelling up and down the Wild Coast, planting spaghetti and becoming a folk legend as a wandering samurai.
@@ -333,11 +340,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Breezy-E eventually finds La Bocca della Fuoco and breaks inside, casting away all opponents until he finds Dante Flamma, the powerful head vampire of the tribe. ---he defeats him in some stupid way---
 - He's so angry that he doesn't even care about his contract with Asmodeus anymore and prepares his ultimate spaghetti god attack to wipe out all the Fuoco vampires. But then he notices out of the corner of his eye a soil acidity chart, and average yearly temperature and rainfall graph and realizes that this small corner of Mardun is the optimal place for growing wheat and tomatos. This calms him down, saving the vampires and his own soul from Asmodeus.
 - As the new head of the vampire tribe, Breezy-E renames La Bocca della Fuoco **[La Rocca della Sugo](/locations/la-rocca-della-sugo)** (The Rock of Sauce).
-###
-- **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
-- 550 AC / 350 VY: At age 2700 Inferno's slumber begins. While not dead, Inferno enters a very deep sleep which he has not waken up from.
 
-### 553-555 AC / 353-355 VY Arn's Rebellion
+# The Era of Tensions and Transformation
+
+- **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
+- **550 AC / 350 VY**: At age 2700 Inferno's slumber begins. While not dead, Inferno enters a very deep sleep which he has not waken up from.
+
+## Arn's Rebellion (553-555 AC / 353-355 VY)
+
 - The mainly human inhabitants of Arnsworth are not happy under the mainly elvish and dwarvish rule of Vrintia. Incestuous bloodlines fail to keep the elvish lineage in place, and a human offspring **Othniel** takes the title of Duke. 
 - Emboldened by their defensive capabilities, the loss of Breezy-E, and the Slumber of Inferno, **Duke Othniel of Arnsworth** declares independence from Vrintia, and himself as the new king.
 - Arnsworth takes control of Tiamar's Bazzar, securing the major magical weapons depot. It is uncertain even to this day if the dragonborn clans of Tiamar's Bazzar were complicit in this takeover, preferring rule of Arnsworth over the rule of Vrintia. However it can be clear that a scism between Tiamar dragonborn and Vrintia dragonborn remains to this day.
@@ -345,15 +355,23 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - ---todo wargame this out to find any cool tactics----
 - In the end, Arn's Rebellion is crushed, **Duke Othniel** is executed for treason, and a new elvish **Duke Feno Herfiel Lozzit Vrintia** is put in charge of Arnsworth. Arnsworth would remain under elvish occupation for 445 years until 798 VY when human **Duke Blackshield** would be symbolically given power.
 - After the rebellion is put down, Os becomes more reclusive.
----
-- ??? Os disappears from Vrintia.
-- ??? Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
-## The New Campaign
-- ??? Tiberian's family is killed
-- ??? Tomas' mother is forced to jump of Queen Daera Bridge by Walter Beste Wotera Vrintia
-### 1000 AC / 800 VY – Present
+
+## The Mysterious Disappearance
+
+- **??? AC** Os disappears from Vrintia.
+- **??? AC** Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
+
+# The New Campaign Era
+
+- **??? AC** Tiberian's family is killed
+- **??? AC** Tomas' mother is forced to jump of Queen Daera Bridge by Walter Beste Wotera Vrintia
+
+## The Present Day (1000 AC / 800 VY)
+
 - **[Goopy](/characters/goopy)** arrives from space.
 - The party is inducted into the [Royal Vrintian Academy](/organizations/rvasss)
 - An urgent deadline sees the party leave to go free Oran's brother Verrick from the evil **Vaymir** in the Church of Crows. However the party is defeated and put in a slave pit, and **Goopy** and **Verrick** are killed.
-### Future Events
+
+# Future Events
+
 - **10XX AC / 8XX VY:** The **[Slaughter Bridge Battle](/events/slaughter-bridge-battle)** occurs, leading to the destruction of the Brass Brigade.
