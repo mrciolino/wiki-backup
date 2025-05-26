@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-26T23:44:09.001Z
+date: 2025-05-26T23:53:19.370Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -211,9 +211,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 ---
 
-# The Age of Ascended (1 AC – ?)
+# The Age of Ascended (1 AC – 553 AC)
 
-## Sundering of Mortis Lux
+## Sundering of Mortis Lux (1 AC - 15 AC)
 - Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
 - Spoops begins by meeting up with Kelemvor to confront Cyric together. After some time they are sble to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
 - Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
@@ -236,14 +236,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 
-## ~10 AC
+### ~10 AC
 - Bazzdos sees party fractures taking hold and begins planning to assume control of the gnomish people by emulating the god Gond. He begins creating infrastructure for a massive mining and forge operation in North Geskoworm. He recruits gnomes from all over Mardun to support this operation and establish mining for iron, mithril, and other metals.
 
-## ~14 AC
+### ~14 AC
 
 - With the incredibly fast industrialization of North Geskoworm, it becomes a wealthy trade city and the leading exporter of mithril and mithril goods. The gnomes begin to see Bazzdos as a god of the forge akin to Gond, but just as they begin to worship him, Bazzdos starts seeing them as a means to an end. He begins using gnomes named Gond to collect Gond souls and incorporate them into his own soul core. This leaves many gnomes in a state of having to relearn their world, as a small part of their soul is missing.
 
-## ~15 AC
+### ~15 AC
 
 - Gilthur learns of Bazzdos taking a small part of Gond from the gnomes and confronts him to protect the Gnomish Gonds.
 - Bazzdos's first automatons, originally used to run the mining operations, easily take control of North Geskoworm in an occupation that lasts two months. In a final battle of the rebellion, Gilthur and Bazzdos duel, both dealing significant damage to each other. Seeing the people he wished to lead rise against him, Bazzdos retreats into the Forge Dimension.
@@ -271,14 +271,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - In North Geskoworm, the new young ruler Krorgfrey abstains from participating in the counterattack in favor of focusing on forming the city of New Geskoworm. 
 - In Fywick, the oracle provides her final remaining intel to Wegate, the intel being that Narascus is still alive and reborn as the Red Archon, a being of unspeakable power and cruelty. After seeing this horrifying visage, the oracle dies. Fywick does not send any additional support.
 
-## The Counterattack on Hastow
+### The Counterattack on Hastow
 
 - Breezy-e arrives first, teleporting directly to Hastow to go and rekill Narascus. The new Narascus (aka The Red Archon) is able to not just fight off Breezy-e but gets to back down by threatening to use a wish to cause the Illithid Empire to return. Not understanding how wish works, Breezy-e backs down from fighting and killing him, and makes a peace deal. Hostilities with Gothriathon and Hastow cease. 
 
-## Bayrhys's Northern Invasion
+### Bayrhys's Northern Invasion
 - They travel by small boat through the sea of ghosts. They pick up some undead to assist them. Fighting on the northern shores of the continent against Hastow, which forces them to divert resources away from fighting Wegate. It is more a distraction rather than an effective incursion due to the size of Bayrhys's forces.
 
-## The Eternal Battlefield
+### The Eternal Battlefield
 - Wegate and Hastow land forces engage in battle to the south of wardson tower. Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new advances in the battle lines are created as both sides just send endless waves of undead at one another, and resurrect them back up to fight again.
 
 - Wegate learns that Gothriathon made their own peace and doesn't take the news well. Vesrahan sees this as a betrayal, citing written docs and alliances, however they were never signed by Os. Os sees no obligation to contribute support, but Breezy-e being a signer, must stand before Asmodeus for breach of contract. Breezye is in the wrong if he fights the Red Archon or if he doesn't. A new deal with Asmodeus is brokered where Breezy-e may never kill on Mardun again. Though he has the means, Breezy-e never leaves to other planets since quality spaghetti can only be grown on Mardun. 
@@ -289,7 +289,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - From the backing out of Os from the alliance with Wegate, a new revulsion of necromancy in all its forms occurs in Gothriathon. 
 
-# The Rise of Vrintia
+## The Rise of Vrintia
 
 - **51 AC** The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent of Felldora begins. 
 - **72 AC** [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers. Though some say his spirit still lingers among bars where adventures begin...
@@ -327,7 +327,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Vrintia steps in, providing much needed magical defense and assault capabilities that Arn lacks. Os, Breezy-E, and Inferno are able to easily fend off Kaltrosar, ending their incursions southward.
 - Os Vrintia establishes evlish control of Arsworth by anointing his son ??? ??? Daera Vrintia to the throne as Duke.
 
-# The Voyage of Breezy-E (365 AC / 165 VY)
+## The Voyage of Breezy-E (365 AC / 165 VY)
 
 - Despite his heroic deeds which saved the world, being a powerful force of protection, easily fighting against the strongest foes, and their long standing friendship, **Breezy-E** is mournfully banished from the lands of Vrintia by Os for being undead. The Royals and Nobility fear and revile his necrotic nature, and his newest contract with Asmodeus makes him far less useful as a protector or weapon. 
 - Breezy-E leaves for the west seeking the best place to grow spaghetti on Mardun. He goes over the Saber river, and through Arn, and his departure from the lands of Vrintia is marked with the Lost Wind Gate. 
