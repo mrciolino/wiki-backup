@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-26T23:53:19.370Z
+date: 2025-05-27T16:35:03.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -141,6 +141,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party acquires the Deck of Many Things and begins drawing cards.
   - The party (Frederina) acquires a flying ship from the deck while in Gothriathon. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship.
   - Breezy-E becomes blind, but gains infra-red vision.
+  - Breezy-E receives a magical hourglass which counts down to some important event. In thr future, the party would regularly check the hourglass, eventually finding it close to running out during the Ithilid War.
   - Spoops gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
   - Spoops is magically granted ownership of a castle in Bahryst.
   - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
