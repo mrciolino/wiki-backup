@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-05-20T18:18:24.989Z
+date: 2025-05-27T02:59:54.302Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
@@ -24,3 +24,5 @@ dateCreated: 2025-04-12T13:24:16.371Z
 | **Session 9** | [Session 9 Summary](/sessions/campaign_2/session_9_summary) | The party suffers a crushing defeat at the Church of Crows, leading to imprisonment and a character death. | Goopy dies and his soul is taken; Tiberian, Breezy, and Thomas are captured; Oran escapes to seek help; Verick is introduced in the slave pits; Renault and Vamir tighten their grip on the prisoners. |
 | **Session 10** | [Session 10 Summary](/sessions/campaign_2/session_10_summary) | The enslaved party plots their escape while Baloo arrives with mysterious aid. | Tiberian coordinates a prison break using dragon breath tactics; Thomas forges weapons from prison fixtures; Breezy discovers a hidden escape route; Baloo appears via teleportation with an invisible blunderbuss from Tany Mori; Grimsley displays Runt's severed head; the party kills guards but accidentally murders a freed prisoner. |
 | **Session 11** | [Session 11 Summary](/sessions/campaign_2/session_11_summary) | The party's prison escape takes dark turns with a mercy killing, blood magic awakening, and necromantic horrors. | Breezy mercy-kills the crippled Verick, awakening blood sorcery powers; Kael Stelorian (astral elf fighter) joins the group; Thomas is captured and interrogated by Grimsley; the party discovers Renault's necromantic experiments using Goopy's remains; a chained construct breaks free as the party makes their desperate escape. |
+| **Session 12** | [Session 12 Summary](/sessions/campaign_2/session_12_summary) |  | |
+
