@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T19:29:55.284Z
+date: 2025-05-27T19:33:23.086Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -130,6 +130,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
     - The party reaches the vault in Allford castle.
     - The party was locked in the vault by the death tyrant. 
     - [Rathwing](/characters/Rathwing) is summoned via wish to Alford and killed by [Breezy-E](/characters/breezy)
+    - Xiphalia, Darfellan, Freedom (Lokunai), and Dave Bones all die during the Raid.
     - [Bazzert](/characters/bazzert) kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
     - Without Saragossa, the new pirate capital of **[Altricia](/locations/altricia)** is founded from the ashes of Alford.
   - After celebrating a successful raid, the party splits off for 3 years. [Os Vrintia](/characters/os) is exiled to [Gothriathon](/locations/Mardun/Gothriathon) after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
