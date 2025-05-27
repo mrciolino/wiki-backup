@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T19:41:13.039Z
+date: 2025-05-27T19:42:52.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -121,8 +121,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The party acquires the Deck of Many Things and begins drawing cards.
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
-  - The [Great Pirate Raid](/Events/Pirate-Raid) occurs
-  	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa).
+  - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
+  - Krotg rallies the pirates for the biggest raid ever, and they all set sail for Allford.
+  	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa) after his spies tell him thst it is unguarded.
 - Breezy-E arrives to help the party. He is almost immediately killed by two bone spiders. Spoops raises jom from the dead as a zombie.
   	- [Dave Bones](/characters/Dave-Bones) is killed by the party for the first time, leading to his long lasting vendetta against the party.
     - Krorg pulls the Fates card.
