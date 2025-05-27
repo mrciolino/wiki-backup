@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T19:54:34.077Z
+date: 2025-05-27T20:01:51.308Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -141,6 +141,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
     - Without Saragossa, the new pirate capital of **[Altricia](/locations/altricia)** is founded from the ashes of Alford.
   - After celebrating a successful raid, the party splits off for 3 years. [Os Vrintia](/characters/os) is exiled to [Gothriathon](/locations/Mardun/Gothriathon) after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
   - [Wegate Revolution](/Events/wegate-revolution)
+  - Breezy-E gathers his Samurai clan and 200 pirates from Krorg to attempt to slay Aku. They fail.
   
 - **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
 - Despite his bounty, Os becomes the secret ruler and law enforcer of [Gothriathon](/locations/Mardun/Gothriathon). He disconnects Gothriathon from the [Dragon Sea](/locations/Mardun/dragon_sea) trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
