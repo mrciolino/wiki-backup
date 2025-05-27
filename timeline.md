@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T16:45:35.748Z
+date: 2025-05-27T16:47:39.002Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -119,6 +119,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The party is sent into the Alford castle vault to kill a dreaming beholder. [Krorg](/characters/krorg) unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank before [Drakham](/characters/drakham) unleashes bone spiders, causing chaos in Alford.
   - The party retreats to [Saragossa](/locations/Mardun/saragossa), where Krorg organizes a pirate raid to plunder Alford.
   - The party acquires the Deck of Many Things and begins drawing cards.
+  - Spoops pulls a card and acquires Dio the map.
+  - Spoops pulls a card and is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs
   	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa).
   	- [Dave Bones](/characters/Dave-Bones) is killed by the party for the first time, leading to his long lasting vendetta against the party.
@@ -149,8 +151,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops pulls another card causing hom to lose all his wealth.
   - Spoops is magically granted ownership of a castle in Bahryst.
   - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
-  - Spoops acquires Dio the map.
-  - Spoops is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
