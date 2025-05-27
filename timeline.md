@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T16:35:03.885Z
+date: 2025-05-27T16:39:36.614Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -143,9 +143,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Breezy-E becomes blind, but gains infra-red vision.
   - Breezy-E receives a magical hourglass which counts down to some important event. In thr future, the party would regularly check the hourglass, eventually finding it close to running out during the Ithilid War.
   - Spoops gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
+  - Breezy-E pulls a card that causes his personality to twist, giving him evil tendencies.
+  - Spoops carefully pulls another card, first giving all his possessions to Bazzvrah first. The card causes him to gain immense wealth.
+  - Spoops pulls another card causing hom to lose all his wealth.
   - Spoops is magically granted ownership of a castle in Bahryst.
   - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
   - Spoops acquires Dio the map.
+  - Spoops is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
