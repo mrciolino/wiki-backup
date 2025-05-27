@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T19:54:22.619Z
+date: 2025-05-27T19:54:34.077Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -126,7 +126,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
   - Krorg rallies the pirates for the biggest raid ever, and they all set sail for Allford.
   	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa) after his spies tell him thst it is unguarded.
-- Breezy-E arrives to help the party. He is almost immediately killed by two bone spiders. Spoops raises jom from the dead as a zombie.
+- Breezy-E arrives to help the party. He is almost immediately killed by two bone spiders. Spoops raises from from the dead as a zombie.
   	- [Dave Bones](/characters/Dave-Bones) is killed by the party for the first time, leading to his long lasting vendetta against the party.
     - Krorg pulls the Fates card.
     - Narascus tells Xiph and Darf the truth about Dave Bones being killed by Narascus and Spoops.
