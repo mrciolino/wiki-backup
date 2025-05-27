@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T19:42:52.326Z
+date: 2025-05-27T19:47:33.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -116,6 +116,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Return to Allford](/Events/return-to-allford)
   
   - [Illiard](/characters/illiard) is killed by Frederina for seemingly no reason.
+  - Spoops creates Unitard
   - The party is sent into the Alford castle vault to kill a dreaming beholder. [Krorg](/characters/krorg) unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank before [Drakham](/characters/drakham) unleashes bone spiders, causing chaos in Alford.
   - The party retreats to [Saragossa](/locations/Mardun/saragossa), where Krorg organizes a pirate raid to plunder Alford.
   - The party acquires the Deck of Many Things and begins drawing cards.
