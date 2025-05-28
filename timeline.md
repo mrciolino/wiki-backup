@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-28T19:26:50.717Z
+date: 2025-05-28T19:28:33.481Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -115,7 +115,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops creates Unitard
   - The party is sent into the Alford castle vault to kill a dreaming beholder. [Krorg](/characters/krorg) unsuccessfully uses this opportunity to cause a credit crisis in Alford's bank before [Drakham](/characters/drakham) unleashes bone spiders, causing chaos in Alford.
   - Drakham drank the vial of green liquid, turning himself into a bone spider in a desperate attempt to keep the party from doing any further experiments with the vial. This decision caused more damage to the citizens of Allford than any other plans the rest of the party may have had for the vial.
-  - The party retreats to Demsford on their carriage. They begin travelling to [Saragossa](/locations/Mardun/saragossa), where Krorg plans to organize a pirate raid to plunder Alford.
+  - The party retreats to Demsford on their carriage. They begin travelling to [Saragossa](/locations/Mardun/saragossa), where Krorg plans to organize a pirate raid to plunder Alford. 
+  - Upon arrival in Demsford they meet Drakham's father Narascus who joins the party.
+  - They stop by the church in Demsford where Spoops finds a teddy bear that comforts ant who look in its eyes. It contains Teddy's trapped soul.
   - The party acquires the Deck of Many Things and begins drawing cards.
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
