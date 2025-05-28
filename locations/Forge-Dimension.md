@@ -2,8 +2,8 @@
 title: Forge Dimension
 description: A section of the Realm of Fire Bazzdos has domain over.
 published: true
-date: 2025-05-28T12:08:05.175Z
-tags: bazzdos
+date: 2025-05-28T12:09:19.011Z
+tags: bazzdos, todo
 editor: markdown
 dateCreated: 2024-08-07T14:41:10.473Z
 ---
