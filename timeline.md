@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-28T13:08:55.217Z
+date: 2025-05-28T13:09:24.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -122,7 +122,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
   - Krorg rallies the pirates for the biggest raid ever, and they all set sail for Allford.
   	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa) after his spies tell him that it is unguarded.
-  	- [Dave Bones](/characters/Dave-Bones) is killed by the party for the first time, leading to his long lasting vendetta against the party. Suspicious of his intentions and wanting to eliminate the threat, Narascus and Spoops sneak into Dave Bones' quarters aboard his ship and assassinate him. 
+  	- Upon arrival to Allford's port, [Dave Bones](/characters/Dave-Bones) is killed by the party for the first time, leading to his long lasting vendetta against the party. Suspicious of his intentions and wanting to eliminate the threat, Narascus and Spoops sneak into Dave Bones' quarters aboard his ship and assassinate him. 
     - Krorg pulls the Fates card.
     - Narascus tells Xiphalia and Darfellan the truth about Dave Bones being killed by himself and Spoops.
     - Spoops returns and tells Freedom about Illiard's death at the hands of Frederina.
