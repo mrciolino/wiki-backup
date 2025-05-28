@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-27T20:01:51.308Z
+date: 2025-05-28T00:57:47.309Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -34,10 +34,6 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - Gods, Titans, and angels collaborate to populate worlds like **[Mardun](/locations/mardun)**.
 - **Magic** emerges as a natural phenomenon, not a divine creation.
 - New gods enter the divine system, such as [Zeus](/characters/zeus) and [Bane](/characters/bane).
-
----
-
-# History of Mardun
 
 ## Ancient Events
 
