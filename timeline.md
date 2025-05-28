@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-28T19:29:11.861Z
+date: 2025-05-28T19:29:21.734Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -118,7 +118,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The party retreats to Demsford on their carriage. They begin travelling to [Saragossa](/locations/Mardun/saragossa), where Krorg plans to organize a pirate raid to plunder Alford. 
   - Upon arrival in Demsford they meet Drakham's father Narascus who joins the party.
   - They stop by the church in Demsford where Spoops finds a teddy bear that comforts ant who look in its eyes. It contains Teddy's trapped soul.
-  - The party travel to Hastow wherr they plan to get a ship to take them to Saragossa.
+  - The party travel to Hastow where they plan to get a ship to take them to Saragossa.
   - The party acquires the Deck of Many Things and begins drawing cards.
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
