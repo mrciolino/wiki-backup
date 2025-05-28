@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-28T19:44:15.100Z
+date: 2025-05-28T23:50:08.358Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -128,18 +128,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   	- [Rathwing](/characters/Rathwing) destroys [Saragossa](/locations/Mardun/saragossa) after his spies tell him that it is unguarded.
   	- Upon arrival to Allford's port, [Dave Bones](/characters/Dave-Bones) is killed by the party for the first time, leading to his long lasting vendetta against the party. Suspicious of his intentions and wanting to eliminate the threat, Narascus and Spoops sneak into Dave Bones' quarters aboard his ship and assassinate him. They skin him and dimp his bones into the ocean.
     - Krorg pulls the Fates card.
-    - Narascus tells Xiphalia and Darfellan the truth about Dave Bones being killed by himself and Spoops.
+   
     - Spoops returns and tells Freedom about Illiard's death at the hands of Frederina.
-    - Breezy-E arrives to help the party. As the party enters Allford, he is almost immediately killed by two bone spiders. Spoops raises from from the dead as a zombie.
+    
     - Spoops gets dropped down a well by Narascus. The party must find "water from on high" to free him.
-    - Krorg brings 240 battle ready pirates to clear out the remaining bone spiders in Allford castle. 
-    - The party reaches the vault in Allford castle.
-    - The party discovers that the beholder then fought before was turned into a desth tyrsnt after being infected by the bone spiders.
-    - The party is locked in the vault by the death tyrant. They battle the death tyrant and bone spiders in the vault.
-    - [Breezy-E](/characters/breezy) uses a wish he obtained from the deck of many things to summon [Rathwing](/characters/Rathwing) to the fight in Allford castle's vault. Rathwing battles the party using his fighting strategy of turning invisible, cadting misty step, and casting aoe spells. During the fight, Breezy-E is able to locate him using his infra-red vision, and kill him by firing his magical arrow through Rathwing's eye. 
-    - Xiphalia, Darfellan, Freedom (Lokunai), and Dave Bones all die during the Raid.
-    - [Bazzert](/characters/bazzert) kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
-    - Without Saragossa, the new pirate capital of **[Altricia](/locations/altricia)** is founded from the ashes of Alford.
   - After celebrating a successful raid, the party splits off for 3 years. [Os Vrintia](/characters/os) is exiled to [Gothriathon](/locations/Mardun/Gothriathon) after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
   - [Wegate Revolution](/Events/wegate-revolution)
   - Breezy-E gathers his Samurai clan and 200 pirates from Krorg to attempt to slay Aku. They fail.
