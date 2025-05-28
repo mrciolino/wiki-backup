@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2025-05-28T01:12:26.008Z
+date: 2025-05-28T01:13:54.572Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -140,12 +140,7 @@ From post-war industrialist to god-like construct, Bazzdos's journey spans centu
 
 - **??? AC**: Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
 
-# Character Sheet
-
-[📜 PDF Version](/characters/bazzert/bazzdos___roll20_characters.pdf)
-
-## Class & Level
-
+# 📜 Character Sheet ([PDF](/characters/bazzert/bazzdos___roll20_characters.pdf))
 **Armorer Artificer 20** | **Hexblade Warlock 1** | **Wizard 1**
 
 ## Basic Information
