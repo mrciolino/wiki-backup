@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-28T13:00:28.145Z
+date: 2025-05-28T13:00:38.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -127,7 +127,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
     - Narascus tells Xiphalia and Darfellan the truth about Dave Bones being killed by himself and Spoops.
     - Spoops returns and tells Freedom about Illiard's death at the hands of Frederina.
     - Breezy-E arrives to help the party. As the party enters Allford, he is almost immediately killed by two bone spiders. Spoops raises from from the dead as a zombie.
-    - Spoops gets dropped down a well by Narascus. The party must fine "water from on high" to free him.
+    - Spoops gets dropped down a well by Narascus. The party must find "water from on high" to free him.
     - Krorg brings 240 battle ready pirates to clear out the remaining bone spiders in Allford castle. 
     - The party reaches the vault in Allford castle.
     - The party was locked in the vault by the death tyrant. 
