@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-04-24T14:58:16.696Z
+date: 2025-05-28T01:12:52.574Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -61,7 +61,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Narascene Clerics](/organizations/narascene-clerics) | A religious order serving the Red Archon (false prophet) [Narascus](/characters/Narascus). | [Narascus](/characters/Narascus) as Prophet of [Spoops](/characters/spoops) | [Narascus](/characters/Narascus) | Active |  
 | [Cult of Wegate](/organizations/cult-of-wegate) | Worshippers of [Ryan-Spoops](/characters/spoops) who rule Wegate. | [Ryan-Spoops](/characters/spoops) | - | Active | 
 | [The Soulwardens](/organizations/paladin-order-of-spoops) | A knightly order of paladins serving their God Spoops. | [Spoops](/characters/spoops) | [Kierkegaard](/characters/kierkegaard) | Active |  
-| [Knights of Sidonia](/organizations/knights-of-sidonia) | A knightly order of Oath of Vengeance Paladins. | Formerly [Spoops](/characters/spoops) | Justice | Inactive |  
+| [Knights of Sedonnya](/organizations/knights-of-Sedonnya) | A knightly order of Oath of Vengeance Paladins. | Formerly [Spoops](/characters/spoops) | Justice | Inactive |  
 | [Inevitables](/organizations/inevitables) | Agents of divine justice. | - | - | Active |  
 | [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/bane) | Active |  
 | [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/Rathwing) | - | Active |  
