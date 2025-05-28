@@ -2,7 +2,7 @@
 title: Forge Dimension
 description: A section of the Realm of Fire Bazzdos has domain over.
 published: true
-date: 2025-04-10T21:28:33.795Z
+date: 2025-05-28T12:08:05.175Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-08-07T14:41:10.473Z
@@ -12,7 +12,7 @@ dateCreated: 2024-08-07T14:41:10.473Z
 
 A domain within the **Realm of Fire**, serving as a hub for advanced manufacturing and research.
 
----
+<img src="/maps/mardun/forgedimension.webp" class="img-fluid" alt="Mardun Map" style="max-height: 400px;">
 
 ## 💍 Ring of Factory
 A **magical ring** that opens a portal to and from the **Forge Dimension**, worn by [Bazzdos](/characters/bazzdos).
