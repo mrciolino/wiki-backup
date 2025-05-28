@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-28T13:09:57.846Z
+date: 2025-05-28T13:12:32.158Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -130,7 +130,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
     - Spoops gets dropped down a well by Narascus. The party must find "water from on high" to free him.
     - Krorg brings 240 battle ready pirates to clear out the remaining bone spiders in Allford castle. 
     - The party reaches the vault in Allford castle.
-    - The party was locked in the vault by the death tyrant. 
+    - The party discovers that the beholder then fought before was turned into a desth tyrsnt after being infected by the bone spiders.
+    - The party is locked in the vault by the death tyrant.
     - [Breezy-E](/characters/breezy) uses a wish he obtained from the deck of many things to summon [Rathwing](/characters/Rathwing) to the fight in Allford castle's vault. Rathwing battles the party using his fighting strategy of turning invisible, cadting misty step, and casting aoe spells. During the fight, Breezy-E is able to locate him using his infra-red vision, and kill him by firing his magical arrow through Rathwing's eye. 
     - Xiphalia, Darfellan, Freedom (Lokunai), and Dave Bones all die during the Raid.
     - [Bazzert](/characters/bazzert) kills the Pirate King, allowing Krorg to manuever himself as the new Pirate King of Saragossa
