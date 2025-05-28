@@ -2,7 +2,7 @@
 title: Pirate Raid
 description: When the party starting planning things
 published: true
-date: 2025-05-28T23:50:05.233Z
+date: 2025-05-28T23:51:41.673Z
 tags: todo
 editor: markdown
 dateCreated: 2025-03-25T16:06:20.138Z
@@ -42,7 +42,7 @@ Os and Frederina were tasked to assist the pirates in taking the marketplace to 
 
 The fleet arrived in the Allford waterfront and began bombing the crap out of the smouldering ruins. After no movement was seen, the first raiding parties moved in, clearing out remaining bone spiders.
 
-Meanwhile back in [Saragassa](/locations/Mardun/Saragassa), the evil [Rathwing](/characters/Rathwing) teleported to an ancient ruin on the island with bone spiders of his own and overran the pirate capital. [Bazzert](/characters/bazzert) and the pirate king were forced to flee on a boat and sailed for "safety" towards [Allford](/locations/Mardun/Allford).
+Meanwhile back in [Saragassa](/locations/Mardun/Saragassa), the evil [Rathwing](/characters/Rathwing) teleported to an ancient ruin on the island with bone spiders of his own and overran the pirate capital after his spies informed him that Saragassa was unguarded. [Bazzert](/characters/bazzert) and the pirate king were forced to flee on a boat and sailed for "safety" towards [Allford](/locations/Mardun/Allford).
 
 Os and Frederina successfully cleared out the market and set off their smoke signal, then went up to the castle to assist the other team. In Illiard's Tower, [Freedom](/characters/freedom), who had been in [Allford](/locations/Mardun/Allford) while it was being destroyed, recognized the situation and decided to go find his old party at the castle. In the castle, the tension was thick as [Spoops](/characters/spoops), [Narascus](/characters/Narascus), and [Breezy-E](/characters/breezy) hated working alongside [Dave Bones](/characters/Dave-Bones) and his crew. However once [Freedom](/characters/freedom) showed up, things really went off. [Dave Bones](/characters/Dave-Bones) sought to steal Freedom's soul again and attacked the party's ally, causing Spoops, Narascus, and Breezy-E to "kill him" as Freedom run away deeper into the castle. Narascus and Spoops cornered Dave Bones in his quarters, skinning and killing him. They threw his remains into the water. Narascus tells Xiphalia and Darfellan the truth about Dave Bones being killed by himself and Spoops. Dave Bone's crew, who also didn't like working with Dave Bones, let this offense slide (they also didn't want to be killed by the party). Down two powerful members, the remaining party struggles against the bone spiders. Upon arrival in the city, Breezy-E is almost immediately killed by two bone spiders. Not willing to let his friend die, Spoops raises him from from the dead as a zombie. They then decide to let off their smoke signal way too early to call for reinforcements, [Krorg](/characters/krorg) realizes something is off and decides to head up to the castle too. With all forces closing in on the castle, things started going very off even without knowing that they no longer had a place to bring the treasure to.
 
