@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-28T19:34:32.127Z
+date: 2025-05-28T19:44:15.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -117,7 +117,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Drakham drank the vial of green liquid, turning himself into a bone spider in a desperate attempt to keep the party from doing any further experiments with the vial. This decision caused more damage to the citizens of Allford than any other plans the rest of the party may have had for the vial.
   - The party retreats to Demsford on their carriage. They begin travelling to [Saragossa](/locations/Mardun/saragossa), where Krorg plans to organize a pirate raid to plunder Alford. 
   - Upon arrival in Demsford they meet Drakham's father Narascus who joins the party.
-  - They stop by the church in Demsford where Spoops finds a teddy bear that comforts ant who look in its eyes. It contains Teddy's trapped soul.
+  - They stop by the church in Demsford where Spoops finds a teddy bear that comforts any who look into its eyes. It contains Teddy's trapped soul. Spoops places it eithin his ribcage where his heart would be.
   - The party travel to Hastow where they plan to get a ship to take them to Saragossa.
   - While in Hastow, Narascus begins preaching the worship ot Ry-ann to the people, however he inserts himself into the teachings as a chosen prophet. He manages to get a small devout following during the party's stay.
   - The party acquires the Deck of Many Things and begins drawing cards.
