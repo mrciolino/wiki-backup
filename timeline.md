@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-29T20:11:16.223Z
+date: 2025-05-29T22:46:22.875Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -136,6 +136,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Frederina is sent back to Krorg with a message of peace.
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage. 
+- Bazzvrah joins the party.
+
 - The party draws many cards from the Deck of Many Things.
   - The party (Frederina) acquires a flying ship from the deck while in Gothriathon. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship.
   - Breezy-E becomes blind, but gains infra-red vision.
