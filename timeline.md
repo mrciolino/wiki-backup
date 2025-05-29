@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-29T19:19:59.869Z
+date: 2025-05-29T20:11:16.223Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -143,7 +143,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
   - Breezy-E pulls a card that causes his personality to twist, giving him evil tendencies.
   - Spoops carefully pulls another card, first giving all his possessions to Bazzvrah first. The card causes him to gain immense wealth.
-  - Spoops pulls another card causing hom to lose all his wealth.
+  - Spoops pulls another card causing him to lose all his wealth.
   - Spoops is magically granted ownership of a castle in Bahryst.
   - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
