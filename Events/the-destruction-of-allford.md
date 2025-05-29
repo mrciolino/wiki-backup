@@ -2,7 +2,7 @@
 title: The Destruction of Allford
 description: Allford is destroyed by bone spiders
 published: true
-date: 2025-05-29T16:56:52.983Z
+date: 2025-05-29T17:01:19.227Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T16:48:11.451Z
@@ -23,6 +23,6 @@ The party had received a quest from Illiard after returning to Allford from Dems
 
 
 ## Drakham Drinks the Vial
-Upon returning from the vault, the party argues over what to do with the vial of green liquid. They all have various experiments in mind to determine potential uses. Drakham drank the vial of green liquid, turning himself into bone spiders in a desperate attempt to keep the party from doing any further experiments with the vial. This decision caused more damage to the citizens of Allford than any other plans the rest of the party may have had for the vial.
+Upon returning from the vault, the party argues over what to do with the vial of green liquid. They all have various experiments in mind to determine potential uses. Drakham drank the vial of green liquid, turning himself into bone spiders in a desperate attempt to keep the party from doing any further experiments with the vial. This decision caused more damage to the citizens of Allford than any other plans the rest of the party may have had for the vial. As bome spiders emerge from Drakham, they attack more people, infecting, killing, and multiplying. With the coty rapidly becoming overrun with bone spiders, and the party already weakened from their fight against the beholders, the party flees the city. They mount their carriage and head north towards Demsford. As they leave the city,Krorg is already working on his next scheme to use the chaos to his advantage. 
 
 
