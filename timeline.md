@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-29T17:07:45.556Z
+date: 2025-05-29T18:59:16.400Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -121,12 +121,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
-  - Krorg rallies the pirates for the biggest raid ever, and they all set sail for Allford.
-    - Krorg pulls the Fates card.
-   
-    - Spoops returns and tells Freedom about Illiard's death at the hands of Frederina.
-    
-    - Spoops gets dropped down a well by Narascus. The party must find "water from on high" to free him.
   - After celebrating a successful raid, the party splits off for 3 years. [Os Vrintia](/characters/os) is exiled to [Gothriathon](/locations/Mardun/Gothriathon) after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
   - [Wegate Revolution](/Events/wegate-revolution)
   - Breezy-E gathers his Samurai clan and 200 pirates from Krorg to attempt to slay Aku. They fail.
