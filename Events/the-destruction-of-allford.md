@@ -2,7 +2,7 @@
 title: The Destruction of Allford
 description: Allford is destroyed by bone spiders
 published: true
-date: 2025-05-29T17:04:42.857Z
+date: 2025-05-29T17:05:32.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T16:48:11.451Z
@@ -24,6 +24,8 @@ The party had received a quest from Illiard after returning to Allford from Dems
 Wothin the vault, the party discovers that a sleeping beholder is a far greater threat than they imagined. They find that as the beholder dreamed of beholders, those dream beholders became real and manifested in reality. Now the party had multiple beholders to deal with. 
 
 The first beholder was kept asleep by a magical crown. Removal of the crown would wake the beholder.
+
+Spoops' mirror shield would prove useful against beholders as it eoilr allow him to deflect their beam attacks at each other.
 
 
 ## Drakham Drinks the Vial
