@@ -2,7 +2,7 @@
 title: The Destruction of Allford
 description: Allford is destroyed by bone spiders
 published: true
-date: 2025-05-29T17:01:19.227Z
+date: 2025-05-29T17:04:42.857Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T16:48:11.451Z
@@ -19,7 +19,11 @@ Spoops creates Unitard
 
 
 ## Quest to Slay the Beholder
-The party had received a quest from Illiard after returning to Allford from Demsford. That quest was to go into the castle vault to kill a sleeping beholder. Krorg athempts to use this opportunity to cause a credit crisis in Allford's bank. However his efforts are unsuccessful.
+The party had received a quest from Illiard after returning to Allford from Demsford. That quest was to go into the castle vault to kill a sleeping beholder. Krorg athempts to use this opportunity to cause a credit crisis in Allford's bank. However his efforts are unsuccessful. 
+
+Wothin the vault, the party discovers that a sleeping beholder is a far greater threat than they imagined. They find that as the beholder dreamed of beholders, those dream beholders became real and manifested in reality. Now the party had multiple beholders to deal with. 
+
+The first beholder was kept asleep by a magical crown. Removal of the crown would wake the beholder.
 
 
 ## Drakham Drinks the Vial
