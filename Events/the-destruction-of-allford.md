@@ -2,7 +2,7 @@
 title: The Destruction of Allford
 description: Allford is destroyed by bone spiders
 published: true
-date: 2025-05-29T17:05:32.913Z
+date: 2025-05-29T17:06:15.392Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T16:48:11.451Z
