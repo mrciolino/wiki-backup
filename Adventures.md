@@ -2,7 +2,7 @@
 title: Adventures
 description: A list of One-Shots, Few-Shots, or Campaigns set in the Mardun Universe
 published: true
-date: 2025-04-16T23:36:46.997Z
+date: 2025-05-29T19:11:25.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T23:01:07.987Z
@@ -24,7 +24,7 @@ Mardun has seen a lot of activity over the years, from 5-year campaigns to 4-hou
 | [**No Heroes**](/Adventures/No_Heroes) | Redwater Port intrigue, dungeon secrets, and faction conflict. | TBD | TBD |
 | [**Profit of Prophet**](/Adventures/Prophet-of-Profit) | Few-shot where ... | TBD | TBD |
 | [**Malicious Compliant Skeletons**](/Adventures/Compliant_Skeletons) | The skeletons used the orphanage as building materials (Spoops was a bard). | TBD | TBD |
-| [**Pirate Multi-Shot**](/Adventures/Pirate_Multi_Shot) | Description | TBD | TBD |
+| [**Pirate Multi-Shot**](/Adventures/Pirate_Multi_Shot) | A legendary pirate heist devolves into madness, mutation, and myth, birthing a Pirate King, a plague, and a merfolk legend. | May 2022 | TBD |
 
 # One-Shots
 
