@@ -2,8 +2,8 @@
 title: Pirate Mini Campaign 
 description: The Heist That Shattered the Seas: Betrayal, Bone Rats, and the Birth of Legends
 published: true
-date: 2025-05-29T19:09:03.942Z
-tags: 
+date: 2025-05-29T19:11:55.828Z
+tags: todo
 editor: markdown
 dateCreated: 2025-05-29T19:09:03.942Z
 ---
