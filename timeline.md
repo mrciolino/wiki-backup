@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-29T22:48:08.919Z
+date: 2025-05-29T23:12:34.824Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -148,6 +148,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops pulls another card causing him to lose all his wealth.
   - Spoops is magically granted ownership of a castle in Bahryst.
   - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
+  - Narascus gets some spears.
 - Dave Bones returns to life again.
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
