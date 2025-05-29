@@ -2,7 +2,7 @@
 title: Pirate Raid
 description: When the party starting planning things
 published: true
-date: 2025-05-29T21:04:23.081Z
+date: 2025-05-29T22:31:55.622Z
 tags: todo
 editor: markdown
 dateCreated: 2025-03-25T16:06:20.138Z
@@ -69,6 +69,22 @@ On the way back, it is revealed to the party through divine communication that [
 
 ## The End
 It is up to Krorg as pirate king to divide the spoils of the raid in a fair way among the surviving participants. Allford nobles show up and start demanding their money back and Krorg wonders how they even got here. Regardless, each member of the party is given a total of around 128,000 gold each, the pirate lords are paid, the allford nobles have some of their gold returned, and Krorg forgoes his share of the treasure in exchange for a controlling share of the massive 2 million gold fund to rebuild Altricia into a respectable city state once again. Frederina is given the title of pirate captain, a ship, and a crew, and a letter of marque by Krorg to go find the furthest ocean from Allford. 
+
+### Loot From The Vault
+6.94 million in gold value
+artifacts and and other treasure are another 2.8 mil
+3.47 mill to the treasury
+2.3249 mil to pirate lords
+1.1451 mill to the party
+
+rope of entanglement
+robe of eyes
+ring of the ram
+necklace of fireballs
+belt of giant strength
+
+Spoops found an empty Ornate Chest and Phoenix in a cage.
+
 
 On the night of celebration, the party breaks out the Deck of Many Things, and decides to start pulling cards in their less than sober state. Bazzert pulls the card of ruin, and Krorg informs him that his Pirate accountants made a mistake, and his share of 128,000 gold was left unaccounted for. Angered, Bazzert pulls another card to try and win his money back, but pulls a bad card and gets put into a coma. Os pulls the traitor card, and runs from his friends in Altricia. When Krorg hears the news about Os and Bazzert, he concludes Os must have stolen Bazzert's soul. He then takes Os's share of the treasure and puts a bounty on his head, making him the most wanted man in the world. By sunrise, the members of the party depart each to go their own way for the next few years as a means to use their new treasure. 
 
