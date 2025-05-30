@@ -2,7 +2,7 @@
 title: Woolhope
 description: A vampire patron shields a lone village amid a thousand-year war's no man's land.
 published: true
-date: 2025-05-30T12:01:32.534Z
+date: 2025-05-30T12:03:54.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T02:25:13.945Z
@@ -30,17 +30,6 @@ South-West of Wardson Tower in [Felldun](/locations/Mardun/Felldun) near the bor
 - **Zafera** (Michelle): An owlin cleric representing the Wegateian delegation, worshipper of Spooops
 - **Aynuk**: The village elder, kidnapped by the party to facilitate Arfer's disguise
 - **The Red Archon**: A powerful entity whose mark on Arfer suggested deeper supernatural conflicts
-
-## Impact and Discoveries
-
-The Woolhope campaign revealed the devastating consequences of incompetence in high-stakes diplomacy. Key discoveries included:
-
-- **Political Betrayal**: Woolhope's supposed neutrality was a lie—Rilinguineas had been corrupted by Narasian agents
-- **Religious Warfare**: The conflict between Wegateians and Narasians involved undead forces and divine magic, with holy items proving lethal to undead delegates
-- **Supernatural Corruption**: The influence of entities like the Red Archon and succubi like Vanaya demonstrated the otherworldly nature of the faction conflict
-- **The Cost of Loyalty**: Alfredo's final stand, choosing customer service over patron loyalty, highlighted themes of principle versus survival
-
-The campaign concluded with Woolhope's fall to the Narasians, Alfredo's heroic death defending the fleeing Wegateian delegates, and the survivors (Kael and Roy) fleeing into the dangerous wasteland—their actions having inadvertently exposed a crucial strategic deception in the larger war.
 
 # Session Logs
 
@@ -570,3 +559,13 @@ The session ended with Woolhope fallen to the Naracensians, Alfredo dead, and th
 </details>
 
 
+## Impact and Discoveries
+
+The Woolhope campaign revealed the devastating consequences of incompetence in high-stakes diplomacy. Key discoveries included:
+
+- **Political Betrayal**: Woolhope's supposed neutrality was a lie—Rilinguineas had been corrupted by Narasian agents
+- **Religious Warfare**: The conflict between Wegateians and Narasians involved undead forces and divine magic, with holy items proving lethal to undead delegates
+- **Supernatural Corruption**: The influence of entities like the Red Archon and succubi like Vanaya demonstrated the otherworldly nature of the faction conflict
+- **The Cost of Loyalty**: Alfredo's final stand, choosing customer service over patron loyalty, highlighted themes of principle versus survival
+
+The campaign concluded with Woolhope's fall to the Narasians, Alfredo's heroic death defending the fleeing Wegateian delegates, and the survivors (Kael and Roy) fleeing into the dangerous wasteland—their actions having inadvertently exposed a crucial strategic deception in the larger war.
