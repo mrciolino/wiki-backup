@@ -2,7 +2,7 @@
 title: Woolhope
 description: A vampire patron shields a lone village amid a thousand-year war's no man's land.
 published: true
-date: 2025-05-30T12:03:54.203Z
+date: 2025-05-30T12:04:52.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T02:25:13.945Z
@@ -348,7 +348,7 @@ Wegation delegate Saris Zouzefry and Narasine representative Vanaya arrived sepa
     
 In a disastrous diplomatic dinner, the party's incompetence reaches legendary heights - Alfredo cooks holy apples that poison undead delegates, Roy fails basic medical checks, and Kael serves blood wine to a bird cleric. When vampire lord Rilinguineas reveals his betrayal to the Narasians, Alfredo makes his last stand defending the fleeing Wegate delegation, dying in a hail of broken pasta. With Woolhope fallen, Kael and Roy flee into the deadly wastes, while the surviving delegates carry word of the village's treachery back to their factions.
 
-👇 Click to View Log 👇
+**👇 Click to View Log 👇**
 
 </summary>
 
