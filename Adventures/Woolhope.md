@@ -2,7 +2,7 @@
 title: Woolhope
 description: A vampire patron shields a lone village amid a thousand-year war's no man's land.
 published: true
-date: 2025-05-30T12:00:47.733Z
+date: 2025-05-30T12:01:32.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T02:25:13.945Z
@@ -10,11 +10,11 @@ dateCreated: 2025-04-08T02:25:13.945Z
 
 # Woolhope
 
-In the magically-shielded village of Woolhope, three eccentric thralls—**Alfredo Fettuccini** the spaghetti warlock, **Kael Virethorn** the vampire spawn, and **Roy** the hemophobic amnesiac doctor—serve their vampiric patron Rilinguineas in a settlement caught between warring religious factions. Their precarious existence shatters when Arfer, a wounded soldier marked by the Red Archon, breaches their barrier, forcing the trio into a desperate conspiracy of kidnapping, disguise, and deception. As representatives from the militant **Wegateians** and the infernal **Narasians** arrive for a supposed neutrality dinner, the party's chaotic incompetence—from poisoning guests with holy apples to serving blood wine to bird clerics—unravels their master's secret allegiances and culminates in betrayal, death, and the fall of their sanctuary.
+In the magically-shielded village of Woolhope, three eccentric thralls—**Alfredo Fettuccini** the spaghetti warlock, **Kael Virethorn** the vampire spawn, and **Roy** the hemophobic amnesiac doctor—serve their vampiric patron **Rilinguineas** in a settlement caught between warring religious factions. Their precarious existence shatters when **Arfer**, a wounded soldier marked by the Red Archon, breaches their barrier, forcing the trio into a desperate conspiracy of kidnapping, disguise, and deception. As representatives from the militant **Wegateians** and the infernal **Narasians** arrive for a supposed neutrality dinner, the party's chaotic incompetence—from poisoning guests with holy apples to serving blood wine to bird clerics—unravels their master's secret allegiances and culminates in betrayal, death, and the fall of their sanctuary.
 
 ## Set and Setting
 
-South-West of Wardson Tower in [Felldun](/locations/Mardun/Felldun) near the border of [Wyrmford](/locations/Mardun/Wyrmford). This adventure takes place around 110 AC in the village of Woolhope, a settlement protected by a pinkish magical barrier that shields it from the Soul Torn monsters roaming the surrounding wasteland. The village exists in a precarious state of declared neutrality between the warring Wegateian and Narasian factions, though this neutrality proves to be a carefully maintained facade.
+South-West of Wardson Tower in [Felldun](/locations/Mardun/Felldun) near the border of [Wyrmford](/locations/Mardun/Wyrmford). This adventure takes place around 110 AC in the village of **Woolhope**, a settlement protected by a pinkish magical barrier that shields it from the Soul Torn monsters roaming the surrounding wasteland. The village exists in a precarious state of declared neutrality between the warring Wegateian and Narasian factions, though this neutrality proves to be a carefully maintained facade.
 
 ## Key Locations
 
