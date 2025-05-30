@@ -2,7 +2,7 @@
 title: The Destruction of Allford
 description: Allford is destroyed by bone spiders
 published: true
-date: 2025-05-29T17:06:15.392Z
+date: 2025-05-30T02:07:15.998Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T16:48:11.451Z
@@ -14,8 +14,8 @@ Allford is destroyed by bone spiders after Drakham drinks the vial of green liqu
 
 
 ## Illiard is Killed
-Illiard is killed by Frederina for seemingly no reason.
-Spoops creates Unitard
+Illiard is killed by Frederina for seemingly no reason. Her patron, the golden lobster, commands her to slay Illiard and she complies.
+Spoops creates Unitard. Spoops resurrects the soul of a unicorn into the body of Illiard and has them accompany the party. He raises the unicorn's body as a zombie unicorn and brings it with him as well.
 
 
 ## Quest to Slay the Beholder
