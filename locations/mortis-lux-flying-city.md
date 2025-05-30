@@ -2,7 +2,7 @@
 title: Mortis Lux Flying City
 description: Risen from the Ocean, Floating above the Rest
 published: true
-date: 2025-05-28T12:06:39.933Z
+date: 2025-05-30T02:00:09.744Z
 tags: todo
 editor: markdown
 dateCreated: 2025-05-28T11:50:04.123Z
@@ -21,7 +21,6 @@ The Mortis Lux Flying City is the legendary headquarters of the Mortis Lux organ
 
 - **Floating Fortress:** The city is a self-contained, mobile fortress, capable of traversing any breathable location and serving as a command center for Mortis Lux.
 - **Shipyards:** Spelljammer ships are produced at the Wegate Southern Docks and docked here, providing the organization with interplanar mobility.
-- **Factories:** Includes advanced facilities such as the [Forge Dimension](/locations/Forge-Dimension) for artifact creation, AI robot factories, and the Speaking Stone Factory for long-distance magical communication.
 - **Residences & Halls:** Home to the Highlords ([Spoops](/characters/spoops), [Breezy-E](/characters/breezy), [Bazzdos](/characters/bazzdos), [Adalynn](/characters/adalynn)), their lieutenants, and various allies.
 
 ## Leadership & Governance
