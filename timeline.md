@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-30T14:51:05.994Z
+date: 2025-05-30T14:51:28.483Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -115,7 +115,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   -
   - The party acquires the Deck of Many Things and begins drawing cards.
   - Spoops pulls a card and acquires Dio the map.
-  - Spoops pulls a card and is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
+  - Spoops pulls a card and is teleported away, becoming trapped in a crypt and is only freed when the party finds him.
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
   - After celebrating a successful raid, the party splits off for 3 years. [Os Vrintia](/characters/os) is exiled to [Gothriathon](/locations/Mardun/Gothriathon) after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
   - [Wegate Revolution](/Events/wegate-revolution)
