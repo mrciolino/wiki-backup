@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-30T13:19:21.325Z
+date: 2025-05-30T14:51:05.994Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -111,12 +111,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Searching For Teddy](/Events/searching-for-teddy)
   - [Return to Allford](/Events/return-to-allford)
   - [The Destruction of Allford](/Events/the-destruction-of-allford)
+  - [Traveling to Hastow](/Events/traveling-to-hastow)
   -
-  - The party retreats to Demsford on their carriage. They begin travelling to [Saragassa](/locations/Mardun/Saragassa), where Krorg plans to organize a pirate raid to plunder Alford. 
-  - Upon arrival in Demsford they meet Drakham's father Narascus who joins the party. Bazzert detects that Narascus is a truly evil person. 
-  - They stop by the church in Demsford where Spoops finds a teddy bear that comforts any who look into its eyes. It contains Teddy's trapped soul. Spoops places it within his ribcage where his heart would be.
-  - The party travel to Hastow where they plan to get a ship to take them to Saragossa.
-  - While in Hastow, Narascus begins preaching the worship ot Ry-ann to the people, however he inserts himself into the teachings as a chosen prophet. He manages to get a small devout following during the party's stay. He reveals to Spoops that he actually plans to start his own church and recruit followers for himself instead of just their god. Spoops does not approve and begins his own preaching.
   - The party acquires the Deck of Many Things and begins drawing cards.
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a pocket dimension and is only freed when the party finds him.
