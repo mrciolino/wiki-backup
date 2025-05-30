@@ -2,7 +2,7 @@
 title: Woolhope
 description: A vampire patron shields a lone village amid a thousand-year war's no man's land.
 published: true
-date: 2025-05-30T11:59:45.816Z
+date: 2025-05-30T12:00:47.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T02:25:13.945Z
@@ -27,7 +27,7 @@ South-West of Wardson Tower in [Felldun](/locations/Mardun/Felldun) near the bor
 - **Rilinguineas (Rye Linguinius)**: The vampire lord patron of Woolhope, secretly allied with the Narasians despite claiming neutrality
 - **Arfer**: A wounded Narasian soldier bearing the Red Archon's mark, whose presence threatened to expose the village's true allegiances
 - **Vanaya**: A succubus serving as the Narasian delegate, revealed to have corrupted Rilinguineas
-- **Zafera**: An owlin cleric representing the Wegateian delegation, worshipper of Spooops
+- **Zafera** (Michelle): An owlin cleric representing the Wegateian delegation, worshipper of Spooops
 - **Aynuk**: The village elder, kidnapped by the party to facilitate Arfer's disguise
 - **The Red Archon**: A powerful entity whose mark on Arfer suggested deeper supernatural conflicts
 
