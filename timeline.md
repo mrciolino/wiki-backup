@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-05-29T23:12:34.824Z
+date: 2025-05-30T13:17:34.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -113,7 +113,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Destruction of Allford](/Events/the-destruction-of-allford)
   -
   - The party retreats to Demsford on their carriage. They begin travelling to [Saragassa](/locations/Mardun/Saragassa), where Krorg plans to organize a pirate raid to plunder Alford. 
-  - Upon arrival in Demsford they meet Drakham's father Narascus who joins the party.
+  - Upon arrival in Demsford they meet Drakham's father Narascus who joins the party. Bazzert detects that Narascus is a truly evil person. 
   - They stop by the church in Demsford where Spoops finds a teddy bear that comforts any who look into its eyes. It contains Teddy's trapped soul. Spoops places it within his ribcage where his heart would be.
   - The party travel to Hastow where they plan to get a ship to take them to Saragossa.
   - While in Hastow, Narascus begins preaching the worship ot Ry-ann to the people, however he inserts himself into the teachings as a chosen prophet. He manages to get a small devout following during the party's stay.
