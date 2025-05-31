@@ -2,7 +2,7 @@
 title: Bazzdos
 description: Overview of Bazzdos
 published: true
-date: 2025-05-28T01:13:54.572Z
+date: 2025-05-31T01:49:48.034Z
 tags: bazzdos
 editor: markdown
 dateCreated: 2024-06-02T04:58:07.552Z
@@ -130,8 +130,6 @@ From post-war industrialist to god-like construct, Bazzdos's journey spans centu
 - Bazzdos initiates a 100-year plan to create a new empire of construction and infrastructure in the Plane of Fire, using the City of Brass as his base of operations. He begins creating a new army of automatons and constructs, using the city's resources to fuel his ambitions.
 
 ## The Great Escape (333 AC / 133 VY)
-
-- **333 AC / 133 VY**: [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.
 
 - Upon hearing of a new power source that could fuel his foundries, [Bazzdos](/characters/bazzdos) drops the **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)** on Mardun. Inadvertently, Bazzdos the Brass becomes trapped inside his creation under thousands of tons of burning brass, along with the majority of his automatons. He loses communication with the outside, and the remaining automatons in the Realm of Fire are left to wander.
 - This renders a major ocean pathway near the Sea of Ice into a nearly unnavigable sea of icebergs and steam.
