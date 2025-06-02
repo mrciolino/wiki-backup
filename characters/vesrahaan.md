@@ -2,7 +2,7 @@
 title: Vesrahaan
 description: The Eternal Queen of Wegate
 published: true
-date: 2025-06-02T14:45:44.241Z
+date: 2025-06-02T14:59:27.957Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-02T14:37:08.661Z
@@ -27,4 +27,16 @@ The party meets her again when they travel to Wegate to help Vesrahaan and the s
 
 
 ## Mortis Lux
+When the party approached Vesrahaan about bringing Wegate into Mortis Lux, she accepted immediately. Vesrahaan represented the armies of Wegate within Mortis Lux herself, and led many troops into battle against the Ithilids. 
+
+Vesrahaan assisted the party in creating the great docks of Wegate and manufacturing hundreds or Spelljammer warships for the war.
+
+
+## The Great Schism
+After Narascus made his claims to be Spoops' chosen prophet and definitive voice of God on Mardun, Vesrahaan led the opposition. Knowing Spoops' true mission of atonement and intentions, she pushed back against his claims and shamed Narascus for his blasphemy.
+
+
+## Hastow Wegate War
+After Narascus attached Wegate, Vesrahaan called upon the other factions of Mortis Lux for help. Bahryst, Gothriathon, Fywick, and Altricia came to her aid, however with no formal treaty, Os withdrew Gothristhon from the war. Fywick also withdrew due to internal politics holding up aid, and Alteicia eventually fell to Hastow. With the speaking stone network down and no word from Bazzdos on repairs, communication became increasingly difficult. Bound by the limitations of his station as Regent of Mortis Lux HQ, Illiard was unable to provide assistance without approval from the Highlords of Moris Lux. The pirates of saragassa, now in the astral sea, became too difficult to contact and without a pirate king could not be commanded to honor the treaty. For 1000 years Vesrahaan has led the fight against Hastow.
+
 
