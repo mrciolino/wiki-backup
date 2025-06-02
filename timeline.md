@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T18:12:40.895Z
+date: 2025-06-02T18:15:05.495Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -122,6 +122,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
 - Os Gothriathon Faction: Os is the leader of a group affiliated with the southern provinces of Gothriathon. He has an army of dwarves.
 - Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. 
+- Dave Bones returns to life again.
 - Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Frederina is sent back to Krorg with a message of peace.
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 - Os, Meade, and the captured party come to terms. Os surrenders, asking that he he brought back to Alrricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
@@ -140,8 +141,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops is magically granted ownership of a castle in Bahryst.
   - Narascus gets some spears.
 - On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up th party. They tied the carriage to the bottom of the flying ship and departed.
-- The giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
-- Dave Bones returns to life again.
+- The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
