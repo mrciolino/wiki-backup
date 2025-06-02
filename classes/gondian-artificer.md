@@ -2,8 +2,8 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T00:50:09.774Z
-tags: 
+date: 2025-06-02T00:51:32.358Z
+tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
 ---
