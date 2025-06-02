@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T01:44:56.770Z
+date: 2025-06-02T01:46:22.345Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -72,8 +72,6 @@ You always have certain spells prepared after you reach particular levels in thi
 
 **Community Architect**: You can now construct Master Complexes that combine multiple building types and provide community-wide benefits to all constructs within a 5-mile radius.
 
----
-
 # 🏛️ Community Infrastructure
 
 As a Gondian Warforged, you can construct buildings that serve warforged communities. Construction requires tool proficiency, materials, labor, and skill checks (DC 12-20 based on complexity). All construction projects requires 5 rolls above the DC check.Failed checks waste materials or add 25% time.
@@ -97,8 +95,6 @@ As a Gondian Warforged, you can construct buildings that serve warforged communi
 | Metropolis Hub | 20+ | 2 years | 100,000 gp | Community | Multiple DC 20+ | All benefits in 5-mile radius, supports 10,000+ constructs |
 
 *\*Includes 1 cleric/paladin  \*\*Includes 1 artificer  \*\*\*Includes 2 spellcasters  \*\*\*\*Includes multiple high-level spellcasters*
-
----
 
 # 🧰 Gondian Warforged Crafting Time & Cost Guide
 
