@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T16:29:42.821Z
+date: 2025-06-02T17:40:14.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -117,6 +117,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Three Year Timeskip](/Events/three-year-timeskip)
 
 ## The End of the Age of Mortals (0 AC)
+- After three years, Krorg is ready to go to war with Gothriathon over the economic situation. 
 - Bazzvrah joins the party.
 - Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
 - Os Gothriathon Faction: Os is the leader of a group affiliated with the southern provinces of Gothriathon. He has an army of dwarves.
