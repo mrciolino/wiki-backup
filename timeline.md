@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T13:24:34.309Z
+date: 2025-06-02T13:34:54.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -117,14 +117,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a crypt and is only freed when the party finds him.
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
-  - After celebrating a successful raid, the party splits off for 3 years. [Os Vrintia](/characters/os) is exiled to [Gothriathon](/locations/Mardun/Gothriathon) after Krorg puts the largest bounty in the world on his head after his seeming betrayal.
-  - [Wegate Revolution](/Events/wegate-revolution)
-  - Breezy-E gathers his Samurai clan and 200 pirates from Krorg to attempt to slay Aku. They fail.
   
-- **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
-- Despite his bounty, Os becomes the secret ruler and law enforcer of [Gothriathon](/locations/Mardun/Gothriathon). He disconnects Gothriathon from the [Dragon Sea](/locations/Mardun/dragon_sea) trade network back into a barter economy, putting a major wrench in Krorg's economic ambitions.
-- [Meade](/characters/meade) joins up with [Os](/characters/os) to promote justice in [Gothriathon](/locations/Mardun/Gothriathon).
-- On a fateful journey for the Robin Trading Co, Os' brother Eugene Vrintia is eaten by a dragon turtle.
 
 ## The End of the Age of Mortals (0 AC)
 - Bazzvrah joins the party.
