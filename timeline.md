@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T17:51:09.752Z
+date: 2025-06-02T17:56:52.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -124,8 +124,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. 
 - Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Frederina is sent back to Krorg with a message of peace.
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
+- Os, Meade, and the captured party come to terms. Os surrenders, asking that he he brought back to Alrricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage.  
-
+- The party's ship approaches Altricia only to see it engulfed in flames. They contact Krorg via speaking stone while he is in combat against Darmuth. The party hears him die as they witness the destruction of Altricia. Unable to face such a powerful enemy as they are now, they flee across the sea to Kaltrosar Bay.
 - The party draws many cards from the Deck of Many Things.
   - The party (Frederina) acquires a flying ship from the deck while in Gothriathon. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship.
   - Breezy-E becomes blind, but gains infra-red vision.
