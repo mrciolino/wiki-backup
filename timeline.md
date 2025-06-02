@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T13:47:34.962Z
+date: 2025-06-02T13:52:30.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -113,7 +113,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Destruction of Allford](/Events/the-destruction-of-allford)
   - [Traveling to Hastow](/Events/traveling-to-hastow)
   - The party sails from Hastow to Saragassa.
-  - While on Saragassa, the party finds an ancient ruin with a teleportation circle while exploring the jungle. They believe it to be related to Rathwing's cult.
+  - The party arrives at a tavern in Saragassa called The Whore's Nipple. At the tavern, Krorg begins spreading rumors that the Pirate King is going to make a major announcement tomorrow, which many pirates gain interest in. The next day, the Pirate King woke up and heard he was supposed to give a major annoucement but had no idea what was going on, and that is when Krorg approached him with the plan.
+ - The pirate king agrees to the plan to raid Altricia and assembles the pirate lords so that the strategizing may begin.
+ - The party meets the Bugbear captain, one of the pirate lords.
+ - While on Saragassa, the party finds an ancient ruin with a teleportation circle while exploring the jungle. They believe it to be related to Rathwing's cult.
   - The party acquires the Deck of Many Things and begins drawing cards.
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a crypt and is only freed when the party finds him.
