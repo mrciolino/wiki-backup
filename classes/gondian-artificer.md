@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T01:44:26.261Z
+date: 2025-06-02T01:44:56.770Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -22,9 +22,9 @@ Forged by the legendary artificer Bazzdos, the Gondian Warforged are living cons
 ## Specialized Integration 
 At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Fabricator upgrade unless you have taken the 3rd and 5th-level Fabricator upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution. 
 
-* **🔥 Forge Master**: Wields a deployable workshop embedded in their body, excelling in metalwork, melee support, and defensive utility through enhanced crafting and magical reinforcement.
-* **📡 Network Architect**: Integrates a communication tower to enable telepathic messaging, battlefield surveillance, and wide-area control using arcane signal manipulation.
-* **⚡ Fabricator**: Houses a compact workshop for rapid creation of tools, traps, and constructs, specializing in on-the-fly invention and adaptive problem-solving.
+**🔥 Forge Master**: Wields a deployable workshop embedded in their body, excelling in metalwork, melee support, and defensive utility through enhanced crafting and magical reinforcement.
+**📡 Network Architect**: Integrates a communication tower to enable telepathic messaging, battlefield surveillance, and wide-area control using arcane signal manipulation.
+**⚡ Fabricator**: Houses a compact workshop for rapid creation of tools, traps, and constructs, specializing in on-the-fly invention and adaptive problem-solving.
 
 ## Spells
 
