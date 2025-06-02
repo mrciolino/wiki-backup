@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T01:48:10.046Z
+date: 2025-06-02T12:56:47.103Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -121,17 +121,24 @@ As a Gondian Warforged, you can construct buildings that serve warforged communi
 | Artifact         | —         | DM's discretion | 50,000+ gp        | 20th+ level    | May require divine or quest aid      |
 | Adapt Magic Item | Any       | 75% of above    | 125% of base cost | Same as rarity | Source item consumed; faster process |
 
-## Crafting Time Modifiers
 
-| Condition                | Modifier                        |
-| ------------------------ | ------------------------------- |
-| ❌ No tool proficiency    | ×1.5 time                       |
-| 🧱 No workshop access    | ×1.25 time                      |
-| 👥 Multiple artisans     | ÷ number of proficient artisans |
-| 🧠 Intelligence > +1     | -5% time per point above +1     |
-| ⭐ Proficiency bonus > +2 | -5% time per point above +2     |
-| 🏗️ Community Infrastructure | Special bonuses per structure type |
-| 🔧 Gondian Upgrades | Specific bonuses per upgrade path |
+## Crafting & Construction Modifiers
+
+| Modifier Source                          | Type                | Affected Area                 | Effect                            |
+| ---------------------------------------- | ------------------- | ----------------------------- | --------------------------------- |
+| ❌ No Tool Proficiency                    | Crafting Time       | All crafting                  | ×1.5 time                         |
+| 🧱 No Workshop Access                    | Crafting Time       | All crafting                  | ×1.25 time                        |
+| 👥 Multiple Artisans                     | Crafting Time       | All crafting                  | ÷ number of proficient artisans   |
+| 🧠 INT Modifier > +1                     | Crafting Time       | All crafting                  | -5% time per point above +1       |
+| ⭐ Proficiency Bonus > +2                 | Crafting Time       | All crafting                  | -5% time per point above +2       |
+| 🏗️ Infrastructure: Maintenance Workshop | Construction Time   | Basic Shrines & Workshops     | -10% time                         |
+| 🏗️ Infrastructure: Community Foundry    | Construction Time   | Metal-heavy structures        | -15% time                         |
+| 🏗️ Infrastructure: Construct Nursery    | Construction Time   | Magical construction projects | -20% time                         |
+| 🏗️ Infrastructure: Defense Grid         | Construction Checks | Projects in protected area    | +5% to skill checks               |
+| 🏗️ Infrastructure: Legendary Workshop   | Construction Time   | Any construction              | -25% time                         |
+| 🔧 Gondian Upgrades                      | Crafting Time       | Varies by upgrade path        | Specific bonuses per upgrade path |
+
+
 
 ## Step-by-Step Crafting Time Calculation
 
@@ -145,15 +152,70 @@ As a Gondian Warforged, you can construct buildings that serve warforged communi
 8. **Number of Artisans**: Divide time by **number of proficient helpers**.
 9. **Round Up**: Always round the final time **up to the nearest full day**.
 
-## Infrastructure Construction Modifiers
+### Example Crafting Calculation
 
-| Structure Available | Construction Bonus |
-| ------------------- | ------------------ |
-| Maintenance Workshop | -10% time for Basic Shrines and Workshops |
-| Community Foundry | -15% time for metal-heavy structures |
-| Construct Nursery | -20% time for magical construction projects |
-| Defense Grid | +5% to all construction skill checks in protected area |
-| Legendary Workshop | -25% time for any construction project |
+<details>
+	<summary> 
+    
+## 🧪 **Example: Crafting a Rare Magic Item (Flame Tongue Sword)**
+
+  * **Character**: Gondian Warforged Artificer, Level 9
+  * **INT Modifier**: +4
+  * **Proficiency Bonus**: +4
+  * **Tool Proficiencies**: Smith’s tools (✔️)
+  * **Workshop Access**: Community Foundry built (✔️)
+  * **Gondian Upgrade**: Forge Master (craft metal items 2× faster)
+  * **Artisans Assisting**: 2 other proficient artisans
+ 
+  </summary>
+  
+### 🧮 **Calculation Steps**
+
+1. **Base Time (Rare Item)**
+   → From table: **8 weeks**
+
+2. **Tool Proficiency**
+   → ✔️ Has it: **No modifier**
+
+3. **Workshop Access**
+   → ✔️ Yes: **No modifier**
+
+4. **INT Modifier (+4)**
+   → +3 over +1 → **3 × 5% = -15%**
+
+5. **Proficiency Bonus (+4)**
+   → +2 over +2 → **2 × 5% = -10%**
+
+6. **Community Infrastructure: Community Foundry**
+   → **-15% time for metal-heavy structures**
+
+7. **Gondian Upgrade: Forge Master**
+   → **×0.5 time** (craft metal items twice as fast)
+
+8. **Multiple Artisans**
+   → 3 total artisans → **÷3**
+
+### 🧾 **Math Breakdown**
+
+**Start: 8 weeks**
+→ Apply -15% (INT) → `8 × 0.85 = 6.8` weeks
+→ Apply -10% (PB) → `6.8 × 0.9 = 6.12` weeks
+→ Apply -15% (Foundry) → `6.12 × 0.85 = 5.2` weeks
+→ Apply ×0.5 (Forge Master) → `5.2 × 0.5 = 2.6` weeks
+→ Apply ÷3 (artisans) → `2.6 ÷ 3 = 0.87` weeks
+
+→ **Final Time: ⏳ 7 days** (6.07 rounded up)
+
+### 💰 **Cost**
+
+* Base Cost (Rare) = **2,500 gp**
+* Final Cost = **2,500 gp**
+* Crafting Cost (50%) = **1,250 gp**
+
+### ✅ **Summary**
+
+The Flame Tongue Sword takes **7 days** to craft at a cost of **1,250 gp**, thanks to high INT, workshop access, a Forge Master upgrade, and artisan teamwork.
+</details>
 
 ---
 *Source: Original design by [Bazzdos](/characters/bazzdos).*
