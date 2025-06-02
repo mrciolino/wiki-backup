@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T13:34:54.683Z
+date: 2025-06-02T13:44:47.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -117,7 +117,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops pulls a card and acquires Dio the map.
   - Spoops pulls a card and is teleported away, becoming trapped in a crypt and is only freed when the party finds him.
   - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
-  
+  - [Three Year Timeskip](/Events/three-year-timeskip)
 
 ## The End of the Age of Mortals (0 AC)
 - Bazzvrah joins the party.
