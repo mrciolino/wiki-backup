@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T01:44:04.213Z
+date: 2025-06-02T01:44:26.261Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -16,9 +16,7 @@ Forged by the legendary artificer Bazzdos, the Gondian Warforged are living cons
 ## Tool Proficiency
 
 **🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
-
 **🧰 Crafting**: You can now craft non-magical and magical items using your chosen artisan's tools. Follow the **Crafting Rules** at the bottom of this page.
-
 **🏛️ Community Building**: You can construct sacred shrines, community structures, and maintenance facilities that benefit warforged and construct communities. See the **Community Infrastructure** section below.
 
 ## Specialized Integration 
