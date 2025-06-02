@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T01:46:22.345Z
+date: 2025-06-02T01:48:10.046Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -76,25 +76,35 @@ You always have certain spells prepared after you reach particular levels in thi
 
 As a Gondian Warforged, you can construct buildings that serve warforged communities. Construction requires tool proficiency, materials, labor, and skill checks (DC 12-20 based on complexity). All construction projects requires 5 rolls above the DC check.Failed checks waste materials or add 25% time.
 
-## Community Structures Table
 
-| Structure | Level | Time | Cost | Labor | Check | Effect |
-|-----------|-------|------|------|-------|-------|--------|
-| **Sacred Structures** |
-| Basic Shrine | 3+ | 2 wks | 200 gp | 1 artisan | Religion DC 12 | 100 ft: advantage on death saves, necrotic resistance on long rests |
-| Advanced Shrine | 5+ | 6 wks | 800 gp | 2 artisans | Religion DC 15 | 200 ft: Basic Shrine + all saves +1, *Sanctuary* 1/day |
-| Grand Temple | 9+ | 20 wks | 5,000 gp | 5 artisans | Religion DC 18 | 500 ft: Previous + charm/fear immunity, *Greater Restoration* 1/week |
-| Divine Forge-Shrine | 15+ | 30 wks | 15,000 gp | 8 artisans* | Religion DC 20 | Grand Temple + create +1 items, *Resurrection* 1/month |
-| **Practical Structures** |
-| Maintenance Workshop | 3+ | 3 wks | 300 gp | 2 artisans | Tools DC 12 | Half-cost repairs, stores 10 major repairs |
-| Community Foundry | 5+ | 8 wks | 1,200 gp | 4 artisans | Smith's DC 15 | 25% off metal items, generates 100 gp/month |
-| Construct Nursery | 7+ | 12 wks | 3,000 gp | 3 artisans** | Arcana DC 16 | 25% off new constructs, awaken 1 object/month |
-| Defense Grid | 9+ | 16 wks | 6,000 gp | 6 artisans*** | Arcana DC 18 | 1-mile detection, *Wall of Force* 3/day |
-| Legendary Workshop | 15+ | 40 wks | 25,000 gp | 10+ artisans**** | Arcana DC 20 | Create legendary items, generates monthly magic items |
-| **Master Complex** |
-| Metropolis Hub | 20+ | 2 years | 100,000 gp | Community | Multiple DC 20+ | All benefits in 5-mile radius, supports 10,000+ constructs |
+## Sacred Structures
 
-*\*Includes 1 cleric/paladin  \*\*Includes 1 artificer  \*\*\*Includes 2 spellcasters  \*\*\*\*Includes multiple high-level spellcasters*
+| Structure           | Level | Time   | Cost      | Labor        | Check          | Effect                                                               |
+| ------------------- | ----- | ------ | --------- | ------------ | -------------- | -------------------------------------------------------------------- |
+| Basic Shrine        | 3+    | 2 wks  | 200 gp    | 1 artisan    | Religion DC 12 | 100 ft: Advantage on death saves, necrotic resistance on long rests  |
+| Advanced Shrine     | 5+    | 6 wks  | 800 gp    | 2 artisans   | Religion DC 15 | 200 ft: Basic Shrine + all saves +1, *Sanctuary* 1/day               |
+| Grand Temple        | 9+    | 20 wks | 5,000 gp  | 5 artisans   | Religion DC 18 | 500 ft: Previous + charm/fear immunity, *Greater Restoration* 1/week |
+| Divine Forge-Shrine | 15+   | 30 wks | 15,000 gp | 8 artisans\* | Religion DC 20 | Grand Temple + create +1 items, *Resurrection* 1/month               |
+
+
+## Practical Structures
+
+| Structure            | Level | Time   | Cost      | Labor                | Check         | Effect                                                |
+| -------------------- | ----- | ------ | --------- | -------------------- | ------------- | ----------------------------------------------------- |
+| Maintenance Workshop | 3+    | 3 wks  | 300 gp    | 2 artisans           | Tools DC 12   | Half-cost repairs, stores 10 major repairs            |
+| Community Foundry    | 5+    | 8 wks  | 1,200 gp  | 4 artisans           | Smith’s DC 15 | 25% off metal items, generates 100 gp/month           |
+| Construct Nursery    | 7+    | 12 wks | 3,000 gp  | 3 artisans\*\*       | Arcana DC 16  | 25% off new constructs, awaken 1 object/month         |
+| Defense Grid         | 9+    | 16 wks | 6,000 gp  | 6 artisans\*\*\*     | Arcana DC 18  | 1-mile detection, *Wall of Force* 3/day               |
+| Legendary Workshop   | 15+   | 40 wks | 25,000 gp | 10+ artisans\*\*\*\* | Arcana DC 20  | Create legendary items, generates monthly magic items |
+
+
+## Master Complex
+
+| Structure      | Level | Time    | Cost       | Labor     | Check           | Effect                                                     |
+| -------------- | ----- | ------- | ---------- | --------- | --------------- | ---------------------------------------------------------- |
+| Metropolis Hub | 20+   | 2 years | 100,000 gp | Community | Multiple DC 20+ | All benefits in 5-mile radius, supports 10,000+ constructs |
+
+*\*Includes 1 cleric/paladin,  \*\*Includes 1 artificer,  \*\*\*Includes 2 spellcasters,  \*\*\*\*Includes multiple high-level spellcasters*
 
 # 🧰 Gondian Warforged Crafting Time & Cost Guide
 
