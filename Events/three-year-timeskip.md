@@ -2,7 +2,7 @@
 title: Three Year Timeskip
 description: The party splits up for three years
 published: true
-date: 2025-06-02T13:41:06.499Z
+date: 2025-06-02T13:42:24.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-02T13:25:52.186Z
@@ -34,3 +34,7 @@ Spoops and his friend Vesrahaan begin the failed
 
 ## Breezy-E
 Breezy-E gathers his Samurai clan and 200 pirates sent by Krorg to attempt to slay Aku. They fail.
+
+
+## Narascus
+Narascus establishes a cathedral worshipping Ry-ann, however it is run bu clerics of his own cult who believe him to be a chosen prophet of Ry-ann.
