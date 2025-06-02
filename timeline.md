@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T17:40:14.406Z
+date: 2025-06-02T17:51:09.752Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -121,7 +121,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bazzvrah joins the party.
 - Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
 - Os Gothriathon Faction: Os is the leader of a group affiliated with the southern provinces of Gothriathon. He has an army of dwarves.
-- Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. He gets into a fight with them when they try to attack Os. However, wishing to clear up the conflict within the party he rejoins them on their trip back to Altricia. 
+- Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. 
 - Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Frederina is sent back to Krorg with a message of peace.
 - Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage.  
