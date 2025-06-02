@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T18:03:42.762Z
+date: 2025-06-02T18:12:40.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -127,7 +127,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Os, Meade, and the captured party come to terms. Os surrenders, asking that he he brought back to Alrricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage.  
 - The party's ship approaches Altricia only to see it engulfed in flames. They contact Krorg via speaking stone while he is in combat against Darmuth. The party hears him die as they witness the destruction of Altricia. Unable to face such a powerful enemy as they are now, they flee across the sea to Kaltrosar Bay.
-- The party decides to seek out thr Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
+- The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
 - 
 - The party draws many cards from the Deck of Many Things.
   - The party (Frederina) acquires a flying ship from the deck while in Gothriathon. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship. Frederina departs on this ship when sent back to Krorg by Os.
@@ -139,7 +139,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops pulls another card causing him to lose all his wealth.
   - Spoops is magically granted ownership of a castle in Bahryst.
   - Narascus gets some spears.
-- On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her fisnt bone devil pet through the teleporter to pursue the party. It is initially stuck eithin thr portal room and has to claw its way out, giving thr party enough time to flee. Federina arrived just in time on her flying ship to pick up th party. They tied the carriage to the bottom of thr flying ship and departed.
+- On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up th party. They tied the carriage to the bottom of the flying ship and departed.
 - The giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
 - Dave Bones returns to life again.
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
