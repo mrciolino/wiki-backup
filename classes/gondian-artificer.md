@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T01:42:08.502Z
+date: 2025-06-02T01:43:35.270Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -15,11 +15,11 @@ Forged by the legendary artificer Bazzdos, the Gondian Warforged are living cons
 
 ## Tool Proficiency
 
-**Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
+**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
 
-**Crafting**: You can now craft non-magical and magical items using your chosen artisan's tools. Follow the crafting rules at the bottom of this page.
+**🧰 Crafting**: You can now craft non-magical and magical items using your chosen artisan's tools. Follow the crafting rules at the bottom of this page.
 
-**Community Building**: You can construct sacred shrines, community structures, and maintenance facilities that benefit warforged and construct communities. See the Community Infrastructure section below.
+**🏛️ Community Building**: You can construct sacred shrines, community structures, and maintenance facilities that benefit warforged and construct communities. See the Community Infrastructure section below.
 
 ## Specialized Integration 
 At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Fabricator upgrade unless you have taken the 3rd and 5th-level Fabricator upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution. 
