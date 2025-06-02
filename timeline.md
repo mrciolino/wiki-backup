@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T18:15:05.495Z
+date: 2025-06-02T18:32:57.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -142,6 +142,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Narascus gets some spears.
 - On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up th party. They tied the carriage to the bottom of the flying ship and departed.
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
+
+- Narascus is visited by a representative of The Emperor, they try to recruit him but he declines. 
+- Spoops and Meade are taken by The Emperor in their dreams. The Emperor makes them an offer to join him and survive, threatening that they dont stand a chance against him. Meade asks for proof, Upon which Spoops is instantly killed. 
+- Spoops's soul is suddenly thrust into the Astral plane. After a bit of flosting sround he is visited by The spirits of Krorg and Bomb. Krorg tells spoops that he is at peace now and he shouldnt try to bring him back. Bomb says he is also at peace and Spoops needs to let go of the pain of loosing him. Spoops thanks bomb and tells him unfortunately he died too. Bomb asks Spoops why he doesnt just resurrect himself? Spoops reozes he should just do that! He casts animate dead on himself and pops back to life (still a skeleton).
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
