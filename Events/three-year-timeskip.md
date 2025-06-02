@@ -2,7 +2,7 @@
 title: Three Year Timeskip
 description: The party splits up for three years
 published: true
-date: 2025-06-02T13:42:24.935Z
+date: 2025-06-02T13:43:43.220Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-02T13:25:52.186Z
@@ -13,7 +13,7 @@ After celebrating a successful raid, the party splits off for 3 years.
 
 
 ## Krorg
-Krorg rules over Altricia and thr pirates of Saragassa.
+Krorg rules over Altricia and the pirates of Saragassa.
 
  **2 BC:** Birth of **[Krorgfrey](/characters/krorgfrey)** to Krorg and his wife Kayla.
 
@@ -38,3 +38,7 @@ Breezy-E gathers his Samurai clan and 200 pirates sent by Krorg to attempt to sl
 
 ## Narascus
 Narascus establishes a cathedral worshipping Ry-ann, however it is run bu clerics of his own cult who believe him to be a chosen prophet of Ry-ann.
+
+
+## Bazzert 
+Bazzert remains trapper in a coma after pulling a card. He remains asleep in a barrel, kept safe in Altricia.
