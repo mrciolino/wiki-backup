@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T00:38:31.274Z
+date: 2025-06-02T00:38:59.397Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -15,9 +15,9 @@ Forged by the legendary artificer Bazzdos, the Gondian Warforged are living cons
 
 ## Tool Proficiency
 
-Proficiencies: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
+**Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
 
-Crafting: You can now craft non-magical and magical items using your chosen artisan's tools. Follow the crafting rules at the bottom of this page.
+**Crafting**: You can now craft non-magical and magical items using your chosen artisan's tools. Follow the crafting rules at the bottom of this page.
 
 ## Gondian Warforged Spells (3rd Level)
 
