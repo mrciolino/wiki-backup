@@ -2,7 +2,7 @@
 title: Three Year Timeskip
 description: The party splits up for three years
 published: true
-date: 2025-06-02T13:43:43.220Z
+date: 2025-06-02T13:44:10.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-02T13:25:52.186Z
@@ -42,3 +42,8 @@ Narascus establishes a cathedral worshipping Ry-ann, however it is run bu cleric
 
 ## Bazzert 
 Bazzert remains trapper in a coma after pulling a card. He remains asleep in a barrel, kept safe in Altricia.
+
+
+## Frederina
+Remains in the service of Krorg in Altricia
+
