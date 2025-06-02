@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T01:41:22.787Z
+date: 2025-06-02T01:42:08.502Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -11,7 +11,7 @@ dateCreated: 2025-06-02T00:31:19.494Z
 # Warforged Gondian Artificer
 *Prerequisite: Warforged*
 
-Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized artificers have integrated workshops, communication arrays, or flight systems directly into their bodies, becoming living embodiments of their chosen craft and architects of construct civilization.
+Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or flight systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization.
 
 ## Tool Proficiency
 
