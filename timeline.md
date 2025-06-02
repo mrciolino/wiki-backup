@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T17:58:56.950Z
+date: 2025-06-02T18:03:42.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -138,8 +138,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops carefully pulls another card, first giving all his possessions to Bazzvrah first. The card causes him to gain immense wealth.
   - Spoops pulls another card causing him to lose all his wealth.
   - Spoops is magically granted ownership of a castle in Bahryst.
-  - A giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
   - Narascus gets some spears.
+- On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her fisnt bone devil pet through the teleporter to pursue the party. It is initially stuck eithin thr portal room and has to claw its way out, giving thr party enough time to flee. Federina arrived just in time on her flying ship to pick up th party. They tied the carriage to the bottom of thr flying ship and departed.
+- The giant Bone Demon creature which serves Darmuth begins pursuing the party. They must use the flying ship to constantly put distance between them.
 - Dave Bones returns to life again.
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
