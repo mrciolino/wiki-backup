@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T13:58:32.536Z
+date: 2025-06-02T14:05:08.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -116,7 +116,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The party arrives at a tavern in Saragassa called The Whore's Nipple. At the tavern, Krorg begins spreading rumors that the Pirate King is going to make a major announcement tomorrow, which many pirates gain interest in. The next day, the Pirate King woke up and heard he was supposed to give a major annoucement but had no idea what was going on, and that is when Krorg approached him with the plan.
  - After a night of heavy drinking, Spoops ends up drunkenly preaching the good word of Ry-ann while wandering the alleys of Saragassa. He resurrects some random pirates he finds but they have no interest in hearing his sermon. He is approached by one person who wants to hear more, [Vesrahaan](/characters/Vesrahaan). She is a Yuan-ti woman from Wegate, who is a faithful worshipper of Ry-ann. They spend the next few hours talking about their shared religion and personal stories. 
  - The pirate king agrees to the plan to raid Altricia and assembles the pirate lords so that the strategizing may begin.
- - The party meets the Bugbear captain, one of the pirate lords.
+ - The party meets the Bugbear captain, one of the pirate lords. The party will be sailing on his ship as well as Dave Bones' ship.
  - While on Saragassa, the party finds an ancient ruin with a teleportation circle while exploring the jungle. They believe it to be related to Rathwing's cult.
   - The party acquires the Deck of Many Things and begins drawing cards.
   - Spoops pulls a card and acquires Dio the map.
