@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T19:20:02.171Z
+date: 2025-06-03T20:11:44.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -140,13 +140,17 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops and Meade are taken by The Emperor in their dreams. The Emperor makes them an offer to join him and survive, threatening that they dont stand a chance against him. Meade asks for proof, Upon which Spoops is instantly killed. 
 - Spoops's soul is suddenly thrust into the Astral plane. After a bit of floating around he is visited by The spirits of Krorg and Bomb. Krorg tells spoops that he is at peace now and he shouldnt try to bring him back. Bomb says he is also at peace and Spoops needs to let go of the pain of loosing him. Spoops thanks bomb and tells him unfortunately he died too. Bomb reminds Spoops to "Remember to love your friends" before asking Spoops why he doesnt just resurrect himself? Spoops realizes he should just do that! He casts animate dead on himself and pops back to life (still a skeleton).
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
-- The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
+- The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick.
+- They meet Tony Mozzarella and Steveo.
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Spoops uses a wish he gained from the deck of many things to wish for "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
 - Spoops receives the Anti-Magic Armor.
 - Bazzvrah receives The Blood Fury Tattoo
-- 
+- Narascus received Soverign Glue.
+- Os receives ?
+- Meade receives ?
+- Breezy-E receives ?
 - The party explores The Bastion of Tiyamani The Awesome in the Ashe Mountains north west of Fywick. They are searching for a magical item that can help them against Darmuth. They meet an archaeologist also exploring the ruins. The archaeologist's crew was all killed while in the ruins. Spoops uses Earth Terror to do some excavating. They find the shield generator and shield ring. They also find many soul crystals.
 - archaeologists: Miramz, Isrelda
 - magicorum enchantorom ?
