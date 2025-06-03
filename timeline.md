@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T15:22:15.360Z
+date: 2025-06-03T15:49:21.595Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -131,8 +131,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Spoops draws another card and gains three Wishes.
   - Spoops draws another card causing him to lose all his wealth.
   - Spoops draws another card, and is magically granted ownership of a castle in Bahryst.
+  - Spoops draws another card and has his bory charred as if by fire, glowing magical runes are inscribed all over his skeleton.
   - Narascus draws a card and is granted some magic spears.
-- On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up th party. They tied the carriage to the bottom of the flying ship and departed.
+- On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and departed.
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
 
 - Narascus is visited by a representative of The Emperor, they try to recruit him but he declines. 
