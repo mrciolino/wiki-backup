@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:12:27.839Z
+date: 2025-06-03T18:13:52.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -178,6 +178,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party goes into the caves under Hastow. 
 
 - In the cave system the party encounters Darmuth's forces.
+
+- The party finds Darmuth's Phylactery which is in the knot in the portal in the hole in the hat.
 
 - Drakham's mother Adalynn joins the party.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
