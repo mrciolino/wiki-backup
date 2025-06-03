@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:20:06.581Z
+date: 2025-06-03T14:22:49.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -122,8 +122,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
 - 
-- The party draws many cards from the Deck of Many Things.
-  - The party (Frederina) acquires a flying ship from the deck while in Gothriathon. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship. Frederina departs on this ship when sent back to Krorg by Os.
+- The party draws many cards from the Deck of Many Things while riding their carriage to Fywick.
+  - 
   - Breezy-E becomes blind, but gains infra-red vision.
   - Breezy-E receives a magical hourglass which counts down to some important event. In the future, the party would regularly check the hourglass, eventually finding it close to running out during the Ithilid War.
   - Spoops gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
