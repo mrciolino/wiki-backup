@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T03:00:29.103Z
+date: 2025-06-03T03:04:40.196Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -119,6 +119,8 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
     
 ## Crafting Time and Cost Calculation Guide 
 This guide explains how to calculate the time and cost required to craft items using your artisan tools, based on item rarity, character stats, upgrades, and teamwork.
+
+**👇 Click to View Guide 👇**
   </summary>
   
 ### Step-by-Step Crafting Time Calculation
