@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T20:11:44.528Z
+date: 2025-06-03T20:11:55.607Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -147,7 +147,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops uses a wish he gained from the deck of many things to wish for "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
 - Spoops receives the Anti-Magic Armor.
 - Bazzvrah receives The Blood Fury Tattoo
-- Narascus received Soverign Glue.
+- Narascus received Sovereign Glue.
 - Os receives ?
 - Meade receives ?
 - Breezy-E receives ?
