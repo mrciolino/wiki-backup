@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T01:33:08.868Z
+date: 2025-06-03T01:36:01.585Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -44,7 +44,6 @@ You always have certain spells prepared after you reach particular levels in thi
 | Integrated blessed workshop that deploys/retracts as an action. Double proficiency with smith's tools within 10 feet, craft holy items twice as fast. Includes consecrated furnace and storage for 10 blessed items. | Mobile relay tower integrated into your body. Telepathically communicate with linked nodes within 1 mile. Send magical coordination signals granting advantage on group tasks. | Compact automated workshop. Produce Tiny nonmagical items (Int mod per short rest). Bonus action to repair objects or grant advantage on tool checks. Includes micro-assemblers and component storage. |
 | **Unlock Basic Shrines**: Can construct Basic Shrines that provide necrotic resistance and death save advantages in 100 ft radius. | **Unlock Signal Beacons**: Can construct Signal Beacons that extend communication range and provide tactical coordination bonuses within 200 ft. | **Unlock Maintenance Stations**: Can construct Maintenance Stations that provide automated repair services and tool proficiency bonuses within 150 ft. |
 
----
 
 ## Level 5 Upgrades
 
@@ -55,7 +54,6 @@ You always have certain spells prepared after you reach particular levels in thi
 | Extra Attack while workshop is deployed. Workshop serves as divine focus and stores 3 blessed infusions. Can sanctify magical items and identify cursed objects.                            | Upgraded tower casts *Sending* (prof bonus/long rest) and detects all network nodes within 10 miles. Can coordinate multiple teams and relay complex information instantly.  | Craft items worth 25 gp during short rests. Animate two Tiny constructs for 1 hour (1/long rest). Create automated production sequences and quality control systems. |
 | **Unlock Advanced Shrines**: Can construct Advanced Shrines that provide +1 to all saves and daily *Sanctuary* effects in 200 ft radius. Enhanced by existing Basic Shrines in the network. | **Unlock Communication Arrays**: Can construct Communication Arrays that enable plane-wide messaging and provide intelligence gathering capabilities across unlimited range. | **Unlock Manufacturing Centers**: Can construct Manufacturing Centers that produce common magic items monthly and reduce crafting costs by 25% within 300 ft.        |
 
----
 
 ## Level 9 Upgrades
 
@@ -66,7 +64,6 @@ You always have certain spells prepared after you reach particular levels in thi
 | Workshop grants fire resistance and radiant damage to nearby allies. Cast *Heat Metal* (1/long rest) with holy damage and process celestial metals. Emergency construct blessings (2d8 + Int HP plus temporary divine ward, prof bonus/long rest). | Upgraded command center provides surveillance through entire network, seeing and hearing remotely across planes. Send burst alerts to all connected nodes simultaneously. Can establish communication blackouts in 100 ft radius. | Produce needed tools as a reaction (prof bonus/long rest). Gain two additional tool proficiencies. Create complex mechanisms in 10 minutes or break down items for component materials. |
 | **Unlock Grand Temples**: Can construct Grand Temples that provide immunity to charm/fear and weekly *Greater Restoration* in 500 ft radius. Powered by network of smaller shrines.                                                                | **Unlock Surveillance Networks**: Can construct Surveillance Networks that monitor entire regions and provide early warning systems with *Scrying* capabilities.                                                                  | **Unlock Automated Complexes**: Can construct Automated Complexes that operate independently, producing rare magic items and maintaining themselves without supervision.                |
 
----
 
 ## Level 15 Upgrades
 
