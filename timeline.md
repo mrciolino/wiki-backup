@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:12:07.105Z
+date: 2025-06-03T14:12:36.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -119,8 +119,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 ## The End of the Age of Mortals (0 AC)
   - [Reuniting in Gothriathon](/Events/reuniting-in-gothriathon)
   
-- Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage.  
-- The party's ship approaches Altricia only to see it engulfed in flames. They contact Krorg via speaking stone while he is in combat against Darmuth. The party hears him die as they witness the destruction of Altricia. Unable to face such a powerful enemy as they are now, they flee across the sea landing st thr shrine of torment before traveling by carriage to Kaltrosar Bay.
+-
 - The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
 - 
 - The party draws many cards from the Deck of Many Things.
