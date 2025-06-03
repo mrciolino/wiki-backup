@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T16:29:49.022Z
+date: 2025-06-03T16:32:07.213Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -156,7 +156,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus. Otto has his hands glued to the floor of Narascus' room during the interrogation.
 - [Mort](/characters/mort), disguised as an eccentric old man, is found in the arctic. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
 - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
-- Achilles joins the party. He tries to steal their dicks so thr party kills him. They bring him back to life and then he joins after settling down.
+- Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
 - The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again).
 - The party visits the Library dimension for the first time. 
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
