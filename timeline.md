@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T17:06:13.840Z
+date: 2025-06-03T17:14:52.783Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -161,6 +161,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party visits the Library dimension for the first time. 
 - The party finds assassination note mountain in the library dimension.
 - The party meets the tree of knowledge. Bazzvrah hires Mort to assassinate the tree for 1 gold, but after the tree slaps Mort down, Bazzvrah asks for his gold back and Mort cancels the contract.
+- The tree then speaks to the party saying that it can hear them and it seeks new tomes and knowledge for the library. The tree says thst it will accept a tribute of knowledge, and will even trade information if the provided knowledge is worth it.  It will only trade if the knowledge it receives is new, and it only trade its own knowledge for information it deems of equivalent or greater value than the knowledge the party seeks.
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
