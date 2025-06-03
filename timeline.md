@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:28:45.468Z
+date: 2025-06-03T14:31:22.568Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -120,9 +120,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Reuniting in Gothriathon](/Events/reuniting-in-gothriathon)
   - [The Death of Krorg](/Events/the-death-of-krorg)
 
-- The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
-- 
-- The party draws many cards from the Deck of Many Things while riding their carriage to Fywick.
+  - The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
+  - The party draws many cards from the Deck of Many Things while riding their carriage to Fywick.
   - 
   - Breezy-E draws a card which makes him normally blind, but grants him infra-red vision.
   - Breezy-E pulls another card, receiving a magical hourglass which counts down to some important event. In the future, the party would regularly check the hourglass, eventually finding it close to running out during the Ithilid War.
