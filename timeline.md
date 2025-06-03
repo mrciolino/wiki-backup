@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:31:22.568Z
+date: 2025-06-03T14:37:45.987Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -144,6 +144,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
 - Spoops uses a wish he gained from the deck of many things to wish for "all members of the party to each obtain a legendary magical item which would be the most useful for them". Spoops receives the Anti-Magic Armor.
 - [The Battle of Fywick](/Events/the-battle-of-fywick)
+- The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. Using Dio, they find the location of the ruby to be on a mountainside in the Celestial Vale to the west of Fywick. They find Ralindu Kosimostrovu Phorumdi the lich sealed inside the Ruby. Upon releasing him, he provides guidance to the party and accompanies them on the flying ship.
 - The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus. Otto has his hands glued to the floor of Narascus' room during the interrogation.
 - [Mort](/characters/mort), disguised as an eccentric old man, is found in the arctic. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
 - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
@@ -151,7 +152,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party visits the Library dimension for the first time. 
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
-- The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. They find Ralindu the lich sealed inside the Ruby.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - Aku is slain when the party drops dragon turtles on his castle.
