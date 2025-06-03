@@ -2,7 +2,7 @@
 title: Bazvrah 
 description: Bazz Bro Number 2, a Psychic Assassin
 published: true
-date: 2025-04-03T02:58:24.365Z
+date: 2025-06-03T21:34:22.452Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-15T02:33:03.646Z
@@ -112,7 +112,7 @@ Bazvrah's elite killing methods was due to a combination of traits and items whi
 
 
 ## The End of Bazvrah
-Upon the discover of the [Library-Dimension](/locations/Library-Dimension), Bazvrah made immidiate note of two things, the [Assassins-Guild](/organizations/assassins-guild) and the Tree of Knowledge. As travel through the dimension becomes increasingly difficult due to the long distances between areas and the parties fear of being lost out of time grew, Bazvrah made a devision to try to blend himeself innto the Tree and attempt to travel long distance amongst its root system. Being a druid he knew the spell `Tree Stride`. Upon entering the [Tree-of-Knowledge](/characters/Tree-of-Knowledge), Bazvrah fused with the tree and took over the position. 
+Upon the discover of the [Library-Dimension](/locations/Library-Dimension), Bazvrah made immidiate note of two things, the [Assassins-Guild](/organizations/assassins-guild) and the Tree of Knowledge. As travel through the dimension becomes increasingly difficult due to the long distances between areas and the parties fear of being lost out of time grew, Bazvrah made a devision to try to blend himeself into the Tree and attempt to travel long distance amongst its root system. Being a druid he knew the spell `Tree Stride`. Upon entering the [Tree-of-Knowledge](/characters/Tree-of-Knowledge), Bazvrah accidenetly fused with the tree and was forced to become the Tree of Knowledge. 
 
 🌱 **Final Fate:** Over many years, the Tree consumed Bazvrah’s personality, erasing him from time—leaving behind only the knowledge he contributed.
 
