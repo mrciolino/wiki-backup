@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T17:14:52.783Z
+date: 2025-06-03T17:23:21.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -162,6 +162,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party finds assassination note mountain in the library dimension.
 - The party meets the tree of knowledge. Bazzvrah hires Mort to assassinate the tree for 1 gold, but after the tree slaps Mort down, Bazzvrah asks for his gold back and Mort cancels the contract.
 - The tree then speaks to the party saying that it can hear them and it seeks new tomes and knowledge for the library. The tree says thst it will accept a tribute of knowledge, and will even trade information if the provided knowledge is worth it.  It will only trade if the knowledge it receives is new, and it only trade its own knowledge for information it deems of equivalent or greater value than the knowledge the party seeks.
+- Narascus offers to trade his Narascene Bible in exchange for information on Darmuth, in exhange the tree says this "THE NARASCUS BIBLE IS A TRADE I'M WILLING TO ACCEPT FOR ANOTHER PIECE OF KNOWLEDGE, SHE IS A LICH OF THE HIGHEST ORDER AND A MASTER OF MAGIC, SHE HAS MANY A MINION OF LYCANTHROPIC NATURE AND SHE BECOMES PREOCCUPIED ON FULL MOONS BY SPIRITUAL PRACTICES, SHE EXCHANGES ALL HER MAGICAL MIGHT PER FULL MOON TO CONTACT HER EXTERTERESTIAL GOD, IF YOU WISH FOR MORE I WOULD REQUIRE MORE NEW INFORMATION FOR THE TRADE OF KNOWLEDGE"
+- Narascus asks how he knows this information, the tree responds: "I HAVE THIS INFORMATION IN FORM OF HER DIARY. I HAVE ACCESS TO THE WRITTEN POWER WITHIN MY LIBRARY"
+- The party offers to trade information on bomb the bear for information on Darmuth's phylactery. The tree responds: "BOMB THE BEAR! I HAVE VERY FEW SOURCES ON THIS CHARACTER. HER PHALACTORY IS HIDDEN AND SHE DOESN'T DESCRIBE IT IN HER DIARY, ONLY MAKING REFERENCES TO SOMETHING IN HASTOW OF GREAT IMPORTANCE... ITHILID? ITHILID IS A PATRON OF MY KNOWLEDGE, HE IS THE EMPEROR OF THE ILLITHIDS. THE CUREENT RULER OF THE ILINOR IMPERIUM"
+- 
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
