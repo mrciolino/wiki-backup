@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:22:49.759Z
+date: 2025-06-03T14:26:30.546Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -124,14 +124,15 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - 
 - The party draws many cards from the Deck of Many Things while riding their carriage to Fywick.
   - 
-  - Breezy-E becomes blind, but gains infra-red vision.
-  - Breezy-E receives a magical hourglass which counts down to some important event. In the future, the party would regularly check the hourglass, eventually finding it close to running out during the Ithilid War.
-  - Spoops gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
-  - Breezy-E pulls a card that causes his personality to twist, giving him evil tendencies.
-  - Spoops carefully pulls another card, first giving all his possessions to Bazzvrah first. The card causes him to gain immense wealth.
-  - Spoops pulls another card causing him to lose all his wealth.
-  - Spoops is magically granted ownership of a castle in Bahryst.
-  - Narascus gets some spears.
+  - Breezy-E draws a card which makes him normally blind, but grants him infra-red vision.
+  - Breezy-E pulls another card, receiving a magical hourglass which counts down to some important event. In the future, the party would regularly check the hourglass, eventually finding it close to running out during the Ithilid War.
+  - Breezy-E pulls another card that causes his personality to twist, giving him evil tendencies.
+  - Spoops draws a card and gains "magic eyes" becoming able to see magic effects in the world around him, and can identify the type(s) of the magical spells and effects he sees.
+  - Spoops carefully draws another card, first giving all his possessions to Bazzvrah first. The card causes him to gain immense wealth.
+  - Spoops draws another card and gains three Wishes.
+  - Spoops draws another card causing him to lose all his wealth.
+  - Spoops draws another card, and is magically granted ownership of a castle in Bahryst.
+  - Narascus draws a card and is granted some magic spears.
 - On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up th party. They tied the carriage to the bottom of the flying ship and departed.
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
 
