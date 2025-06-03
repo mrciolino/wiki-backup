@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-02T19:32:20.828Z
+date: 2025-06-03T14:00:42.294Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -117,15 +117,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Three Year Timeskip](/Events/three-year-timeskip)
 
 ## The End of the Age of Mortals (0 AC)
-- After three years, Krorg is ready to go to war with Gothriathon over the economic situation. 
-- Bazzvrah joins the party.
-- Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
-- Os Gothriathon Faction: Os is the leader of a group affiliated with the southern provinces of Gothriathon. He has an army of dwarves.
-- Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. 
-- Dave Bones returns to life again.
-- Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Frederina is sent back to Krorg with a message of peace.
-- Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
-- Os, Meade, and the captured party come to terms. Os surrenders, asking that he he brought back to Alrricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
+
 - Darmuth is let into Altricia by a secret anti-Krorg coalition run by Queen Kayla. Krorg puts up a fight but ends up eaten by Darmuth's enormous bone dragon pet. Breaking her promise to Kayla, Darmuth then lays waste to Altricia. Kayla escapes with her son Krorgfrey and Krorg's bodyguard Knott Em'Portent back to [Krorg's Hometown](/locations/Mardun/north_geskoworm), but she dies on the voyage.  
 - The party's ship approaches Altricia only to see it engulfed in flames. They contact Krorg via speaking stone while he is in combat against Darmuth. The party hears him die as they witness the destruction of Altricia. Unable to face such a powerful enemy as they are now, they flee across the sea landing st thr shrine of torment before traveling by carriage to Kaltrosar Bay.
 - The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
