@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T17:32:38.962Z
+date: 2025-06-03T17:43:04.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -167,7 +167,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party offers to trade information on bomb the bear for information on Darmuth's phylactery. The tree responds: "BOMB THE BEAR! I HAVE VERY FEW SOURCES ON THIS CHARACTER. HER PHALACTORY IS HIDDEN AND SHE DOESN'T DESCRIBE IT IN HER DIARY, ONLY MAKING REFERENCES TO SOMETHING IN HASTOW OF GREAT IMPORTANCE... ITHILID? ITHILID IS A PATRON OF MY KNOWLEDGE, HE IS THE EMPEROR OF THE ILLITHIDS. THE CUREENT RULER OF THE ILINOR IMPERIUM"
 - Narascus then shows the tree what having sight is like by placint jis robe of eyes on its branch. The tree is overwhelmed by this new ability and makes the party an offer: "I WILL TRADE IT FOR FREE PASSAGE AGAINST MY LIBRARIANS. THE LIBRARIANS WILL AID YOU IN THEIR CAPACITY. IF YOU WISH TO BRING ME MORE KNOWLEDGE I WILL BE A POWERFUL ALLY. FOR THE FUTURE. A CONTINUING RELATIONSHIP"
 - Bazzvrah asked the tree how to read something and the tree responded: "I THINK YOU NEED THE ABILITY TO READ THE OLD TONGUES. ENTER MY BODY AND BEOME ONE WITH ME AND THE KNOWLEDGE"
-- Bazzvrah then casts tree stride and becomes one with the tree of knowledge. Grandpa Mort shouts out "Grandson No!!!" as he gently stabs the tree in defeat.
+- Bazzvrah then casts tree stride and becomes one with the tree of knowledge. Grandpa Mort shouts out "Grandson No!!!" as he gently stabs the tree in defeat. The party say their goodbyes to Bazzvrah as he is now the tree of knowledge. The  the party leaves the library, returning to Mardun.
+- The party seeks out Bazzalt, the third Bazz brother. They find him in the mountains near Inferno's rest. They use the memory device obtained from Rathwing to show Bazzalt everything that happened during the adventure so far.
+- After joining up with Bazzalt, the party journeys to Hastow to search for Darmuth's phylactery and investigate any Illithid activity.
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
