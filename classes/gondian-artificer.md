@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-02T13:46:49.030Z
+date: 2025-06-03T01:33:08.868Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -175,7 +175,7 @@ As a Gondian Warforged, you can construct buildings that serve warforged communi
 <details>
 	<summary> 
     
-## 🧪 **Example: Crafting a Rare Magic Item (Flame Tongue Sword)**
+## **Example: Crafting a Rare Magic Item (Flame Tongue Sword)**
 
   * **Character**: Gondian Warforged Artificer, Level 9 - Forge Master Path
   * **INT Modifier**: +4
