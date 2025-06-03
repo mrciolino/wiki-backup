@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:12:36.211Z
+date: 2025-06-03T14:20:06.581Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -118,8 +118,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 ## The End of the Age of Mortals (0 AC)
   - [Reuniting in Gothriathon](/Events/reuniting-in-gothriathon)
-  
--
+  - [The Death of Krorg](/Events/the-death-of-krorg)
+
 - The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
 - 
 - The party draws many cards from the Deck of Many Things.
