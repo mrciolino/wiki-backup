@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-03T20:16:22.677Z
+date: 2025-06-03T20:17:02.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -121,7 +121,7 @@ List of non-player-characters from both campaigns and some information about the
 ## Political & Military Leaders
 | Name | Role | Description |
 |------|------|-------------|
-| [Sun Phoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
+| [Suraeel SunPhoenix](/characters/Sun-Phoenix) | King of [Hellaress](/locations/Ereriad/Hellaress) | Killed by the Party with the [Witch King](/characters/bane), His Daughter was Kidnapped |
 | [Vilra SunPhoenix](/characters/Vilra-Sunphoenix) | Queen of Bahryst, Princess of [Hellaress](/locations/Ereriad/Hellaress) | Formerly of Hellaress, now married to Kierkegaard |
 | [Gith Anarch Kathor](/characters/gith-anarch-kathor) | Gith Leader | Representing the Gith Serai, and many Gith Yankii Survivors |
 | [Lucidel Illiard](/characters/illiard) | Noble Patron | A key contact in [Allford](/locations/Mardun/Allford) before its destruction. Guided the party to its power climb into defeatin the Ithilids |
