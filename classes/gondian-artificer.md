@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T02:08:12.789Z
+date: 2025-06-03T02:08:56.494Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -32,7 +32,7 @@ You always have certain spells prepared after you reach particular levels in thi
 
 As a Gondian Warforged, you can construct buildings that serve warforged communities. Construction requires tool proficiency, materials, labor, and skill checks (DC 12-20 based on complexity). All construction projects require 5 rolls above the DC check. Failed checks add 25% material cost or add 25% time (alternating). **Your upgrade path determines which structures you can build and their enhanced capabilities.**
 
-## Specialized Integration 
+# Specialized Integration 
 At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution. 
 
 **🔥 Forge Master**: Wields a deployable workshop embedded in their body, excelling in metalwork, melee support, and defensive utility through enhanced crafting and magical reinforcement. Masters the construction of **Sacred Structures** that provide spiritual protection and divine crafting capabilities.
@@ -82,7 +82,7 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 
 **Community Architect**: You can now construct **Master Complexes** that combine all three infrastructure types, providing community-wide benefits to all constructs within a 5-mile radius and supporting populations of 10,000+ constructs.
 
-# 🏛️ Master Complex
+## 🏛️ Master Complex
 
 | Structure      | Level | Time    | Cost       | Labor     | Check           | Effect                                                     |
 | -------------- | ----- | ------- | ---------- | --------- | --------------- | ------------------------------------- |
