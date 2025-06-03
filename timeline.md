@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T20:22:20.528Z
+date: 2025-06-03T20:22:38.691Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -216,8 +216,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party goes through the well and engage the Devastation Beetle, they manage to kill it. After defeating the creature, they find themselves outside the town of Goats Dick End.
 - The party travels to the closest major city: Hellaress.
 - The party gets an audience with the king due to them slaying the Devastation Beetle.
-- Investigating the Magic College of Highhold.
 - Quest to save the princess of hellaress
+- Investigating the Magic College of Highhold.
 - Magical College Porthy
 - [Escape From Sigil](/Events/escape-from-sigil)
 - Siege of the Witch King's castle
