@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:37:45.987Z
+date: 2025-06-03T14:38:14.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -137,7 +137,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - Narascus is visited by a representative of The Emperor, they try to recruit him but he declines. 
 - Spoops and Meade are taken by The Emperor in their dreams. The Emperor makes them an offer to join him and survive, threatening that they dont stand a chance against him. Meade asks for proof, Upon which Spoops is instantly killed. 
-- Spoops's soul is suddenly thrust into the Astral plane. After a bit of flosting sround he is visited by The spirits of Krorg and Bomb. Krorg tells spoops that he is at peace now and he shouldnt try to bring him back. Bomb says he is also at peace and Spoops needs to let go of the pain of loosing him. Spoops thanks bomb and tells him unfortunately he died too. Bomb asks Spoops why he doesnt just resurrect himself? Spoops reozes he should just do that! He casts animate dead on himself and pops back to life (still a skeleton).
+- Spoops's soul is suddenly thrust into the Astral plane. After a bit of floating around he is visited by The spirits of Krorg and Bomb. Krorg tells spoops that he is at peace now and he shouldnt try to bring him back. Bomb says he is also at peace and Spoops needs to let go of the pain of loosing him. Spoops thanks bomb and tells him unfortunately he died too. Bomb asks Spoops why he doesnt just resurrect himself? Spoops reozes he should just do that! He casts animate dead on himself and pops back to life (still a skeleton).
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
