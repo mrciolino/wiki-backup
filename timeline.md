@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:41:49.615Z
+date: 2025-06-03T18:49:59.770Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -193,6 +193,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - While flying over the dragon sea, the party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - Aku is slain when the party drops dragon turtles on his castle.
+- The party isnin some dungeon somewhere. Spoops finds a bunch of corpses and makes a bone giant. 
+- The party finds many magic items
+- Items Found: flask thst turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses,
+
 - Assault on Darmuth Begins
 - The party arrive above Altricia in their flying ship. 
 - The party tries to evacuate who they can from Altricia prior to engaging Darmuth.
