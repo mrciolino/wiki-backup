@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T13:31:24.971Z
+date: 2025-06-03T13:31:44.419Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -16,7 +16,7 @@ Forged by the legendary artificer Bazzdos, the Gondian Warforged are living cons
 
 **🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
 **🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity.
-**🏛️ Community Building**: You can build shrines, facilities, and support structures for warforged and constructs. Projects require tool proficiency, materials, labor, and 5 successful checks (DC 12–20). Failed checks alternate between +25% cost and +25% time. Your specialized integration unlocks specific structures that can be constructed.
+**🏛️ Community Buildings**: You can build shrines, facilities, and support structures for warforged and constructs. Projects require tool proficiency, materials, labor, and 5 successful checks (DC 12–20). Failed checks alternate between +25% cost and +25% time. Your specialized integration unlocks specific structures that can be constructed.
 
 ## Spells
 
@@ -75,7 +75,7 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 
 **Gondian Master:** You have achieved your ultimate mastery as a Gondian Warforged, integrating multiple disciplines into your living design. **Select 2 more upgrades**, respecting the same rules as above. At this point you should have 6 total upgrades.
 
-**Community Architect**: You can now construct **Integrated Metropolis** that combine all three infrastructure types, providing community-wide benefits to all constructs within a 5-mile radius and supporting populations of 10,000+ constructs.
+**Community Architect**: You can now construct **Integrated Metropolis** that combines all three infrastructure types, providing community-wide benefits to all constructs within a 5-mile radius and supporting populations of 10,000+ constructs.
 
 | Structure      | Level | Time    | Cost       | Labor     | Check           | Effect                                                     |
 | -------------- | ----- | ------- | ---------- | --------- | --------------- | ------------------------------------- |
