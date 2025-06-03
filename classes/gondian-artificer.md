@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T02:08:56.494Z
+date: 2025-06-03T02:12:17.520Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -80,9 +80,7 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 
 **Gondian Master:** You have achieved your ultimate mastery as a Gondian Warforged, integrating multiple disciplines into your living design. **Select 2 more upgrades**, respecting the same rules as above. At this point you should have 6 total upgrades.
 
-**Community Architect**: You can now construct **Master Complexes** that combine all three infrastructure types, providing community-wide benefits to all constructs within a 5-mile radius and supporting populations of 10,000+ constructs.
-
-## 🏛️ Master Complex
+**Community Architect**: You can now construct **Integrated Metropolis** that combine all three infrastructure types, providing community-wide benefits to all constructs within a 5-mile radius and supporting populations of 10,000+ constructs.
 
 | Structure      | Level | Time    | Cost       | Labor     | Check           | Effect                                                     |
 | -------------- | ----- | ------- | ---------- | --------- | --------------- | ------------------------------------- |
