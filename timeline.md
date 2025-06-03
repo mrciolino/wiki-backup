@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T14:58:15.502Z
+date: 2025-06-03T15:00:43.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -142,7 +142,11 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick. 
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
 - Frederina's Betrayal: After battling Frederina, Meade departs the party and creates the "Three Swishes" bar in Fywick.
-- Spoops uses a wish he gained from the deck of many things to wish for "all members of the party to each obtain a legendary magical item which would be the most useful for them". Spoops receives the Anti-Magic Armor.
+- Spoops uses a wish he gained from the deck of many things to wish for "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
+- Spoops receives the Anti-Magic Armor.
+- Bazzvrah receives The Bloodfury Tattoo
+- 
+
 - [The Battle of Fywick](/Events/the-battle-of-fywick)
 - The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. Using Dio, they find the location of the ruby to be on a mountainside in the Celestial Vale to the west of Fywick. They find Ralindu Kosimostrovu Phorumdi the lich sealed inside the Ruby. Upon releasing him, he provides guidance to the party and accompanies them on the flying ship.
 - The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus. Otto has his hands glued to the floor of Narascus' room during the interrogation.
