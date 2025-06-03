@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:49:59.770Z
+date: 2025-06-03T18:51:29.429Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -196,7 +196,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party isnin some dungeon somewhere. Spoops finds a bunch of corpses and makes a bone giant. 
 - The party finds many magic items
 - Items Found: flask thst turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses,
-
+- the party encounters a mirror that shows a version of you that is oppositely aligned.
 - Assault on Darmuth Begins
 - The party arrive above Altricia in their flying ship. 
 - The party tries to evacuate who they can from Altricia prior to engaging Darmuth.
