@@ -2,14 +2,16 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-05-21T15:05:51.599Z
+date: 2025-06-03T16:31:18.976Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
 ---
 
 # The Ice Castle of Bahryst
-The party travels to the city of Bahryst to investigate the castle Spoops was granted by the deck of many things. Upon arrival they discover the castle has been tsken over by an evil wizard named Fiad.
+The party travels to the city of Bahryst to investigate the castle Spoops was granted by the deck of many things. Upon arrival they discover the castle has been tsken over by an evil wizard named Fiad. 
+
+The party meets Tamara Strenger, another member of thr Guardison family.
 
 ## The Lycanthropy Problem and Start of Spoops' Paladin Order
 When the party found out from the innkeeper that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard Fiad who recently took over the castle, the party rallied the townsfolk around the filthy fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing the polluted water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer. A few other citizens stepped forward to become paladins, namely Ghazali, Niebhur, Tilich, Luther, and Wolterstoff. Spoops trained them in the basics and together they permanantly purified the cities water.
