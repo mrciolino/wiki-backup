@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T01:36:01.585Z
+date: 2025-06-03T02:08:12.789Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -13,19 +13,6 @@ dateCreated: 2025-06-02T00:31:19.494Z
 
 Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or flight systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization.
 
-## Tool Proficiency
-
-**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
-**🧰 Crafting**: You can now craft non-magical and magical items using your chosen artisan's tools. Follow the **Crafting Rules** at the bottom of this page.
-**🏛️ Community Building**: You can construct sacred shrines, community structures, and maintenance facilities that benefit warforged and construct communities. See the **Community Infrastructure** section below.
-
-## Specialized Integration 
-At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution. 
-
-**🔥 Forge Master**: Wields a deployable workshop embedded in their body, excelling in metalwork, melee support, and defensive utility through enhanced crafting and magical reinforcement. Masters the construction of **Sacred Structures** that provide spiritual protection and divine crafting capabilities.
-**📡 Network Architect**: Integrates a communication tower to enable telepathic messaging, battlefield surveillance, and wide-area control using arcane signal manipulation. Specializes in building **Communication Networks** that link communities across vast distances.
-**⚡ Fabricator**: Houses a compact workshop for rapid creation of tools, traps, and constructs, specializing in on-the-fly invention and adaptive problem-solving. Focuses on **Industrial Infrastructure** that supports mass production and automated systems.
-
 ## Spells
 
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Warforged Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
@@ -35,44 +22,59 @@ You always have certain spells prepared after you reach particular levels in thi
 | Spell 1     | *Identify* | *Heat Metal* | *Sending*  | *Fabricate*  | *Creation*             |
 | Spell 2     | *Shield*   | *Misty Step* | *Tiny Hut* | *Arcane Eye* | *Teleportation Circle* |
 
-## Level 3 Upgrades
+## Tool Proficiency
 
+**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
+**🧰 Crafting**: You can now craft non-magical and magical items using your chosen artisan's tools. Follow the **Crafting Rules** at the bottom of this page.
+**🏛️ Community Building**: You can construct sacred shrines, community structures, and maintenance facilities that benefit warforged and construct communities. See the **Community Infrastructure** section below.
+
+## Community Infrastructure
+
+As a Gondian Warforged, you can construct buildings that serve warforged communities. Construction requires tool proficiency, materials, labor, and skill checks (DC 12-20 based on complexity). All construction projects require 5 rolls above the DC check. Failed checks add 25% material cost or add 25% time (alternating). **Your upgrade path determines which structures you can build and their enhanced capabilities.**
+
+## Specialized Integration 
+At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution. 
+
+**🔥 Forge Master**: Wields a deployable workshop embedded in their body, excelling in metalwork, melee support, and defensive utility through enhanced crafting and magical reinforcement. Masters the construction of **Sacred Structures** that provide spiritual protection and divine crafting capabilities.
+**📡 Network Architect**: Integrates a communication tower to enable telepathic messaging, battlefield surveillance, and wide-area control using arcane signal manipulation. Specializes in building **Communication Networks** that link communities across vast distances.
+**⚡ Fabricator**: Houses a compact workshop for rapid creation of tools, traps, and constructs, specializing in on-the-fly invention and adaptive problem-solving. Focuses on **Industrial Infrastructure** that supports mass production and automated systems.
+
+
+## Level 3 Upgrades
 *(Select 1)*
 
-| 🔥 Forge Master: Sacred Workshop | 📡 Network Architect: Communication Node | ⚡ Fabricator: Production Unit |
-| ------------------------------- | ------------------------------------ | ----------------------------- |
-| Integrated blessed workshop that deploys/retracts as an action. Double proficiency with smith's tools within 10 feet, craft holy items twice as fast. Includes consecrated furnace and storage for 10 blessed items. | Mobile relay tower integrated into your body. Telepathically communicate with linked nodes within 1 mile. Send magical coordination signals granting advantage on group tasks. | Compact automated workshop. Produce Tiny nonmagical items (Int mod per short rest). Bonus action to repair objects or grant advantage on tool checks. Includes micro-assemblers and component storage. |
-| **Unlock Basic Shrines**: Can construct Basic Shrines that provide necrotic resistance and death save advantages in 100 ft radius. | **Unlock Signal Beacons**: Can construct Signal Beacons that extend communication range and provide tactical coordination bonuses within 200 ft. | **Unlock Maintenance Stations**: Can construct Maintenance Stations that provide automated repair services and tool proficiency bonuses within 150 ft. |
-
+| Subclass | Core Features | Unlockable Structure |
+| -------- | ------------- | -------------------- |
+| **🔥 Forge Master**<br>**Sacred Workshop**     | - **Deployable blessed workshop** with **smith’s tools double proficiency** within 10 ft.<br>- **Craft holy items twice as fast**.<br>- Contains **furnace and storage for 10 blessed items**. | **Basic Shrine**<br>*Provides necrotic resistance and death save advantage in a 100 ft radius.*<br>**Details:**<br>**Level:** 3+ · **Time:** 2 wks · **Cost:** 200 gp · **Labor:** 1 artisan · **Check:** Religion DC 12<br>**Effect:** 100 ft: Advantage on death saves, necrotic resistance on long rests.<br>**Network Bonus:** Each connected shrine extends range by 50 ft.       |
+| **📡 Network Architect**<br>**Communication Node** | - **Integrated relay tower enables telepathy within 1 mile**.<br>- **Send magical signals for advantage on group tasks**.<br>- Functions as a **tactical coordination hub**. | **Signal Beacon**<br>*Extends communication and coordination bonuses in a 200 ft radius.*<br>**Details:**<br>**Level:** 3+ · **Time:** 3 wks · **Cost:** 300 gp · **Labor:** 2 artisans · **Check:** Arcana DC 12<br>**Effect:** 200 ft: +2 to group initiative, extends personal comms to 5 miles.<br>**Network Bonus:** Beacons relay messages to extend range exponentially.        |
+| **⚡ Fabricator**<br>**Production Unit**       | - **Compact automated workshop creates Tiny nonmagical items** (**INT mod/rest**).<br>- **Bonus action repairs and tool check advantage**.<br>- Includes **micro-assemblers and component storage**. | **Maintenance Station**<br>*Provides automated repairs and tool proficiency bonuses in a 150 ft radius.*<br>**Details:**<br>**Level:** 3+ · **Time:** 2 wks · **Cost:** 250 gp · **Labor:** 1 artisan · **Check:** Tools DC 12<br>**Effect:** 150 ft: Repairs 1 HP/hour to constructs/objects, +2 tool bonuses.<br>**Network Bonus:** Stations share maintenance data and spare parts. |
 
 ## Level 5 Upgrades
-
 *(Select 1, must have 3rd-level upgrade from the same path, can select previous upgrade levels)*
 
-| 🔥 Forge Master: Divine Anvil | 📡 Network Architect: Relay Hub | ⚡ Fabricator: Assembly Line |
-| ------------------------------- | ------------------------------------ | ----------------------------- |
-| Extra Attack while workshop is deployed. Workshop serves as divine focus and stores 3 blessed infusions. Can sanctify magical items and identify cursed objects.                            | Upgraded tower casts *Sending* (prof bonus/long rest) and detects all network nodes within 10 miles. Can coordinate multiple teams and relay complex information instantly.  | Craft items worth 25 gp during short rests. Animate two Tiny constructs for 1 hour (1/long rest). Create automated production sequences and quality control systems. |
-| **Unlock Advanced Shrines**: Can construct Advanced Shrines that provide +1 to all saves and daily *Sanctuary* effects in 200 ft radius. Enhanced by existing Basic Shrines in the network. | **Unlock Communication Arrays**: Can construct Communication Arrays that enable plane-wide messaging and provide intelligence gathering capabilities across unlimited range. | **Unlock Manufacturing Centers**: Can construct Manufacturing Centers that produce common magic items monthly and reduce crafting costs by 25% within 300 ft.        |
-
+| Subclass | Core Features | Unlockable Structure |
+| -------- | ------------- | -------------------- |
+| **🔥 Forge Master**<br>**Divine Anvil**     | - **Extra Attack** while workshop is deployed.<br>- Workshop serves as **divine focus** storing **3 blessed infusions**.<br>- **Sanctify magical items** and **identify cursed objects**. | **Advanced Shrine**<br>*Provides +1 to all saves and daily Sanctuary effects in a 200 ft radius.*<br>**Details:**<br>**Level:** 5+ · **Time:** 6 wks · **Cost:** 800 gp · **Labor:** 2 artisans · **Check:** Religion DC 15<br>**Effect:** 200 ft: Basic Shrine + all saves +1, *Sanctuary* 1/day.<br>**Network Bonus:** Can channel power through Basic Shrines to double range.       |
+| **📡 Network Architect**<br>**Relay Hub** | - Cast ***Sending*** **(prof bonus/long rest)** and **detect network nodes within 10 miles**.<br>- **Coordinate multiple teams** simultaneously.<br>- **Relay complex information** instantly. | **Communication Array**<br>*Enables plane-wide messaging and intelligence gathering across unlimited range.*<br>**Details:**<br>**Level:** 5+ · **Time:** 8 wks · **Cost:** 1,200 gp · **Labor:** 4 artisans · **Check:** Arcana DC 15<br>**Effect:** Plane-wide messaging, *Sending* spell 3/day to anyone on network.<br>**Network Bonus:** Multiple arrays create redundant links and intelligence gathering.        |
+| **⚡ Fabricator**<br>**Assembly Line**       | - **Craft items worth 25 gp** during short rests.<br>- **Animate two Tiny constructs** for 1 hour (1/long rest).<br>- Create **automated production sequences** and **quality control systems**. | **Manufacturing Center**<br>*Produces common magic items monthly and reduces crafting costs in a 300 ft radius.*<br>**Details:**<br>**Level:** 5+ · **Time:** 6 wks · **Cost:** 1,000 gp · **Labor:** 3 artisans · **Check:** Tools DC 15<br>**Effect:** 300 ft: Produces 1 common magic item/month, 25% crafting cost reduction.<br>**Network Bonus:** Centers coordinate production and share blueprints. |
 
 ## Level 9 Upgrades
-
 *(Select 1, must have 3rd and 5th-level upgrades from the same path, can select previous upgrade levels)*
 
-| 🔥 Forge Master: Consecrated Forge | 📡 Network Architect: Command Center | ⚡ Fabricator: Automated Factory |
-| ------------------------------- | ------------------------------------ | ----------------------------- |
-| Workshop grants fire resistance and radiant damage to nearby allies. Cast *Heat Metal* (1/long rest) with holy damage and process celestial metals. Emergency construct blessings (2d8 + Int HP plus temporary divine ward, prof bonus/long rest). | Upgraded command center provides surveillance through entire network, seeing and hearing remotely across planes. Send burst alerts to all connected nodes simultaneously. Can establish communication blackouts in 100 ft radius. | Produce needed tools as a reaction (prof bonus/long rest). Gain two additional tool proficiencies. Create complex mechanisms in 10 minutes or break down items for component materials. |
-| **Unlock Grand Temples**: Can construct Grand Temples that provide immunity to charm/fear and weekly *Greater Restoration* in 500 ft radius. Powered by network of smaller shrines.                                                                | **Unlock Surveillance Networks**: Can construct Surveillance Networks that monitor entire regions and provide early warning systems with *Scrying* capabilities.                                                                  | **Unlock Automated Complexes**: Can construct Automated Complexes that operate independently, producing rare magic items and maintaining themselves without supervision.                |
-
+| Subclass | Core Features | Unlockable Structure |
+| -------- | ------------- | -------------------- |
+| **🔥 Forge Master**<br>**Consecrated Forge**     | - Workshop grants **fire resistance** and **radiant damage** to nearby allies.<br>- Cast ***Heat Metal*** **(1/long rest)** with **holy damage**.<br>- **Emergency construct blessings** (2d8 + INT HP + divine ward, prof bonus/long rest). | **Grand Temple**<br>*Provides immunity to charm/fear and weekly Greater Restoration in a 500 ft radius.*<br>**Details:**<br>**Level:** 9+ · **Time:** 20 wks · **Cost:** 5,000 gp · **Labor:** 5 artisans · **Check:** Religion DC 18<br>**Effect:** 500 ft: Previous + charm/fear immunity, *Greater Restoration* 1/week.<br>**Network Bonus:** All connected shrines gain Grand Temple's immunities.       |
+| **📡 Network Architect**<br>**Command Center** | - **Surveillance through entire network** with **remote sight/hearing across planes**.<br>- **Send burst alerts** to all connected nodes simultaneously.<br>- **Establish communication blackouts** in 100 ft radius. | **Surveillance Network**<br>*Monitors entire regions with early warning systems and Scrying capabilities.*<br>**Details:**<br>**Level:** 9+ · **Time:** 16 wks · **Cost:** 6,000 gp · **Labor:** 6 artisans** · **Check:** Arcana DC 18<br>**Effect:** 1-mile detection radius, *Scrying* 1/day on network areas, early warning system.<br>**Network Bonus:** Connected networks share surveillance data across unlimited range.        |
+| **⚡ Fabricator**<br>**Automated Factory**       | - **Produce needed tools as reaction** (prof bonus/long rest).<br>- Gain **two additional tool proficiencies**.<br>- **Create complex mechanisms in 10 minutes** or **break down items** for materials. | **Automated Complex**<br>*Self-operating facility producing uncommon magic items and managing resource distribution.*<br>**Details:**<br>**Level:** 9+ · **Time:** 12 wks · **Cost:** 4,000 gp · **Labor:** 4 artisans** · **Check:** Arcana DC 16<br>**Effect:** Self-operating facility, produces uncommon magic items monthly, manages local resource distribution.<br>**Network Bonus:** Complexes form supply chains and automated trade networks. |
 
 ## Level 15 Upgrades
-
 *(Select 1, must have 3rd, 5th, and 9th-level upgrades from the same path, can select previous upgrade levels)*
 
-| 🔥 Forge Master: Divine Conduit | 📡 Network Architect: Planar Network | ⚡ Fabricator: Master Foundry |
-| ------------------------------- | ------------------------------------ | ----------------------------- |
-| Legendary consecrated forge grants resistance to nonmagical physical damage. Instantly craft blessed items worth 100 gp (1/long rest). Store 5 divine artifacts and create temporary holy shields (+2 AC, radiant damage on hit). | Communicate telepathically with any creature you've met across planes. Cast *Teleportation Circle* using any network node as destination (1/long rest). Translate all languages and establish permanent planar links. | Proficiency with all artisan's tools. Instantly fabricate complex devices worth 500 gp (1/long rest). Mass-produce items and create single-use magical contraptions. |
-| **Unlock Divine Forge-Shrines**: Can construct Divine Forge-Shrines that create +1 holy weapons monthly and provide *Resurrection* services. Network effects multiply across all connected sacred sites. | **Unlock Interdimensional Gateways**: Can construct Interdimensional Gateways that enable instant travel between connected nodes and facilitate planar commerce and diplomacy. | **Unlock Legendary Foundries**: Can construct Legendary Foundries that produce very rare magic items and serve as research centers for new magical technologies. All connected facilities share production capabilities. |
+| Subclass | Core Features | Unlockable Structure |
+| -------- | ------------- | -------------------- |
+| **🔥 Forge Master**<br>**Divine Conduit**     | - **Legendary forge** grants **resistance to nonmagical physical damage**.<br>- **Instantly craft blessed items worth 100 gp** (1/long rest).<br>- **Store 5 divine artifacts** and create **temporary holy shields** (+2 AC, radiant damage on hit). | **Divine Forge-Shrine**<br>*Creates +1 holy weapons monthly and provides Resurrection services.*<br>**Details:**<br>**Level:** 15+ · **Time:** 30 wks · **Cost:** 15,000 gp · **Labor:** 8 artisans* · **Check:** Religion DC 20<br>**Effect:** Grand Temple + create +1 holy items monthly, *Resurrection* 1/month.<br>**Network Bonus:** Each shrine in network can contribute to resurrection rituals.       |
+| **📡 Network Architect**<br>**Planar Network** | - **Telepathic communication** with **any creature you've met across planes**.<br>- Cast ***Teleportation Circle*** **using any network node** as destination (1/long rest).<br>- **Translate all languages** and **establish permanent planar links**. | **Interdimensional Gateway**<br>*Enables instant travel between connected nodes and facilitates planar commerce.*<br>**Details:**<br>**Level:** 15+ · **Time:** 40 wks · **Cost:** 25,000 gp · **Labor:** 10 artisans*** · **Check:** Arcana DC 20<br>**Effect:** Permanent teleportation between connected gateways, planar commerce hub.<br>**Network Bonus:** Each gateway increases network's planar reach and dimensional stability.        |
+| **⚡ Fabricator**<br>**Master Foundry**       | - **Proficiency with all artisan's tools**.<br>- **Instantly fabricate complex devices worth 500 gp** (1/long rest).<br>- **Mass-produce items** and create **single-use magical contraptions**. | **Legendary Foundry**<br>*Produces very rare magic items and serves as research center for new magical technologies.*<br>**Details:**<br>**Level:** 15+ · **Time:** 25 wks · **Cost:** 20,000 gp · **Labor:** 8 artisans*** · **Check:** Arcana DC 20<br>**Effect:** Creates very rare magic items quarterly, magical research center, trains new artificers.<br>**Network Bonus:** All foundries share research data and can collaborate on legendary item creation. |
 
 ## Level 20: Master of Invention
 
@@ -80,42 +82,7 @@ You always have certain spells prepared after you reach particular levels in thi
 
 **Community Architect**: You can now construct **Master Complexes** that combine all three infrastructure types, providing community-wide benefits to all constructs within a 5-mile radius and supporting populations of 10,000+ constructs.
 
-# 🏛️ Community Infrastructure
-
-As a Gondian Warforged, you can construct buildings that serve warforged communities. Construction requires tool proficiency, materials, labor, and skill checks (DC 12-20 based on complexity). All construction projects require 5 rolls above the DC check. Failed checks add 25% material cost or add 25% time (alternating). **Your upgrade path determines which structures you can build and their enhanced capabilities.**
-
-
-## Sacred Structures (Forge Master Path)
-
-| Structure           | Level | Time   | Cost      | Labor        | Check          | Effect                                                               |
-| ------------------- | ----- | ------ | --------- | ------------ | -------------- | --------------------------------------------- |
-| Basic Shrine        | 3+    | 2 wks  | 200 gp    | 1 artisan    | Religion DC 12 | 100 ft: Advantage on death saves, necrotic resistance on long rests. **Network Bonus**: Each connected shrine extends range by 50 ft.  |
-| Advanced Shrine     | 5+    | 6 wks  | 800 gp    | 2 artisans   | Religion DC 15 | 200 ft: Basic Shrine + all saves +1, *Sanctuary* 1/day. **Network Bonus**: Can channel power through Basic Shrines to double range. |
-| Grand Temple        | 9+    | 20 wks | 5,000 gp  | 5 artisans   | Religion DC 18 | 500 ft: Previous + charm/fear immunity, *Greater Restoration* 1/week. **Network Bonus**: All connected shrines gain Grand Temple's immunities. |
-| Divine Forge-Shrine | 15+   | 30 wks | 15,000 gp | 8 artisans\* | Religion DC 20 | Grand Temple + create +1 holy items monthly, *Resurrection* 1/month. **Network Bonus**: Each shrine in network can contribute to resurrection rituals. |
-
-
-## Communication Networks (Network Architect Path)
-
-| Structure            | Level | Time   | Cost      | Labor                | Check         | Effect                                                |
-| -------------------- | ----- | ------ | --------- | -------------------- | ------------- | -------------------------- |
-| Signal Beacon | 3+ | 3 wks  | 300 gp    | 2 artisans | Arcana DC 12   | 200 ft: Tactical coordination (+2 to group initiative), extends personal communication range to 5 miles. **Network Bonus**: Beacons relay messages to extend range exponentially. |
-| Communication Array | 5+    | 8 wks  | 1,200 gp  | 4 artisans | Arcana DC 15 | Plane-wide messaging, *Sending* spell 3/day to anyone on network. **Network Bonus**: Multiple arrays create redundant communication links and intelligence gathering capabilities. |
-| Surveillance Network | 9+ | 16 wks | 6,000 gp  | 6 artisans\*\* | Arcana DC 18  | 1-mile detection radius, *Scrying* 1/day on network areas, early warning system. **Network Bonus**: Connected networks share surveillance data across unlimited range. |
-| Interdimensional Gateway | 15+ | 40 wks | 25,000 gp | 10 artisans\*\*\* | Arcana DC 20  | Permanent teleportation between connected gateways, planar commerce hub. **Network Bonus**: Each gateway increases network's planar reach and dimensional stability. |
-
-
-## Industrial Infrastructure (Fabricator Path)
-
-| Structure      | Level | Time    | Cost       | Labor     | Check           | Effect                                                     |
-| -------------- | ----- | ------- | ---------- | --------- | --------------- | ------------------------------------ |
-| Maintenance Station | 3+   | 2 wks | 250 gp | 1 artisan | Tools DC 12 | 150 ft: Automated repairs (1 hit point per hour to objects/constructs), tool proficiency bonuses (+2). **Network Bonus**: Stations share maintenance schedules and spare parts. |
-| Manufacturing Center | 5+   | 6 wks | 1,000 gp | 3 artisans | Tools DC 15 | 300 ft: Produces 1 common magic item/month, 25% crafting cost reduction. **Network Bonus**: Centers coordinate production to fulfill complex orders and share blueprints. |
-| Automated Complex | 9+   | 12 wks | 4,000 gp | 4 artisans\*\* | Arcana DC 16 | Self-operating facility, produces uncommon magic items monthly, manages local resource distribution. **Network Bonus**: Complexes form supply chains and automated trade networks. |
-| Legendary Foundry | 15+   | 25 wks | 20,000 gp | 8 artisans\*\*\* | Arcana DC 20 | Creates very rare magic items quarterly, magical research center, trains new artificers. **Network Bonus**: All foundries share research data and can collaborate on legendary item creation. |
-
-
-## Master Complex
+# 🏛️ Master Complex
 
 | Structure      | Level | Time    | Cost       | Labor     | Check           | Effect                                                     |
 | -------------- | ----- | ------- | ---------- | --------- | --------------- | ------------------------------------- |
@@ -138,7 +105,6 @@ As a Gondian Warforged, you can construct buildings that serve warforged communi
 | Artifact         | —         | DM's discretion | 50,000+ gp        | 20th+ level    | May require divine or quest aid      |
 | Adapt Magic Item | Any       | 75% of above    | 125% of base cost | Same as rarity | Source item consumed; faster process |
 
-
 ## Crafting & Construction Modifiers
 
 | Modifier Source                          | Type                | Affected Area                 | Effect                            |
@@ -152,8 +118,6 @@ As a Gondian Warforged, you can construct buildings that serve warforged communi
 | 🏗️ Network Architect Infrastructure    | Construction Time   | Communication Networks        | -20% time, +5 to Arcana checks    |
 | 🏗️ Fabricator Infrastructure | Construction Time | Industrial Infrastructure | -25% time, +5 to tool checks |
 | 🔧 Path-Specific Upgrades  | Crafting Time       | Specialty items by path        | Varies by upgrade (2×-4× speed bonuses) |
-
-
 
 ## Step-by-Step Crafting Time Calculation
 
