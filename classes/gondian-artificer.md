@@ -2,16 +2,17 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T13:21:15.430Z
+date: 2025-06-03T13:29:43.842Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
 ---
 
 # Warforged Gondian Artificer
-*Prerequisite: Warforged*
+***Prerequisite**: Warforged*
+***Source**: Original design by [Bazzdos](/characters/bazzdos).*
 
-Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or flight systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization.
+Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or flight systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization. When you select this subclass at the thrid level you gain the following improvements.
 
 **🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
 **🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity.
@@ -191,6 +192,3 @@ This guide explains how to calculate the time and cost required to craft items u
 
 The holy Flame Tongue Sword takes **4 days** to craft at a cost of **1,250 gp**, thanks to high INT, divine workshop access, Sacred Structure network bonuses, Divine Anvil upgrade specialization, and artisan teamwork.
 </details>
-
----
-*Source: Original design by [Bazzdos](/characters/bazzdos).*
