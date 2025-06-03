@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T02:56:06.403Z
+date: 2025-06-03T02:56:42.273Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -13,6 +13,10 @@ dateCreated: 2025-06-02T00:31:19.494Z
 
 Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or flight systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization.
 
+**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
+**🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity.
+**🏛️ Community Building**: You can build shrines, facilities, and support structures for warforged and constructs. Projects require tool proficiency, materials, labor, and 5 successful checks (DC 12–20). Failed checks alternate between +25% cost or time. Your specialized integration unlocks specific structures and enhancements.
+
 ## Spells
 
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Warforged Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
@@ -22,11 +26,6 @@ You always have certain spells prepared after you reach particular levels in thi
 | Spell 1     | *Identify* | *Heat Metal* | *Sending*  | *Fabricate*  | *Creation*             |
 | Spell 2     | *Shield*   | *Misty Step* | *Tiny Hut* | *Arcane Eye* | *Teleportation Circle* |
 
-## Tool Proficiency
-
-**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
-**🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity.
-**🏛️ Community Building**: You can build shrines, facilities, and support structures for warforged and constructs. Projects require tool proficiency, materials, labor, and 5 successful checks (DC 12–20). Failed checks alternate between +25% cost or time. Your specialized integration unlocks specific structures and enhancements.
 
 # Specialized Integration 
 At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution. 
