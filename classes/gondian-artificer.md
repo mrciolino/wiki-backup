@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T02:16:16.340Z
+date: 2025-06-03T02:56:06.403Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -25,8 +25,8 @@ You always have certain spells prepared after you reach particular levels in thi
 ## Tool Proficiency
 
 **🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
-**🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity. Use the **Crafting Rules** at the bottom of this page to determine time requirements, cost reductions, assistance bonuses, and check DCs.
-**🏛️ Community Building**: You can build shrines, facilities, and support structures for warforged and constructs. Projects require tool proficiency, materials, labor, and 5 successful checks (DC 12–20). Failed checks alternate between +25% cost or time. **Your upgrade path unlocks specific structures and enhancements.**
+**🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity.
+**🏛️ Community Building**: You can build shrines, facilities, and support structures for warforged and constructs. Projects require tool proficiency, materials, labor, and 5 successful checks (DC 12–20). Failed checks alternate between +25% cost or time. Your specialized integration unlocks specific structures and enhancements.
 
 # Specialized Integration 
 At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution. 
@@ -113,6 +113,15 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 | 🏗️ Fabricator Infrastructure | Construction Time | Industrial Infrastructure | -25% time, +5 to tool checks |
 | 🔧 Path-Specific Upgrades  | Crafting Time       | Specialty items by path        | Varies by upgrade (2×-4× speed bonuses) |
 
+
+
+<details>
+	<summary> 
+    
+### Crafting Time and Cost Calculation Guide 
+This guide explains how to calculate the time and cost required to craft items using your artisan tools, based on item rarity, character stats, upgrades, and teamwork.
+  </summary>
+  
 ## Step-by-Step Crafting Time Calculation
 
 1. **Start with Base Time**: From the rarity table above.
@@ -125,10 +134,6 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 8. **Number of Artisans**: Divide time by **number of proficient helpers**.
 9. **Round Up**: Always round the final time **up to the nearest full day**.
 
-### Example Crafting Calculation
-
-<details>
-	<summary> 
     
 ## **Example: Crafting a Rare Magic Item (Flame Tongue Sword)**
 
@@ -140,7 +145,6 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
   * **Gondian Upgrade**: Divine Anvil (craft holy weapons 3× faster)
   * **Artisans Assisting**: 2 other proficient artisans
  
-  </summary>
   
 ### 🧮 **Calculation Steps**
 
