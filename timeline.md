@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T19:05:07.100Z
+date: 2025-06-03T19:07:29.809Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -209,6 +209,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
+- The party goes through the well and engage the Devastation Beatle.
 - Investigating the Magic College of Highhold.
 - Quest to save the princess of hellaress
 - Magical College Porthy
