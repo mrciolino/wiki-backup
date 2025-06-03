@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T02:58:56.903Z
+date: 2025-06-03T03:00:29.103Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -83,7 +83,7 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 
 *\*Includes 1 cleric/paladin,  \*\*Includes 1 artificer,  \*\*\*Includes 2+ spellcasters*
 
-# 🧰 Crafting Time & Cost Guide
+# 🔨 Crafting Time & Cost Guide
 
 ## Base Crafting Table
 
