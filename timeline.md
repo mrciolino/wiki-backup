@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:04:57.222Z
+date: 2025-06-03T18:05:54.038Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -171,7 +171,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party seeks out Bazzalt, the third Bazz brother. They find him in the mountains near Inferno's rest. They use the memory device obtained from Rathwing to show Bazzalt everything that happened during the adventure so far.
 - After joining up with Bazzalt, the party journeys to Hastow to search for Darmuth's phylactery and investigate any Illithid activity.
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards Altricia. It looks like an ancient red dragon but angry and in the ethereal plane. It looks like Inferno heading towards Altricia to try to attack Darmuth.
-- The party arrives at the Hastow Monastary. Spoops finds some silverware sanctified by Ry-ann.
+- The party arrives at the Hastow Monastary. Spoops finds some silverware sanctified by Ry-ann. Also he finds a bone from one of thr first undead Ry-ann ever raised.
 
 - The party leaves Hastow. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
