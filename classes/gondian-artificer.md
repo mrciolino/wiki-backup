@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-03T02:57:06.329Z
+date: 2025-06-03T02:57:59.900Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -98,7 +98,7 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 | Artifact         | —         | DM's discretion | 50,000+ gp        | 20th+ level    | May require divine or quest aid      |
 | Adapt Magic Item | Any       | 75% of above    | 125% of base cost | Same as rarity | Source item consumed; faster process |
 
-## Crafting & Construction Modifiers
+### Crafting & Construction Modifiers
 
 | Modifier Source                          | Type                | Affected Area                 | Effect                            |
 | ---------------------------------------- | ------------------- | ----------------------------- | --------------------------------- |
@@ -117,11 +117,11 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 <details>
 	<summary> 
     
-### Crafting Time and Cost Calculation Guide 
+## Crafting Time and Cost Calculation Guide 
 This guide explains how to calculate the time and cost required to craft items using your artisan tools, based on item rarity, character stats, upgrades, and teamwork.
   </summary>
   
-## Step-by-Step Crafting Time Calculation
+### Step-by-Step Crafting Time Calculation
 
 1. **Start with Base Time**: From the rarity table above.
 2. **Tool Proficiency**: If lacking, multiply time by **1.5**.
@@ -134,7 +134,7 @@ This guide explains how to calculate the time and cost required to craft items u
 9. **Round Up**: Always round the final time **up to the nearest full day**.
 
     
-## **Example: Crafting a Rare Magic Item (Flame Tongue Sword)**
+### **Example: Crafting a Rare Magic Item (Flame Tongue Sword)**
 
   * **Character**: Gondian Warforged Artificer, Level 9 - Forge Master Path
   * **INT Modifier**: +4
