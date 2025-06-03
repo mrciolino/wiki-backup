@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T16:45:17.251Z
+date: 2025-06-03T17:06:13.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -160,6 +160,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again).
 - The party visits the Library dimension for the first time. 
 - The party finds assassination note mountain in the library dimension.
+- The party meets the tree of knowledge. Bazzvrah hires Mort to assassinate the tree for 1 gold, but after the tree slaps Mort down, Bazzvrah asks for his gold back and Mort cancels the contract.
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
