@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T16:32:07.213Z
+date: 2025-06-03T16:45:17.251Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -159,6 +159,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
 - The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again).
 - The party visits the Library dimension for the first time. 
+- The party finds assassination note mountain in the library dimension.
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. Narascus stays behind in Hastow to run his Monastary. 
 - Drakham's mother Adalynn joins the party.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
