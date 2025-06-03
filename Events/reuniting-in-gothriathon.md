@@ -2,7 +2,7 @@
 title: Reuniting in Gothriathon
 description: The party is sent by Krorg to capture Os
 published: true
-date: 2025-06-03T14:10:46.071Z
+date: 2025-06-03T14:22:09.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:10:46.071Z
@@ -26,7 +26,9 @@ Spoops arrives at the docks in Gothriathon with some of his wights after fleeing
 
 Dave Bones returns to life again.
 
-After finding Os, Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Os sends Frederina back to Krorg with a message of peace.
+After finding Os, Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Os sends Frederina back to Krorg with a message of peace. 
+
+The party (Frederina) acquires a flying ship while in Gothriathon from the deck of many things. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship. Frederina departs on this ship when sent back to Krorg by Os.
 
 During his imprisonment, Narascus uses `Geas` to force Os' right hand man Meade to serve him for the next 30 days.
 
