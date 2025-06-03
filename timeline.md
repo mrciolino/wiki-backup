@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T17:56:35.150Z
+date: 2025-06-03T17:57:57.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -170,7 +170,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bazzvrah then casts tree stride and becomes one with the tree of knowledge. Grandpa Mort shouts out "Grandson No!!!" as he gently stabs the tree in defeat. The party say their goodbyes to Bazzvrah as he is now the tree of knowledge. The  the party leaves the library, returning to Mardun.
 - The party seeks out Bazzalt, the third Bazz brother. They find him in the mountains near Inferno's rest. They use the memory device obtained from Rathwing to show Bazzalt everything that happened during the adventure so far.
 - After joining up with Bazzalt, the party journeys to Hastow to search for Darmuth's phylactery and investigate any Illithid activity.
-- The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. They defeat the ethereal dragon. 
+- The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards them. It looks like an ancient red dragon but angry and in the ethereal plane. They defeat the ethereal dragon. 
 - The party arrives at the Hastow Monastary. Spoops finds some silverware sanctified by Ry-ann.
 
 - The party leaves Hastow. Narascus stays behind in Hastow to run his Monastary. 
