@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T20:12:44.176Z
+date: 2025-06-03T20:22:20.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -192,15 +192,15 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
 - Spoops ends up trapped by Darmuth in what was formerly the dragon's hoard far to the south west of Gothriathon. He forst investigstes the piles of gold only to find they are just an illusion created by Darmuth. He uses his knife leg, ring of misty step, and immunity to poison to easily bypass the defenses of the hoard, returning to thr surface. He then uses his knife leg to fly back to gothriathon to meet up with the party.
 
-- The party decide to travel to Wegate to tinish Spoops' rebellion.
+- The party decide to travel to Wegate to finish Spoops' rebellion.
 
 - While flying over the dragon sea, the party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - Aku is slain when the party drops dragon turtles on his castle.
-- The party isnin some dungeon somewhere. Spoops finds a bunch of corpses and makes a bone giant. 
+- The party is in some dungeon somewhere. Spoops finds a bunch of corpses and makes a bone giant. 
 - The party finds many magic items
 - Items Found: flask thst turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses,
-- the party encounters a mirror that shows a version of you that is oppositely aligned.
+- The party encounters a mirror that shows a version of you that is oppositely aligned.
 - Assault on Darmuth Begins
 - The party arrive above Altricia in their flying ship. 
 - The party tries to evacuate who they can from Altricia prior to engaging Darmuth.
@@ -214,6 +214,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
 - The party goes through the well and engage the Devastation Beetle, they manage to kill it. After defeating the creature, they find themselves outside the town of Goats Dick End.
+- The party travels to the closest major city: Hellaress.
+- The party gets an audience with the king due to them slaying the Devastation Beetle.
 - Investigating the Magic College of Highhold.
 - Quest to save the princess of hellaress
 - Magical College Porthy
