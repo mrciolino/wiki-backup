@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:51:29.429Z
+date: 2025-06-03T19:05:07.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -201,8 +201,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party arrive above Altricia in their flying ship. 
 - The party tries to evacuate who they can from Altricia prior to engaging Darmuth.
 - Altricia burns.
-- Darmuth is killed after Os drops her into a volcano.
-- The Well of Many Worlds is found under Altricia. The party uses the well to travel to Ereriad where they see immense Devastation Vermin are attacking. They travel through the portal with the purpose of eliminating all the Devastation Vermin.
+- Darmuth is killed after Os does time travel comes back, then drops her into a volcano.
+- The Well of Many Worlds is found under Altricia. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For thr moment they close the portal and focus on recovering and rebuilding.
+
+- The party returns to Gothriathon where the dwarven council found what appears to be a metallic homunculus which is being studied and argued over by the council. The metallic being glows slightly and can snap itself back together. As the parth investigates, Spoops finds a panel of keys and a screen which prompts him to enter a name. Missing the Bazz brothers he enters the name Bazzdos. The creature awakens and introduces itself as Bazzdos.
+
+
+- The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
 - Investigating the Magic College of Highhold.
 - Quest to save the princess of hellaress
