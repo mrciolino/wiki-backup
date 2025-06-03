@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:18:09.015Z
+date: 2025-06-03T18:18:42.492Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -183,7 +183,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - The party finds Darmuth's Phylactery which is in the knot in the portal in the hole in the hat.
 
-- The party fights a dragon named Karroash.
+- The party fights a dragon named Karroash. Spoops gets swallowed.
 
 
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
