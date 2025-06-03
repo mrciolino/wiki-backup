@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T20:12:36.568Z
+date: 2025-06-03T20:12:44.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -161,7 +161,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Mort](/characters/mort), disguised as an eccentric old man, is found in the arctic. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
 - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
-- The party returns to Kaltrusar Bay (I dont remember why, i think this ends with it burning down again).
+- The party returns to Kaltrosar Bay (I dont remember why, i think this ends with it burning down again).
 - The party visits the Library dimension for the first time. 
 - The party finds assassination note mountain in the library dimension.
 - The party meets the tree of knowledge. Bazzvrah hires Mort to assassinate the tree for 1 gold, but after the tree slaps Mort down, Bazzvrah asks for his gold back and Mort cancels the contract.
