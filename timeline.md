@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:41:02.983Z
+date: 2025-06-03T18:41:49.615Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -188,7 +188,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
 - Spoops ends up trapped by Darmuth in what was formerly the dragon's hoard far to the south west of Gothriathon. He forst investigstes the piles of gold only to find they are just an illusion created by Darmuth. He uses his knife leg, ring of misty step, and immunity to poison to easily bypass the defenses of the hoard, returning to thr surface. He then uses his knife leg to fly back to gothriathon to meet up with the party.
 
-- The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
+- The party decide to travel to Wegate to tinish Spoops' rebellion.
+
+- While flying over the dragon sea, the party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - Aku is slain when the party drops dragon turtles on his castle.
 - Assault on Darmuth Begins
