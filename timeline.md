@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T18:05:54.038Z
+date: 2025-06-03T18:06:26.413Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -174,6 +174,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party arrives at the Hastow Monastary. Spoops finds some silverware sanctified by Ry-ann. Also he finds a bone from one of thr first undead Ry-ann ever raised.
 
 - The party leaves Hastow. Narascus stays behind in Hastow to run his Monastary. 
+
+- The party goes into the caves under Hastow
+
 - Drakham's mother Adalynn joins the party.
 - The party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
