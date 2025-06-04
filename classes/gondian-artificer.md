@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T22:35:02.267Z
+date: 2025-06-04T22:35:43.938Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -21,7 +21,7 @@ Forged by the legendary artificer Bazzdos, the Gondian Warforged are living cons
 
 ## Spells
 
-You always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Warforged Spells table. These spells count as artificer spells for you and do not count against your prepared spells.
+You always have certain spells prepared after you reach particular levels in this class. These spells count as artificer spells for you and do not count against your prepared spells.
 
 | Spell Level | 3rd Level  | 5th Level    | 9th Level  | 13th Level   | 17th Level |
 | ----------- | ---------- | ------------ | ---------- | ------------ | ---------- |
