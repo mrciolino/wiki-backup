@@ -2,14 +2,14 @@
 title: Drawing Cards in The Carriage
 description: The party begins drawing cards on the way to Fywick
 published: true
-date: 2025-06-04T14:39:45.624Z
+date: 2025-06-04T18:10:15.260Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-04T12:45:22.745Z
 ---
 
 # Drawing Cards in The Carriage
-On the carriage ride to Fywick, thr party begins taking turns drawing cards from the deck of many things.
+The party depart Kaltrosar Bay and ride toward Fywick. While passing through Mt.Suran, north of Fort Suro, they begin drawing cards from the deck of many things.
 
 ## Os' Cards
 Os draws a card and is granted angel wings.
