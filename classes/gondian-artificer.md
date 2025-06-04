@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T22:38:19.715Z
+date: 2025-06-04T22:52:59.426Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -46,39 +46,39 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 | Subclass | Core Features | Unit Enhancement |
 | -------- | ------------- | ---------------- |
-| **🔥 Forge Master**    | **Deployable Foundry** <br> - Deployable foundry and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 12]     |
-| **⚡ Fabricator**       | **Manufacturing Unit** <br> - Create Tiny constructs (INT mod/long rest).<br> - Bonus action to deploy traps or repair.    | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 12] |
-| **📡 Support Network** | **Communication Antenna** <br> - Deployable antenna array with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for commmunications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative for those with a **Communication Array**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 12] |
+| **🔥 Forge Master**    | **Living Foundry** <br> - Deployable **foundry** and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 12]     |
+| **⚡ Fabricator**       | **Manufacturing Unit** <br> - Deployable **workshop** with small production line (1 action)<br> - Create and simple trap or mechanism (1/day) | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 12] |
+| **📡 Support Network** | **Communication Antenna** <br> - Deployable **antenna** with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for commmunications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative within 30ft of a **Communication Antenna**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 12] |
 
 ## Level 5 Upgrades
 
 *(Select 1 row, must have 3rd-level upgrade from the same path)*
 
-| Subclass | Core Features | Unlockable Structure |
-| -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-minute rituals (3 stored).        | **Advanced Forge**<br>*Improved facility with defensive enhancements.*<br><br>**Effect:** Resistance to bludgeoning/piercing/slashing on long rests. <br>\[**Time:** 6 weeks - **Cost:** 800 gp - **Check:** 5x Smithing Tools DC 15] |
-| **⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs for 1 hour (1/long rest).<br> - Lens/laser: 1d6 + INT fire damage, 60 ft. | **Manufacturing Hub**<br>*Enhanced automation and quality control.*<br><br>**Effect:** 50% faster crafting, +3 to crafting checks. <br>\[**Time:** 6 weeks - **Cost:** 1,000 gp - **Check:** 5x Artificer's Tools DC 15]              |
-| **📡 Support Network** | **Tactical Coordination** <br> - Flash of Genius affects all allies in 30 ft.<br> - Create Medium illusions and displays.   | **Command Center**<br>*Coordination hub with support bonuses.*<br><br>**Effect:** +2 to saving throws, advantage on group checks. <br>\[**Time:** 8 weeks - **Cost:** 1,200 gp - **Check:** 5x Arcana DC 15] |
+| Subclass | Core Features | Unit Enhancement |
+| -------- | ------------- | ---------------- |
+| **🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-min rituals (3 stored). | **Arc-Welding Armature**<br>*Mounted arc-welder boosts creation and defense.*<br><br>**Effect:** +2 AC for creatures forged-enhanced this rest; weapons gain +1 fire dmg for 1 hour. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Smithing Tools DC 15] |
+| **⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs (1 hr/long rest).<br> - Laser: 1d6+INT fire, 60 ft.             | **Schematic Uploader**<br>*Load design blueprints into the unit for instant recall.*<br><br>**Effect:** Can recreate a stored device or trap instantly 1/day. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Artificer's Tools DC 15]                     |
+| **📡 Support Network** | **Tactical Coordination** <br> - Flash of Genius affects allies in 30 ft.<br> - Medium illusions and displays.    | **Tactical Overlay Node**<br>*Overlays real-time ally info and predictions.*<br><br>**Effect:** Allies in 30 ft. gain +1 to hit and saving throws when visible to the antenna. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Arcana DC 15]               |
 
 ## Level 9 Upgrades
 
 *(Select 1 row, must have 3rd and 5th-level upgrade from same path)*
 
-| Subclass | Core Features | Unlockable Structure |
-| -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Gondian Forge** <br> - Craft items worth up to 100 gp as an action (1/long rest).<br> - Allies within 10 ft gain +2 AC.       | **Gondian Fortress-Forge**<br>*A fortified facility combining production and protection.*<br><br>**Effect:** Fire immunity during long rests; nearby allies gain +1 AC. <br> \[**Time:** 20 wks - **Cost:** 5,000 gp - **Check:** 5x Smith Tools DC 18] |
-| **⚡ Fabricator**       | **Automated Factory** <br> - Deploy Medium AI constructs with basic logic.<br> - Laser deals 2d6 + INT fire damage (120 ft).    | **Automated Complex**<br>*AI-managed industrial facility.*<br><br>**Effect:** Creates one common magic item per week; advantage on related crafting and automation checks. <br> \[**Time:** 12 wks - **Cost:** 4,000 gp - **Check:** 5x Artificer's Tools DC 18]   |
-| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT mod creatures).<br> - Project tactical displays across battlefield. | **Master Command Array**<br>*Strategic broadcast and coordination tower.*<br><br>**Effect:** Surveillance, early warnings, planar link pings. <br> \[**Time:** 16 wks - **Cost:** 6,000 gp - **Check:** 5x Arcana DC 18] |
+| Subclass | Core Features | Unit Enhancement |
+| -------- | ------------- | ---------------- |
+| **🔥 Forge Master**    | **Gondian Forge** <br> - Craft 100 gp items as action (1/long rest).<br> - Allies within 10 ft: +2 AC.  | **Thermic Core Reactor**<br>*Generates intense magical heat and power.*<br><br>**Effect:** Gain immunity to fire; unit emits aura (10 ft) granting fire resistance. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Smithing Tools DC 18]     |
+| **⚡ Fabricator**       | **Automated Factory** <br> - Deploy Medium AI constructs.<br> - Laser: 2d6+INT fire (120 ft).           | **Production Cluster**<br>*Unit can now queue and batch-create mechanisms.*<br><br>**Effect:** Craft up to 3 Tiny devices at once; store 1 common magic item weekly. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Artificer's Tools DC 18] |
+| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT mod allies).<br> - Battlefield projections. | **Integrated Battlefield Grid**<br>*Auto-updates terrain, ally, and enemy markers.*<br><br>**Effect:** Allies within 60 ft. ignore difficult terrain; +1 initiative. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Arcana DC 18]            |
 
 ## Level 15 Upgrades
 
 *(Select 1 row, must have 3rd, 5th, and 9th-level upgrades from same path)*
 
-| Subclass | Core Features | Unlockable Structure |
-| -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Legendary Foundry** <br> - Instantly craft a magic item (500 gp) (1/long rest).<br> - Activate Aegis Protocol to grant +3 AC shields (INT mod/day). | **Master Forge-Citadel**<br>*Citadel-grade structure with supreme crafting capabilities.*<br><br>**Effect:** Damage resistance during combat; produces 1 permanent +1 item per week. <br> \[**Time:** 30 wks - **Cost:** 15,000 gp - **Check:** 5x Smith Tools DC 20] |
-| **⚡ Fabricator**       | **Master Manufacturing** <br> - Build complex inventions (1,000 gp) instantly (1/long rest).<br> - Control INT-mod constructs with shared cognition.  | **Legendary Factory-City**<br>*A sprawling hub for magical industry and research.*<br><br>**Effect:** Weekly uncommon item production; trains artificers in advanced techniques. <br> \[**Time:** 25 wks - **Cost:** 20,000 gp - **Check:** 5x Artificer's Tools DC 20]          |
-| **📡 Support Network** | **Master Coordinator** <br> - Reality-grade illusions (Huge), create semi-real terrain.<br> - Coordinate actions across planes and timelines.         | **Planar Command Nexus**<br>*A hub of transdimensional command and control.*<br><br>**Effect:** Multiversal coordination, omniscient surveillance, instant teleportation triggers. <br> \[**Time:** 40 wks - **Cost:** 25,000 gp - **Check:** 5x Arcana DC 20]       |
+| Subclass | Core Features | Unit Enhancement |
+| -------- | ------------- | ---------------- |
+| **🔥 Forge Master**    | **Legendary Foundry** <br> - Instantly craft 500 gp item (1/long rest).<br> - Aegis Protocol: +3 AC shields (INT mod/day). | **Soulsteel Crucible**<br>*Imbues creations with sentience and self-repair.*<br><br>**Effect:** Created weapons/armor gain 1/day self-repair and minor AI guidance (e.g., +1 attack or save). <br> \[**Time:** 12 weeks – **Cost:** 12,000 gp – **Check:** 5x Smithing Tools DC 20] |
+| **⚡ Fabricator** | **Master Manufacturing** <br> - Build 1,000 gp inventions instantly.<br> - Control INT-mod constructs mentally. | **Neural Fabricator Core**<br>*Establishes shared cognition across constructs.*<br><br>**Effect:** Controlled constructs share senses, act in perfect sync, and can take Ready actions as a unit. <br> \[**Time:** 10 weeks – **Cost:** 15,000 gp – **Check:** 5x Artificer's Tools DC 20] |
+| **📡 Support Network** | **Master Coordinator** <br> - Huge illusions, trans-planar coordination. | **Omniscient Relay Array**<br>*Linked to planar and divine intelligences.*<br><br>**Effect:** Detect planar shifts; allies within 1 mile may reroll failed save 1/day. <br> \[**Time:** 12 weeks – **Cost:** 18,000 gp – **Check:** 5x Arcana DC 20] |
 
 
 ## Level 20: Master of Invention
@@ -99,7 +99,7 @@ Only one may be active per path, and a final master building may be constructed 
 
 
 
-# 🔨 Crafting Time & Cost Guide
+# 🔨 Item Crafting Time & Cost
 
 ## Base Crafting Table
 
@@ -134,7 +134,7 @@ Only one may be active per path, and a final master building may be constructed 
 <details>
 	<summary> 
     
-## Crafting Time and Cost Calculation Guide 
+## Time and Cost Calculation Guide 
 This guide explains how to calculate the time and cost required to craft items using your artisan tools, based on item rarity, character stats, upgrades, and teamwork.
 
 **👇 Click to View Guide 👇**
