@@ -2,51 +2,51 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T03:00:01.929Z
+date: 2025-06-04T13:27:08.623Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
 ---
 
 # Warforged Gondian Artificer
+
 ***Prerequisite**: Warforged*
 ***Source**: Original design by [Bazzdos](/characters/bazzdos).*
 
-Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or flight systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization. When you select this subclass at the thrid level you gain the following improvements.
+Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or fabrication systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization. When you select this subclass at the third level, you gain the following improvements.
 
-**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice. 
+**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 **🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity.
-**🏛️ Community Buildings**: You can build shrines, facilities, and support structures for warforged and constructs. Projects require tool proficiency, materials, labor, and 5 successful checks (DC 12–20). Failed checks alternate between +25% cost and +25% time. Your specialized integration unlocks specific structures that can be constructed.
+**🔧 Unit Enhancement**: Your can construct upgrades for your deployable unit, these upgrade require time and resource to craft but provide additonal imporvements for those who invest in them.
+**🏛️ Community Buildings**: Your body houses a deployable framework for constructing modular machines, each representing a facility tied to your subclass specialization. These buildings provide powerful area-based effects and scale with your progression. Only one may be active per path, and a final master building may be constructed at high levels. Each requires materials, tools, labor, and 5 successful construction checks (DC 12–20), with failed checks increasing either time or cost by 25%.
 
 ## Spells
 
 You always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Warforged Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
-| Spell Level | 3rd Level  | 5th Level    | 9th Level  | 13th Level   | 17th Level             |
-| ----------- | ---------- | ------------ | ---------- | ------------ | ---------------------- |
-| Spell 1     | *Identify* | *TBD* | *TBD*  | *Fabricate*  | *Creation*             |
-| Spell 2     | *Shield*   | *Misty Step* | *Tiny Hut* | *Arcane Eye* | *TBD* |
+| Spell Level | 3rd Level  | 5th Level    | 9th Level  | 13th Level   | 17th Level |
+| ----------- | ---------- | ------------ | ---------- | ------------ | ---------- |
+| Spell 1     | *Identify* | *TBD*        | *TBD*      | *Fabricate*  | *Creation* |
+| Spell 2     | *Shield*   | *Misty Step* | *Tiny Hut* | *Arcane Eye* | *TBD*      |
 
 
-# ⚙️ Specialized Integration 
-At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At the 20th level, you may select 2 additional upgrades to complete your evolution for a total of 6 upgrades.
+# ⚙️ Specialized Integration
+
+At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution for a total of 6 upgrades.
 
 **🔥 Forge Master**: Deploys a specialized foundry for crafting superior armor, weapons, and defensive systems. Masters heavy construction and protective enchantments, excelling in defense and single-target crafting.
-
 **⚡ Fabricator**: Houses advanced manufacturing systems for rapid creation of constructs, mechanisms, and technological devices. Specializes in automation, traps, and mass production capabilities.
-
 **📡 Support Network**: Integrates communication arrays and holographic projectors to provide tactical support, information sharing, and battlefield coordination across vast distances.
-Here is the upgraded markdown with **two bullet points max per upgrade** while preserving clarity and balance:
 
 ## Level 3 Upgrades
 
 *(Select 1)*
 
-| Subclass | Core Features | Unlockable Structure |
-| -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Deployable Foundry** <br> - Deployable foundry and anvil with tools (1 action).<br> - Heat Metal as ritual (prof. bonus/short rest). | **Basic Forge**<br>*A reinforced workshop with enhanced crafting capabilities.*<br>**Effect:** Fire resistance on long rests, +2 to crafting checks.<br>**Network:** Shares crafting knowledge and materials. <br> \[**Level:** 3+ · **Time:** 14 days · **Cost:** 200 gp · **Labor:** 1 artisan · **Check:** Smithing Tools DC 12]     |
-| **⚡ Fabricator**       | **Manufacturing Unit** <br> - Create Tiny constructs (INT mod/long rest).<br> - Bonus action to deploy traps or repair.    | **Assembly Station**<br>*Facility with construction bonuses and device storage.*<br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms.<br>**Network:** Shares blueprints and coordinates processes. <br> \[**Level:** 3+ · **Time:** 2 wks · **Cost:** 250 gp · **Labor:** 1 artisan · **Check:** Artificer's Tools DC 12] |
-| **📡 Support Network** | **Communication Array** <br> - Deployable antenna array with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Communication Hub**<br>*Hub for recieving commmunications and amplifying the broadcast.*<br><br> **Effect:** Sending range to 5 miles, +1 initiative for those with Communication Arrays.<br> \[**Level:** 3+ · **Time:** 3 wks · **Cost:** 300 gp · **Labor:** 2 artisans · **Check:** Arcana DC 12] |
+| Subclass | Core Features | Unit Enhancement |
+| -------- | ------------- | ---------------- |
+| **🔥 Forge Master**    | **Deployable Foundry** <br> - Deployable foundry and anvil with tools (1 action).<br> - Heat Metal as ritual (prof. bonus/short rest). | **Basic Forge**<br>*A reinforced workshop with enhanced crafting capabilities.*<br>**Effect:** Fire resistance on long rests, +2 to crafting checks.<br>**Network:** Shares crafting knowledge and materials. <br> \[**Level:** 3+ - **Time:** 3 wks - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 12]     |
+| **⚡ Fabricator**       | **Manufacturing Unit** <br> - Create Tiny constructs (INT mod/long rest).<br> - Bonus action to deploy traps or repair.    | **Assembly Station**<br>*Facility with construction bonuses and device storage.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Level:** 3+ - **Time:** 3 wks - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 12] |
+| **📡 Support Network** | **Communication Array** <br> - Deployable antenna array with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for recieving commmunications and amplifying the broadcast.*<br><br> **Effect:** +1 initiative for those with a **Communication Array**.<br> \[**Level:** 3+ - **Time:** 3 wks - **Cost:** 300 gp - **Check:** 5x Arcana DC 12] |
 
 ## Level 5 Upgrades
 
@@ -85,6 +85,8 @@ Here is the upgraded markdown with **two bullet points max per upgrade** while p
 
 **Integrated Metropolis**: You can now construct an **Integrated Metropolis** that combines all three infrastructure types, providing community-wide benefits to all constructs and allies within a 1-mile radius and supporting populations of 10,000+ beings.
 
+# 🏛️ Community Buildings
+
 | Structure | Level | Time | Cost | Labor | Check | Effect |
 | --------- | ----- | ---- | ---- | ----- | ----- | ------ |
 | **Integrated Metropolis** | 20+ | 2 years | 100,000 gp | Community | Multiple DC 20+ | Combines all three infrastructure types in 1-mile radius, supports 10,000+ beings, creates fully integrated forge-fabrication-communication network with exponential capabilities. All network effects stack and multiply across the entire metropolis. |
@@ -117,6 +119,7 @@ Here is the upgraded markdown with **two bullet points max per upgrade** while p
 | 🏗️ Network Architect Infrastructure    | Construction Time   | Communication Networks        | -20% time, +5 to Arcana checks    |
 | 🏗️ Fabricator Infrastructure | Construction Time | Industrial Infrastructure | -25% time, +5 to tool checks |
 | 🔧 Path-Specific Upgrades  | Crafting Time       | Specialty items by path        | Varies by upgrade (2×-4× speed bonuses) |
+| Other Class/Race Reductions  | Crafting Time       | Crafting       | Varies by upgrade (Lvl 5 Artficer - 25%) |
 
 
 
