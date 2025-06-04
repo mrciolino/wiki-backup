@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T13:27:08.623Z
+date: 2025-06-04T16:46:41.937Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -13,16 +13,15 @@ dateCreated: 2025-06-02T00:31:19.494Z
 ***Prerequisite**: Warforged*
 ***Source**: Original design by [Bazzdos](/characters/bazzdos).*
 
-Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or fabrication systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization. When you select this subclass at the third level, you gain the following improvements.
+Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or fabrication systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization. When you select this subclass at 3rd level, you gain the following features:
 
-**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.
-**🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary by item complexity and rarity.
-**🔧 Unit Enhancement**: Your can construct upgrades for your deployable unit, these upgrade require time and resource to craft but provide additonal imporvements for those who invest in them.
-**🏛️ Community Buildings**: Your body houses a deployable framework for constructing modular machines, each representing a facility tied to your subclass specialization. These buildings provide powerful area-based effects and scale with your progression. Only one may be active per path, and a final master building may be constructed at high levels. Each requires materials, tools, labor, and 5 successful construction checks (DC 12–20), with failed checks increasing either time or cost by 25%.
+**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this proficiency, you instead gain proficiency with another type of artisan's tools of your choice.
+**🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary based on item complexity and rarity.
+**🏛️ Community Buildings**: Your body houses a deployable framework for constructing modular machines, each representing a facility tied to your subclass specialization. These buildings provide powerful area-based effects and scale with your progression. 
 
 ## Spells
 
-You always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Warforged Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+You always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Warforged Spells table. These spells count as artificer spells for you and do not count against your prepared spells.
 
 | Spell Level | 3rd Level  | 5th Level    | 9th Level  | 13th Level   | 17th Level |
 | ----------- | ---------- | ------------ | ---------- | ------------ | ---------- |
@@ -32,51 +31,53 @@ You always have certain spells prepared after you reach particular levels in thi
 
 # ⚙️ Specialized Integration
 
-At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any pathway. **However, you must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade unless you have taken the 3rd and 5th-level Forge Master upgrades). At 20th level, you may select 2 additional upgrades to complete your evolution for a total of 6 upgrades.
+At each **upgrade level (3, 5, 9, 15)**, you may select one upgrade from any pathway. **You must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade without first taking the 3rd- and 5th-level Forge Master upgrades). At 20th level, you may select two additional upgrades, bringing your total to six.
 
-**🔥 Forge Master**: Deploys a specialized foundry for crafting superior armor, weapons, and defensive systems. Masters heavy construction and protective enchantments, excelling in defense and single-target crafting.
-**⚡ Fabricator**: Houses advanced manufacturing systems for rapid creation of constructs, mechanisms, and technological devices. Specializes in automation, traps, and mass production capabilities.
-**📡 Support Network**: Integrates communication arrays and holographic projectors to provide tactical support, information sharing, and battlefield coordination across vast distances.
+**🔥 Forge Master**: Deploys a specialized foundry for crafting superior armor, weapons, and defensive systems. Focuses on heavy construction and protective enchantments, excelling in defense and precision forging.
+**⚡ Fabricator**: Integrates advanced manufacturing systems for rapid creation of constructs, mechanisms, and devices. Specializes in automation, traps, and mass production.
+**📡 Support Network**: Installs communication arrays and projection systems to deliver tactical support, data sharing, and battlefield coordination across vast ranges.
+
+In addition to your subclass path, **⚙️ Unit Enhancement** allows you to construct mechanical upgrades for your deployable unit. These enhancements require time, materials, and successful checks to build, but reward dedicated engineers with powerful functionality and custom utility.
+
 
 ## Level 3 Upgrades
 
-*(Select 1)*
+*(Select 1 row)*
 
 | Subclass | Core Features | Unit Enhancement |
 | -------- | ------------- | ---------------- |
-| **🔥 Forge Master**    | **Deployable Foundry** <br> - Deployable foundry and anvil with tools (1 action).<br> - Heat Metal as ritual (prof. bonus/short rest). | **Basic Forge**<br>*A reinforced workshop with enhanced crafting capabilities.*<br>**Effect:** Fire resistance on long rests, +2 to crafting checks.<br>**Network:** Shares crafting knowledge and materials. <br> \[**Level:** 3+ - **Time:** 3 wks - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 12]     |
-| **⚡ Fabricator**       | **Manufacturing Unit** <br> - Create Tiny constructs (INT mod/long rest).<br> - Bonus action to deploy traps or repair.    | **Assembly Station**<br>*Facility with construction bonuses and device storage.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Level:** 3+ - **Time:** 3 wks - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 12] |
-| **📡 Support Network** | **Communication Array** <br> - Deployable antenna array with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for recieving commmunications and amplifying the broadcast.*<br><br> **Effect:** +1 initiative for those with a **Communication Array**.<br> \[**Level:** 3+ - **Time:** 3 wks - **Cost:** 300 gp - **Check:** 5x Arcana DC 12] |
+| **🔥 Forge Master**    | **Deployable Foundry** <br> - Deployable foundry and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 12]     |
+| **⚡ Fabricator**       | **Manufacturing Unit** <br> - Create Tiny constructs (INT mod/long rest).<br> - Bonus action to deploy traps or repair.    | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 12] |
+| **📡 Support Network** | **Communication Array** <br> - Deployable antenna array with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for commmunications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative for those with a **Communication Array**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 12] |
 
 ## Level 5 Upgrades
 
-*(Select 1, must have 3rd-level upgrade from the same path)*
+*(Select 1 row, must have 3rd-level upgrade from the same path)*
 
 | Subclass | Core Features | Unlockable Structure |
 | -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-minute rituals (3 stored).        | **Advanced Forge**<br>*Improved facility with defensive enhancements.*<br>**Effect:** Resistance to bludgeoning/piercing/slashing on long rests.<br>**Network:** Channels enchantments through Basic Forges. <br> \[**Level:** 5+ · **Time:** 6 wks · **Cost:** 800 gp · **Labor:** 2 artisans · **Check:** Smith DC 15] |
-| **⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs for 1 hour (1/long rest).<br> - Lens/laser: 1d6 + INT fire damage, 60 ft. | **Manufacturing Hub**<br>*Enhanced automation and quality control.*<br>**Effect:** 50% faster crafting, +3 to checks.<br>**Network:** Coordinates schedules and shares resources. <br> \[**Level:** 5+ · **Time:** 6 wks · **Cost:** 1,000 gp · **Labor:** 3 artisans · **Check:** Tools DC 15] |
-| **📡 Support Network** | **Tactical Coordination** <br> - Flash of Genius affects all allies in 30 ft.<br> - Create Medium illusions and displays.   | **Command Center**<br>*Coordination hub with support bonuses.*<br>**Effect:** +2 to saving throws, advantage on group checks.<br>**Network:** Shares tactical data across groups. <br> \[**Level:** 5+ · **Time:** 8 wks · **Cost:** 1,200 gp · **Labor:** 4 artisans · **Check:** Arcana DC 15] |
-
+| **🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-minute rituals (3 stored).        | **Advanced Forge**<br>*Improved facility with defensive enhancements.*<br><br>**Effect:** Resistance to bludgeoning/piercing/slashing on long rests. <br>\[**Level:** 5+ · **Time:** 6 weeks · **Cost:** 800 gp · **Labor:** 2 artisans · **Check:** Smithing Tools DC 15] |
+| **⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs for 1 hour (1/long rest).<br> - Lens/laser: 1d6 + INT fire damage, 60 ft. | **Manufacturing Hub**<br>*Enhanced automation and quality control.*<br><br>**Effect:** 50% faster crafting, +3 to crafting checks. <br>\[**Level:** 5+ · **Time:** 6 weeks · **Cost:** 1,000 gp · **Labor:** 3 artisans · **Check:** Artificer's Tools DC 15]              |
+| **📡 Support Network** | **Tactical Coordination** <br> - Flash of Genius affects all allies in 30 ft.<br> - Create Medium illusions and displays.   | **Command Center**<br>*Coordination hub with support bonuses.*<br><br>**Effect:** +2 to saving throws, advantage on group checks. <br>\[**Level:** 5+ · **Time:** 8 weeks · **Cost:** 1,200 gp · **Labor:** 4 artisans · **Check:** Arcana DC 15] |
 ## Level 9 Upgrades
 
-*(Select 1, must have 3rd and 5th-level upgrade from same path)*
+*(Select 1 row, must have 3rd and 5th-level upgrade from same path)*
 
 | Subclass | Core Features | Unlockable Structure |
 | -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Gondian Forge** <br> - Rapid crafting (100 gp as action, 1/long rest).<br> - Defensive Protocols: +2 AC to nearby allies. | **Gondian Fortress-Forge**<br>*Area defense and enhanced crafting.*<br>**Effect:** Fire immunity on long rests, +1 AC to all allies.<br>**Network:** Enhances all connected forge defenses. <br> \[**Level:** 9+ · **Time:** 20 wks · **Cost:** 5,000 gp · **Labor:** 5 artisans · **Check:** Smith DC 18]   |
-| **⚡ Fabricator**       | **Automated Factory** <br> - Medium AI constructs with basic intelligence.<br> - Laser: 2d6 + INT damage, 120 ft range.     | **Automated Complex**<br>*AI-coordinated production center.*<br>**Effect:** Creates common magic items (1/week), advantage on tasks.<br>**Network:** Shared AI systems for smart production. <br> \[**Level:** 9+ · **Time:** 12 wks · **Cost:** 4,000 gp · **Labor:** 4 artisans · **Check:** Arcana DC 16] |
-| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT allies).<br> - Holographic Command Center (Large displays).     | **Master Command Array**<br>*Region-wide tactical hub.*<br>**Effect:** Surveillance, early warnings, planar links.<br>**Network:** Redundant command structures with vast range. <br> \[**Level:** 9+ · **Time:** 16 wks · **Cost:** 6,000 gp · **Labor:** 6 artisans · **Check:** Arcana DC 18] |
+| **🔥 Forge Master**    | **Gondian Forge** <br> - Craft items worth up to 100 gp as an action (1/long rest).<br> - Allies within 10 ft gain +2 AC.       | **Gondian Fortress-Forge**<br>*A fortified facility combining production and protection.*<br><br>**Effect:** Fire immunity during long rests; nearby allies gain +1 AC. <br> \[**Level:** 9+ - **Time:** 20 wks - **Cost:** 5,000 gp - **Labor:** 5 artisans - **Check:** 5x Smith Tools DC 18] |
+| **⚡ Fabricator**       | **Automated Factory** <br> - Deploy Medium AI constructs with basic logic.<br> - Laser deals 2d6 + INT fire damage (120 ft).    | **Automated Complex**<br>*AI-managed industrial facility.*<br><br>**Effect:** Creates one common magic item per week; advantage on related crafting and automation checks. <br> \[**Level:** 9+ - **Time:** 12 wks - **Cost:** 4,000 gp - **Labor:** 4 artisans - **Check:** 5x Arcana DC 16]   |
+| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT mod creatures).<br> - Project tactical displays across battlefield. | **Master Command Array**<br>*Strategic broadcast and coordination tower.*<br><br>**Effect:** Surveillance, early warnings, planar link pings. <br> \[**Level:** 9+ - **Time:** 16 wks - **Cost:** 6,000 gp - **Labor:** 6 artisans - **Check:** 5x Arcana DC 18]                                |
 
 ## Level 15 Upgrades
 
-*(Select 1, must have 3rd, 5th, and 9th-level upgrades from same path)*
+*(Select 1 row, must have 3rd, 5th, and 9th-level upgrades from same path)*
 
 | Subclass | Core Features | Unlockable Structure |
 | -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Legendary Foundry** <br> - Create magic items (500 gp) instantly (1/long rest).<br> - Aegis Protocol: +3 AC shields (INT mod uses). | **Master Forge-Citadel**<br>*Fortress-tier crafting and defense.*<br>**Effect:** Damage resistance in combat, +1 items weekly.<br>**Network:** Forms protective collective defense grid. <br> \[**Level:** 15+ · **Time:** 30 wks · **Cost:** 15,000 gp · **Labor:** 8 artisans · **Check:** Smith DC 20]           |
-| **⚡ Fabricator**       | **Master Manufacturing** <br> - Create complex devices (1,000 gp) (1/long rest).<br> - Command INT modifier AI constructs.            | **Legendary Factory-City**<br>*Massive research and production hub.*<br>**Effect:** Produces uncommon items weekly, trains artificers.<br>**Network:** Enables tech empires with shared research. <br> \[**Level:** 15+ · **Time:** 25 wks · **Cost:** 20,000 gp · **Labor:** 8 artisans · **Check:** Arcana DC 20] |
-| **📡 Support Network** | **Master Coordinator** <br> - Reality Holographics: Huge illusions, real effects.<br> - Network Mastery: coordinate across planes.    | **Planar Command Nexus**<br>*Multiplanar coordination facility.*<br>**Effect:** Strategic omniscience, instant deployment.<br>**Network:** Connects and controls all networks multiversally. <br> \[**Level:** 15+ · **Time:** 40 wks · **Cost:** 25,000 gp · **Labor:** 10 artisans · **Check:** Arcana DC 20]     |
+| **🔥 Forge Master**    | **Legendary Foundry** <br> - Instantly craft a magic item (500 gp) (1/long rest).<br> - Activate Aegis Protocol to grant +3 AC shields (INT mod/day). | **Master Forge-Citadel**<br>*Citadel-grade structure with supreme crafting capabilities.*<br><br>**Effect:** Damage resistance during combat; produces 1 permanent +1 item per week. <br> \[**Level:** 15+ - **Time:** 30 wks - **Cost:** 15,000 gp - **Labor:** 8 artisans - **Check:** 5x Smith Tools DC 20] |
+| **⚡ Fabricator**       | **Master Manufacturing** <br> - Build complex inventions (1,000 gp) instantly (1/long rest).<br> - Control INT-mod constructs with shared cognition.  | **Legendary Factory-City**<br>*A sprawling hub for magical industry and research.*<br><br>**Effect:** Weekly uncommon item production; trains artificers in advanced techniques. <br> \[**Level:** 15+ - **Time:** 25 wks - **Cost:** 20,000 gp - **Labor:** 8 artisans - **Check:** 5x Arcana DC 20]          |
+| **📡 Support Network** | **Master Coordinator** <br> - Reality-grade illusions (Huge), create semi-real terrain.<br> - Coordinate actions across planes and timelines.         | **Planar Command Nexus**<br>*A hub of transdimensional command and control.*<br><br>**Effect:** Multiversal coordination, omniscient surveillance, instant teleportation triggers. <br> \[**Level:** 15+ - **Time:** 40 wks - **Cost:** 25,000 gp - **Labor:** 10 artisans - **Check:** 5x Arcana DC 20]       |
 
 
 ## Level 20: Master of Invention
@@ -86,10 +87,16 @@ At each **upgrade level (3, 5, 9, 15)**, you may select any one upgrade from any
 **Integrated Metropolis**: You can now construct an **Integrated Metropolis** that combines all three infrastructure types, providing community-wide benefits to all constructs and allies within a 1-mile radius and supporting populations of 10,000+ beings.
 
 # 🏛️ Community Buildings
+Only one may be active per path, and a final master building may be constructed at high levels. Each requires materials, tools, labor, and 5 successful construction checks (DC 12–20), with failed checks increasing either time or cost by 25%.
 
-| Structure | Level | Time | Cost | Labor | Check | Effect |
-| --------- | ----- | ---- | ---- | ----- | ----- | ------ |
-| **Integrated Metropolis** | 20+ | 2 years | 100,000 gp | Community | Multiple DC 20+ | Combines all three infrastructure types in 1-mile radius, supports 10,000+ beings, creates fully integrated forge-fabrication-communication network with exponential capabilities. All network effects stack and multiply across the entire metropolis. |
+| Structure | Requierment | Time | Cost | Check | Effect |
+| --------- | ----------- | ---- | ---- | ----- | ------ |
+| **🔥 Crucible Hall** | Legendary Foundry   | 3 months | 6,000 gp | 5x Smithing Tools DC 14 | Grants +2 AC to town structures auto-produces basic weapons/armor weekly<br> enhances crafting speed for blacksmiths. |
+| **⚡ Constructory** | Master Manufacturing   | 3 months | 7,500 gp | 5x Artificer's Tools DC 15 | Generates 2 Tiny or 1 Small construct weekly for labor, defense, or tasks<br> improves productivity of mechanical workshops. |
+| **📡 Signal Spire**  | Master Coordinator | 3 months | 5,000 gp  | 5x Arcana DC 13 | Enables town-wide communication, broadcast alerts<br> +1 to initiative and coordination rolls for defenders in 1-mile radius. |
+| **Gondian Core**  | All of the Above  | 1 year | 30,000 gp | 5x Tools DC 20 | Merges all building functions; doubles production rates<br> grants fortified defense (AC +4), magical alerts, and regional network effects. |
+
+
 
 # 🔨 Crafting Time & Cost Guide
 
