@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T22:52:59.426Z
+date: 2025-06-04T22:55:17.796Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -44,7 +44,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 *(Select 1 row)*
 
-| Subclass | Core Features | Unit Enhancement |
+| <div style="width:100px">Subclass</div> | <div style="width:200px">Core Features</div> | <div style="width:300px">Unit Enhancement</div> |
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Living Foundry** <br> - Deployable **foundry** and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 12]     |
 | **⚡ Fabricator**       | **Manufacturing Unit** <br> - Deployable **workshop** with small production line (1 action)<br> - Create and simple trap or mechanism (1/day) | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 12] |
@@ -54,7 +54,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 *(Select 1 row, must have 3rd-level upgrade from the same path)*
 
-| Subclass | Core Features | Unit Enhancement |
+| <div style="width:100px">Subclass</div> | <div style="width:200px">Core Features</div> | <div style="width:300px">Unit Enhancement</div> |
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-min rituals (3 stored). | **Arc-Welding Armature**<br>*Mounted arc-welder boosts creation and defense.*<br><br>**Effect:** +2 AC for creatures forged-enhanced this rest; weapons gain +1 fire dmg for 1 hour. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Smithing Tools DC 15] |
 | **⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs (1 hr/long rest).<br> - Laser: 1d6+INT fire, 60 ft.             | **Schematic Uploader**<br>*Load design blueprints into the unit for instant recall.*<br><br>**Effect:** Can recreate a stored device or trap instantly 1/day. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Artificer's Tools DC 15]                     |
@@ -64,7 +64,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 *(Select 1 row, must have 3rd and 5th-level upgrade from same path)*
 
-| Subclass | Core Features | Unit Enhancement |
+| <div style="width:100px">Subclass</div> | <div style="width:200px">Core Features</div> | <div style="width:300px">Unit Enhancement</div> |
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Gondian Forge** <br> - Craft 100 gp items as action (1/long rest).<br> - Allies within 10 ft: +2 AC.  | **Thermic Core Reactor**<br>*Generates intense magical heat and power.*<br><br>**Effect:** Gain immunity to fire; unit emits aura (10 ft) granting fire resistance. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Smithing Tools DC 18]     |
 | **⚡ Fabricator**       | **Automated Factory** <br> - Deploy Medium AI constructs.<br> - Laser: 2d6+INT fire (120 ft).           | **Production Cluster**<br>*Unit can now queue and batch-create mechanisms.*<br><br>**Effect:** Craft up to 3 Tiny devices at once; store 1 common magic item weekly. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Artificer's Tools DC 18] |
@@ -74,7 +74,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 *(Select 1 row, must have 3rd, 5th, and 9th-level upgrades from same path)*
 
-| Subclass | Core Features | Unit Enhancement |
+| <div style="width:100px">Subclass</div> | <div style="width:200px">Core Features</div> | <div style="width:300px">Unit Enhancement</div> |
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Legendary Foundry** <br> - Instantly craft 500 gp item (1/long rest).<br> - Aegis Protocol: +3 AC shields (INT mod/day). | **Soulsteel Crucible**<br>*Imbues creations with sentience and self-repair.*<br><br>**Effect:** Created weapons/armor gain 1/day self-repair and minor AI guidance (e.g., +1 attack or save). <br> \[**Time:** 12 weeks – **Cost:** 12,000 gp – **Check:** 5x Smithing Tools DC 20] |
 | **⚡ Fabricator** | **Master Manufacturing** <br> - Build 1,000 gp inventions instantly.<br> - Control INT-mod constructs mentally. | **Neural Fabricator Core**<br>*Establishes shared cognition across constructs.*<br><br>**Effect:** Controlled constructs share senses, act in perfect sync, and can take Ready actions as a unit. <br> \[**Time:** 10 weeks – **Cost:** 15,000 gp – **Check:** 5x Artificer's Tools DC 20] |
