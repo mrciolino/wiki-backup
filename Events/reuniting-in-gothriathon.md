@@ -2,7 +2,7 @@
 title: Reuniting in Gothriathon
 description: The party is sent by Krorg to capture Os
 published: true
-date: 2025-06-04T14:16:05.398Z
+date: 2025-06-04T14:22:59.445Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:10:46.071Z
@@ -24,8 +24,6 @@ Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
 
 Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. The party simply tells Spoops thst they are on their way to see Os, not mentioning the plan to capture him.
 
-Dave Bones returns to life again.
-
 After finding Os, Frederina is captured by Os' faction in gothriathon. They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him. Os sends Frederina back to Krorg with a message of peace. 
 
 The party (Frederina) acquires a flying ship while in Gothriathon from the deck of many things. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship. Frederina departs on this ship when sent back to Krorg by Os.
@@ -39,3 +37,7 @@ After joining the group, Meade does pull a card from the deck of many things and
 
 ## Os Comes Willingly
 The party attack Os and his dwarven guards, trying to capture him. Spoops intervenes, trying to negotiate peace between the party and Os while fighting back Bazzvrah and saving Narascus from being beaten by Os and the dwarves. Os, Meade, and Narascus come to terms. Os surrenders, asking that he he brought back to Altricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
+
+
+## Dave Bones Returns
+The party discovers Dave Bones has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship thst just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. Before departing on their own ship in the morning.
