@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T12:14:39.113Z
+date: 2025-06-04T12:14:44.648Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -122,7 +122,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
   - The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
   - The party draws many cards from the Deck of Many Things while riding their carriage to Fywick.
-  - Os draws a card and is grsnted angel wings.
+  - Os draws a card and is granted angel wings.
   - Breezy-E draws a card which makes him normally blind, but grants him infra-red vision.
   - Breezy-E pulls another card, receiving a magical hourglass which counts down to some important event. In the future, the party would regularly check the hourglass, eventually finding it close to running out during the Ithilid War.
   - Breezy-E pulls another card that causes his personality to twist, giving him evil tendencies. 
