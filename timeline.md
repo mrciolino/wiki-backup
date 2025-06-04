@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T12:27:50.852Z
+date: 2025-06-04T12:29:14.604Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -144,14 +144,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - They meet Tony Mozzarella and Steveo.
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
 - Frederina's Betrayal: After battling the demon goose and knowing Frederina's demonic allegiances, Meade challenges Frederina to a duel. Frederina, is slain by Meade and the party during the fight. Meade then departs the party and creates the "Three Swishes" bar in Fywick.
-- Spoops uses a wish he gained from the deck of many things to wish for "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
+- Spoops uses a wish he gained from the deck of many things to wish for helpful legendary items to help the party in the coming fight: "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
 - Spoops receives the Anti-Magic Armor.
 - Bazzvrah receives The Blood Fury Tattoo
 - Narascus received Sovereign Glue.
 - Os receives ?
 - Meade receives ?
 - Breezy-E receives ?
-- The party explores The Bastion of Tiyamani The Awesome in the Ashe Mountains north west of Fywick. They are searching for a magical item that can help them against Darmuth. They meet an archaeologist also exploring the ruins. The archaeologist's crew was all killed while in the ruins. Spoops uses Earth Terror to do some excavating. They find the shield generator and shield ring. They also find many soul crystals.
+- The party teleports to The Bastion of Tiyamani The Awesome in the Ashe Mountains north west of Fywick. They are searching for a magical item that can help them against Darmuth. They meet an archaeologist also exploring the ruins. The archaeologist's crew was all killed while in the ruins. Spoops uses Earth Terror to do some excavating. They find the shield generator and shield ring. They also find many soul crystals.
 - archaeologists: Miramz, Isrelda
 - magicorum enchantorom ?
 
