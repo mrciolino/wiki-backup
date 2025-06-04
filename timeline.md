@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:44:56.065Z
+date: 2025-06-04T18:48:06.491Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -150,7 +150,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [The Battle of Fywick](/Events/the-battle-of-fywick)
 - The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. Using Dio, they find the location of the ruby to be on a mountainside in the Celestial Vale to the west of Fywick. They find Ralindu Kosimostrovu Phorumdi the lich sealed inside the Ruby. Upon releasing him, he provides guidance to the party and accompanies them on the flying ship.
 - The party stops at a beach on the way to Bahryst. Here they meet Elon Musk. Spoops also completes the resurrection of the undead unicorn, releasing it into the wild. 
-- The party encounters Otto Hurtzog on their way north to Bahryst. Otto is captured during the fight and interrogated by Narascus. Otto has his hands glued to the floor of Narascus' room during the interrogation.
+- The party encounters Otto Hurtzog on their way north to Bahryst. Otto opens fire on the party from below attempting to tske out Os. Given the party's increased experience, they have no trouble desling with Otto. Otto is captured during the fight and interrogated by Narascus. Otto has his hands sovereign glued to the floor of Narascus' room during the interrogation.
 - [Mort](/characters/mort), disguised as an eccentric old man, is found in the arctic. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
 - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
