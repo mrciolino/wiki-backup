@@ -2,7 +2,7 @@
 title: Reuniting in Gothriathon
 description: The party is sent by Krorg to capture Os
 published: true
-date: 2025-06-04T14:22:59.445Z
+date: 2025-06-04T14:30:22.062Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:10:46.071Z
@@ -37,7 +37,3 @@ After joining the group, Meade does pull a card from the deck of many things and
 
 ## Os Comes Willingly
 The party attack Os and his dwarven guards, trying to capture him. Spoops intervenes, trying to negotiate peace between the party and Os while fighting back Bazzvrah and saving Narascus from being beaten by Os and the dwarves. Os, Meade, and Narascus come to terms. Os surrenders, asking that he he brought back to Altricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
-
-
-## Dave Bones Returns
-The party discovers Dave Bones has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship thst just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. Before departing on their own ship in the morning.
