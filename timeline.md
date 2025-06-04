@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T12:27:43.405Z
+date: 2025-06-04T12:27:50.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -143,7 +143,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick.
 - They meet Tony Mozzarella and Steveo.
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
-- Frederina's Betrayal: After battling the demon goose and knowing Frederina's demonic allegiances, Meade challenges Frederina to a duel. Frederina, is slain by Meade and the party during the fight. Meade departs the party and creates the "Three Swishes" bar in Fywick.
+- Frederina's Betrayal: After battling the demon goose and knowing Frederina's demonic allegiances, Meade challenges Frederina to a duel. Frederina, is slain by Meade and the party during the fight. Meade then departs the party and creates the "Three Swishes" bar in Fywick.
 - Spoops uses a wish he gained from the deck of many things to wish for "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
 - Spoops receives the Anti-Magic Armor.
 - Bazzvrah receives The Blood Fury Tattoo
