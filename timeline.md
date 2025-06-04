@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T12:20:57.076Z
+date: 2025-06-04T12:22:57.972Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -137,7 +137,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
 
 - During their flight to Fywick, Narascus is visited by a representative of The Emperor, they try to recruit him but he declines. 
-- Spoops and Meade are taken by The Emperor in their dreams. The Emperor makes them an offer to join him and survive, threatening that they dont stand a chance against him. Meade asks for proof, Upon which Spoops is instantly killed. 
+- Spoops and Meade are taken by The Emperor in their dreams. The Emperor makes them an offer to join him and survive, threatening that they dont stand a chance against him. While petting his chicken, Meade asks for proof of the emperor's power, Upon which Spoops is instantly killed. 
 - Spoops's soul is suddenly thrust into the Astral plane. After a bit of floating around he is visited by The spirits of Krorg and Bomb. Krorg tells spoops that he is at peace now and he shouldnt try to bring him back. Bomb says he is also at peace and Spoops needs to let go of the pain of loosing him. Spoops thanks bomb and tells him unfortunately he died too. Bomb reminds Spoops to "Remember to love your friends" before asking Spoops why he doesnt just resurrect himself? Spoops realizes he should just do that! He casts animate dead on himself and pops back to life (still a skeleton).
 - The party travels to Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - The Fywick Mafia: Bazzvrah, Meade, Os, and Narascus get involved with the Mafia in Fywick.
