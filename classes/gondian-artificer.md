@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T22:35:43.938Z
+date: 2025-06-04T22:37:06.014Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -48,7 +48,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Deployable Foundry** <br> - Deployable foundry and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 12]     |
 | **⚡ Fabricator**       | **Manufacturing Unit** <br> - Create Tiny constructs (INT mod/long rest).<br> - Bonus action to deploy traps or repair.    | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 12] |
-| **📡 Support Network** | **Communication Array** <br> - Deployable antenna array with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for commmunications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative for those with a **Communication Array**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 12] |
+| **📡 Support Network** | **Communication Antenna** <br> - Deployable antenna array with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for commmunications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative for those with a **Communication Array**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 12] |
 
 ## Level 5 Upgrades
 
