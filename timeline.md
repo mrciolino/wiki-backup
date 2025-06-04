@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:05:31.952Z
+date: 2025-06-04T18:08:37.161Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -124,7 +124,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The party makes landfall at the Shrine of Torment. The party discovers Dave Bones has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship that just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. To avoid a potential meeting with Dave Bones they ride their carriage south to Kaltrosar in the morning. They would later find out the ship manned by undead wasn't even Dave Bones, it was Frederina following them from Altricia.
   - From here they ride their carriage to Kaltrosar Bay. 
   - They hire Dilliard, Illiard's cousin to outfit the carriage with armor plating.
-  - The party then departs Kaltrosar Bay and rides towards Fywick. While passing through Mt.Suran north of Fort Suro, they begin drawing cards from the deck of many things.
+  - The party then depart Kaltrosar Bay and ride towards Fywick. While passing through Mt.Suran north of Fort Suro, they begin drawing cards from the deck of many things.
   - [Drawing Cards in The Carriage](/Events/drawing-cards-in-the-carriage)
 - On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and departed.
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
