@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T22:27:00.768Z
+date: 2025-06-04T22:33:00.509Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -15,8 +15,8 @@ dateCreated: 2025-06-02T00:31:19.494Z
 
 Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or fabrication systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization. When you select this subclass at 3rd level, you gain the following features:
 
-**🔨 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this proficiency, you instead gain proficiency with another type of artisan's tools of your choice.
-**🧰 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary based on item complexity and rarity.
+**🧰 Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this proficiency, you instead gain proficiency with another type of artisan's tools of your choice.
+**🔨 Crafting**: You can craft both non-magical and magical items using your chosen artisan’s tools, provided you have the necessary materials, time, and tool proficiency. Crafting speed, cost, and difficulty vary based on item complexity and rarity.
 **🏛️ Community Buildings**: Your body houses a deployable framework for constructing modular machines, each representing a facility tied to your subclass specialization. These buildings provide powerful area-based effects and scale with your progression. 
 
 ## Spells
