@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T02:41:10.781Z
+date: 2025-06-04T12:00:25.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -201,9 +201,12 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Aku is slain when the party drops dragon turtles on his castle.
 - The party is in some dungeon somewhere. Spoops finds a bunch of corpses and makes a bone giant. 
 - The party finds many magic items
-- Items Found: flask that turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses,
-- The party encounters a mirror that shows a version of you that is oppositely aligned.
+- Items Found: flask that turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses
+- The party encounters a magic mirror that shows a version of you that is oppositely aligned.
+- The party passes a room of mummy lords unscathed as Spoops is able to communicate with them. Being highly intelligent undead, they understand the authority the undead Spoops holds over their kind, sp they allow the party to pass.
+- At the end of the dungeon, the party finds a portal leading to Darmuth's lair.
 - Assault on Darmuth Begins
+- The party finds an illithid nest. They see pools filled with illithid tadpoles that attempt to infect the party. Many of the party narrowly avoid the tadpoles, the tadpoles attempting to inhabit spoops find no brain to infect. However one does atttach to adalynn which thr party has to remove later. At the center of rhe room is a massive elder brain, Darmuth's true form.
 - The party tries to evacuate who they can from Altricia prior to engaging Darmuth.
 - Altricia burns.
 - Darmuth is killed after Os does time travel comes back, then drops her into a volcano.
