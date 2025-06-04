@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:20:57.475Z
+date: 2025-06-04T18:21:14.995Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -128,7 +128,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - While passing through Mt. Suran, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and departed.
 - The party dub this new threat Carl.
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
-- Ad they fly away, the party  checks Dio and realizes Carl is geting closer. The carriage is too heavy and is slowing down the flying ship. The party makes the decision to cut the carriage loose, reducing their weight and allowing them to put significant distance between them and Carl.
+- As they fly away, the party  checks Dio and realizes Carl is geting closer. The carriage is too heavy and is slowing down the flying ship. The party makes the decision to cut the carriage loose, reducing their weight and allowing them to put significant distance between them and Carl.
 - During their flight to Fywick, Narascus is visited by a representative of The Emperor, they try to recruit him but he declines. 
 - [Spoops Resurrects Himself](/Events/spoops-resurrects-himself)
 - The party arrives in Fywick to seek the Oracles guidance on how to defeat Darmuth.
