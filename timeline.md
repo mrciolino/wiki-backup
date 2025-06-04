@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:12:33.881Z
+date: 2025-06-04T18:13:02.778Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -125,7 +125,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - From here they ride their carriage to Kaltrosar Bay. 
   - They hire Dilliard, Illiard's cousin to outfit the carriage with armor plating.
   - [Drawing Cards in The Carriage](/Events/drawing-cards-in-the-carriage)
-- On their way to Fywick, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and departed.
+- While passing through Mt. Suran, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and departed.
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
 
 - During their flight to Fywick, Narascus is visited by a representative of The Emperor, they try to recruit him but he declines. 
