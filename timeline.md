@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:41:42.819Z
+date: 2025-06-04T18:44:02.013Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -145,6 +145,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party teleports to The Bastion of Tiyamani The Awesome in the Ashe Mountains north west of Fywick. They are searching for a magical item that can help them against Darmuth. They meet an archaeologist also exploring the ruins. The archaeologist's crew was all killed while in the ruins. Spoops uses Earth Terror to do some excavating. They find the shield generator and shield ring. They also find many soul crystals.
 - archaeologists: Miramz, Isrelda
 - magicorum enchantorom ?
+- After their expedition, the larty teleports back to Fywick.
 
 - [The Battle of Fywick](/Events/the-battle-of-fywick)
 - The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. Using Dio, they find the location of the ruby to be on a mountainside in the Celestial Vale to the west of Fywick. They find Ralindu Kosimostrovu Phorumdi the lich sealed inside the Ruby. Upon releasing him, he provides guidance to the party and accompanies them on the flying ship.
