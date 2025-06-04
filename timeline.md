@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-03T20:40:22.662Z
+date: 2025-06-04T02:41:10.781Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -173,11 +173,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party offers to trade information on bomb the bear for information on Darmuth's phylactery. The tree responds: "BOMB THE BEAR! I HAVE VERY FEW SOURCES ON THIS CHARACTER. HER PHALACTORY IS HIDDEN AND SHE DOESN'T DESCRIBE IT IN HER DIARY, ONLY MAKING REFERENCES TO SOMETHING IN HASTOW OF GREAT IMPORTANCE... ITHILID? ITHILID IS A PATRON OF MY KNOWLEDGE, HE IS THE EMPEROR OF THE ILLITHIDS. THE CUREENT RULER OF THE ILINOR IMPERIUM"
 - Narascus then shows the tree what having sight is like by placint jis robe of eyes on its branch. The tree is overwhelmed by this new ability and makes the party an offer: "I WILL TRADE IT FOR FREE PASSAGE AGAINST MY LIBRARIANS. THE LIBRARIANS WILL AID YOU IN THEIR CAPACITY. IF YOU WISH TO BRING ME MORE KNOWLEDGE I WILL BE A POWERFUL ALLY. FOR THE FUTURE. A CONTINUING RELATIONSHIP"
 - Bazzvrah asked the tree how to read something and the tree responded: "I THINK YOU NEED THE ABILITY TO READ THE OLD TONGUES. ENTER MY BODY AND BEOME ONE WITH ME AND THE KNOWLEDGE"
-- Bazzvrah then casts tree stride and becomes one with the tree of knowledge. Grandpa Mort shouts out "Grandson No!!!" as he gently stabs the tree in defeat. The party say their goodbyes to Bazzvrah as he is now the tree of knowledge. The  the party leaves the library, returning to Mardun.
+- Bazzvrah then casts tree stride and becomes one with the tree of knowledge. Grandpa Mort shouts out "Grandson No!!!" as he gently stabs the tree in defeat. 
+- Bazzvrah tells the party to find his brother Bazzalt, the 3ft. tall frog druid.
+- The party say their goodbyes to Bazzvrah as he is now the tree of knowledge. The  the party leaves the library, returning to Mardun.
 - The party seeks out Bazzalt, the third Bazz brother. They find him in the mountains near Inferno's rest. They use the memory device obtained from Rathwing to show Bazzalt everything that happened during the adventure so far.
 - After joining up with Bazzalt, the party journeys to Hastow to search for Darmuth's phylactery and investigate any Illithid activity.
 - The party goes to Hastow and Spoops sees a dragon in the Ethereal plane flying towards Altricia. It looks like an ancient red dragon but angry and in the ethereal plane. It looks like Inferno heading towards Altricia to try to attack Darmuth.
-- The party arrives at the Hastow Monastary. Spoops finds some silverware sanctified by Ry-ann. Also he finds a bone from one of thr first undead Ry-ann ever raised.
+- The party arrives at the Hastow Monastary. Spoops finds some silverware sanctified by Ry-ann. Also he finds a bone from one of the first undead Ry-ann ever raised.
 
 - The party leaves Hastow. Narascus stays behind in Hastow to run his Monastary. 
 
@@ -190,7 +192,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party finds Darmuth's Phylactery which is in the knot in the portal in the hole in the hat.
 
 - The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
-- Spoops ends up trapped by Darmuth in what was formerly the dragon's hoard far to the south west of Gothriathon. He forst investigstes the piles of gold only to find they are just an illusion created by Darmuth. He uses his knife leg, ring of misty step, and immunity to poison to easily bypass the defenses of the hoard, returning to thr surface. He then uses his knife leg to fly back to gothriathon to meet up with the party.
+- Spoops ends up trapped by Darmuth in what was formerly the dragon's hoard far to the south west of Gothriathon. He forst investigstes the piles of gold only to find they are just an illusion created by Darmuth. He uses his knife leg, ring of misty step, and immunity to poison to easily bypass the defenses of the hoard, returning to the surface. He then uses his knife leg to fly back to gothriathon to meet up with the party.
 
 - The party decide to travel to Wegate to finish Spoops' rebellion.
 
@@ -199,10 +201,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Aku is slain when the party drops dragon turtles on his castle.
 - The party is in some dungeon somewhere. Spoops finds a bunch of corpses and makes a bone giant. 
 - The party finds many magic items
-- Items Found: flask thst turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses,
+- Items Found: flask that turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses,
 - The party encounters a mirror that shows a version of you that is oppositely aligned.
 - Assault on Darmuth Begins
-- The party arrive above Altricia in their flying ship. 
 - The party tries to evacuate who they can from Altricia prior to engaging Darmuth.
 - Altricia burns.
 - Darmuth is killed after Os does time travel comes back, then drops her into a volcano.
