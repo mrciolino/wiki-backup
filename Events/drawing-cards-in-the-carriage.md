@@ -2,7 +2,7 @@
 title: Drawing Cards in The Carriage
 description: The party begins drawing cards on the way to Fywick
 published: true
-date: 2025-06-04T14:38:29.977Z
+date: 2025-06-04T14:39:45.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-04T12:45:22.745Z
@@ -41,3 +41,5 @@ Spoops draws another card and has his body charred as if by fire, glowing magica
 Narascus draws a card and is granted some magic spears.
 
 Narascus draws another card and a mask which cannot be removed appears on his face.
+
+Narascus draws another card and receives a pseudodragon pet.
