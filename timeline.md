@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:48:36.282Z
+date: 2025-06-04T18:55:28.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -156,6 +156,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party returns to Kaltrosar Bay (I dont remember why, i think this ends with it burning down again).
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
 - The party visits the Library dimension for the first time. 
+- Achilles finds his own autobiograpy which to the rest of the party is clearly filled with lies about various great deeds achilles claims he did. It also says that he dies which scares him.
 - The party finds assassination note mountain in the library dimension.
 - The party meets the tree of knowledge. Bazzvrah hires Mort to assassinate the tree for 1 gold, but after the tree slaps Mort down, Bazzvrah asks for his gold back and Mort cancels the contract.
 - The tree has two guardians, Jigglypuff and Starfox.
