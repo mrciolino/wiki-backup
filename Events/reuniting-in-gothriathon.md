@@ -2,7 +2,7 @@
 title: Reuniting in Gothriathon
 description: The party is sent by Krorg to capture Os
 published: true
-date: 2025-06-04T12:18:29.287Z
+date: 2025-06-04T14:16:05.398Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:10:46.071Z
@@ -22,7 +22,7 @@ During the past three years, Os became the leader of a group affiliated with the
 ## Capturing Os
 Krorg sends Narascus, Frederina, and Bazvrah to Gothriathon to hunt down Os.
 
-Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. 
+Spoops arrives at the docks in Gothriathon with some of his wights after fleeing Wegate. He runs into his old party and Bazzvrah within the city. The party simply tells Spoops thst they are on their way to see Os, not mentioning the plan to capture him.
 
 Dave Bones returns to life again.
 
@@ -38,4 +38,4 @@ After joining the group, Meade does pull a card from the deck of many things and
 
 
 ## Os Comes Willingly
-Os, Meade, and Narascus come to terms. Os surrenders, asking that he he brought back to Altricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
+The party attack Os and his dwarven guards, trying to capture him. Spoops intervenes, trying to negotiate peace between the party and Os while fighting back Bazzvrah and saving Narascus from being beaten by Os and the dwarves. Os, Meade, and Narascus come to terms. Os surrenders, asking that he he brought back to Altricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
