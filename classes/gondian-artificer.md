@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T20:51:07.373Z
+date: 2025-06-04T20:53:26.183Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -56,18 +56,19 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 | Subclass | Core Features | Unlockable Structure |
 | -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-minute rituals (3 stored).        | **Advanced Forge**<br>*Improved facility with defensive enhancements.*<br><br>**Effect:** Resistance to bludgeoning/piercing/slashing on long rests. <br>\[**Level:** 5+ · **Time:** 6 weeks · **Cost:** 800 gp · **Labor:** 2 artisans · **Check:** Smithing Tools DC 15] |
-| **⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs for 1 hour (1/long rest).<br> - Lens/laser: 1d6 + INT fire damage, 60 ft. | **Manufacturing Hub**<br>*Enhanced automation and quality control.*<br><br>**Effect:** 50% faster crafting, +3 to crafting checks. <br>\[**Level:** 5+ · **Time:** 6 weeks · **Cost:** 1,000 gp · **Labor:** 3 artisans · **Check:** Artificer's Tools DC 15]              |
-| **📡 Support Network** | **Tactical Coordination** <br> - Flash of Genius affects all allies in 30 ft.<br> - Create Medium illusions and displays.   | **Command Center**<br>*Coordination hub with support bonuses.*<br><br>**Effect:** +2 to saving throws, advantage on group checks. <br>\[**Level:** 5+ · **Time:** 8 weeks · **Cost:** 1,200 gp · **Labor:** 4 artisans · **Check:** Arcana DC 15] |
+| **🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-minute rituals (3 stored).        | **Advanced Forge**<br>*Improved facility with defensive enhancements.*<br><br>**Effect:** Resistance to bludgeoning/piercing/slashing on long rests. <br>\[**Time:** 6 weeks - **Cost:** 800 gp - **Check:** Smithing Tools DC 15] |
+| **⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs for 1 hour (1/long rest).<br> - Lens/laser: 1d6 + INT fire damage, 60 ft. | **Manufacturing Hub**<br>*Enhanced automation and quality control.*<br><br>**Effect:** 50% faster crafting, +3 to crafting checks. <br>\[**Time:** 6 weeks - **Cost:** 1,000 gp - **Check:** Artificer's Tools DC 15]              |
+| **📡 Support Network** | **Tactical Coordination** <br> - Flash of Genius affects all allies in 30 ft.<br> - Create Medium illusions and displays.   | **Command Center**<br>*Coordination hub with support bonuses.*<br><br>**Effect:** +2 to saving throws, advantage on group checks. <br>\[**Time:** 8 weeks - **Cost:** 1,200 gp - **Check:** Arcana DC 15] |
+
 ## Level 9 Upgrades
 
 *(Select 1 row, must have 3rd and 5th-level upgrade from same path)*
 
 | Subclass | Core Features | Unlockable Structure |
 | -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Gondian Forge** <br> - Craft items worth up to 100 gp as an action (1/long rest).<br> - Allies within 10 ft gain +2 AC.       | **Gondian Fortress-Forge**<br>*A fortified facility combining production and protection.*<br><br>**Effect:** Fire immunity during long rests; nearby allies gain +1 AC. <br> \[**Level:** 9+ - **Time:** 20 wks - **Cost:** 5,000 gp - **Labor:** 5 artisans - **Check:** 5x Smith Tools DC 18] |
-| **⚡ Fabricator**       | **Automated Factory** <br> - Deploy Medium AI constructs with basic logic.<br> - Laser deals 2d6 + INT fire damage (120 ft).    | **Automated Complex**<br>*AI-managed industrial facility.*<br><br>**Effect:** Creates one common magic item per week; advantage on related crafting and automation checks. <br> \[**Level:** 9+ - **Time:** 12 wks - **Cost:** 4,000 gp - **Labor:** 4 artisans - **Check:** 5x Arcana DC 16]   |
-| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT mod creatures).<br> - Project tactical displays across battlefield. | **Master Command Array**<br>*Strategic broadcast and coordination tower.*<br><br>**Effect:** Surveillance, early warnings, planar link pings. <br> \[**Level:** 9+ - **Time:** 16 wks - **Cost:** 6,000 gp - **Labor:** 6 artisans - **Check:** 5x Arcana DC 18]                                |
+| **🔥 Forge Master**    | **Gondian Forge** <br> - Craft items worth up to 100 gp as an action (1/long rest).<br> - Allies within 10 ft gain +2 AC.       | **Gondian Fortress-Forge**<br>*A fortified facility combining production and protection.*<br><br>**Effect:** Fire immunity during long rests; nearby allies gain +1 AC. <br> \[**Time:** 20 wks - **Cost:** 5,000 gp - **Check:** 5x Smith Tools DC 18] |
+| **⚡ Fabricator**       | **Automated Factory** <br> - Deploy Medium AI constructs with basic logic.<br> - Laser deals 2d6 + INT fire damage (120 ft).    | **Automated Complex**<br>*AI-managed industrial facility.*<br><br>**Effect:** Creates one common magic item per week; advantage on related crafting and automation checks. <br> \[**Time:** 12 wks - **Cost:** 4,000 gp - **Check:** 5x Arcana DC 16]   |
+| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT mod creatures).<br> - Project tactical displays across battlefield. | **Master Command Array**<br>*Strategic broadcast and coordination tower.*<br><br>**Effect:** Surveillance, early warnings, planar link pings. <br> \[**Time:** 16 wks - **Cost:** 6,000 gp - **Check:** 5x Arcana DC 18] |
 
 ## Level 15 Upgrades
 
@@ -75,9 +76,9 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 | Subclass | Core Features | Unlockable Structure |
 | -------- | ------------- | -------------------- |
-| **🔥 Forge Master**    | **Legendary Foundry** <br> - Instantly craft a magic item (500 gp) (1/long rest).<br> - Activate Aegis Protocol to grant +3 AC shields (INT mod/day). | **Master Forge-Citadel**<br>*Citadel-grade structure with supreme crafting capabilities.*<br><br>**Effect:** Damage resistance during combat; produces 1 permanent +1 item per week. <br> \[**Level:** 15+ - **Time:** 30 wks - **Cost:** 15,000 gp - **Labor:** 8 artisans - **Check:** 5x Smith Tools DC 20] |
-| **⚡ Fabricator**       | **Master Manufacturing** <br> - Build complex inventions (1,000 gp) instantly (1/long rest).<br> - Control INT-mod constructs with shared cognition.  | **Legendary Factory-City**<br>*A sprawling hub for magical industry and research.*<br><br>**Effect:** Weekly uncommon item production; trains artificers in advanced techniques. <br> \[**Level:** 15+ - **Time:** 25 wks - **Cost:** 20,000 gp - **Labor:** 8 artisans - **Check:** 5x Arcana DC 20]          |
-| **📡 Support Network** | **Master Coordinator** <br> - Reality-grade illusions (Huge), create semi-real terrain.<br> - Coordinate actions across planes and timelines.         | **Planar Command Nexus**<br>*A hub of transdimensional command and control.*<br><br>**Effect:** Multiversal coordination, omniscient surveillance, instant teleportation triggers. <br> \[**Level:** 15+ - **Time:** 40 wks - **Cost:** 25,000 gp - **Labor:** 10 artisans - **Check:** 5x Arcana DC 20]       |
+| **🔥 Forge Master**    | **Legendary Foundry** <br> - Instantly craft a magic item (500 gp) (1/long rest).<br> - Activate Aegis Protocol to grant +3 AC shields (INT mod/day). | **Master Forge-Citadel**<br>*Citadel-grade structure with supreme crafting capabilities.*<br><br>**Effect:** Damage resistance during combat; produces 1 permanent +1 item per week. <br> \[**Time:** 30 wks - **Cost:** 15,000 gp - **Check:** 5x Smith Tools DC 20] |
+| **⚡ Fabricator**       | **Master Manufacturing** <br> - Build complex inventions (1,000 gp) instantly (1/long rest).<br> - Control INT-mod constructs with shared cognition.  | **Legendary Factory-City**<br>*A sprawling hub for magical industry and research.*<br><br>**Effect:** Weekly uncommon item production; trains artificers in advanced techniques. <br> \[**Time:** 25 wks - **Cost:** 20,000 gp - **Check:** 5x Arcana DC 20]          |
+| **📡 Support Network** | **Master Coordinator** <br> - Reality-grade illusions (Huge), create semi-real terrain.<br> - Coordinate actions across planes and timelines.         | **Planar Command Nexus**<br>*A hub of transdimensional command and control.*<br><br>**Effect:** Multiversal coordination, omniscient surveillance, instant teleportation triggers. <br> \[**Time:** 40 wks - **Cost:** 25,000 gp - **Check:** 5x Arcana DC 20]       |
 
 
 ## Level 20: Master of Invention
