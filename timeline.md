@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T17:35:19.901Z
+date: 2025-06-04T18:04:25.696Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -121,7 +121,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Death of Krorg](/Events/the-death-of-krorg)
 
   - The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth.
-  - The party makes landfall at the Shrine of Torment. The party discovers Dave Bones has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship that just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. To avoid a potential meeting with Dave Bones they ride their carriage south to Kaltrosar in the morning. They would later find out the ship manner by undead wasnt even Dave Bones, it was Frederina following them from Altricia.
+  - The party makes landfall at the Shrine of Torment. The party discovers Dave Bones has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship that just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. To avoid a potential meeting with Dave Bones they ride their carriage south to Kaltrosar in the morning. They would later find out the ship manned by undead wasn't even Dave Bones, it was Frederina following them from Altricia.
   - From here they ride their carriage to Kaltrosar Bay. 
   - The party then departs Kaltrosar Bay and rides towards Fywick. While passing through Mt.Suran north of Fort Suro, they begin drawing cards from the deck of many things.
   - [Drawing Cards in The Carriage](/Events/drawing-cards-in-the-carriage)
