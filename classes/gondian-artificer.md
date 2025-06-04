@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T22:37:06.014Z
+date: 2025-06-04T22:38:19.715Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -37,7 +37,7 @@ At each **upgrade level (3, 5, 9, 15)**, you may select one upgrade from any pat
 **⚡ Fabricator**: Integrates advanced manufacturing systems for rapid creation of constructs, mechanisms, and devices. Specializes in automation, traps, and mass production.
 **📡 Support Network**: Installs communication arrays and projection systems to deliver tactical support, data sharing, and battlefield coordination across vast ranges.
 
-In addition to your subclass path, **Unit Enhancements** let you engineer mechanical upgrades for your deployable unit—each requiring time, materials, and skill checks. To succeed, you must pass 5 checks above the listed DC; failed rolls increase total time and cost by 10% each. (e.g., if it takes 7 Arcana checks to get 5 above DC 15, time and cost increase by 20%).
+In addition to your subclass path, **Unit Enhancements** let you engineer mechanical upgrades for your deployable unit—each requiring time, materials, and skill checks. To succeed, you must pass 5 checks above the listed DC; failed rolls increase total time and cost by 10% each. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%).
 
 
 ## Level 3 Upgrades
