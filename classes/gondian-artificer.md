@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-04T16:46:41.937Z
+date: 2025-06-04T20:51:07.373Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -37,7 +37,7 @@ At each **upgrade level (3, 5, 9, 15)**, you may select one upgrade from any pat
 **⚡ Fabricator**: Integrates advanced manufacturing systems for rapid creation of constructs, mechanisms, and devices. Specializes in automation, traps, and mass production.
 **📡 Support Network**: Installs communication arrays and projection systems to deliver tactical support, data sharing, and battlefield coordination across vast ranges.
 
-In addition to your subclass path, **⚙️ Unit Enhancement** allows you to construct mechanical upgrades for your deployable unit. These enhancements require time, materials, and successful checks to build, but reward dedicated engineers with powerful functionality and custom utility.
+In addition to your subclass path, **Unit Enhancements** let you engineer mechanical upgrades for your deployable unit—each requiring time, materials, and skill checks. To succeed, you must pass 5 checks above the listed DC; failed rolls increase total time and cost by 10% each. (e.g., if it takes 7 Arcana checks to get 5 above DC 15, time and cost increase by 20%).
 
 
 ## Level 3 Upgrades
@@ -87,7 +87,7 @@ In addition to your subclass path, **⚙️ Unit Enhancement** allows you to con
 **Integrated Metropolis**: You can now construct an **Integrated Metropolis** that combines all three infrastructure types, providing community-wide benefits to all constructs and allies within a 1-mile radius and supporting populations of 10,000+ beings.
 
 # 🏛️ Community Buildings
-Only one may be active per path, and a final master building may be constructed at high levels. Each requires materials, tools, labor, and 5 successful construction checks (DC 12–20), with failed checks increasing either time or cost by 25%.
+Only one may be active per path, and a final master building may be constructed at high levels. Each requires materials, tools and labor. To succeed, you must pass 5 checks above the listed DC; failed rolls increase total time and cost by 10% each. (e.g., if it takes 7 Arcana checks to get 5 above DC 15, time and cost increase by 20%).
 
 | Structure | Requierment | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
@@ -113,7 +113,7 @@ Only one may be active per path, and a final master building may be constructed 
 | Artifact         | —         | DM's discretion | 50,000+ gp        | 20th+ level    | May require divine or quest aid      |
 | Adapt Magic Item | Any       | 75% of above    | 125% of base cost | Same as rarity | Source item consumed; faster process |
 
-### Crafting & Construction Modifiers
+## Crafting & Construction Modifiers
 
 | Modifier Source                          | Type                | Affected Area                 | Effect                            |
 | ---------------------------------------- | ------------------- | ----------------------------- | --------------------------------- |
