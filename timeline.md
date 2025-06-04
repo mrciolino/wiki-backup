@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:56:34.778Z
+date: 2025-06-04T18:58:33.727Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -156,6 +156,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party returns to Kaltrosar Bay (I dont remember why, i think this ends with it burning down again).
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
 - The party visits the Library dimension for the first time. 
+- Bazzvrah takes notice of roots extending throughout the library. As the party slowly make their way through the chaoic maze of the library, he wonders if he might be able to use tree stride to travel throughout the dimension more easily.
 - Spoops finds a book on fighting angels demons and gods.
 - Achilles finds his own autobiograpy which to the rest of the party is clearly filled with lies about various great deeds achilles claims he did. It also says that he dies which scares him.
 - The party finds assassination note mountain in the library dimension.
