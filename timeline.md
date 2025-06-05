@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T14:24:47.210Z
+date: 2025-06-05T14:34:18.404Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -218,7 +218,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - **Events that happened on Ereriad**
 - The party goes through the well and engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the cresture snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End.
 - The party then travels to the closest major city: Hellaress.
-- The party gets an audience with the king due to them slaying the Devastation Beetle.
+- The party gets an audience with the king due to them slaying the Devastation Shark Scorpion.
 - Quest to save the princess of hellaress
 - Investigating the Magic College of Highhold.
 - Magical College Porthy
