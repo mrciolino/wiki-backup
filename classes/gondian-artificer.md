@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T00:29:59.266Z
+date: 2025-06-05T00:31:41.791Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -101,7 +101,7 @@ Once all three Community Buildings have been constructed and powered, you may be
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
-| **🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x Artisan DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
+| **🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x Tools DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
 
 # 🔨 Item Crafting Time & Cost
 
