@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:09:44.806Z
+date: 2025-06-05T17:10:58.447Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -247,9 +247,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights an Illithid dragon.
 - The party meets Archmage Lancel Highhold
 - [Escape From Sigil](/Events/escape-from-sigil)
+- 
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 
-- Hunting down devastation vermin
+- Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
 - 
