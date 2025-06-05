@@ -2,16 +2,14 @@
 title: Crafting Cost Guide for Gondian Artificer 
 description: A crafting and pricing system tailored to the Gondian Artificer subclass.
 published: true
-date: 2025-06-05T00:54:43.271Z
+date: 2025-06-05T00:55:33.051Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-05T00:54:43.271Z
 ---
 
 
-# 🔨 Item Crafting Time & Cost
-
-## Base Crafting Table
+# Base Crafting Table
 
 | Item Type        | Rarity    | Base Time       | Base Cost         | Required Level | Notes                                |
 | ---------------- | --------- | --------------- | ----------------- | -------------- | ------------------------------------ |
@@ -24,7 +22,7 @@ dateCreated: 2025-06-05T00:54:43.271Z
 | Artifact         | —         | DM's discretion | 50,000+ gp        | 20th+ level    | May require divine or quest aid      |
 | Adapt Magic Item | Any       | 75% of above    | 125% of base cost | Same as rarity | Source item consumed; faster process |
 
-## Crafting & Construction Modifiers
+# Crafting & Construction Modifiers
 
 | Modifier Source                          | Type                | Affected Area                 | Effect                            |
 | ---------------------------------------- | ------------------- | ----------------------------- | --------------------------------- |
@@ -39,11 +37,11 @@ dateCreated: 2025-06-05T00:54:43.271Z
 | 🔧 Path-Specific Upgrades  | Crafting Time       | Specialty items by path        | Varies by upgrade (2×-4× speed bonuses) |
 | Other Class/Race Reductions  | Crafting Time       | Crafting       | Varies by upgrade (Lvl 5 Artficer - 25%) |
 
-## Time and Cost Calculation Guide 
+# Time and Cost Calculation Guide 
 This guide explains how to calculate the time and cost required to craft items using your artisan tools, based on item rarity, character stats, upgrades, and teamwork.
 
 
-### Step-by-Step Crafting Time Calculation
+## Step-by-Step Crafting Time Calculation
 
 1. **Start with Base Time**: From the rarity table above.
 2. **Tool Proficiency**: If lacking, multiply time by **1.5**.
@@ -67,7 +65,7 @@ This guide explains how to calculate the time and cost required to craft items u
   * **Artisans Assisting**: 2 other proficient artisans
  
   
-### 🧮 **Calculation Steps**
+## 🧮 **Calculation Steps**
 
 1. **Base Time (Rare Item)**
    → From table: **8 weeks**
