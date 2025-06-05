@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:56:15.946Z
+date: 2025-06-05T17:56:38.131Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -265,7 +265,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops decides to reach out to Kierkegaard, Vesrahaan, and Narascus to form the Unified Forces of Ry-ann and bring them under the banner of Mortis Lux. Spoops gets ahold of all three of them via speaking stone and they agree to join Mortis Lux. Kierkegaard agrees to bring his paladins in and lead the Unified Forces under Spoops, Narascus commits his clerics to the cause, and Vesrahaan commits her clerics to the Unified forces as well. Vesrahaan also agrees to bring ther entirety of Wegate and her army into Mortis Lux as well.
 - Seeking guidance and power, Elira communes with Mystra to become a sorcerer.
 - Bazzdows delivers speaking stones to any members who dont have them, connecting every member of Mortis Lux to his network as rhey join. 
-- Spoops starts making more calls. He contacts the Oracle of Fywick and Tony Mozzarella, recruiting both the city of Fywick and Fywick Mafia into the organization under the leadership of the Oracle.
+- Spoops starts making more calls. He contacts the city council of Fywick and Tony Mozzarella, recruiting both the city of Fywick and Fywick Mafia into the organization under the leadership of the Oracle.
 
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
