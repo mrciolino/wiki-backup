@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T00:59:55.688Z
+date: 2025-06-05T01:04:57.059Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -69,7 +69,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Gondian Forge** <br> - Craft 100 gp items as action (1/long rest).<br> - Allies within 10 ft: +2 AC.  | **Thermic Core Reactor**<br>*Generates intense magical heat and power.*<br><br>**Effect:** Gain immunity to fire; unit emits aura (10 ft) granting fire resistance. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Smithing Tools DC 18]     |
 | **⚡ Fabricator**       | **Automated Factory** <br> - Deploy Medium AI constructs.<br> - Laser: 2d6+INT fire (120 ft).           | **Production Cluster**<br>*Unit can now queue and batch-create mechanisms.*<br><br>**Effect:** Craft up to 3 Tiny devices at once; store 1 common magic item weekly. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Artificer's Tools DC 18] |
-| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT mod allies).<br> - Battlefield projections. | **Integrated Battlefield Grid**<br>*Auto-updates terrain, ally, and enemy markers.*<br><br>**Effect:** Allies within 60 ft. ignore difficult terrain; +1 initiative. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Arcana DC 15]            |
+| **📡 Support Network** | **Advanced Network** <br> - Mass Flash of Genius (up to INT mod allies).<br> - Battlefield projections. | **Integrated Battlefield Grid**<br>*Auto-updates terrain, ally, and enemy markers.*<br><br>**Effect:** Allies within 60 ft. ignore difficult terrain; +1 initiative. <br> \[**Time:** 8 weeks – **Cost:** 4,000 gp – **Check:** 5x Arcana DC 18]            |
 
 ## Level 15 Upgrades
 
@@ -80,7 +80,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Legendary Foundry** <br> - Instantly craft 500 gp item (1/long rest).<br> - Aegis Protocol: +3 AC shields (INT mod/day). | **Soulsteel Crucible**<br>*Imbues creations with sentience and self-repair.*<br><br>**Effect:** Created weapons/armor gain 1/day self-repair and minor AI guidance (e.g., +1 attack or save). <br> \[**Time:** 12 weeks – **Cost:** 12,000 gp – **Check:** 5x Smithing Tools DC 21] |
 | **⚡ Fabricator** | **Master Manufacturing** <br> - Build 1,000 gp inventions instantly.<br> - Control INT-mod constructs mentally. | **Neural Fabricator Core**<br>*Establishes shared cognition across constructs.*<br><br>**Effect:** Controlled constructs share senses, act in perfect sync, and can take Ready actions as a unit. <br> \[**Time:** 10 weeks – **Cost:** 15,000 gp – **Check:** 5x Artificer's Tools DC 21] |
-| **📡 Support Network** | **Master Coordinator** <br> - Huge illusions, trans-planar coordination. | **Omniscient Relay Array**<br>*Linked to planar and divine intelligences.*<br><br>**Effect:** Detect planar shifts; allies within 1 mile may reroll failed save 1/day. <br> \[**Time:** 12 weeks – **Cost:** 18,000 gp – **Check:** 5x Arcana DC 16] |
+| **📡 Support Network** | **Master Coordinator** <br> - Huge illusions, trans-planar coordination. | **Omniscient Relay Array**<br>*Linked to planar and divine intelligences.*<br><br>**Effect:** Detect planar shifts; allies within 1 mile may reroll failed save 1/day. <br> \[**Time:** 12 weeks – **Cost:** 18,000 gp – **Check:** 5x Arcana DC 21] |
 
 
 ## Level 20: Master of Invention
@@ -96,11 +96,11 @@ As your skills advance, you can construct Community Buildings, large-scale struc
 | --------- | ----------- | ---- | ---- | ----- | ------ |
 | **🔥 Crucible Hall** | Level 15+    | 12 weeks | 6,000 gp | 5x Smithing Tools DC 23    | A fortified industrial facility. Grants +2 AC to all local structures, mass-produces basic weapons/armor weekly, and boosts blacksmith crafting speed. |
 | **⚡ Constructory**   | Level 15+ | 12 weeks | 7,500 gp | 5x Artificer's Tools DC 23 | A full-scale mechanized works. Produces 2 Tiny or 1 Small autonomous constructs weekly for labor or defense, and enhances output of local fabrication workshops. |
-| **📡 Signal Spire**  | Level 15+   | 12 weeks | 5,000 gp | 5x Arcana DC 17 | A centralized arcane tower for communications and coordination. Enables town-wide alerts, boosts initiative by +1, and grants advantage on defense coordination rolls within 1 mile. |
+| **📡 Signal Spire**  | Level 15+   | 12 weeks | 5,000 gp | 5x Arcana DC 23 | A centralized arcane tower for communications and coordination. Enables town-wide alerts, boosts initiative by +1, and grants advantage on defense coordination rolls within 1 mile. |
 
 ## Gondian Core
 Once all three Community Buildings have been constructed, you may begin the ultimate synthesis project—an intelligent, regional hub that merges forge, factory, and network. This requires collaboration amongst many Gondian Warforged, establishing a community and enhancing collective efficiency. This center of operations must be staffed by **at least 3 skilled artisans** for its effects to be active.
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
-| **🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x Tools DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
+| **🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x (Smith Tools or Artificer's Tools or Arcana) DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
