@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T19:11:09.243Z
+date: 2025-06-05T19:12:00.135Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -264,7 +264,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bazzdows makes a wish: "I wish for the party to recieve boons up to lvl 6th boon inclusive. Party members will recieve lvl 1 and 3 boons as well if they dont already have them. They will recieve this wish without reprieve or consquences besides the benefit of such boon selection. All party members will have thier choice of boon (1,3,6) to take at a time of their choosing without extenral factors effecting their decesion. The boons selected will have instanous effect to their desired strength without the possible negative - time or character based effects."
 - A team of Marut appear and attempt to forcibly take Spoops. The wish Bazzdows made rings in Spoops' head and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party. Spoops has to get away by teleporting to the library dimension while the party lure the Marut away. Elira tells Spoops via speaking stone that the Marut have been led away, and the party will begin to rally their forces and tells Spoops to stay safe. 
 - The party begins quickly making contact with all of their old allies, recruiting them into their new organization to fight the Illithids as well as defend against other threats such as the Marut and any Gods who threaten them or their worlds. 
-- Spoops decides to reach out to Kierkegaard, Vesrahaan, and Narascus to form the Unified Forces of Ry-ann and bring them under the banner of Mortis Lux. Spoops gets ahold of all three of them via speaking stone and they agree to join Mortis Lux. Kierkegaard agrees to bring his paladins in and lead the Unified Forces under Spoops, Narascus commits his clerics to the cause, and Vesrahaan commits her clerics to the Unified forces as well. Vesrahaan also agrees to bring ther entirety of Wegate and her army into Mortis Lux as well.
+- Spoops decides to reach out to Kierkegaard, Vesrahaan, and Narascus to form the Unified Forces of Ry-ann and bring them under the banner of Mortis Lux. Spoops gets ahold of all three of them via speaking stone and they agree to join Mortis Lux. Kierkegaard agrees to bring his paladins in and lead the Unified Forces under Spoops, Narascus commits his clerics to the cause, and Vesrahaan commits her clerics to the Unified forces as well. Vesrahaan also agrees to bring ther entirety of Wegate and her army into Mortis Lux as well. Spoops commands Vesrahaan to begin gathering corpses to be used to create an undead army. 
 - Seeking guidance and power, Elira communes with Mystra to become a sorcerer.
 - Bazzdows delivers speaking stones to any members who dont have them, connecting every member of Mortis Lux to his network as rhey join. 
 - Spoops starts making more calls. He contacts the city council of Fywick and Tony Mozzarella, recruiting both the city of Fywick and Fywick Mafia into the organization under the leadership of the Oracle. 
