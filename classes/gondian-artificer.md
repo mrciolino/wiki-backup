@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T01:06:16.401Z
+date: 2025-06-05T01:15:55.184Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -13,33 +13,35 @@ dateCreated: 2025-06-02T00:31:19.494Z
 ***Prerequisite**: Warforged*
 ***Source**: Original design by [Bazzdos](/characters/bazzdos).*
 
-Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody the perfection of tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or fabrication systems directly into their bodies**, becoming living embodiments of their chosen craft and architects of construct civilization. When you select this subclass at 3rd level, you gain the following features:
+Forged by the legendary artificer Bazzdos, the Gondian Warforged are living constructs who embody tool mastery, the power of the forge, and the genius of magical communication. These mechanized **artificers have integrated workshops, communication arrays, or fabrication systems directly into their bodies**, becoming living embodiments of their craft and architects of construct civilization. When you select this subclass at 3rd level, you gain the following features:
 
-**🧰 Tool Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this proficiency, you instead gain proficiency with another type of artisan's tools of your choice.
+**🧰 Tool Proficiencies**: You gain proficiency with one set of artisan's tools of your choice. If you already have this proficiency, choose another type instead.
 **🔨 Crafting Ability**: You can craft magical and non-magical items using your artisan’s tools, given the right materials, time, and proficiency. Speed, cost, and difficulty scale with item rarity—see [Gondian Crafting](/classes/gondian-artificer) for details.
 **⚙️ Specialized Integration**: Your body houses a deployable framework for constructing upgradable machines, each representing a facility tied to your subclass specialization.
 
 ## Spells
 
-You always have certain spells prepared after you reach particular levels in this class. These spells count as artificer spells for you and do not count against your prepared spells.
+Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Artificer Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
 
-| Spell Level | 3rd Level  | 5th Level    | 9th Level  | 13th Level   | 17th Level |
-| ----------- | ---------- | ------------ | ---------- | ------------ | ---------- |
-| Spell 1     | *Identify* | *TBD*        | *TBD*      | *Fabricate*  | *Creation* |
-| Spell 2     | *Shield*   | *Misty Step* | *Tiny Hut* | *Arcane Eye* | *TBD*      |
+| **Gondian Artificer Spells** |                                   |
+|-----------------------------|-----------------------------------|
+| **Artificer Level**         | **Gondian Artificer Spells**                        |
+| 3rd Level                   | *Identify*, *Shield*              |
+| 5th Level                   | *TBD*, *Misty Step*               |
+| 9th Level                   | *TBD*, *Tiny Hut*                 |
+| 13th Level                  | *Fabricate*, *Arcane Eye*         |
+| 17th Level                  | *Creation*, *TBD*                 |
 
 
 # ⚙️ Specialized Integration
 
-At each **upgrade level (3, 5, 9, 15)**, you can choose **one upgrade from any path**, but you must **start at the 3rd-level upgrade** of that path and follow its order—so you can switch paths at any upgrade level, but must always begin at that path’s 3rd-level upgrade. *(For example, you could take the 3rd-level Forge Master upgrade at level 3, the 3rd-level Fabricator upgrade at level 5, then continue the Fabricator path with its 5th- and 9th-level upgrades at levels 9 and 15).* At 20th level, you gain **two more upgrades**, for a total of six.
+At each **upgrade level (3, 5, 9, 15)**, you can choose **one upgrade from any path**, but must **start at the 3rd-level upgrade** of that path and follow its progression. *(For example, you could take the 3rd-level Forge Master upgrade at level 3, the 3rd-level Fabricator upgrade at level 5, then continue the Forge Master level 5 and 9 upgrades at levels 9 and 15).* At 20th level, you gain **two more upgrades**, for a total of six.
 
-
-**🔥 Forge Master**: Deploys a specialized foundry for crafting superior armor, weapons, and defensive systems. Focuses on heavy construction and protective enchantments, excelling in defense and precision forging.
+**🔥 Forge Master**: Deploys a specialized foundry for crafting superior armor, weapons, and defensive systems. Excels in heavy construction and protective enchantments.
 **⚡ Fabricator**: Integrates advanced manufacturing systems for rapid creation of constructs, mechanisms, and devices. Specializes in automation, traps, and mass production.
 **📡 Support Network**: Installs communication arrays and projection systems to deliver tactical support, data sharing, and battlefield coordination across vast ranges.
 
-In addition to your subclass path, **Unit Enhancements** let you engineer mechanical upgrades for your deployable unit—each requiring time, materials, and skill checks. To succeed, you must pass 5 checks above the listed DC; failed rolls increase total time and cost by 10% each. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%).
-
+In addition to your subclass path, **Unit Enhancements** let you engineer mechanical upgrades for your deployable unit—each requiring time, materials, and skill checks. To succeed, you must pass 5 checks above the listed DC; failed rolls increase total time and cost by 10% each. *(e.g., if it takes 7 Arcana checks to get 5 above DC 15, time and cost increase by 20%).*
 
 ## Level 3 Upgrades
 
@@ -87,7 +89,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 **Gondian Master:** You have achieved ultimate mastery as a Bazzdos-style Gondian Warforged, integrating multiple disciplines into your living design. **Select 2 more upgrades**, respecting the same rules as above. At this point you should have 6 total upgrades.
 
-**Community Buildings**: You can now construct an **Integrated Metropolis** that combines all three infrastructure types, providing community-wide benefits to all constructs and allies within a 1-mile radius and supporting populations of 10,000+ beings.
+**Community Buildings**: You can now construct an **Gondian Core** that combines all three infrastructure types, providing community-wide benefits to all constructs and allies within a 1-mile radius and supporting populations of 10,000+ beings.
 
 # 🏛️ Community Buildings
 As your skills advance, you can construct Community Buildings, large-scale structures that enhance towns or strongholds with path-specific benefits. Only **one building per Specialized Integration may be active**, with the Gondian Core as the ultimate fusion of all systems. Each requires time, labor, materials, and 5 successful checks above the listed DC; failed rolls add 10% to both time and cost per failure. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%). These buildings must be staffed full time by **at least 2 skilled artisans** each for their effects to be active.
