@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T13:53:17.960Z
+date: 2025-06-05T13:54:43.784Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -208,7 +208,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Altricia burns.
 - Darmuth is killed after Os does time travel comes back, then drops her into a volcano.
 - The massive magical energies Darmuth released upon her death crested a crack in the sky above Altricia. The party looked up an wondered what exactly Darmuth and her master "The Emperor" were trying to accomplish.
-- The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For thr moment they close the portal and focus on recovering and rebuilding.
+- The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For the moment they close the portal and focus on recovering and rebuilding.
+- Bazzalt leaves the party to live in the library dimension to spend time with his brother before Bazzvrah's consciousness completely melds into the tree of knowledge. 
 
 - The party returns to Gothriathon where the dwarven council found what appears to be a metallic homunculus which is being studied and argued over by the council. The metallic being glows slightly and can snap itself back together. As the parth investigates, Spoops finds a panel of keys and a screen which prompts him to enter a name. Missing the Bazz brothers he enters the name Bazzdos. The creature awakens and introduces itself as Bazzdos.
 
