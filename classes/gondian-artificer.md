@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T15:43:20.731Z
+date: 2025-06-05T15:53:41.984Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -51,7 +51,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 | -------- | ------------- | ---------------- |
 | <nobr>**🔥 Forge Master**    | **Living Foundry** <br> - Deployable **foundry** and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 10]     |
 | <nobr>**⚡ Fabricator**       | **Manufacturing Unit** <br> - Deployable **workshop** with small production line (1 action)<br> - Create and simple trap or mechanism (1/day) | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 10] |
-| <nobr>**📡 Support Network** | **Communication Antenna** <br> - Deployable antenna (1 action); Sending (prof. bonus/short rest) to linked nodes. <br> -  Cantrip: Can project up to one minute of prerecorded visual/audio illusion (10-ft cube) once per short rest. | **Multi-Array Antenna**<br>*Enhanced array for communications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative within 30ft of a **Communication Antenna**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 10] |
+| <nobr>**📡 Support Network** | **Communication Antenna** <br> - Deployable antenna (1 action); Sending (prof. bonus/short rest) to registered nodes. <br> -  [Hologram Projector](/Spells/Hologram-Projector): Cantrip that projects up to one minute of prerecorded visual/audio illusion (10-ft cube) as an action. | **Multi-Array Antenna**<br>*Enhanced array for communications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative within 30ft of a **Communication Antenna**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 10] |
 
 ## Level 5 Upgrades
 
