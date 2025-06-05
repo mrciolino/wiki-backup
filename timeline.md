@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T19:19:57.330Z
+date: 2025-06-05T20:14:07.605Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -285,6 +285,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bane reveals that he has taken full control over King Sunfenix's body and gloats that he rules Hellaress. 
 - The party rest in the castle for the night. The next morning, Spoops tells Bazzdows not to tell Bane that he had woken up yet. Spoops teleports to the library dimension where he asks Bazzalt to teleport him to Wegate. Once in Wegate Spoops and his paladins begin raising wights for his army.
 - As a reward for bringing him back, Bane grants Adalynn her choice of 10th level spells from his collection. Bane grants her the Blade of Cataclysm, Ushorans Catastrophe, and Moving Mountains spells.
+- The party meets up with Spoops in Wegate. Bazzdows uses Dio to locate a potion master. He detects one far to the south east, thenparty travels there and meets Baxter Stradavahri.
+- On their way back to Wegate, the party find a giant hermit crab with a shipwreck for a shell. Within the shipwreck they find the phylactery of a lich. Spoops soul steals the phylactery, extracting the soul of a lich from the necrotic wars. After introductions are made, the Lich pledges loyalty to Spoops and reverence for Ralindu before being allowed to return to a living body.
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
