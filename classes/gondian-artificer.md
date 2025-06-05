@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T12:58:30.331Z
+date: 2025-06-05T13:01:46.495Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -96,8 +96,8 @@ As your skills advance, you can construct Community Buildings, large-scale struc
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
-| <nobr>**🔥 Crucible Hall** | Level 15+   | 12 weeks | 6,000 gp | 5x Smith’s Tools DC 23     | A fortified industrial facility for advanced metallurgy and structural enhancement.<br><br>**Allies and local structures within 1 mile gain:**<br>**Reinforced architecture:** +5 AC to buildings and siege defenses. <br>**Forgemaster’s rhythm:** smithing and weapon crafting time is halved, and grants +2 to  Artisian tool checks. |
-| <nobr>**⚡ Constructory**   | Level 15+   | 12 weeks | 7,500 gp | 5x Artificer’s Tools DC 23 | A mechanized hub for automation and construct generation.<br><br>**Benefits within 1 mile:**<br>**Autonomous workforce:** produces 2 Tiny or 1 Small helper constructs per week for labor, maintenance, or patrol. <br>**Workshop surge:** grants +1 bonus to all fabrication checks. |
+| <nobr>**🔥 Crucible Hall** | Level 15+   | 12 weeks | 6,000 gp | 5x Smith’s Tools DC 23     | A fortified industrial facility for advanced metallurgy and structural enhancement.<br><br>**Allies and local structures within 1 mile gain:**<br>**Reinforced architecture:** +5 AC to buildings and siege defenses. <br>**Forgemaster’s rhythm:** reduce smithing and weapon crafting time by 25%, and grants +1 to all Artisan's Tools checks. |
+| <nobr>**⚡ Constructory**   | Level 15+   | 12 weeks | 7,500 gp | 5x Artificer’s Tools DC 23 | A mechanized hub for automation and construct generation.<br><br>**Benefits within 1 mile:**<br>**Autonomous workforce:** produces 2 Tiny or 1 Small helper constructs per week for labor, maintenance, or patrol. <br>**Workshop surge:** grants +1 to all Artisan's Tools checks. |
 | <nobr>**📡 Signal Spire**  | Level 15+   | 12 weeks | 5,000 gp | 5x Arcana DC 23 | An arcane communications and battlefield command tower.<br><br>**Local units and defenders within 1 mile gain:**<br>**Coordinated response:** +1 initiative and advantage for all rolls on the 1st round of combat. <br>**Arcane alert grid:** instant broadcast of alarms or enemy movement to all friendly constructs and allies. (1/day) |
   
 ## Gondian Core
