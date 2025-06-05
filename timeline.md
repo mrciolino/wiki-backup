@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T19:03:06.487Z
+date: 2025-06-05T19:03:54.035Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -279,7 +279,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party return the princess of Hellaress home.
 
 
-- Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
+- Delivering the ring to King Sunfenix. When the king puts on the ring, Bane takes over his body.
 - 
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
