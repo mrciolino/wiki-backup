@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T15:32:10.147Z
+date: 2025-06-05T15:38:25.993Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -227,7 +227,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Fiad found and killed in a tower on the centaur tribal planes.
 - The party seeks out Aphir the Mighty
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
-- Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade.Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript.
+- Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade.Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
 - Investigating the Magic College of Highhold.
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
