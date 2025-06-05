@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T18:05:53.248Z
+date: 2025-06-05T18:06:23.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -269,8 +269,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Adalynn recruits the Archmages and professors of the Magical college of Porthy.
 
 - Feywild Buffoonery
-- Retrieving the princess of Hellaress from the feywild. 
-- Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
+- Retrieving the princess of Hellaress from the feywild: Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
+- The party meets Verondera the giant feywild spider.
 
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
