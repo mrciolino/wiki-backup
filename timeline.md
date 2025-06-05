@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:59:50.011Z
+date: 2025-06-05T18:05:53.248Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -268,17 +268,17 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops starts making more calls. He contacts the city council of Fywick and Tony Mozzarella, recruiting both the city of Fywick and Fywick Mafia into the organization under the leadership of the Oracle. 
 - Adalynn recruits the Archmages and professors of the Magical college of Porthy.
 
-- 
+- Feywild Buffoonery
+- Retrieving the princess of Hellaress from the feywild. 
+- Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
 
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
-- Retrieving the princess of Hellaress from the feywild. 
-- Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
+
 - Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
 
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
-- Feywild Buffoonery
 - Creation of Mortis Lux HQ
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Meeting Obox-Ob
