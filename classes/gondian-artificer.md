@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T00:36:33.203Z
+date: 2025-06-05T00:49:27.767Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -74,6 +74,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 ## Level 15 Upgrades
 
 *(Select 1 row, must have 3rd, 5th, and 9th-level upgrades from same path)*
+*(You are now equipped to construct **🏛️ Community Buildings**, anchoring your operations with a permanent stronghold.)*
 
 | Subclass | Core Features | Unit Enhancement |
 | -------- | ------------- | ---------------- |
@@ -86,19 +87,19 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 **Gondian Master:** You have achieved ultimate mastery as a Bazzdos-style Gondian Warforged, integrating multiple disciplines into your living design. **Select 2 more upgrades**, respecting the same rules as above. At this point you should have 6 total upgrades.
 
-**Integrated Metropolis**: You can now construct an **Integrated Metropolis** that combines all three infrastructure types, providing community-wide benefits to all constructs and allies within a 1-mile radius and supporting populations of 10,000+ beings.
+**Community Buildings**: You can now construct an **Integrated Metropolis** that combines all three infrastructure types, providing community-wide benefits to all constructs and allies within a 1-mile radius and supporting populations of 10,000+ beings.
 
 # 🏛️ Community Buildings
-As your deployable units advance, you can construct Community Buildings, large-scale structures that enhance towns or strongholds with path-specific benefits. Only **one per Specialized Integration may be active**, with the Gondian Core as the ultimate fusion of all systems. Each requires time, labor, materials, and 5 successful checks above the listed DC; failed rolls add 10% to both time and cost per failure. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%).
+As your skills advance, you can construct Community Buildings, large-scale structures that enhance towns or strongholds with path-specific benefits. Only **one building per Specialized Integration may be active**, with the Gondian Core as the ultimate fusion of all systems. Each requires time, labor, materials, and 5 successful checks above the listed DC; failed rolls add 10% to both time and cost per failure. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%). These buildings must be staffed full time by **at least 2 skilled artisans** each for their effects to be active.
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
-| **🔥 Crucible Hall** | Legendary Foundry    | 12 weeks | 6,000 gp | 5x Smithing Tools DC 23    | A fortified industrial facility. Grants +2 AC to all local structures, mass-produces basic weapons/armor weekly, and boosts blacksmith crafting speed. |
-| **⚡ Constructory**   | Master Manufacturing | 12 weeks | 7,500 gp | 5x Artificer's Tools DC 23 | A full-scale mechanized works. Produces 2 Tiny or 1 Small autonomous constructs weekly for labor or defense, and enhances output of local fabrication workshops. |
-| **📡 Signal Spire**  | Master Coordinator   | 12 weeks | 5,000 gp | 5x Arcana DC 17 | A centralized arcane tower for communications and coordination. Enables town-wide alerts, boosts initiative by +1, and grants advantage on defense coordination rolls within 1 mile. |
+| **🔥 Crucible Hall** | Level 15+    | 12 weeks | 6,000 gp | 5x Smithing Tools DC 23    | A fortified industrial facility. Grants +2 AC to all local structures, mass-produces basic weapons/armor weekly, and boosts blacksmith crafting speed. |
+| **⚡ Constructory**   | Level 15+ | 12 weeks | 7,500 gp | 5x Artificer's Tools DC 23 | A full-scale mechanized works. Produces 2 Tiny or 1 Small autonomous constructs weekly for labor or defense, and enhances output of local fabrication workshops. |
+| **📡 Signal Spire**  | Level 15+   | 12 weeks | 5,000 gp | 5x Arcana DC 17 | A centralized arcane tower for communications and coordination. Enables town-wide alerts, boosts initiative by +1, and grants advantage on defense coordination rolls within 1 mile. |
 
 ## Gondian Core
-Once all three Community Buildings have been constructed and powered, you may begin the ultimate synthesis project—an intelligent, regional hub that merges forge, factory, and network.
+Once all three Community Buildings have been constructed, you may begin the ultimate synthesis project—an intelligent, regional hub that merges forge, factory, and network. This requires collaboration amongst many Gondian Warforged, establishing a community and enhancing collective efficiency. This center of operations must be staffed by **at least 3 skilled artisans** for its effects to be active.
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
