@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T16:48:59.330Z
+date: 2025-06-05T16:53:51.873Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -243,6 +243,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights Illithids in some underground cave system.
 - The mind flayers attempt to eat Spoops' brain but find nothing there because hes a skeleton.
 - The party fights an Illithid dragon.
+- The party meets Archmage Lancel Highhold
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 - Magical College of Porthy
 - [Escape From Sigil](/Events/escape-from-sigil)
