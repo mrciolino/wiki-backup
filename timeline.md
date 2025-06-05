@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:05:57.097Z
+date: 2025-06-05T17:09:44.806Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -228,7 +228,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party seeks out Aphir the Mighty
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
 - Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade.Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
-- Investigating the Magic College of Highhold. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
+- Magical College of Porthy
+- Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
 - Siege of the Witch King's castle
 - The Witch King tells the party that he is simply playing thr role of the villian and doing what is necessary to gain power so that he can protect the world from the true threats it faces. He explains that the evil dragon Shiva The Destroyer is leading an army across the land and that if his bastion falls, it is only a matter of time before Hellaress and the other cities fall too. The party is still suspicious of The Witch King, but agree to help defend against Shiva's insasion. 
 - The massive black dragon, Shiva The Destroyer is flying towards The Witch King's castle with an army. The party works with the Witch King to defend the castle from this invasion. Spoops raises a massive army of undead and positions his archers on a great gate which blocks the advance of Shiva's army.
@@ -240,13 +241,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights the Devastation Ice Phoenix. The party locates the devastation Ice Phoenix and battles it atop a mountain. However after seeing its powerful icey abilities forst hand, they retreat to do some preparation. Adalynn provides glyphs of warding to empower the party, while Bazzdows buys some potions and does some crafting. Once they are prepared. they return to face the beast.
 - Bazzdows and Adalynn use Wall of Force and Forcecage to trap the phoenix in a demiplane where they can keep it cornered. Spoops keeps up the melee damage while tanking the phoenix, Bazzdows, Adalynn, and Os continue doing ranged attacks.
 - The party meets Glaculs.
+- Magical College of Highhold
 - The party fights Illithids underground beneath the Highhold Magic College Library.
 - The mind flayers attempt to eat Spoops' brain but find nothing there because hes a skeleton.
 - The party fights an Illithid dragon.
 - The party meets Archmage Lancel Highhold
-- Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
-- Magical College of Porthy
 - [Escape From Sigil](/Events/escape-from-sigil)
+- Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
+
 - Hunting down devastation vermin
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
