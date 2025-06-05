@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T01:04:57.059Z
+date: 2025-06-05T01:05:39.695Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -94,13 +94,13 @@ As your skills advance, you can construct Community Buildings, large-scale struc
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
-| **🔥 Crucible Hall** | Level 15+    | 12 weeks | 6,000 gp | 5x Smithing Tools DC 23    | A fortified industrial facility. Grants +2 AC to all local structures, mass-produces basic weapons/armor weekly, and boosts blacksmith crafting speed. |
-| **⚡ Constructory**   | Level 15+ | 12 weeks | 7,500 gp | 5x Artificer's Tools DC 23 | A full-scale mechanized works. Produces 2 Tiny or 1 Small autonomous constructs weekly for labor or defense, and enhances output of local fabrication workshops. |
-| **📡 Signal Spire**  | Level 15+   | 12 weeks | 5,000 gp | 5x Arcana DC 23 | A centralized arcane tower for communications and coordination. Enables town-wide alerts, boosts initiative by +1, and grants advantage on defense coordination rolls within 1 mile. |
+| <nobr>**🔥 Crucible Hall** | Level 15+    | 12 weeks | 6,000 gp | 5x Smithing Tools DC 23    | A fortified industrial facility. Grants +2 AC to all local structures, mass-produces basic weapons/armor weekly, and boosts blacksmith crafting speed. |
+| <nobr>**⚡ Constructory**   | Level 15+ | 12 weeks | 7,500 gp | 5x Artificer's Tools DC 23 | A full-scale mechanized works. Produces 2 Tiny or 1 Small autonomous constructs weekly for labor or defense, and enhances output of local fabrication workshops. |
+| <nobr>**📡 Signal Spire**  | Level 15+   | 12 weeks | 5,000 gp | 5x Arcana DC 23 | A centralized arcane tower for communications and coordination. Enables town-wide alerts, boosts initiative by +1, and grants advantage on defense coordination rolls within 1 mile. |
 
 ## Gondian Core
 Once all three Community Buildings have been constructed, you may begin the ultimate synthesis project—an intelligent, regional hub that merges forge, factory, and network. This requires collaboration amongst many Gondian Warforged, establishing a community and enhancing collective efficiency. This center of operations must be staffed by **at least 3 skilled artisans** for its effects to be active.
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
-| **🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x (Smith Tools or Artificer's Tools or Arcana) DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
+| <nobr>**🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x (Smith Tools or Artificer's Tools or Arcana) DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
