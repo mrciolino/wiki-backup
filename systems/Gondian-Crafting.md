@@ -2,7 +2,7 @@
 title: Crafting Cost Guide for Gondian Artificer 
 description: A crafting and pricing system tailored to the Gondian Artificer subclass.
 published: true
-date: 2025-06-05T00:55:33.051Z
+date: 2025-06-05T00:58:00.507Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-05T00:54:43.271Z
@@ -52,20 +52,19 @@ This guide explains how to calculate the time and cost required to craft items u
 7. **Gondian Path Upgrades**: Apply specific upgrade bonuses for your specialized items.
 8. **Number of Artisans**: Divide time by **number of proficient helpers**.
 9. **Round Up**: Always round the final time **up to the nearest full day**.
-
     
-### **Example: Crafting a Rare Magic Item (Flame Tongue Sword)**
+## **Example: Crafting a Rare Magic Item**
 
-  * **Character**: Gondian Warforged Artificer, Level 9 - Forge Master Path
-  * **INT Modifier**: +4
-  * **Proficiency Bonus**: +4
-  * **Tool Proficiencies**: Smith's tools (✔️)
-  * **Infrastructure**: Advanced Shrine + 2 Basic Shrines in network
-  * **Gondian Upgrade**: Divine Anvil (craft holy weapons 3× faster)
-  * **Artisans Assisting**: 2 other proficient artisans
- 
+* **Item**: 🔥 **Flame Tongue Sword** 🔥 
+* **Character**: Gondian Warforged Artificer, Level 9 - Forge Master Path
+* **INT Modifier**: +4
+* **Proficiency Bonus**: +4
+* **Tool Proficiencies**: Smith's tools (✔️)
+* **Infrastructure**: Advanced Shrine + 2 Basic Shrines in network
+* **Gondian Upgrade**: Divine Anvil (craft holy weapons 3× faster)
+* **Artisans Assisting**: 2 other proficient artisans
   
-## 🧮 **Calculation Steps**
+### **Calculation Steps**
 
 1. **Base Time (Rare Item)**
    → From table: **8 weeks**
