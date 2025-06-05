@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-04T18:58:33.727Z
+date: 2025-06-05T13:53:17.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -162,7 +162,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party finds assassination note mountain in the library dimension.
 - The party meets the tree of knowledge. Bazzvrah hires Mort to assassinate the tree for 1 gold, but after the tree slaps Mort down, Bazzvrah asks for his gold back and Mort cancels the contract.
 - The tree has two guardians, Jigglypuff and Starfox.
-- The tree then speaks to the party saying that it can hear them and it seeks new tomes and knowledge for the library. The tree says thst it will accept a tribute of knowledge, and will even trade information if the provided knowledge is worth it.  It will only trade if the knowledge it receives is new, and it only trade its own knowledge for information it deems of equivalent or greater value than the knowledge the party seeks.
+- The tree then speaks to the party saying that it can hear them and it seeks new tomes and knowledge for the library. The tree says that it will accept a tribute of knowledge, and will even trade information if the provided knowledge is worth it.  It will only trade if the knowledge it receives is new, and it only trade its own knowledge for information it deems of equivalent or greater value than the knowledge the party seeks.
 - Spoops offers information on how he was able to resurrect himself from the dead. The tree accepts this information and Starfox shows Spoops a new trick, Soul Steal. They demonstrate by pulling Spoops' soul out and putting it back in his body. Spoops then does the same.
 - Narascus offers to trade his Narascene Bible in exchange for information on Darmuth, in exhange the tree says this "THE NARASCUS BIBLE IS A TRADE I'M WILLING TO ACCEPT FOR ANOTHER PIECE OF KNOWLEDGE, SHE IS A LICH OF THE HIGHEST ORDER AND A MASTER OF MAGIC, SHE HAS MANY A MINION OF LYCANTHROPIC NATURE AND SHE BECOMES PREOCCUPIED ON FULL MOONS BY SPIRITUAL PRACTICES, SHE EXCHANGES ALL HER MAGICAL MIGHT PER FULL MOON TO CONTACT HER EXTERTERESTIAL GOD, IF YOU WISH FOR MORE I WOULD REQUIRE MORE NEW INFORMATION FOR THE TRADE OF KNOWLEDGE"
 - Narascus asks how he knows this information, the tree responds: "I HAVE THIS INFORMATION IN FORM OF HER DIARY. I HAVE ACCESS TO THE WRITTEN POWER WITHIN MY LIBRARY"
@@ -208,7 +208,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Altricia burns.
 - Darmuth is killed after Os does time travel comes back, then drops her into a volcano.
 - The massive magical energies Darmuth released upon her death crested a crack in the sky above Altricia. The party looked up an wondered what exactly Darmuth and her master "The Emperor" were trying to accomplish.
-- The Well of Many Worlds is found under Altricia. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For thr moment they close the portal and focus on recovering and rebuilding.
+- The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For thr moment they close the portal and focus on recovering and rebuilding.
 
 - The party returns to Gothriathon where the dwarven council found what appears to be a metallic homunculus which is being studied and argued over by the council. The metallic being glows slightly and can snap itself back together. As the parth investigates, Spoops finds a panel of keys and a screen which prompts him to enter a name. Missing the Bazz brothers he enters the name Bazzdos. The creature awakens and introduces itself as Bazzdos.
 
