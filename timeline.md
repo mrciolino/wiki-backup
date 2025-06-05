@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:48:02.046Z
+date: 2025-06-05T17:48:48.571Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -263,6 +263,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - A team of Marut appear and attempt to forciblh take Spoops. The wish Bazzdoes made rings in Spoops' head and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party. Spoops has to get away by teleporting to the library dimension while the party lure the Marut away. Elira tells Spoops via speaking stone that the Marut have been led away, and the party will begin to rally their forces and tells Spoops to stay safe. 
 - The party begins wuickly making contact with all of their old allies, recruiting them into their new organization to fight the Illithids as well as defend against other threats such as the Marut and any Gods who threaten them or their worlds. 
 - Spoops decides to reach out to Kierkegaard, Vesrahaan, and Narascus to form the Unified Forces of Ry-ann and bring them under the banner of Mortis Lux.
+- Seeking guidance and power, Elirs communes with Mystra to become a sorcerer.
 
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
