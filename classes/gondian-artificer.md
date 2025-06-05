@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T01:24:41.313Z
+date: 2025-06-05T12:16:07.743Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -24,13 +24,13 @@ Forged by the legendary artificer Bazzdos, the Gondian Warforged are living cons
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Gondian Artificer Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
 
 | **Gondian Artificer Spells** |                                   |
-|-----------------------------|-----------------------------------|
-| **Artificer Level**         | **Gondian Artificer Spells**                        |
-| 3rd Level                   | *Identify*, *Shield*              |
-| 5th Level                   | *TBD*, *Misty Step*               |
-| 9th Level                   | *TBD*, *Tiny Hut*                 |
-| 13th Level                  | *Fabricate*, *Arcane Eye*         |
-| 17th Level                  | *Creation*, *TBD*                 |
+|------------------------------|-----------------------------------|
+| **Artificer Level**          | **Gondian Artificer Spells**      |
+| 3rd Level                    | *Identify*, *Shield*              |
+| 5th Level                    | *Mirror Image*, *Misty Step*      |
+| 9th Level                    | *Glyph of Warding*, *Tiny Hut*    |
+| 13th Level                   | *Fabricate*, *Arcane Eye*         |
+| 17th Level                   | *Creation*, *Wall of Force*       |
 
 
 # ⚙️ Specialized Integration
@@ -105,4 +105,4 @@ Once all three Community Buildings have been constructed, you may begin the ulti
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
-| <nobr>**🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x (Smith Tools or Artificer's Tools or Arcana) DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
+| <nobr>**🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x (Smith Tools or Artificer's Tools or Arcana) DC 25 | The Core acts as a regional command and development center, capable of coordinating large-scale efforts or defenses with illusion support, deployable constructs, and crafting logistics.<br><br>**Allies and constructs within 1 mile benefit from:**<br> **Preparedness:** +1 AC, +1 initiative, and advantage on concentration checks. <br>**Shared knowledge stream:** any creature can use a bonus action to send information to another construct within 1 mile of core (prof. bonus/short rest). <br>**Resource acceleration:** all crafting projects require 25% less time and cost 25% less to craft.|
