@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T15:27:51.052Z
+date: 2025-06-05T15:30:12.063Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -229,11 +229,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
 - Spoops uses a Wish to allow he and Bazzdos to spend 1000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade.Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript.
 - Investigating the Magic College of Highhold.
-- Magical College Porthy
-- [Escape From Sigil](/Events/escape-from-sigil)
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
-- 
+- Magical College of Porthy
+- [Escape From Sigil](/Events/escape-from-sigil)
 - Hunting down devastation vermin
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
