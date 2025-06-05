@@ -2,7 +2,7 @@
 title: Time Chambers
 description: Accelerated Time Chambers made with a Wish. Gokku would be proud.
 published: true
-date: 2025-04-23T12:47:05.762Z
+date: 2025-06-05T15:17:20.291Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-09T20:52:01.312Z
@@ -24,6 +24,7 @@ Created during the later seasons of Campaign 1, Bazzdos and Spoops began craftin
 ## Time Chamber 1
 Spoops understanding Roboscript
 Spoops Blade
+Enabled by Spoops casting the following Wish: "I wish for the time, material, and monetary requirements for bazzdows to combine these five swords to be equivalent to the combination of two common greatswords"
 
 ## Time Chamber 2
 Enabled by Spoops casting his last remaining Wish from the Deck of Many Things.
