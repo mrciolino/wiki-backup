@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:35:01.689Z
+date: 2025-06-05T17:35:16.227Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -259,7 +259,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - Bazzdows draws a card and gains two Wishes.
-- Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
+- Spoops draws the moon card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
