@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T15:38:25.993Z
+date: 2025-06-05T15:43:11.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -228,7 +228,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party seeks out Aphir the Mighty
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
 - Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade.Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
-- Investigating the Magic College of Highhold.
+- Investigating the Magic College of Highhold. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
