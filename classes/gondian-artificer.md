@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T15:53:41.984Z
+date: 2025-06-05T16:28:16.702Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -49,7 +49,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 
 | Subclass | Core Features | Unit Enhancement |
 | -------- | ------------- | ---------------- |
-| <nobr>**🔥 Forge Master**    | **Living Foundry** <br> - Deployable **foundry** and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 10]     |
+| <nobr>**🔥 Forge Master**    | **Living Foundry** <br> - Deployable **foundry** and anvil with built in tools (1 action).<br> - You gain proficiency with heavy armor. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as 1 min. ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 10]     |
 | <nobr>**⚡ Fabricator**       | **Manufacturing Unit** <br> - Deployable **workshop** with small production line (1 action)<br> - Create and simple trap or mechanism (1/day) | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 10] |
 | <nobr>**📡 Support Network** | **Communication Antenna** <br> - Deployable antenna (1 action); Sending (prof. bonus/short rest) to registered nodes. <br> -  [Hologram Projector](/Spells/Hologram-Projector): Cantrip that projects up to one minute of prerecorded visual/audio illusion (10-ft cube) as an action. | **Multi-Array Antenna**<br>*Enhanced array for communications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative within 30ft of a **Communication Antenna**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 10] |
 
@@ -61,7 +61,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 | -------- | ------------- | ---------------- |
 | <nobr>**🔥 Forge Master**    | **Enhanced Foundry** <br> - Extra Attack while foundry is deployed.<br> - Infusions as 10-min rituals (3 stored). | **Arc-Welding Armature**<br>*Mounted arc-welder boosts creation and defense.*<br><br>**Effect:** +2 AC for creatures forged-enhanced this rest; weapons gain +1 fire dmg for 1 hour. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Smithing Tools DC 12] |
 | <nobr>**⚡ Fabricator**       | **Advanced Assembly** <br> - Animate 2 constructs (1 hr/long rest).<br> - Laser: 1d6+INT fire, 60 ft. | **Schematic Uploader**<br>*Load design blueprints into the unit for instant recall.*<br><br>**Effect:** Can recreate a stored device or trap instantly 1/day. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Artificer's Tools DC 12] |
-| <nobr>**📡 Support Network** | **Tactical Coordination** <br> - Flash of Genius affects allies in 30 ft.<br> - Medium illusions and displays. | **Tactical Overlay Node**<br>*Overlays real-time ally info and predictions.*<br><br>**Effect:** Allies in 30 ft. gain +1 to hit and saving throws when visible to the antenna. <br> \[**Time:** 14 days – **Cost:** 1,000 gp – **Check:** 5x Arcana DC 12] |
+| <nobr>**📡 Support Network** | **Tactical Coordination** <br> - Project from your eye a tactical target, outline a creature to give allies advantage on attacks for 1 round (1/day).<br> -  | **Spell Relay Node**<br>The antenna can store and retransmit magical energies.<br><br> **Effect:** Ranged cantrips within range of this node can be cast from this node with a 30 ft range.<br> [**Time:** 7 days - **Cost**: 300 gp - **Check:** 5x Arcana DC 10]|
 
 ## Level 9 Upgrades
 
