@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T00:31:41.791Z
+date: 2025-06-05T00:36:33.203Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -31,7 +31,8 @@ You always have certain spells prepared after you reach particular levels in thi
 
 # ⚙️ Specialized Integration
 
-At each **upgrade level (3, 5, 9, 15)**, you may select one upgrade from any pathway. **You must start at the beginning of a pathway and progress in order** (e.g., you cannot take a 9th-level Forge Master upgrade without first taking the 3rd- and 5th-level Forge Master upgrades). At 20th level, you may select two additional upgrades, bringing your total to six.
+At each **upgrade level (3, 5, 9, 15)**, you can choose **one upgrade from any path**, but you must **start at the 3rd-level upgrade** of that path and follow its order—so you can switch paths at any upgrade level, but must always begin at that path’s 3rd-level upgrade. *(For example, you could take the 3rd-level Forge Master upgrade at level 3, the 3rd-level Fabricator upgrade at level 5, then continue the Fabricator path with its 5th- and 9th-level upgrades at levels 9 and 15).* At 20th level, you gain **two more upgrades**, for a total of six.
+
 
 **🔥 Forge Master**: Deploys a specialized foundry for crafting superior armor, weapons, and defensive systems. Focuses on heavy construction and protective enchantments, excelling in defense and precision forging.
 **⚡ Fabricator**: Integrates advanced manufacturing systems for rapid creation of constructs, mechanisms, and devices. Specializes in automation, traps, and mass production.
