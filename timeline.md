@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T15:06:07.317Z
+date: 2025-06-05T15:27:51.052Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -223,18 +223,20 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party begins the quest to save the princess of hellaress. 
 - The party finds some psychic fish people.
 - The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
+- A traveling merchant sells interesting magic items to the party: Spoops buys Jack Sparrow's Compass. 
+- Fiad found and killed in a tower on the centaur tribal planes.
+- The party seeks out Aphir the Mighty
+- Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
+- Spoops uses a Wish to allow he and Bazzdos to spend 1000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade.Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript.
 - Investigating the Magic College of Highhold.
 - Magical College Porthy
 - [Escape From Sigil](/Events/escape-from-sigil)
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
-- A traveling merchant sells interesting magic items to the party: Spoops buys Jack Sparrow's Compass. 
-- Fiad found and killed in a tower on the centaur tribal planes.
-- The party seeks out Aphir the Mighty
-- Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
+- 
 - Hunting down devastation vermin
 - Spoops magically obtains the can of whoop ass.
-- The party hunts down and fights the devastation Beetle.
+- The party hunts down and fights the devastation Beetle. 
 - 
 - Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
