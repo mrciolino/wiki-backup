@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T19:07:32.433Z
+date: 2025-06-05T19:08:56.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -217,7 +217,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
 - The party goes through the well and engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the cresture snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End.
-- The party then travels to the closest major city: Hellaress.
+- Spoops tries to use Dio to chart a course between Mardun and Ereriad, Dio is unable to do so.
+- The party then travels with a caravan to the closest major city: Hellaress.
 - The party gets an audience with the king due to them slaying the Devastation Shark Scorpion.
 - The party learns that there are 5 more Devastation creatures terrorizing the world. 
 - The party begins the quest to save the princess of hellaress. 
