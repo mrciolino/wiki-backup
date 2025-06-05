@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:23:42.726Z
+date: 2025-06-05T17:25:26.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -249,12 +249,12 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Escape From Sigil](/Events/escape-from-sigil)
 - The party reunites at the Magical College of Highhold with the addition of Elira.
 - The party continue fighting Illithids. Os uses Dominate Monster to dominate one of thr Illithids.
-- The party meets Archmage Snorri.
+- The party meets Archmage Snorri
 - Bazzdows picks up some assassination notes off the ground.
 - assassination note 1) the emperor- salavation guarenteed
 - assassination note 2) the rich man who lived - giving a kingdom
-- assassinatio note 3) Gloutonies Maximus - Kingdom
-
+- assassination note 3) Gloutonies Maximus - Kingdom
+- The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only wah to beat them is to work together from now on.
 
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 
