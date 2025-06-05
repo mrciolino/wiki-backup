@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T01:20:26.678Z
+date: 2025-06-05T01:24:41.313Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -92,7 +92,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 **Gondian Core:** You can now build a legendary Gondian Core - a **Community Building** that fuses the forge, the factory, and the arcane relay. This empowers constructs and allies within 1 mile with unmatched coordination, defense, and productivity.
 
 # 🏛️ Community Buildings
-As your skills advance, you can construct Community Buildings, large-scale structures that enhance towns or strongholds with path-specific benefits. Only **one building per Specialized Integration may be active**, with the Gondian Core as the ultimate fusion of all systems. Each requires time, labor, materials, and 5 successful checks above the listed DC; failed rolls add 10% to both time and cost per failure. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%). These buildings must be staffed full time by **at least 2 skilled artisans** each for their effects to be active.
+As your skills advance, you can construct Community Buildings, large-scale structures that enhance towns or strongholds with path-specific benefits. Only **one building per Specialized Integration may be active** in a given area. Each requires time, labor, materials, and 5 successful checks above the listed DC; failed rolls add 10% to both time and cost per failure. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%). These buildings must be staffed full time by **at least 2 skilled artisans** each for their effects to be active.
 
 | Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
