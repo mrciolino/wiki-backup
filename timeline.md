@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:25:26.910Z
+date: 2025-06-05T17:32:20.958Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -254,8 +254,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - assassination note 1) the emperor- salavation guarenteed
 - assassination note 2) the rich man who lived - giving a kingdom
 - assassination note 3) Gloutonies Maximus - Kingdom
-- The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only wah to beat them is to work together from now on.
-
+- The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only way to beat them is to work together from now on. The party brings both Highhold and the Magical College of Highhold into their new organization.
+- Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
+- [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 
 - Hunting down the last devastation vermin
@@ -263,8 +264,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party hunts down and fights the devastation Beetle. 
 - 
 - Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
-- Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
-- [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
+
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 - Feywild Buffoonery
 - Creation of Mortis Lux HQ
