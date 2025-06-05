@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:37:43.345Z
+date: 2025-06-05T17:42:36.940Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -258,11 +258,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only way to beat them is to work together from now on. The party brings both Highhold and the Magical College of Highhold into their new organization.
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
-- Bazzdows draws a card and gains two Wishes.
+- Bazzdows draws the moon card and gains two Wishes.
 - Bazzdows makes a wish: "I wish for the party to recieve boons up to lvl 6th boon inclusive. Party members will recieve lvl 1 and 3 boons as well if they dont already have them. They will recieve this wish without reprieve or consquences besides the benefit of such boon selection. All party members will have thier choice of boon (1,3,6) to take at a time of their choosing without extenral factors effecting their decesion. The boons selected will have instanous effect to their desired strength without the possible negative - time or character based effects."
-- 
-- 
-- Spoops draws the moon card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
+- A team of Marut appear and attempt to forciblh take Spoops. The wish Bazzdoes made rings in Spoops' head and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party. Spoops has to get away by teleporting to the library dimension while the party lure the Marut away.
 
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
