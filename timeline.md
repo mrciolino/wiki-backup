@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T14:41:15.093Z
+date: 2025-06-05T14:42:59.769Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -221,6 +221,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party gets an audience with the king due to them slaying the Devastation Shark Scorpion.
 - The party learns that there are 5 more Devastation creatures terrorizing the world. 
 - The party begins the quest to save the princess of hellaress. 
+- The party finds some psychic fish people.
+- The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
 - Investigating the Magic College of Highhold.
 - Magical College Porthy
 - [Escape From Sigil](/Events/escape-from-sigil)
