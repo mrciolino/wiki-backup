@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T15:30:12.063Z
+date: 2025-06-05T15:31:33.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -231,6 +231,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Investigating the Magic College of Highhold.
 - Siege of the Witch King's castle
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
+- Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 - Magical College of Porthy
 - [Escape From Sigil](/Events/escape-from-sigil)
 - Hunting down devastation vermin
@@ -238,7 +239,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party hunts down and fights the devastation Beetle. 
 - 
 - Delivering the ring to King Sunfenix. Bane takes over King Sunfenix's body.
-- Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 - Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
