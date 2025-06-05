@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T16:28:31.935Z
+date: 2025-06-05T16:39:41.332Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -237,6 +237,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
 - The party returns to Hellaress to rest and report to King Sunfenix. 
 - The party locate Princess Vilra Sunfenix in the Feywild where The Witch King had been keeping her. She was helping care for refugees who fled the Devastation creatures and did not want to leave until all Devastation creatures were wiped out. The party inform her thst only two remain and in the meantime they will send Adalynn's simulacrum to protect the princess and refugees, and prepare them for extraction. Adalynn's simulacrum possesses a a bearded red headed man in their late thirties and stays among the refugees.
+- The party fights the Devastation Ice Phoenix. The party locates the devastation Ice Phoenix and battles it atop a mountain. However after seeing its powerful icey abilities forst hand, they retreat to do some preparation. Adalynn provides glyphs of warding to empower the party, while Bazzdows buys some potions and does some crafting. Once they are prepared. they return to face the beast.
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 - Magical College of Porthy
 - [Escape From Sigil](/Events/escape-from-sigil)
