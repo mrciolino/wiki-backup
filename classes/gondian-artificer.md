@@ -2,7 +2,7 @@
 title: Gondian Artificer 
 description: Artificer subclass for Bazzdos' Automotons
 published: true
-date: 2025-06-05T00:29:15.167Z
+date: 2025-06-05T00:29:59.266Z
 tags: todo
 editor: markdown
 dateCreated: 2025-06-02T00:31:19.494Z
@@ -48,7 +48,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 | -------- | ------------- | ---------------- |
 | **🔥 Forge Master**    | **Living Foundry** <br> - Deployable **foundry** and anvil with tools (1 action).<br> - +1 to Smithing Tool Checks. | **Heating Element**<br>*An everlasting flame keeps the forge hot.*<br><br>**Effect:** Heat Metal as ritual (prof. bonus/short rest) <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Smithing Tools DC 10]     |
 | **⚡ Fabricator**       | **Manufacturing Unit** <br> - Deployable **workshop** with small production line (1 action)<br> - Create and simple trap or mechanism (1/day) | **Dedicated Servant**<br>*A living tiny construct inside the unit which can follow simple orders.*<br><br>**Effect:** +2 to device/trap creation, stores 10 Tiny mechanisms. <br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Artificer's Tools DC 10] |
-| **📡 Support Network** | **Communication Antenna** <br> - Deployable **antenna** with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enchanced array for commmunications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative within 30ft of a **Communication Antenna**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 10] |
+| **📡 Support Network** | **Communication Antenna** <br> - Deployable **antenna** with speaking stone (1 action) <br> - Sending (prof. bonus/short rest) to registered arrays/hubs within 1 mile. | **Multi-Array Antenna**<br>*Enhanced array for communications and amplifying broadcasts.*<br><br> **Effect:** +1 initiative within 30ft of a **Communication Antenna**.<br> \[**Time:** 7 days - **Cost:** 300 gp - **Check:** 5x Arcana DC 10] |
 
 ## Level 5 Upgrades
 
@@ -90,7 +90,7 @@ In addition to your subclass path, **Unit Enhancements** let you engineer mechan
 # 🏛️ Community Buildings
 As your deployable units advance, you can construct Community Buildings, large-scale structures that enhance towns or strongholds with path-specific benefits. Only **one per Specialized Integration may be active**, with the Gondian Core as the ultimate fusion of all systems. Each requires time, labor, materials, and 5 successful checks above the listed DC; failed rolls add 10% to both time and cost per failure. (e.g., if it takes 7 Arcana checks to get 5 above an Arcana DC 15, time and cost increase by 20%).
 
-| Structure | Requierment | Time | Cost | Check | Effect |
+| Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
 | **🔥 Crucible Hall** | Legendary Foundry    | 12 weeks | 6,000 gp | 5x Smithing Tools DC 23    | A fortified industrial facility. Grants +2 AC to all local structures, mass-produces basic weapons/armor weekly, and boosts blacksmith crafting speed. |
 | **⚡ Constructory**   | Master Manufacturing | 12 weeks | 7,500 gp | 5x Artificer's Tools DC 23 | A full-scale mechanized works. Produces 2 Tiny or 1 Small autonomous constructs weekly for labor or defense, and enhances output of local fabrication workshops. |
@@ -99,7 +99,7 @@ As your deployable units advance, you can construct Community Buildings, large-s
 ## Gondian Core
 Once all three Community Buildings have been constructed and powered, you may begin the ultimate synthesis project—an intelligent, regional hub that merges forge, factory, and network.
 
-| Structure | Requierment | Time | Cost | Check | Effect |
+| Structure | Requirement | Time | Cost | Check | Effect |
 | --------- | ----------- | ---- | ---- | ----- | ------ |
 | **🧠 Gondian Core** | All Community Buildings Complete | 1 year | 30,000 gp | 5x Artisan DC 25 | Combines all prior functions. Doubles all production rates, grants +4 AC to fortified structures, provides magical alert systems, and extends Support Network effects regionally. |
 
