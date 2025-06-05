@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T20:14:07.605Z
+date: 2025-06-05T20:15:39.366Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -287,6 +287,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - As a reward for bringing him back, Bane grants Adalynn her choice of 10th level spells from his collection. Bane grants her the Blade of Cataclysm, Ushorans Catastrophe, and Moving Mountains spells.
 - The party meets up with Spoops in Wegate. Bazzdows uses Dio to locate a potion master. He detects one far to the south east, thenparty travels there and meets Baxter Stradavahri.
 - On their way back to Wegate, the party find a giant hermit crab with a shipwreck for a shell. Within the shipwreck they find the phylactery of a lich. Spoops soul steals the phylactery, extracting the soul of a lich from the necrotic wars. After introductions are made, the Lich pledges loyalty to Spoops and reverence for Ralindu before being allowed to return to a living body.
+- Bazzdows draws a card and is grented 50 gems, each worth 1000 gold.
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
