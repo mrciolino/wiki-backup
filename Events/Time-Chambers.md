@@ -2,7 +2,7 @@
 title: Time Chambers
 description: Accelerated Time Chambers made with a Wish. Gokku would be proud.
 published: true
-date: 2025-06-05T15:18:50.425Z
+date: 2025-06-05T15:38:36.920Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-09T20:52:01.312Z
@@ -24,7 +24,7 @@ Created during the later seasons of Campaign 1, Bazzdos and Spoops began craftin
 ## Time Chamber 1
 Spoops understanding Roboscript
 Spoops Blade
-Enabled by Spoops casting the following Wish: "I wish for the time, material, and monetary requirements for bazzdows to combine these five swords to be equivalent to the combination of two common greatswords" Through this wish, time was accelerated for Spoops and Bazzdows, allowing them to spend 1000 years to create the Spoops Blade, subjugate jormungandr, and for Spoops to learn Roboscript.
+Enabled by Spoops casting the following Wish: "I wish for the time, material, and monetary requirements for bazzdows to combine these five swords to be equivalent to the combination of two common greatswords" Through this wish, time was accelerated for Spoops and Bazzdows, allowing them to spend 1000 years to create the Spoops Blade, subjugate jormungandr, and for Spoops to learn Roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
 
 ## Time Chamber 2
 Enabled by Spoops casting his last remaining Wish from the Deck of Many Things.
