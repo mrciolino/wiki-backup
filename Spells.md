@@ -2,7 +2,7 @@
 title: Spells
 description: Custom homebrew spells that have come into the world.
 published: true
-date: 2025-04-21T15:29:26.567Z
+date: 2025-06-05T15:40:38.702Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:34:44.598Z
@@ -28,5 +28,5 @@ Custom spells created by [Bazzdos](/characters/bazzdos), [Spoops](/characters/sp
 | 1st | RoboBees | Bazzdos | Same as Feather Fall. |
 | 1st | Tasha's Caustic Grease | Bazzdos | Fire damage instead of acid damage from Tasha's Caustic Brew. Also, the grease is slippery. |
 | Cantrip| Bidding Clockwork | Bazzdos | Mage Hand but spectral clockworks appear. |
-| Cantrip | Hologram Projector | Bazzdos | Minor Illusion but can play movies. |
+| Cantrip | [Hologram Projector](/Spells/Hologram-Projector) | Bazzdos | Minor Illusion but can play movies. |
 
