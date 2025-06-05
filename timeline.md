@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T19:06:29.569Z
+date: 2025-06-05T19:07:32.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -241,12 +241,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights the Devastation Ice Phoenix. The party locates the devastation Ice Phoenix and battles it atop a mountain. However after seeing its powerful icey abilities forst hand, they retreat to do some preparation. Adalynn provides glyphs of warding to empower the party, while Bazzdows buys some potions and does some crafting. Once they are prepared. they return to face the beast.
 - Bazzdows and Adalynn use Wall of Force and Forcecage to trap the phoenix in a demiplane where they can keep it cornered. Spoops keeps up the melee damage while tanking the phoenix, Bazzdows, Adalynn, and Os continue doing ranged attacks.
 - The party meets Glaculs.
+- 
 - Magical College of Highhold
 - The party fights Illithids underground beneath the Highhold Magic College Library.
 - The party meets Edward the golden warforged knight. 
 - The mind flayers attempt to eat Spoops' brain but find nothing there because hes a skeleton.
 - The party fights an Illithid dragon.
-- The party meets King Lancel Highhold
+- The party meets King Lancel Highhold.
 - [Escape From Sigil](/Events/escape-from-sigil)
 - The party reunites at the Magical College of Highhold with the addition of Elira.
 - The party continue fighting Illithids. Os uses Dominate Monster to dominate one of thr Illithids.
