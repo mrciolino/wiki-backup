@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T15:55:51.718Z
+date: 2025-06-05T16:16:17.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -232,7 +232,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Siege of the Witch King's castle
 - The Witch King tells the party that he is simply playing thr role of the villian and doing what is necessary to gain power so that he can protect the world from the true threats it faces. He explains that the evil dragon Shiva The Destroyer is leading an army across the land and that if his bastion falls, it is only a matter of time before Hellaress and the other cities fall too. The party is still suspicious of The Witch King, but agree to help defend against Shiva's insasion. 
 - The massive black dragon, Shiva The Destroyer is flying towards The Witch King's castle with an army. The party works with the Witch King to defend the castle from this invasion. Spoops raises a massive army of undead and positions his archers on a great gate which blocks the advance of Shiva's army.
-- The party puts up a great fight taking out Shiva's army with massive AOE spells and ranged shots from the undead army. However Shiva herself makes her way to the Witch King's castle on the volcano. 
+- The party puts up a great fight taking out Shiva's army with massive AOE spells and ranged shots from the undead army. However Shiva herself makes her way to the Witch King's castle on the volcano. The party engages Shiva alongside the Witch King, but in her final moments she falls into the volcano. The massive magical energies that are unleashed cause the volcano to erupt, the castle begins to sink into the magma. The party teleports away to escape the initial blast.
+- The party returns to the devastated landscape that was once the Witch King's castle. They also retrieve the Armor, Weapons, and ring from the Witch King after he dies. As it begins sinking into the lava, Bazz and Spoops return to the Forge of Pain within at the castle, and manage to haul the massive crystals that contain the souls of powerful smiths into the forge demiplane. 
 - Death of the Witch King and Quest to give his ring to King Sunfenix.
 - Spoops draws a card which summons a team of Marut and offers spoops the power of an epic boon if he kills all the marut himself. He fails to kill all of them himself as he requires help from the party.
 - Magical College of Porthy
