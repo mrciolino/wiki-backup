@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T17:32:20.958Z
+date: 2025-06-05T17:33:13.839Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -243,6 +243,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party meets Glaculs.
 - Magical College of Highhold
 - The party fights Illithids underground beneath the Highhold Magic College Library.
+- The party meets Edward the golden warforged knight. 
 - The mind flayers attempt to eat Spoops' brain but find nothing there because hes a skeleton.
 - The party fights an Illithid dragon.
 - The party meets Archmage Lancel Highhold
