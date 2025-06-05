@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T19:16:22.939Z
+date: 2025-06-05T19:19:27.995Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -282,8 +282,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 
 - Delivering the ring to King Sunfenix. When the king puts on the ring, Bane takes over his body.
-- Bane reveals that he has tsken full control over King Sunfenix's body and gloats that he rules Hellaress. 
+- Bane reveals that he has taken full control over King Sunfenix's body and gloats that he rules Hellaress. 
 - The party rest in the castle for the night. The next morning, Spoops tells Bazzdows not to tell Bane that he had woken up yet. Spoops teleports to the library dimension where he asks Bazzalt to teleport him to Wegate. Once in Wegate Spoops and his paladins begin raising wights for his army.
+- As a reward for bringing him back, Bane grants Adalynn her choice of 10th level spells from his collection. Bane grants her the Blade of Cataclysm and Moving Mountains spells.
 - Hunting down the last devastation vermin
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
