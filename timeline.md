@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-06T01:46:05.163Z
+date: 2025-06-06T01:52:48.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -129,7 +129,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party dub this new threat Carl.
 - The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
 - As they fly away, the party  checks Dio and realizes Carl is geting closer. The carriage is too heavy and is slowing down the flying ship. The party makes the decision to cut the carriage loose, reducing their weight and allowing them to put significant distance between them and Carl.
-- During their flight to Fywick, Narascus is visited by a representative of The Emperor, they try to recruit him but he declines. 
+- During their flight to Fywick, Narascus is visited by a representative of The Emperor who the party calls Jerry, they try to recruit him but he declines. 
 - [Spoops Resurrects Himself](/Events/spoops-resurrects-himself)
 - The party arrives in Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - Upon arrival to Fywick, the party parks their flying ship above the docks. Bazzvrah, Meade, and Os seek out some underground connections in a nearby bar with a big red door. Here they meet the mafia boss Tony Mozzarella and his right hand man Steveo.
