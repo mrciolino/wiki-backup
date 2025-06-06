@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-05T20:26:38.590Z
+date: 2025-06-06T00:49:46.985Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -216,19 +216,30 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
 - **Events that happened on Ereriad**
-- The party goes through the well and engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the cresture snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End.
+- The party goes through the well and engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the creature snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End.
+- The party meets the pissed off mayor who wanted to bribe the party to kill the duke, the party not knowing this man refused.
 - Spoops tries to use Dio to chart a course between Mardun and Ereriad, Dio is unable to do so.
-- The party then travels with a caravan to the closest major city: Hellaress.
+- The party then travels with a caravan led by a merchant named Nut to the closest major city: Hellaress.
+- On the journey one of the party members stole Spoops' dick (the immovable rod) and played a prank on him, hurting his feelings. In response upon arrival to the city, Spoops sulked by the river, passively summoning snakes because "they are his only real friends who wont hurt him". He was saying this like this to the snakes using his ring of animal communication which made the snakes feel very awkward. Eventually a guard came by and asked if he was doing alright and eventually escorted him to the castle where he met the rest of the party. 
 - The party gets an audience with the king due to them slaying the Devastation Shark Scorpion.
 - The party learns that there are 5 more Devastation creatures terrorizing the world. 
 - The party begins the quest to save the princess of hellaress. 
+- He also tells the party that his daughter was kidnapped by the Witch King and he asks the party to get her back.
+- He tells the party of one of the devastation creatures in the south of the kingdom which is a giant beetle. 
+- He also tells the party where the Witch King's castle is located.
+- He gave the party some items and money and then the party goes shopping for some supplies before heading out.
+- Before dealing with King Sunfenix's requests, the party travels with Nut's carriage south from Hellaress along the coastline. Then they travel along the plains where they run into centaur tribes. The party defends the caravan from some hostile tribes as they pass through. While talking to some of the centaur's they come across a speaking stone that the centaurs claim their god speaks to them through, the party hears a booming godlike voice coming through it which they realize is fake. In response they use Dio to locate the source, go to the location and confront the false god. Upon discovering the false god is Fiad up to his old schemes, the party attacks. Fiad pleas for mercy by explaining that he had worked under Darmuth but planned to betray her because he knew about her loyalities to the Emperor and he believed he could get a better deal, he offered the party power and service under the Emperor but the party declined his foolish offer and killed him.
+- The party proceeds with Nut's caravan and continue their journey under the ocean. Nut's carriage shows it has submersible capabilities. While under the water, Crocgar teaches Os some interesting vocal tricks. The party finds an underwater pyramind complex and goes in. Nut stays with the carriage claiming to not have the ability to breath underwater. Within the pyramid they find the spawn of Glub Glub which giant black crabs with near impenetrable carapace whom they defeat. The party finds a hoard of cursed weapons. While investigating the weapons, suddenly Nut appears behind them. Nut drops the act and begins to act much more intimidating. He takes off the disguise revealing himself to be the Witch King. He offers a deal to the party to work with him. He claimed to share a goal with the party of slaying the devastation creatures and other threats to the world. After much back and forth the party agreed believing they could perhaps have a common goal, especially when it came to dealing with extra-planar threats like Darmuth's master.
+- Suddenly the demons who own the hoard show up and its the demon geese, alot of them. The party fights them off, killing the demons. The witch king does a spell to remove the curses on the weapons, allowing the party to claim some of them. (list of weapons is in the log).
+
+- 
 - The party finds some psychic fish people.
 - The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
 - A traveling merchant sells interesting magic items to the party: Spoops buys Jack Sparrow's Compass. 
 - Fiad found and killed in a tower on the centaur tribal planes.
 - The party seeks out Aphir the Mighty
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
-- Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade.Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
+- Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade. Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
 - Magical College of Porthy
 - Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
 - Siege of the Witch King's castle
