@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-06T12:07:36.943Z
+date: 2025-06-06T13:50:10.925Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -305,8 +305,11 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bazzdows draws a card and is grented 50 gems, each worth 1000 gold.
 - The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
 - 
+- 
+- 
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 - Creation of Mortis Lux HQ
+- The party returns to the underwater elven city beneath the ofean on Ereriad. Adalynn casts her Moving Mountains 10th level spell to raise the city into the sky. Then Adalynn uses a powerful 10th level spell of her own creation to carve out a demiplane of her own from the deep ethereal, using part of her soul to anchor the plane to multiple other worlds. She then inserts the mountain city into the demiplane, creating a secure private world to be used as Mortis Lux's HQ. 
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Meeting Obox-Ob
 - [Saving the Sun](/Events/saving-the-sun)
