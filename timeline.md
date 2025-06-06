@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-06T01:20:50.804Z
+date: 2025-06-06T01:26:19.076Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -318,7 +318,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Deal with Lolth](/Events/deal-with-lolth)
 - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
 - Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
-- Investigating Godsbane: The party Tries various methods to destroy Godsbane.
+- Investigating Godsbane: The party tries various methods to destroy Godsbane.
 - Adalynn Captured by Daurgothoth
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - [Weakening of Cyric](/Events/weakening-of-cyric)
