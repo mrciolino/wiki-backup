@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-06T01:52:48.885Z
+date: 2025-06-06T01:58:01.351Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -132,7 +132,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - During their flight to Fywick, Narascus is visited by a representative of The Emperor who the party calls Jerry, they try to recruit him but he declines. 
 - [Spoops Resurrects Himself](/Events/spoops-resurrects-himself)
 - The party arrives in Fywick to seek the Oracles guidance on how to defeat Darmuth.
-- Upon arrival to Fywick, the party parks their flying ship above the docks. Bazzvrah, Meade, and Os seek out some underground connections in a nearby bar with a big red door. Here they meet the mafia boss Tony Mozzarella and his right hand man Steveo.
+- Upon arrival to Fywick, the party parks their flying ship above the docks. Bazzvrah, Meade, and Os seek out Bazzvrah's underground connection Steveo in a nearby bar with a big red door. Here they meet the mafia boss Tony Mozzarella. Steveo is Tony's right hand man/enforcer.
 - Spoops and Narascus briefly explore the city before walking up to the Oracle's temple in the center of town.
 - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
 - Spoops uses a wish he gained from the deck of many things to wish for helpful legendary items to help the party in the coming fight: "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
