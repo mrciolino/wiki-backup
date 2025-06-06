@@ -2,7 +2,7 @@
 title: Fleeing To Kaltrosar
 description: The party makes landfall and flees towards Kaltrosar after the death of Krorg
 published: true
-date: 2025-06-06T14:26:04.757Z
+date: 2025-06-06T14:30:16.383Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:26:04.757Z
@@ -16,7 +16,9 @@ After the death of Krorg, the party sails west. knowing they cannot currently st
 The party decides to seek out the Oracle of Fywick, hoping that she may be able to advise them on how to defeat Darmuth. They hope to rely on the chance that her prophetic visions could help them find Darmuth's weakness.
 
 
-## Arrival 
+## Landing at The Shrine of Torment 
 The party makes landfall at the Shrine of Torment. The party discovers Dave Bones has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship that just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. To avoid a potential meeting with Dave Bones they ride their carriage south to Kaltrosar in the morning. They would later find out the ship manned by undead wasn't even Dave Bones, it was Frederina following them from Altricia.
 From here they ride their carriage to Kaltrosar Bay.
-They hire Dilliard, Illiard's cousin to outfit the carriage with armor plating.
+
+## Return to Kaltrosar Bay
+The party arrives in Kaltrosar Bay. Still wary of attack, they want to prepare for their journey to Fywick. They hire Dilliard, Illiard's cousin to outfit the carriage with armor plating. They also do some shopping for supplies and potions before departing.
