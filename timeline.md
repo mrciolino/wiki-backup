@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-06T00:53:37.097Z
+date: 2025-06-06T01:20:50.804Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -276,11 +276,11 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party begins quickly making contact with all of their old allies, recruiting them into their new organization to fight the Illithids as well as defend against other threats such as the Marut and any Gods who threaten them or their worlds. 
 - Spoops decides to reach out to Kierkegaard, Vesrahaan, and Narascus to form the Unified Forces of Ry-ann and bring them under the banner of Mortis Lux. Spoops gets ahold of all three of them via speaking stone and they agree to join Mortis Lux. Kierkegaard agrees to bring his paladins in and lead the Unified Forces under Spoops, Narascus commits his clerics to the cause, and Vesrahaan commits her clerics to the Unified forces as well. Vesrahaan also agrees to bring ther entirety of Wegate and her army into Mortis Lux as well. Spoops commands Vesrahaan to begin gathering corpses to be used to create an undead army. 
 - Seeking guidance and power, Elira communes with Mystra to become a sorcerer.
-- Bazzdows delivers speaking stones to any members who dont have them, connecting every member of Mortis Lux to his network as rhey join. 
+- Bazzdows delivers speaking stones to any members who dont have them, connecting every member of Mortis Lux to his network as they join.
 - Spoops starts making more calls. He contacts the city council of Fywick and Tony Mozzarella, recruiting both the city of Fywick and Fywick Mafia into the organization under the leadership of the Oracle. 
 - Adalynn recruits the Archmages and professors of the Magical college of Porthy.
 
-- Hunting down the last devastation vermin
+- Hunting down the last devastation vermin.
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
 
