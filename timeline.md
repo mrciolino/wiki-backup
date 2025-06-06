@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-06T14:31:20.563Z
+date: 2025-06-06T14:41:14.300Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -121,11 +121,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Death of Krorg](/Events/the-death-of-krorg)
   - [Fleeing to Kaltrosar](/Events/fleeing-to-kaltrosar)
   - [Drawing Cards in The Carriage](/Events/drawing-cards-in-the-carriage)
-- While passing through Mt. Suran, the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. Federina arrived on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and departed.
-- The party dub this new threat Carl.
-- The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. Spoops uses Dio to navigate and track Darmuth's pet as they fly.
-- As they fly away, the party  checks Dio and realizes Carl is geting closer. The carriage is too heavy and is slowing down the flying ship. The party makes the decision to cut the carriage loose, reducing their weight and allowing them to put significant distance between them and Carl.
-- During their flight to Fywick, Narascus is visited by a representative of The Emperor who the party calls Jerry, they try to recruit him but he declines. 
+- [Fleeing Darmuth's Pet](/Events/fleeing-darmuths-pet)
 - [Spoops Resurrects Himself](/Events/spoops-resurrects-himself)
 - The party arrives in Fywick to seek the Oracles guidance on how to defeat Darmuth.
 - Upon arrival to Fywick, the party parks their flying ship above the docks. Bazzvrah, Meade, and Os seek out Bazzvrah's underground connection Steveo in a nearby brothel with a big red door. Here they meet the mafia boss Tony Mozzarella. Steveo is Tony's right hand man/enforcer. After hanging out for some time, they leave to meet up with Spoops and Narascus at the Oracle's temple.
