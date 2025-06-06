@@ -2,7 +2,7 @@
 title: Finishing The Wegate Revolution
 description: The conquest of Wegate
 published: true
-date: 2025-05-22T14:07:47.293Z
+date: 2025-06-06T12:07:24.673Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:07:47.293Z
@@ -21,7 +21,7 @@ The party goes to a magic item shop in the city and obtains various magical item
 The party meets Vesrahaan and the cult in a tavern in Wegate. The table is made of Mahogany and constantly says Mahogany. They plan the attack on the castle.
 
 ## The Battle for Wegate
-The attack on Wegate begins, many cultists flood the streets, soldiers loyal to the cause join the cultists revolution and this army storms the castle. During the battle, the Wegate army utilizes an anti-magic field generator.
+The attack on Wegate begins, many cultists flood the streets, soldiers loyal to the cause join the cultists revolution and this army storms the castle. During the battle, the Wegate army utilizes an anti-magic field generator. The party storm the castle, obliteraying many of the soldiers loyal to the government. To finish the fight, the party pulls back and drops a dragon turtle from the sky down onto the castle. The massive explosion destroys the enemy leadership and ends the battle. 
 
 ## Conclusion of the Battle
 The party and Cult of Spoops conquer Wegate and install Vesrahaan as Priestess Queen of the new Theocratic Empire of Wegate. The party secretly empties the treasury into Adalynn's tressure demi-plane, they lend resources back to Wegate as needed.
