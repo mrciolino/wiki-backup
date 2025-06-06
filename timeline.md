@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-06T15:01:21.387Z
+date: 2025-06-06T15:06:14.797Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -125,13 +125,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Spoops Resurrects Himself](/Events/spoops-resurrects-himself)
   - [Arrival to Fywick](/Events/arrival-to-fywick)
   - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
-- Spoops uses a wish he gained from the deck of many things to wish for helpful legendary items to help the party in the coming fight: "I wish that each member of my party and myself would immediately receive the most powerful unique magical item for their class however if they do not like the item they receive, they may exchange it for one of god(the dm's) choosing once". 
-- Spoops receives the Anti-Magic Armor.
-- Bazzvrah receives The Blood Fury Tattoo.
-- Narascus received Sovereign Glue.
-- Os receives The Horn of Valhalla.
-- Meade receives ?
-- Breezy-E receives ?
+  - [Wishing For Legendary Items](/Events/wishing-for-legendary-items)
 - The party teleports to The Bastion of Tiyamani The Awesome in the Ashe Mountains north west of Fywick. They are searching for a magical item that can help them against Darmuth. They meet an archaeologist also exploring the ruins. The archaeologist's crew was all killed while in the ruins. Spoops uses Earth Terror to do some excavating. They find the shield generator and shield ring. They also find many soul crystals.
 - archaeologists: Miramz, Isrelda
 - magicorum enchantorom ?
