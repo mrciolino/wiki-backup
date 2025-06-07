@@ -2,7 +2,7 @@
 title: Spoops’ Ascention
 description: Spoops unites with his divine self, becoming a God once again.
 published: true
-date: 2025-06-07T16:18:11.680Z
+date: 2025-06-07T16:18:27.239Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T16:18:11.680Z
@@ -11,7 +11,7 @@ dateCreated: 2025-06-07T16:18:11.680Z
 # Spoops' Ascention
 Spoops unites with his divine ego Ry-ann, restoring himself to godhood once again.
 
-## Spoops' Ascention 
+## Ascending to Godhood 
 After landing in the floating island kingdom with half dragon people Spoops goes to meet the locals and see what's the deal with this place.
 
 Then Bazzdows, Adalynn, and Os are sent to the floating island dragon kingdom where Spoops and Elira are currently. 
