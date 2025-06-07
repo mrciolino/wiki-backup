@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-07T16:23:31.485Z
+date: 2025-06-07T16:24:49.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -286,12 +286,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - 
 - 
 - Creation of Mortis Lux HQ
-- [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
+- vlaakith's offer
 - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
 - [Two Great Sins](/Events/the-great-sins-of-spoops)
 - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
 - [Selune's Gathering](/Events/selunes-gathering)
 - [Spoops' Ascention](/Events/spoops-ascention)
+- [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 
 - The party returns to the underwater elven city beneath the ocean on Ereriad. Adalynn casts her Moving Mountains 10th level spell to raise the city and some of the surrounding forest into the sky. The city itself was a massive city built atop a mountain. The city itself was surrounded by massive stone docks, except for the region behind the castle which consisted of a large wooded area. Then Adalynn uses a powerful 10th level spell of her own creation to carve out a demiplane of her own from the deep ethereal, using part of her soul to anchor the plane to multiple other worlds. She then inserts the mountain city into the demiplane, creating a secure private world to be used as Mortis Lux's HQ. 
 - By shaping the demiplane using her own soul as the anchor in combination with the soul of Dio the map and his planar power, Adalynn had complete control over the plane. She had power over the plane similar to the power a god has over their divine realm. She could permit and deny teleportation to the realm, and using Gate, could open portals of varying size to permit entry that way. 
