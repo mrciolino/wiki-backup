@@ -2,7 +2,7 @@
 title: Building The Great Port of Wegate
 description: Mortis Lux begins construction of the Great Port of Wegate
 published: true
-date: 2025-06-07T16:05:19.094Z
+date: 2025-06-07T16:11:19.483Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T15:47:01.179Z
