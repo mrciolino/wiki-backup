@@ -2,7 +2,7 @@
 title: Spoops vs. Zeus
 description: Bazzdows signs Spoops up for a fight without his consent
 published: true
-date: 2025-06-07T15:39:24.462Z
+date: 2025-06-07T15:42:01.244Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T15:38:30.393Z
@@ -16,3 +16,7 @@ While Spoops and Adalynn were with Vlaakith, Bazzdos was investigating thr assas
 
 ## Spoops and Zeus fight 1v1: 
 Spoops gets roped into the fight against Zeus who is wants revenge for the crashing of Bombcoin. Spoops throws everything he has at Zeus but cant even scratch him. He is able to drag Zeus through the far realms by drinking a Protein Shake of Power. This greatly affects Zeus' mind, and Spoops took the opportunity to use his 12th level spell: The Banhammer. However to Spoops' surprise the hammer has no effect on Zeus. Instead Zeus grabs the hammer amd smashes Spoops into the ground, killing him. Spoops resurrects and sneaks away through the well of many worlds. He is able to then contact Adalynn for a portal home.
+
+
+## Quest for Power
+After being humiliated and slain, Spoops gets desperate for more strength. He puts all his focus on acquiring more power quickly. This leads him to commit his [Two Great Sins](/Events/the-great-sins-of-spoops).
