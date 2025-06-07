@@ -2,7 +2,7 @@
 title: Creating The Protein Shake of Power
 description: Spoops has an idea for a powerful recipe to give the party crazy gains!
 published: true
-date: 2025-06-07T16:21:29.746Z
+date: 2025-06-07T16:21:47.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T16:21:29.746Z
@@ -11,7 +11,7 @@ dateCreated: 2025-06-07T16:21:29.746Z
 # Creating The Protein Shake of Power
 Spoops has an idea for a potion recipe that he believes has the potential to grant the party a power up.
 
-Protein Shake of Power
+## Protein Shake of Power
 After taking inventory of the reagents and supplies he has collected over the years, Spoops has an idea of how to gain even more power. He formulates a recipe for a potion that could potentially grant whoever consumes it massive amounts of power. The party are horrified snd intrigued, so they get to work.
 
 An ingredient of the process is the addition of a blessing from the Raven Queen, to acquire this the party travels to her divine realm. The Raven Queen refuses to provide any blessing without payment. Spoops offers her broader access to the memories of souls thst pass through his Well in exchange for her blessing and friendship.
