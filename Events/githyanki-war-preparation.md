@@ -2,7 +2,7 @@
 title: Githyanki War Preparation
 description: The longest two months in history.
 published: true
-date: 2025-06-07T15:41:16.204Z
+date: 2025-06-07T16:19:20.734Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T13:45:55.403Z
@@ -13,43 +13,6 @@ Spoops and Adalynn are brought before Vlaakith while looking for allies to join 
 
 Vlaakith gives the party a warning to reconsider her offer.
 
-
-
-
-## Quest for Power
-After being humiliated and slain, Spoops gets desperate for more strength. He puts all his focus on acquiring more power quickly. This leads him to commit his [Two Great Sins](/Events/the-great-sins-of-spoops).
-
-## The Great Port of Wegate and Infinite Undead Army
-Mortis Lux constructs the Great Port of Wegate and begins mass producing Spelljammer warships. Spoops commands Wegate and his Paladins to scour the surrounding areas for corpses.
-
-
-## Selune's Gathering
-Os is invited to a gathering in Selune's divine realm to discuss the Spoops problem. The party go to Selune's divine realm, Spoops is convincingly disguised as "Spencer". 
-
-Spoops, Adalynn, and Elira are caught looking for powerful magic in Selune's library by Selune herself. Spoops deflects Selune's moonbeam attacks and eacapes to another planet. They find themselves on a floating island kingdom inhabited by half-dragon people ruled by Faaspraanaam (child of Bahamut and Tiamat) through the Well of Many Worlds with Elira.
-
-Os Adalynn and Bazzdows are brought before the Goddess Selune. Os is confronted by a furious Selune who is trying to convince him to turn against and destroy Spoops and ascend to godhood, joining the pantheon. Os is able to convince her anr Bahamut to give him one last chance to convince Spoops not to ascend to godhood. Selune accepts and grants Os power and allows him to ascend to join the pantheon as a new demigod under herself and her daughter Sune.
-
-
-## Spoops' Ascention 
-After landing in the floating island kingdom with half dragon people Spoops goes to meet the locals and see what's the deal with this place.
-
-Then Bazzdows, Adalynn, and Os are sent to the floating island dragon kingdom where Spoops and Elira are currently. 
-
-The party reunites in front of the gates to the castle where Spoops is praying to His Divine Self Ry-ann and uses the 12th level spell Divine Command on himself to re-merge his split being into one.
-
-Then the party is quickly presented by some guards before Faaspraanaam a huge double headed Purple Dragon, apparently the son of Bahamut and Tiamat. After some questioning Faaspraanaam's initial hostility subsides after the party agrees to leave, and so they do without any further incidents.
-
-Before departing, Os tells Spoops that to make peace with the Gods, they want him to cease any attempts to ascend. Spoops tells Os its too late because he just ascended 5 minutes ago. The party then returns back to Mardun.
-
-## Protein Shake of Power
-After taking inventory of the reagents and supplies he has collected over the years, Spoops has an idea of how to gain even more power. He formulates a recipe for a potion that could potentially grant whoever consumes it massive amounts of power. The party are horrified snd intrigued, so they get to work.
-
-An ingredient of the process is the addition of a blessing from the Raven Queen, to acquire this the party travels to her divine realm. The Raven Queen refuses to provide any blessing without payment. Spoops offers her broader access to the memories of souls thst pass through his Well in exchange for her blessing and friendship.
-
-With the blessing acquired, the party completes and consumes the protein shake, each of them receiving a personal experience determining the power they gain.
-
-Upon drinking the shake, Spoops once again came into contact with bomb the bear’s astral form, then spoops consumed a sea of magical bomb coin in the astral plane. Then bomb became his summonable spirit. However spoops knew from his last encounter with astral bomb that bomb did not want to be bound to anything anymore and simply wished to rest and freely explore the astral plane. So spoops released bomb from his bounds as both the golden spirit he could summon, and as the defacto spirit/demi-god of bomb coin. Destroying all faith in bomb coin throughout the planes. But at the same time finally releasing a dear friend from bondage. As thanks bomb promised to help restore the power lost to Adalynn and Elira when they gave up the power gained from the owlbear souls, as bomb fades back into the astral plane.
 
 
 
