@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-07T16:18:55.991Z
+date: 2025-06-07T16:23:31.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -260,7 +260,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bazzdows delivers speaking stones to any members who dont have them, connecting every member of Mortis Lux to his network as they join.
 - Spoops starts making more calls. He contacts the city council of Fywick and Tony Mozzarella, recruiting both the city of Fywick and Fywick Mafia into the organization under the leadership of the Oracle. 
 - Adalynn recruits the Archmages and professors of the Magical college of Porthy.
-
+- [Creating The Protein Shake of Power](/Events/creating-the-protein-shake-of-power)
 - Hunting down the last devastation vermin.
 - Spoops magically obtains the can of whoop ass.
 - The party hunts down and fights the devastation Beetle. 
@@ -268,10 +268,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Feywild Buffoonery
 - Retrieving the princess of Hellaress from the feywild: Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
 - The party end up in a strange village. 
-- The party realizes that the villiage is an illusion. Spoops activstes his anti-magic armor to break the illusion. It turns out it was no simple illusion, the party was trapped in the web of a giant dream spider, all of them experiencing a shared dream.
+- The party realizes that the villiage is an illusion. Spoops activities his anti-magic armor to break the illusion. It turns out it was no simple illusion, the party was trapped in the web of a giant dream spider, all of them experiencing a shared dream.
 - The party meets Verondera the giant feywild spider.
 - Spoops tells Verondera all about his religion. They take great interest in it and convert to the religion. Verondera and her children are all now worshippers of Spoops.
-- 
 - gaudiena gave us right to enter to the vale -> gives us two medallions, each is a gold chain with an emerald medallian, that says "friend and warrior". She says we must visit to talk to meldrion.
 - The party return the princess of Hellaress home.
 
