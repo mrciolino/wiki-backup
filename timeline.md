@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T03:08:50.727Z
+date: 2025-06-08T03:09:06.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -173,7 +173,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bazzalt leaves the party to live in the library dimension to spend time with his brother before Bazzvrah's consciousness completely melds into the tree of knowledge. 
 - Luther steps up and becomes regent of Altricia while the party, more concerned with the big picture, leaves.
 
-- The party returns to Gothriathon where the dwarven council found what appears to be a metallic homunculus which is being studied and argued over by the council. The metallic being glows slightly and can snap itself back together. As the parth investigates, Spoops finds a panel of keys and a screen which prompts him to enter a name. Missing the Bazz brothers, he enters the name Bazzdos. The creature awakens and introduces itself as Bazzdos. Intrigued, the rest of the party try entering things too, particulary Adalynn and Os who try entering commands saying to "leave to another world" and "be gone from this world" seemingly afraid of the possibility Bazzdos was some sort of invader. Luckily Bazzdos was friendly to the party, and after Bazzalt left, they needed a new member to join them. So Bazzdos joined the party and they immediately left for Ereriad.
+- The party returns to Gothriathon where the dwarven council found what appears to be a metallic homunculus which is being studied and argued over by the council. The metallic being glows slightly and can snap itself back together. As the party investigates, Spoops finds a panel of keys and a screen which prompts him to enter a name. Missing the Bazz brothers, he enters the name Bazzdos. The creature awakens and introduces itself as Bazzdos. Intrigued, the rest of the party try entering things too, particulary Adalynn and Os who try entering commands saying to "leave to another world" and "be gone from this world" seemingly afraid of the possibility Bazzdos was some sort of invader. Luckily Bazzdos was friendly to the party, and after Bazzalt left, they needed a new member to join them. So Bazzdos joined the party and they immediately left for Ereriad.
 
 
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
