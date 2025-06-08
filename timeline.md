@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T14:26:58.010Z
+date: 2025-06-08T14:27:21.027Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -157,7 +157,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Invading Darmuth's Lair
 - The party is in some dungeon somewhere. Spoops finds a bunch of corpses and makes a bone giant. 
 - The party finds many magic items
-- Items Found: flask that turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shary and unreliable), silver gauntlet, cool sunglasses
+- Items Found: flask that turns things inside into wine. Orb of anti-annihilation, belt of useful storing, shifty abacus (shady and unreliable), silver gauntlet, cool sunglasses
 - The party encounters a magic mirror that shows a version of you that is oppositely aligned.
 - The party passes a room of mummy lords unscathed as Spoops is able to communicate with them. Being highly intelligent undead, they understand the authority the undead Spoops holds over their kind, so they allow the party to pass.
 - At the end of the dungeon, the party finds a portal leading to Darmuth's lair.
