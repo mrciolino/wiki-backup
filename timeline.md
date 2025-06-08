@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T02:54:18.601Z
+date: 2025-06-08T02:58:21.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -150,7 +150,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party finds Darmuth's Phylactery which is in the knot in the portal in the hole in the hat.
 
 - The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
-- Spoops ends up trapped by Darmuth in what was formerly the dragon's hoard far to the south west of Gothriathon. He first investigates the piles of gold within thr hoard, only to find they are just an illusion created by Darmuth. He uses his knife leg to fly up to the crystal barrier blocking his exit from the cavernous hoard, then he uses the ring of misty step to pass through the barrier. Once he passed this first barrier, he found himself in a large cave filled with bones and corpses. Spoops barely noticed the poisonous fog in the air due to his immunity to poison. After he easily bypassed the defenses of the hoard, and returned to the surface, he used his knife leg to fly back to gothriathon to meet up with the party. It took a few days of flying before the party used Dio to locate and intercept him.
+- [Spoops Escapes The Dragon Lair](/Events/spoops-escapes-the-dragon-lair)
 
 - The party decide to travel to Wegate to finish Spoops' rebellion.
 
