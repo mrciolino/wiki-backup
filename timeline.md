@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T00:18:09.767Z
+date: 2025-06-08T00:26:05.330Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -285,7 +285,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
 - 
 - 
-- Creation of Mortis Lux HQ
+- [Creation of Mortis Lux HQ](/Events/creation-of-mortis-lux-hq)
 - [Vlaakith's Offer](/Events/vlaakiths-offer)
 - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
 - [Two Great Sins](/Events/the-great-sins-of-spoops)
