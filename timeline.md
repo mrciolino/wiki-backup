@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T15:22:31.947Z
+date: 2025-06-08T20:40:03.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -155,13 +155,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - While flying over the dragon sea, the party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - [Invading Darmuth's Lair](/Events/invading-darmuths-lair)
-- Assault on Darmuth Begins
-- The party finds an illithid nest. They see pools filled with illithid tadpoles that attempt to infect the party. Many of the party narrowly avoid the tadpoles, the tadpoles attempting to inhabit spoops find no brain to infect. However one does atttach to adalynn which the party has to remove later. At the center of rhe room is a massive elder brain, Darmuth's true form.
-- The party begin the battle for the fate of Mardun. They attack Darmuth with everything they have.
-- Bazzvrah summons multiple copper dragons to assist in the fight.
-- Throughout the fight, the party has o desperately resist the psionic attacks from Darmuth whole keeping up their attack.
-- Os is sent back in time to the ancient ash elf kingdom far to the north. Here he lives an entire lifetime wher he becomes king Tiyamani the Awesome. He gets even stronger during this time, eventually being sealed and buried in a coffin beneath Altricia, directly at the site of the current battle. Os emerges from the coffin, and rejoins the fight. Os immediately casts time stop and proceeds to forcibly teleport Dsrmuth above a volcano, casting her into the magma below. Darmuth is finally slain.
-- The massive magical energies Darmuth released upon her death crested a crack in the sky above Altricia. The party looked up an wondered what exactly Darmuth and her master "The Emperor" were trying to accomplish.
+- [Fighting Darmuth](/Events/fighting-darmuth)
+- 
 - The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For the moment they close the portal and focus on recovering and rebuilding.
 - Bazzalt leaves the party to live in the library dimension to spend time with his brother before Bazzvrah's consciousness completely melds into the tree of knowledge. 
 - Luther steps up and becomes regent of Altricia while the party, more concerned with the big picture, leaves.
