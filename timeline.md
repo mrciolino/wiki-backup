@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T20:40:37.508Z
+date: 2025-06-08T20:44:25.209Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -160,7 +160,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
 - The party goes through the well to engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the creature snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End.
-- The party meets the pissed off mayor who wanted to bribe the party to kill the duke, the party not knowing this man refused.
+- The party meets the pissed off mayor who wanted to bribe the party to kill their useless duke, the party not knowing this man refused.
 - Spoops tries to use Dio to chart a course between Mardun and Ereriad, Dio is unable to do so.
 - The party then travels with a caravan led by a merchant named Nut to the closest major city: Hellaress.
 - On the journey one of the party members stole Spoops' dick (the immovable rod) to play a prank on him, hurting his feelings. In response upon arrival to the city, Spoops sulked by the river, passively summoning snakes because "they are his only real friends who wont hurt him". He was saying things like this to the snakes using his ring of animal communication which made the snakes feel very awkward. Eventually a guard came by and asked if he was doing alright and eventually escorted him to the castle where he met the rest of the party. After a touching moment, they returned his immovable rod and made up.
