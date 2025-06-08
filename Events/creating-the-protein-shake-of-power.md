@@ -2,7 +2,7 @@
 title: Creating The Protein Shake of Power
 description: Spoops has an idea for a powerful recipe to give the party crazy gains!
 published: true
-date: 2025-06-07T16:21:47.296Z
+date: 2025-06-08T00:12:04.589Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T16:21:29.746Z
