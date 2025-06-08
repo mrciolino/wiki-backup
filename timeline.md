@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T02:59:05.825Z
+date: 2025-06-08T03:00:37.363Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -152,7 +152,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
 - [Spoops Escapes The Dragon Lair](/Events/spoops-escapes-the-dragon-lair)
 
-- The party decide to travel to Wegate to finish Spoops' rebellion.
+- The party decide to travel to Wegate to finish Spoops' rebellion. They begin flying towards Wegate, going east over the dragon sea.
 
 - While flying over the dragon sea, the party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
