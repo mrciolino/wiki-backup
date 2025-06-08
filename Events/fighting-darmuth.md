@@ -2,7 +2,7 @@
 title: Fighting Darmuth
 description: The party engages Darmuth in battle within her lair
 published: true
-date: 2025-06-08T20:39:02.181Z
+date: 2025-06-08T20:42:44.039Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T20:39:02.181Z
@@ -29,4 +29,11 @@ Os is sent back in time to the ancient ash elf kingdom far to the north. Here he
 ## Os Defeats Darmuth
 Os emerges from the coffin, and rejoins the fight. Os immediately casts time stop and proceeds to forcibly teleport Dsrmuth above a volcano, casting her into the magma below. Darmuth is finally slain.
 
-The massive magical energies Darmuth released upon her death created a crack in the sky above Altricia. The party looked up an wondered what exactly Darmuth and her master "The Emperor" were trying to accomplish.
+
+## A Tear Above Altricia
+The massive magical energies Darmuth released upon her death created a crack in the sky above Altricia. The party look up and see exactly how close Darmuth came to opening up the passage for her master "The Emperor" to arrive on Mardun.
+
+
+The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For the moment they close the portal and focus on recovering and rebuilding.
+- Bazzalt leaves the party to live in the library dimension to spend time with his brother before Bazzvrah's consciousness completely melds into the tree of knowledge. 
+- Luther steps up and becomes regent of Altricia while the party, more concerned with the big picture, leaves.
