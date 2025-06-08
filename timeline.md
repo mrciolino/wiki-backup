@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T20:40:03.534Z
+date: 2025-06-08T20:40:37.508Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -156,11 +156,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - [Invading Darmuth's Lair](/Events/invading-darmuths-lair)
 - [Fighting Darmuth](/Events/fighting-darmuth)
-- 
-- The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For the moment they close the portal and focus on recovering and rebuilding.
-- Bazzalt leaves the party to live in the library dimension to spend time with his brother before Bazzvrah's consciousness completely melds into the tree of knowledge. 
-- Luther steps up and becomes regent of Altricia while the party, more concerned with the big picture, leaves.
-
 - [Waking Bazzdows](/Events/waking-bazzdows)
 
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
