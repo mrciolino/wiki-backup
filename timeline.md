@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T20:44:25.209Z
+date: 2025-06-08T20:49:28.518Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -159,7 +159,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Waking Bazzdows](/Events/waking-bazzdows)
 
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
-- The party goes through the well to engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the creature snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End.
+- The party goes through the well to engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the creature snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. During the fight, Spoops manages to sever one of the scorpion's claws. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End. Spoops brings along the severed claw just in case they ever want to use it to create a weapon.
 - The party meets the pissed off mayor who wanted to bribe the party to kill their useless duke, the party not knowing this man refused.
 - Spoops tries to use Dio to chart a course between Mardun and Ereriad, Dio is unable to do so.
 - The party then travels with a caravan led by a merchant named Nut to the closest major city: Hellaress.
