@@ -2,7 +2,7 @@
 title: Invading Darmuth’s Lair
 description: The party traverses a sprawling dungeon, searching for Darmuth
 published: true
-date: 2025-06-08T14:48:34.504Z
+date: 2025-06-08T14:56:17.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:33:55.448Z
@@ -38,6 +38,10 @@ After Spoops stepped in front of the door, an evil copy of him appeared.
 
 ## The Mummy Lords
 The party passes a room of mummy lords unscathed as Spoops is able to communicate with them. Being highly intelligent undead, they understand the authority the undead Spoops holds over their kind, so they allow the party to pass.
+
+
+## Tutrakton
+Spoops finds an inscription revealing the ancient name of Allford to be Tutrakton.
 
 
 ## Portal to Darmuth's Lair
