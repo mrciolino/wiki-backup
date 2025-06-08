@@ -2,7 +2,7 @@
 title: Invading Darmuth’s Lair
 description: The party traverses a sprawling dungeon, searching for Darmuth
 published: true
-date: 2025-06-08T14:56:17.891Z
+date: 2025-06-08T15:03:51.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:33:55.448Z
@@ -42,6 +42,10 @@ The party passes a room of mummy lords unscathed as Spoops is able to communicat
 
 ## Tutrakton
 Spoops finds an inscription revealing the ancient name of Allford to be Tutrakton.
+
+
+## The Dragons Arrive
+The party receives word that some red dragons have arrived and are assaulting the city. After initial concern, Adalynn remembers that the city was already burning and filled with enemies. They have a moment of joy as Os shouts "huzzah dragons!"
 
 
 ## Portal to Darmuth's Lair
