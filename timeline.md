@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T15:08:11.131Z
+date: 2025-06-08T15:09:31.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -159,6 +159,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party finds an illithid nest. They see pools filled with illithid tadpoles that attempt to infect the party. Many of the party narrowly avoid the tadpoles, the tadpoles attempting to inhabit spoops find no brain to infect. However one does atttach to adalynn which the party has to remove later. At the center of rhe room is a massive elder brain, Darmuth's true form.
 - The party begin the battle for the fate of Mardun. They attack Darmuth with everything they have.
 - Bazzvrah summons multiple copper dragons to assist in the fight.
+- Throughout the fight, the party has o desperately resist the psionic attacks from Darmuth whole keeping up their attack.
+- 
 - Darmuth is killed after Os does time travel comes back, then drops her into a volcano.
 - The massive magical energies Darmuth released upon her death crested a crack in the sky above Altricia. The party looked up an wondered what exactly Darmuth and her master "The Emperor" were trying to accomplish.
 - The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For the moment they close the portal and focus on recovering and rebuilding.
