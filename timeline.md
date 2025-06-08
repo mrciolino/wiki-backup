@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T15:19:44.396Z
+date: 2025-06-08T15:22:31.947Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -160,8 +160,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party begin the battle for the fate of Mardun. They attack Darmuth with everything they have.
 - Bazzvrah summons multiple copper dragons to assist in the fight.
 - Throughout the fight, the party has o desperately resist the psionic attacks from Darmuth whole keeping up their attack.
-- Os is sent back in time to the ancient ash elf kingdom far to the north. Here he lives an entire lifetime wher he becomes king Tiyamani the Awesome. He gets even stronger during this time, eventually being sealed and buried in a coffin beneath Altricia, directly at the site of the current battle. Os emerges from the coffin, and rejoins the fight.
-- Darmuth is killed after Oscomes back, then drops her into a volcano.
+- Os is sent back in time to the ancient ash elf kingdom far to the north. Here he lives an entire lifetime wher he becomes king Tiyamani the Awesome. He gets even stronger during this time, eventually being sealed and buried in a coffin beneath Altricia, directly at the site of the current battle. Os emerges from the coffin, and rejoins the fight. Os immediately casts time stop and proceeds to forcibly teleport Dsrmuth above a volcano, casting her into the magma below. Darmuth is finally slain.
 - The massive magical energies Darmuth released upon her death crested a crack in the sky above Altricia. The party looked up an wondered what exactly Darmuth and her master "The Emperor" were trying to accomplish.
 - The Well of Many Worlds is found under Altricia. Os uses mending to repair a small tear in the cloth of the well. As he lays out the mat and thr tear is mended, the portal opens to another world. The party uses the well to look into Ereriad where they see immense Devastation Vermin are attacking. For the moment they close the portal and focus on recovering and rebuilding.
 - Bazzalt leaves the party to live in the library dimension to spend time with his brother before Bazzvrah's consciousness completely melds into the tree of knowledge. 
