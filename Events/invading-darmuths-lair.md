@@ -2,7 +2,7 @@
 title: Invading Darmuth’s Lair
 description: The party traverses a sprawling dungeon, searching for Darmuth
 published: true
-date: 2025-06-08T14:42:57.568Z
+date: 2025-06-08T14:45:33.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:33:55.448Z
@@ -29,7 +29,9 @@ The party takes out some soldiers loyal to Darmuth. They find many magic items a
 - cool sunglasses
 
 ## Mirror Door
-The party encounters a magic mirror that shows a version of you that is oppositely aligned.
+The party encounters a magic mirror that shows a version of you that is oppositely aligned. 
+
+After Spoops stepped in front of the door, an evil copy of him appeared.
 
 
 ## The Mummy Lords
