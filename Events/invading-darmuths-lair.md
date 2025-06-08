@@ -2,7 +2,7 @@
 title: Invading Darmuth’s Lair
 description: The party traverses a sprawling dungeon, searching for Darmuth
 published: true
-date: 2025-06-08T14:33:55.448Z
+date: 2025-06-08T14:40:37.952Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:33:55.448Z
@@ -20,7 +20,7 @@ Spoops finds a bunch of corpses and makes a bone giant. The bone tiant accompani
 
 The party finds many magic items:
 - flask that turns things inside into wine
-- Orb of anti-annihilation
+- Balagor's Orb of anti-annihilation
 - belt of useful storing
 - shifty abacus (shady and unreliable)
 - silver gauntlet
