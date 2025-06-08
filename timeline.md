@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T14:25:46.749Z
+date: 2025-06-08T14:26:58.010Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -151,7 +151,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party decide to travel to Wegate to finish Spoops' rebellion. They begin flying towards Wegate, going east over the dragon sea.
 
 - The party decides to take out Breezy-E's enemy Aku. Aku is slain at the stronghold of fiery ruin when the party drops multiple dragon turtles from the ship onto his castle.
-- Dave Bones is encountered as a big bone monster on an island in the dragon sea to the east of Waford castle. The party slays him once again, in the end destroying his body and soul. Or so they think!
+- Dave Bones is encountered as a big bone monster on an island in the dragon sea to the east of Waford castle. The party slays him once again, destroying his body and soul. Or so they think!
 - While flying over the dragon sea, the party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - Invading Darmuth's Lair
