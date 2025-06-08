@@ -2,7 +2,7 @@
 title: Invading Darmuth’s Lair
 description: The party traverses a sprawling dungeon, searching for Darmuth
 published: true
-date: 2025-06-08T14:40:37.952Z
+date: 2025-06-08T14:42:57.568Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:33:55.448Z
@@ -18,7 +18,9 @@ The party is in some dungeon somewhere.
 ## Giant Skeleton
 Spoops finds a bunch of corpses and makes a bone giant. The bone tiant accompanies them for a short time, however it is too large to fit through the doors and must be left behind.
 
-The party finds many magic items:
+
+## Looting Magic Items
+The party takes out some soldiers loyal to Darmuth. They find many magic items after looting their bodies:
 - flask that turns things inside into wine
 - Balagor's Orb of anti-annihilation
 - belt of useful storing
