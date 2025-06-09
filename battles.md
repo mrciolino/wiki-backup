@@ -2,7 +2,7 @@
 title: Battles
 description: 
 published: true
-date: 2025-06-09T23:43:02.397Z
+date: 2025-06-09T23:43:10.434Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:16.826Z
@@ -29,7 +29,7 @@ dateCreated: 2024-06-03T12:56:16.826Z
 
 | Battle Name                      | Date              | Season | Key Events Summary |
 |----------------------------------|-------------------|--------|--------------------|
-| **Escape from Prison**          | May 19th, 2025  | 1      | Prison in Owlbear Forest; Ascension of Breezy B; Death of Oran's Brother Verrick; Suicide of Baloo; Escape from the Prison.|
+| **Escape from Prison**          | May 19th, 2025*  | 1      | Prison in Owlbear Forest; Ascension of Breezy B; Death of Oran's Brother Verrick; Suicide of Baloo; Escape from the Prison.|
 | **Vaymar's Birthday**          | April 28th, 2025  | 1      | Church of Crows; Goopy's Death; Party Imprisoned; Oran escaped |
 | **Battle at the Golden Bear Tavern**          | April 28th, 2025  | 1      | First session of the cmapaign, osmidir introduciton, blood cult |
 
