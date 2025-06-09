@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-05-28T01:01:18.976Z
+date: 2025-06-09T14:10:04.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
@@ -25,4 +25,4 @@ dateCreated: 2025-04-12T13:24:16.371Z
 | **Session 10** | [Session 10 Summary](/sessions/campaign_2/session_10_summary) | The enslaved party plots their escape while Baloo arrives with mysterious aid. | Tiberian coordinates a prison break using dragon breath tactics; Thomas forges weapons from prison fixtures; Breezy discovers a hidden escape route; Baloo appears via teleportation with an invisible blunderbuss from Tany Mori; Grimsley displays Runt's severed head; the party kills guards but accidentally murders a freed prisoner. |
 | **Session 11** | [Session 11 Summary](/sessions/campaign_2/session_11_summary) | The party's prison escape takes dark turns with a mercy killing, blood magic awakening, and necromantic horrors. | Breezy mercy-kills the crippled Verick, awakening blood sorcery powers; Kael Stelorian (astral elf fighter) joins the group; Thomas is captured and interrogated by Grimsley; the party discovers Renault's necromantic experiments using Goopy's remains; a chained construct breaks free as the party makes their desperate escape. |
 | **Session 12** | [Session 12 Summary](/sessions/campaign_2/session_12_summary) | The party barely escapes the slave pits but suffers heavy losses while uncovering deeper conspiracies |	Breezy's blood magic fully awakens, changing his appearance; Baloo dies by suicide to avoid recapture; Tiberian takes prisoner Terry for interrogation; Soulfire steals Tiberian's mechanism during mind-reading; vampire involvement confirmed at Church of Crows; party regroups in Owlwoods with three powerful scrolls but missing critical items. |
-
+| **Session 13** | [Session 13 Summary](/sessions/campaign_2/session_13_summary) |   |	  |
