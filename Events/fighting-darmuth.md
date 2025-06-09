@@ -2,7 +2,7 @@
 title: Fighting Darmuth
 description: The party engages Darmuth in battle within her lair
 published: true
-date: 2025-06-08T20:43:36.471Z
+date: 2025-06-09T23:27:16.545Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T20:39:02.181Z
@@ -17,17 +17,17 @@ The party finds an illithid nest. They see pools filled with illithid tadpoles t
 
 he party begin the battle for the fate of Mardun. They attack Darmuth with everything they have.
 
-During the battle, Bazzvrah summons multiple adult copper dragons to assist in the fight.
+During the battle, Bazzvrah turns the party into multiple adult copper dragons to assist in the fight.
 
 Throughout the fight, the party has to desperately resist the psionic attacks from Darmuth while keeping up their attack.
 
 
 ## Os Travels Through Time
-Os is sent back in time to the ancient ash elf kingdom far to the north. Here he lives an entire lifetime wher he becomes king Tiyamani the Awesome. He gets even stronger during this time, eventually being sealed and buried in a coffin beneath Altricia, directly at the site of the current battle. 
+Os makes a wish to be stronger. He suddenly disappears. Suddenly one of the stalagtites in the arena falls and shatters on the ground, reveling a coffin. Os is sent back in time over 1000 year to the ancient ash elf kingdom far to the north. Here he lives an entire lifetime where he becomes king Tiyamani the Awesome. He gets even stronger during this time, eventually being sealed and buried in a coffin beneath Altricia, directly at the site of the current battle. 
 
 
 ## Os Defeats Darmuth
-Os emerges from the coffin, and rejoins the fight. Os immediately casts time stop and proceeds to forcibly teleport Dsrmuth above a volcano, casting her into the magma below. Darmuth is finally slain.
+Os emerges from the coffin, and rejoins the fight. Os immediately casts time stop and proceeds to forcibly teleport Darmuth above a volcano, casting her into the magma below. Darmuth is finally slain.
 
 
 ## A Tear Above Altricia
