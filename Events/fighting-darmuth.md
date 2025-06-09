@@ -2,7 +2,7 @@
 title: Fighting Darmuth
 description: The party engages Darmuth in battle within her lair
 published: true
-date: 2025-06-09T23:27:16.545Z
+date: 2025-06-09T23:29:42.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T20:39:02.181Z
@@ -27,11 +27,11 @@ Os makes a wish to be stronger. He suddenly disappears. Suddenly one of the stal
 
 
 ## Os Defeats Darmuth
-Os emerges from the coffin, and rejoins the fight. Os immediately casts time stop and proceeds to forcibly teleport Darmuth above a volcano, casting her into the magma below. Darmuth is finally slain.
+Os emerges from the coffin, and rejoins the fight. Os immediately casts time stop and proceeds to forcibly teleport Darmuth above the volcano that was enlarged when Aku's castle was destroyed by dragon turtles from the sky. Os then casts her into the magma below. Darmuth is finally slain.
 
 
 ## A Tear Above Altricia
-The massive magical energies Darmuth released upon her death created a crack in the sky above Altricia. The party look up and see exactly how close Darmuth came to opening up the passage for her master "The Emperor" to arrive on Mardun.
+With her ritual to allow her master access to Mardun broken, the massive magical energies Darmuth she wielded were released upon her death created a crack in the sky above Altricia. The party look up and see exactly how close Darmuth came to opening up the passage for her master "The Emperor" to arrive on Mardun.
 
 
 ## Discovering Ereriad
