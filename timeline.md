@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-09T01:36:03.857Z
+date: 2025-06-09T01:57:11.280Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -259,6 +259,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Adalynn Captured by Daurgothoth
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - [Weakening of Cyric](/Events/weakening-of-cyric)
+- Meeting With Asmodeus
+- The party receives an invitation from the council of gods to meet with a third party to discuss terms of a potential treaty. This third party is Asmodeus, lord of the hells. After hiring the lawyer from the assassination note mountain to represent them, they agree to the meeting. The invitation itself acts as a their pass to travel unharmed through the hells to meet Asmodeus in his castle.
 - Treaty With the Council of Gods
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
 - [The Ithilid War](/Events/ithilid-war)
