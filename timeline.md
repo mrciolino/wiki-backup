@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-09T01:57:11.280Z
+date: 2025-06-09T22:22:09.573Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -238,7 +238,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Creation of Mortis Lux HQ](/Events/creation-of-mortis-lux-hq)
 - [Vlaakith's Offer](/Events/vlaakiths-offer)
 - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
-- [Two Great Sins](/Events/the-great-sins-of-spoops)
+- [The Great Sins of Spoops](/Events/the-great-sins-of-spoops)
 - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
 - [Selune's Gathering](/Events/selunes-gathering)
 - [Spoops' Ascention](/Events/spoops-ascention)
