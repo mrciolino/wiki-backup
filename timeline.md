@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-08T23:43:03.156Z
+date: 2025-06-09T00:00:58.183Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -184,7 +184,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade. Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
 - Magical College of Porthy
 - Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
-- Siege of the Witch King's castle
+- [Siege of The Witch King's Castle](/Events/seige-of-the-witch-kings-castle)
 - The Witch King tells the party that he is simply playing thr role of the villian and doing what is necessary to gain power so that he can protect the world from the true threats it faces. He explains that the evil dragon Shiva The Destroyer is leading an army across the land and that if his bastion falls, it is only a matter of time before Hellaress and the other cities fall too. The party is still suspicious of The Witch King, but agree to help defend against Shiva's insasion. 
 - The massive black dragon, Shiva The Destroyer is flying towards The Witch King's castle with an army. The party works with the Witch King to defend the castle from this invasion. Spoops raises a massive army of undead and positions his archers on a great gate which blocks the advance of Shiva's army.
 - The party puts up a great fight taking out Shiva's army with massive AOE spells and ranged shots from the undead army. However Shiva herself makes her way to the Witch King's castle on the volcano. The party engages Shiva alongside the Witch King, but in her final moments she falls into the volcano. The massive magical energies that are unleashed cause the volcano to erupt, the castle begins to sink into the magma. The party teleports away to escape the initial blast.
