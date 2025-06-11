@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T14:43:20.238Z
+date: 2025-06-11T14:44:48.550Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -240,7 +240,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Bazzdows draws a card and is grented 50 gems, each worth 1000 gold.
 - The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
 - 
-- 7 second seige: On Dolarion, Spoops helps goblins free themselves from oppressive clans. He converts varipua goblin villiages to his religon, then marches his army to the gates of their former goblin masters' fortress. In what is known as the 7 second seige, they conquer the fortress.
+- 7 second seige: On Dolarion, Spoops helps goblins free themselves from oppressive gnoll clans. He converts various goblin villiages to his religon, then marches his army to the gates of their former goblin masters' fortress. In what is known as the 7 second seige, they conquer the fortress. Spoops installs a goblin named Boblin Gnollfriend as new leader of the clans.
 - 
 - [Creation of Mortis Lux HQ](/Events/creation-of-mortis-lux-hq)
 - [Vlaakith's Offer](/Events/vlaakiths-offer)
