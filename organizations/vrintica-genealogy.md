@@ -2,7 +2,7 @@
 title: Vrintica Family Tree
 description: Ryan's biggest procrastination project.
 published: true
-date: 2025-06-11T02:44:37.259Z
+date: 2025-06-11T02:48:12.308Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T02:44:37.259Z
@@ -18,7 +18,7 @@ Osdimir Lataniel Daera Vrintica
 
 Osdimir -> The given name
 Lataniel -> ?
-Daera -> The name of the bloodline (in this case the Daera bloodline)
+Daera -> The name of the bloodline (in this case the Daera bloodline, denoting descendance from Os' first wife)
 Vrintica -> Title denoting royalty as a direct descendant
 
 ## Members of the Family Vrintica
