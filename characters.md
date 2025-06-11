@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-03T20:17:02.224Z
+date: 2025-06-11T19:23:57.177Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -23,6 +23,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
 | [Not Interesting](/characters/not-interesting) | Gith-serai warrior. | |
 | [Verondera](/characters/verondera) | Guardian of the Feywild Northern Territory | Giant spider of the Feywild and now worshipper of Spoops. |
+| [Lothario](/characters/lothario) | Senior scout of the first battalion of the slitherlings | Wegatian scout |
 
 
 ## The Party's Oldest Allies
