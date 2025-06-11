@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-10T20:17:56.132Z
+date: 2025-06-11T02:30:46.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -351,9 +351,11 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - From the backing out of Os from the alliance with Wegate, a new revulsion of necromancy in all its forms occurs in Gothriathon. 
 
-## The Rise of Vrintia
-
+## New Beginnings 
+- **17 AC** Two years after the death of his father Gilthur and the widespread destruction of North Geskoworm by Bazzdows, Krorgfrey I declares the founding of **New Geskoworm**.
+- **25 AC** Given the industry of the gnomes combined with the uniquely plentiful mineral deposits in the Silent Forest, New **Geskoworm** rapidly rebuilds itself as a premier trading port on the Dragon Sea, filling in the role that Altricia formerly played.
 - **51 AC** The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent of Felldora begins. 
+- **68 AC** The ancient Cyclopean settlement called Redwater Port is found. The events of **"No Heroes"** takes place. Krorgfrey I is assassinated by agents working for unknown dark forces. The blessing of Garl Glittergold is passed onto Krorgfrey's son **Glothur I of New Geskoworm**.
 - **72 AC** [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers. Though some say his spirit still lingers among bars where adventures begin...
 - **180 AC** **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
 - **200 AC** Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared. 
