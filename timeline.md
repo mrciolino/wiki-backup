@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T16:59:00.462Z
+date: 2025-06-11T17:00:59.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -257,6 +257,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Meeting Obox-Ob
+- Spoops meets Rabiah the storm giant woman in her tower at the spawning stone in the elemental plane of chaos.
+- The party arrives at the spawning stone to retrieve Spoops. 
 - [Saving the Sun](/Events/saving-the-sun)
 - Searching for Gond Souls: 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
