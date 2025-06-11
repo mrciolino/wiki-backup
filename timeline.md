@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T14:35:31.227Z
+date: 2025-06-11T14:36:17.605Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -234,9 +234,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - As a reward for bringing him back, Bane grants Adalynn her choice of 10th level spells from his collection. Bane grants her the Blade of Cataclysm, Ushorans Catastrophe, and Moving Mountains spells.
 - The party meets up with Spoops in Wegate. Bazzdows uses Dio to locate a potion master. He detects one far to the south east, the party travels there and meets the potion master who lives in a floating island or something.
 - On their way back to Wegate, the party find a giant hermit crab with a shipwreck for a shell. Within the shipwreck they find the phylactery of a lich. Spoops soul steals the phylactery, extracting the soul of a lich from the necrotic wars named Baxter Stradavahri.. After introductions are made, the Lich pledges loyalty to Spoops and reverence for Ralindu before being allowed to return to a living body.
-- Bazzdows draws a card and is grented 50 gems, each worth 1000 gold.
 - Return to Fywick
 - Inferno's wedding to the princess of the parrot shogunate
+- Bazzdows draws a card and is grented 50 gems, each worth 1000 gold.
 - Fighting Assassins hired by The Emperor.
 - The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
 - 
