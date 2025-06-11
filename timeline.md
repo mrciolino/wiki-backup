@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T02:30:46.900Z
+date: 2025-06-11T12:20:12.060Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -90,7 +90,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 ## The Necrotic Wars 
 
-- **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on [Mardun](/locations/Mardun), becomes Grandmaster the [Knights of Sedonnya](/organizations/Knights-of-Sedonnya) and is assassinated and dumped into the sea.
+- **90–66 BC:** **[Spoops](/characters/spoops)** washes ashore on [Mardun](/locations/Mardun), becomes Grandmaster of the [Knights of Sedonnya](/organizations/Knights-of-Sedonnya). Soon after they depart from [Trelston's](/locations/Mardun/Trelston) port, bound for the war, Spoops is assassinated by his fellow paladins, and dumped into the sea.
     - [Ralindu](/characters/ralindu) and the other Lich lords wage war on the living world. 
 - **4 BC:** Spoops washes ashore near **[Witchlight Jungle](/locations/witchlight-jungle)** and makes his way to [Fort Suro](/locations/Mardun/Fort-Suro). Gilthur is exiled from [North Geskoworm](/locations/Mardun/north_geskoworm) for being unfunny, and wanders to [Fort Suro](/locations/Mardun/Fort-Suro). North Geskoworm changes its name to "Krorg's Hometown" to disassociate itself from Gilthur.
 
