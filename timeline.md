@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T14:45:53.650Z
+date: 2025-06-11T15:29:30.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -182,7 +182,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
 - 
 - The party seeks out Aphir the Mighty
+- Donald duck gives the party directions to the ancient elven city beneath the ocean as it is supposedly somewhere related to Spoops. He provides the party with a belt of intellect and tells the party to make Spoops wear it as it will wipe any memories he makes with it on once he removes it. For some reason Donald is adamant that Spoops not learn more about his past. Spoops does wear it, bjt the party fills him in on everything he forgets later.
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
+- The party fights their way through a castle in an ancient elven city beneath the ocean. 
+- 
 - Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade. Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
 - Magical College of Porthy
 - Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
