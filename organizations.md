@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-06-11T03:00:07.625Z
+date: 2025-06-11T03:03:19.861Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -17,7 +17,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
 | [Council of Gods](/organizations/council-of-gods) | A coalition of deities. | - | - | Active |  
-| [Pirate Crew](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/Mardun/Saragassa) | - | Active |  
+| [Pirate Crew](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/Mardun/Saragassa) | - | Scattered |  
 | [Mortis Lux](/organizations/mortis-lux) | Created by the Low Bar Brawlers ro combat world ending threats such as the Ithilid threat. | Mortis Lux HQ | The Party | On Standby |  
 | [The Magic College of Porthy](/organizations/college-of-porthy) | TODO | [Highhold](/locations/Ereriad/Highhold) | - | Unknown |  
 | [The Magic College of Highhold](/organizations/college-of-highhold) | TODO | [Porthy](/locations/Ereriad/Porthy) | - | Unknown |  
@@ -37,7 +37,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 ## **Pirate Crews**  
 | Name | Description | Ship Name | Captain | Status |  
 |------|-------------|----------|---------|--------|  
-| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave-Bones](/characters/Dave-Bones) | Active |  
+| [Dave Bones Pirate Crew](/organizations/dave-bones-crew) | Infamous pirate crew. | - | [Dave-Bones](/characters/Dave-Bones) | Disbanded |  
 | [Bugbear Pirate Crew](/organizations/bugbear-pirate-crew) | A crew of bugbear pirates. | - | - | Active |  
 
 ## **Nations and Tribes**  
@@ -66,12 +66,12 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Knights of Sedonnya](/organizations/knights-of-Sedonnya) | A knightly order of Oath of Vengeance Paladins. | Formerly [Spoops](/characters/spoops) | Justice | Inactive |  
 | [Inevitables](/organizations/inevitables) | Agents of divine justice. | - | - | Active |  
 | [Army of The Witch King](/organizations/army-of-the-witch-king) | Servants of [Bane](/characters/bane). | [Bane](/characters/bane) | [Witch King](/characters/bane) | Active |  
-| [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult. | [Rathwing](/characters/Rathwing) | - | Active |  
+| [Cult of Rathwing](/organizations/cult-of-rathwing) | A dark cult in the service of [Darmuth](/characters/Darmuth). | [Rathwing](/characters/Rathwing) | - | Destroyed |  
 
 ## **Guilds, Companies, and Orders**  
 | Name | Description | Headquarters | Leader | Status |  
 |------|-------------|-------------|--------|--------|  
-| [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar](/locations/Mardun/Kaltrosar) Bay fire. | - | - | Active |  
+| [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar](/locations/Mardun/Kaltrosar) Bay fire. | - | - | Bankrupted |  
 | [Assassins Guild - Library Dimension](/organizations/assassins-guild)  | A secretive guild. | [Library-Dimension](/locations/Library-Dimension) | - | Active |  
 | [Adventurer's-Guild](/organizations/Adventurer's-Guild) | Supports adventurers. | [Fywick](/locations/Mardun/Fywick) | - | Active |  
 | [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
@@ -89,7 +89,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 The [Five Dragonborn Clans](/organizations/dragonborn-clans)
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
-| [Cai Pao Clan](/organizations/cai-pao-clan) | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Active |
+| [Cai Pao Clan](/organizations/cai-pao-clan) | A prominent noble family involved in the arms trade. | Vrintia | [Tiberian Caipao](/characters/tiberian-caipao) | Vassals |
 | [Clan Norixius](/organizations/norexias-clan)| Brass Dragonborn infiltrator. Killed [Tiberian Caipao](/characters/tiberian-caipao)'s Parents. | - | - | Active |
 
 ## **Cults**  
