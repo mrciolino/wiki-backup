@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-11T19:26:40.576Z
+date: 2025-06-11T19:26:55.471Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -22,7 +22,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
 | [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
 | [Not Interesting](/characters/not-interesting) | Gith-serai warrior. | |
-| [Verondera](/characters/verondera) | Guardian of the Feywild Northern Territory | Giant spider of the Feywild and now worshipper of Spoops. |
+| [Verondora](/characters/verondera) | Guardian of the Feywild Northern Territory | Giant spider of the Feywild and now worshipper of Spoops. |
 
 
 ## The Party's Oldest Allies
