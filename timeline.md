@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T12:43:13.080Z
+date: 2025-06-11T12:44:06.115Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -172,7 +172,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Before dealing with King Sunfenix's requests, the party travels with Nut's carriage south from Hellaress along the coastline.  During their journey, Nut sells Spoops the Jack Sparrow's compass. - Then they travel along the plains where they run into centaur tribes. The party defends the caravan from some hostile tribes as they pass through. While talking to some of the centaur's they come across a speaking stone that the centaurs claim their god speaks to them through, the party hears a booming godlike voice coming through it, which they realize is fake. In response they use Dio to locate the source, go to the location and confront the false god. Upon discovering the false god is Fiad up to his old schemes, the party attacks. Fiad pleads for mercy by explaining that he had worked under Darmuth but planned to betray her the whole time because he knew about her loyalities to the Emperor and he believed he could get a better deal. He offered the party power and service under the Emperor, but the party declined his foolish offer and killed him.
 - The party proceeds with Nut's caravan and continue their journey under the ocean. Nut's carriage shows it has submersible capabilities. 
 - While under the water, Crocgar teaches Os some interesting vocal tricks. 
-- The party finds an underwater pyramind complex and goes in. Nut stays with the carriage claiming to not have the ability to breath underwater. Within the pyramid they find the spawn of Glub Glub which giant black crabs with near impenetrable carapace whom they defeat. The party finds a hoard of cursed weapons. While investigating the weapons, suddenly Nut appears behind them. Nut drops the act and begins to act much more intimidating. He takes off the disguise revealing himself to be the Witch King. He offers a deal to the party to work with him. He claimed to share a goal with the party of slaying the devastation creatures and other threats to the world. After much back and forth the party agreed believing they could perhaps have a common goal, especially when it came to dealing with extra-planar threats like Darmuth's master.
+- The party finds an underwater pyramind complex and goes in. Nut stays with the carriage claiming to not have the ability to breath underwater. 
+- Within the pyramid they find the spawn of Glub Glub which are giant black crabs with a near impenetrable carapace whom they defeat. 
+- The party finds a hoard of cursed weapons. While investigating the weapons, suddenly Nut appears behind them. Nut drops the act and begins to act much more intimidating. He takes off the disguise revealing himself to be the Witch King. He offers a deal to the party to work with him. He claimed to share a goal with the party of slaying the devastation creatures and other threats to the world. After much back and forth the party agreed believing they could perhaps have a common goal, especially when it came to dealing with extra-planar threats like Darmuth's master.
 - Suddenly the demons who own the hoard show up and its the demon geese, alot of them. The party fights them off, killing the demons. The witch king does a spell to remove the curses on the weapons, allowing the party to claim some of them. (list of weapons is in the log). 
 
 - 
