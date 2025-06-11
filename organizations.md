@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-05-28T01:12:52.574Z
+date: 2025-06-11T03:00:07.625Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -53,6 +53,8 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Astral Dwarf Clans](/organizations/astral-dwarf-clans) | Dwarven clans in the Astral Plane. | [Astral Plane](/locations/astral-plane) | - | Active |  
 | [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/Mardun/Kaltrosar) | - | Active |  
 | [Holy Empire of Wegate](/organizations/wegate) | A theocracy ruled by [Vesrahaan](/characters/vesrahaan) and the [Cult of Wegate](/organizations/cult-of-wegate). | [Vesrahaan](/characters/vesrahaan) | - | Active |  
+| [Vrintica Family](/organizations/vrintica-genealogy) | [Os](/characters/os) and his many descendants. | [Vrintia](/locations/Vrintica) | [Os](/characters/os) | Active |  
+
 
 ## **Religious Groups**  
 | Name | Description | Worships | Leader | Status |  
