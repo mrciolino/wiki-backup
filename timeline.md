@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T12:44:06.115Z
+date: 2025-06-11T14:28:10.453Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -219,6 +219,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - Feywild Buffoonery
 - Retrieving the princess of Hellaress from the feywild: Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
+- The party meets Reginald the fey creature.
 - The party end up in a strange village. 
 - The party realizes that the villiage is an illusion. Spoops activities his anti-magic armor to break the illusion. It turns out it was no simple illusion, the party was trapped in the web of a giant dream spider, all of them experiencing a shared dream.
 - The party meets Verondera the giant feywild spider.
