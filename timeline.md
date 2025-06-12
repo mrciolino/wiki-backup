@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T18:32:10.931Z
+date: 2025-06-12T18:40:56.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -242,6 +242,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - 
 - [Creation of Mortis Lux HQ](/Events/creation-of-mortis-lux-hq)
 - [Vlaakith's Offer](/Events/vlaakiths-offer)
+- [The First Great Sin of Spoops](/Events/the-first-great-sin-of-spoops)
 - [The Second Time Chamber](/Events/the-second-time-chamber)
 - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
 - The party goes to the Library Dimension
@@ -254,7 +255,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Breezy-E gets really into some wine while in Olympus.
 - Spoops' immovable rod is destroyed when he uses it to keep the revolving door to Hephaestus' forge open to allow he and Os to pass.
 - Hephaestus, having a shared hatred for Zeus, agrees to allow Bazzdos to make a pact with him.
-- [The Great Sins of Spoops](/Events/the-great-sins-of-spoops)
+- [The Second Great Sin of Spoops](/Events/the-second-great-sin-of-spoops)
 - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
 - [Selune's Gathering](/Events/selunes-gathering)
 - [Spoops' Ascention](/Events/spoops-ascention)
