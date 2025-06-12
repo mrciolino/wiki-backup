@@ -2,7 +2,7 @@
 title: Time Chambers
 description: Accelerated Time Chambers made with a Wish. Gokku would be proud.
 published: true
-date: 2025-06-05T15:38:36.920Z
+date: 2025-06-12T18:37:34.341Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-09T20:52:01.312Z
@@ -31,4 +31,4 @@ Enabled by Spoops casting his last remaining Wish from the Deck of Many Things.
 Wish: i wish for the time for bazzdows, Spoops, and Adalynn, to complete the following tasks to be accelerated within Bazzdows' Forge demiplane such that only one week passes in the material plane. The tasks are as follows: combine these two swords, the Spoops Blade, and the Titanite Blade, Craft the ring of magnificent size, create two spells of 10th level, one spell of 11th level, one spell of 12th level, upgrade the Mirror Shild into the Mechanical Mirror Shield, Sanctify the Titanite Blade, Enchant the Titanite Blade with the ability to sap the soul of its victims, adding an enemies health into Spoops's own temporary HP, including 1000 years to experiment with and train Spoop's god abilities, create magical surfboard spelljammers for each of the current members of the Low Bar Brawlers, including time for Bazzdows to study and learn 3rd level Counterspell, 5th level Far Step, 5th level Magic Jar, 7th Level Teleport, 8th level clone, 9th Foresight, Create the Ring of Mind Shilding, Create a Headband of Intellect, create a magical spelljammer battleship, improvements to Bazzdows' rocket gauntlets.
 
 ## Time Chamber 3
-Shard of Divinity, Laser Craft, Laser Ring Crafting, Lens Crafting
+Shard of Divinity, Laser Craft, Laser Ring Crafting, Lens Crafting.
