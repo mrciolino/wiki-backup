@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T16:23:02.640Z
+date: 2025-06-12T17:58:27.400Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -189,7 +189,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party locate Princess Vilra Sunfenix in the Feywild where The Witch King had been keeping her. She was helping care for refugees who fled the Devastation creatures and did not want to leave until all Devastation creatures were wiped out. The party inform her that only two remain and in the meantime they will send Adalynn's simulacrum to protect the princess and refugees, and prepare them for extraction. Adalynn's simulacrum possesses a a bearded red headed man in their late thirties and stays among the refugees.
 - The party fights the Devastation Ice Phoenix. The party locates the devastation Ice Phoenix and battles it atop a mountain. However after seeing its powerful icey abilities forst hand, they retreat to do some preparation. Adalynn provides glyphs of warding to empower the party, while Bazzdows buys some potions and does some crafting. Once they are prepared. they return to face the beast.
 - Bazzdows and Adalynn use Wall of Force and Forcecage to trap the phoenix in a demiplane where they can keep it cornered. Spoops keeps up the melee damage while tanking the phoenix, Bazzdows, Adalynn, and Os continue doing ranged attacks. The Ice Phoenix attempts to continuously freeze and shatter the party. Spoops manages to defend against this using his anti-magic armor. The force cage protects the rest of the party. 
-- The party meets Glaculs.
+- The party meets Glaculs the necromancer.
 - 
 - Magical College of Highhold
 - The party fights Illithids underground beneath the Highhold Magic College Library.
@@ -221,7 +221,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party end up in a strange village. 
 - The party realizes that the villiage is an illusion. Spoops activities his anti-magic armor to break the illusion. It turns out it was no simple illusion, the party was trapped in the web of a giant dream spider, all of them experiencing a shared dream.
 - The party meets Verondora the giant feywild spider.
-- Spoops tells Verondera all about his religion. They take great interest in it and convert to the religion. Verondora and her children are all now worshippers of Spoops.
+- Spoops tells Verondora all about his religion. They take great interest in it and convert to the religion. Verondora and her children are all now worshippers of Spoops.
 - gaudiena gave us right to enter to the vale -> gives us two medallions, each is a gold chain with an emerald medallian, that says "friend and warrior". She says we must visit to talk to meldrion.
 - The party return the princess of Hellaress home.
 
@@ -248,6 +248,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Selune's Gathering](/Events/selunes-gathering)
 - [Spoops' Ascention](/Events/spoops-ascention)
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
+- [The Second Time Chamber](/Events/the-second-time-chamber)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Meeting Obox-Ob
 - Spoops meets Rabiah the storm giant woman in her tower at the spawning stone in the elemental plane of chaos. Upon finding himself in this plane, he ascends the tower and finds two golems guarding an control panel. Spoops cautiously approaches and activates the panel, causing the platform to begin descending into thr tower. Upon reaching the bottom, he is greeted by Rabiah's butler and Rabiah herself. Rabiah welcomes Spoops into her home and introduces herself as a forge-master and merchant. She has set up shop around an infinitely generating pillar of mithril which she uses to build her magical golems. Spoops begins trying to recruit her into Mortis Lux, but she refuses. Instead she offers to sell golems to Mortis Lux, and provides a "method of secure communication" 59 Spoops in case he wishes to discuss this further. This communicator is what appears to be a humanoid creature, heavily bound and chained, Rabiah is able to speak through the mouth of this creature. Spoops puts the creature in his demi-plane and leaves. As he departs, the butler takes a look at his Shard of Divinity and comments on the single flaw in the hilt. Saying it would have to be remade to fix it entirely. Spoops takes this under consideration.
