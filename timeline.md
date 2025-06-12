@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T17:58:27.400Z
+date: 2025-06-12T18:01:28.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -242,13 +242,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - 
 - [Creation of Mortis Lux HQ](/Events/creation-of-mortis-lux-hq)
 - [Vlaakith's Offer](/Events/vlaakiths-offer)
+- [The Second Time Chamber](/Events/the-second-time-chamber)
 - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
 - [The Great Sins of Spoops](/Events/the-great-sins-of-spoops)
 - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
 - [Selune's Gathering](/Events/selunes-gathering)
 - [Spoops' Ascention](/Events/spoops-ascention)
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
-- [The Second Time Chamber](/Events/the-second-time-chamber)
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Meeting Obox-Ob
 - Spoops meets Rabiah the storm giant woman in her tower at the spawning stone in the elemental plane of chaos. Upon finding himself in this plane, he ascends the tower and finds two golems guarding an control panel. Spoops cautiously approaches and activates the panel, causing the platform to begin descending into thr tower. Upon reaching the bottom, he is greeted by Rabiah's butler and Rabiah herself. Rabiah welcomes Spoops into her home and introduces herself as a forge-master and merchant. She has set up shop around an infinitely generating pillar of mithril which she uses to build her magical golems. Spoops begins trying to recruit her into Mortis Lux, but she refuses. Instead she offers to sell golems to Mortis Lux, and provides a "method of secure communication" 59 Spoops in case he wishes to discuss this further. This communicator is what appears to be a humanoid creature, heavily bound and chained, Rabiah is able to speak through the mouth of this creature. Spoops puts the creature in his demi-plane and leaves. As he departs, the butler takes a look at his Shard of Divinity and comments on the single flaw in the hilt. Saying it would have to be remade to fix it entirely. Spoops takes this under consideration.
