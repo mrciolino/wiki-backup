@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T16:17:25.376Z
+date: 2025-06-12T16:17:35.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -160,7 +160,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 ### Adventures in Ereriad and Beyond
 - [Arrival To Ereriad](/Events/arrival-to-ereriad)
-- 
 - 
 - The party then travels with a caravan led by a merchant named Nut to the closest major city: Hellaress.
 - On the journey one of the party members stole Spoops' dick (the immovable rod) to play a prank on him, hurting his feelings. In response upon arrival to the city, Spoops sulked by the river, passively summoning snakes because "they are his only real friends who wont hurt him". He was saying things like this to the snakes using his ring of animal communication which made the snakes feel very awkward. Eventually a guard came by and asked if he was doing alright and eventually escorted him to the castle where he met the rest of the party. After a touching moment, they returned his immovable rod and made up.
