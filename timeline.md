@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T18:24:09.379Z
+date: 2025-06-12T18:25:17.430Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -248,6 +248,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Breezy-E starts tearing pages out of some books, and using them to roll joints. Sharing with Os.
 - The party encounters two terrasques. A robotic terrasque and another one. They begin fighting the terrasques and intending to capture the robotic one, Bazzdos yells at the party not to hill his new robot pet.
 - Bazzdos captures and tames the robot terrasque.
+- Bazzdos uses his ring of enlightenment to cast awaken on the Mecha-Terrasque.
 - [The Great Sins of Spoops](/Events/the-great-sins-of-spoops)
 - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
 - [Selune's Gathering](/Events/selunes-gathering)
