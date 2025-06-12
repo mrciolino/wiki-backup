@@ -2,7 +2,7 @@
 title: Return To Hastow
 description: The party returns to Hastow to investigate Darmuth
 published: true
-date: 2025-06-12T15:58:24.798Z
+date: 2025-06-12T16:00:05.727Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:24:42.498Z
@@ -24,4 +24,7 @@ The party arrives at the Hastow Monastary. The cathedral is magically anomated a
 
 Spoops finds some silverware sanctified by Ry-ann. Also he finds a bone from one of the first undead Ry-ann ever raised. Lastly he finds some ancient text written by Ry-ann, all of which he takes.
 
-The party leaves Hastow. Narascus stays behind in Hastow to run his Monastary.
+
+The cathedeal falls, killing Narascus. Narascus is brought back to life by Spoops.
+
+The party leaves Hastow to enter the caves. Narascus stays behind in Hastow to run his Monastary.
