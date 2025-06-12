@@ -1,14 +1,14 @@
 ---
-title: The Great Sins of Spoops
+title: The Second Great Sin of Spoops
 description: The dark actions of a desperate man
 published: true
-date: 2025-06-12T18:40:05.250Z
+date: 2025-06-12T18:40:33.988Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T14:50:40.977Z
 ---
 
-# The Second Great Sins of Spoops
+# The Second Great Sin of Spoops
 In his desperation for power after being humiliated and slain, Spoops sought methods to quickly acquire power which led him to commit shameful sins.
 
 ## The Owl Bear Blender
