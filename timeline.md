@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T18:21:29.927Z
+date: 2025-06-12T18:23:34.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -246,7 +246,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
 - The party goes to the Library Dimension
 - Breezy-E starts tearing pages out of some books, and using them to roll joints. Sharing with Os.
-- The party encounters two terrasques. A robotic terrasque and another one.
+- The party encounters two terrasques. A robotic terrasque and another one. The begin fighting them. Bazzdos yells at the party not to hill his new robot pet.
 - Bazzdos captures and tames the robot terrasque.
 - [The Great Sins of Spoops](/Events/the-great-sins-of-spoops)
 - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
