@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T18:01:28.685Z
+date: 2025-06-12T18:19:50.906Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -244,6 +244,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Vlaakith's Offer](/Events/vlaakiths-offer)
 - [The Second Time Chamber](/Events/the-second-time-chamber)
 - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
+- The party goes to the Library Dimension
+- The party encounters two terrasques. A robotic terrasque and another one.
+- Bazzdos captures and tames the robot terrasque.
 - [The Great Sins of Spoops](/Events/the-great-sins-of-spoops)
 - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
 - [Selune's Gathering](/Events/selunes-gathering)
