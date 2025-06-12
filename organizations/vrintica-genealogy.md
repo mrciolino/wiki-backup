@@ -2,7 +2,7 @@
 title: Vrintica Family Tree
 description: Ryan's biggest procrastination project.
 published: true
-date: 2025-06-12T20:27:24.804Z
+date: 2025-06-12T21:08:34.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T02:44:37.259Z
@@ -17,7 +17,7 @@ Descendants of Os are typically classified by their bloodlines which are reflect
 Osdimir Lataniel Daera Vrintica
 
 Osdimir -> The given name
-Lataniel -> ?
+Lataniel -> Honorific of an ancestor
 Daera -> The name of the bloodline (in this case the Daera bloodline, denoting descendance from Os' first wife)
 Vrintica -> Title denoting royalty as a direct descendant
 
@@ -28,12 +28,16 @@ Vrintica -> Title denoting royalty as a direct descendant
 ## Daera Line
 Matriarch: Daera Vrintica, a dwarven woman from Gothriathon. This is considered the most important and line for Vrintian royalty. 
 Races: Dwelf (Elf + Dwarf)
+- Lataniel Os Daera Vrintica
 - ??? ??? Daera Vrintica: Unknown royal put in charge of Arnsworth after the Kaltosar Incursion.
 - Osdimir Lataniel Daera Vrintica: Became a top sorcerer of RVASSS.
 ## Wotera Line
 Matriarch: Wotera Vrintica, an elvish woman
 Races: Elf
-- Walter Wotera Beste Vrintica: Decadent noble, became an admiral
+- Lynara Os Wotera Vrintica
+- Beste Lynara Wotera Vrintica 
+- Walter Beste Wotera Vrintica: Decadent noble, became an admiral
+- Folos Walter Wotera Vrintica: Son of Walter
 ## Darmuth Minor Line
 Matriarch: [Darmuth](/characters/Darmuth). Since she was not wed to Os but his oldest son Evhal, this is a minor line. It is unclear if Darmuth and Evhal had children or how many generations this line progressed until the fall of Tiyamanni. 
 Races: Ellithid (Elf + Illithid)
