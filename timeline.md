@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-11T17:10:36.445Z
+date: 2025-06-12T16:06:20.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -161,7 +161,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
 - The party goes through the well to engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the creature snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. During the fight, Spoops manages to sever one of the scorpion's claws. They manage to kill it after a tough fight. After defeating the creature, they find themselves outside the town of Goats Dick End. Spoops brings along the severed claw just in case they ever want to use it to create a weapon.
 - The party meets the pissed off mayor who wanted to bribe the party to kill their useless duke, the party not knowing this man refused.
-- Spoops tries to use Dio to chart a course between Mardun and Ereriad, Dio is unable to do so.
+- Spoops tries to use Dio to chart a course between Mardun and Ereriad, Dio is unable to do so. He even tries flyong up into space using his knife leg, but gives up once realizing it would take a while.
 - The party then travels with a caravan led by a merchant named Nut to the closest major city: Hellaress.
 - On the journey one of the party members stole Spoops' dick (the immovable rod) to play a prank on him, hurting his feelings. In response upon arrival to the city, Spoops sulked by the river, passively summoning snakes because "they are his only real friends who wont hurt him". He was saying things like this to the snakes using his ring of animal communication which made the snakes feel very awkward. Eventually a guard came by and asked if he was doing alright and eventually escorted him to the castle where he met the rest of the party. After a touching moment, they returned his immovable rod and made up.
 - The party gets an audience with the king due to them slaying the Devastation Shark Scorpion.
