@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T16:15:39.082Z
+date: 2025-06-12T16:16:57.801Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -157,6 +157,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Invading Darmuth's Lair](/Events/invading-darmuths-lair)
 - [Fighting Darmuth](/Events/fighting-darmuth)
 - [Waking Bazzdows](/Events/waking-bazzdows)
+
+### Adventures in Ereriad
 - [Arrival To Ereriad](/Events/arrival-to-ereriad)
 - 
 - 
