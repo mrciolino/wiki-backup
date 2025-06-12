@@ -2,7 +2,7 @@
 title: Vrintica Family Tree
 description: Ryan's biggest procrastination project.
 published: true
-date: 2025-06-12T20:16:34.955Z
+date: 2025-06-12T20:19:54.875Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T02:44:37.259Z
@@ -26,7 +26,7 @@ Vrintica -> Title denoting royalty as a direct descendant
 - Eugune Vrintia, a sailor for the Robin Trading Co, dies around 1 BC.
 
 ## Daera Line
-Matriarch: Daera Vrintica, a dwarven woman from Gothriathon
+Matriarch: Daera Vrintica, a dwarven woman from Gothriathon. This is considered the most important and line for Vrintian royalty. 
 - ??? ??? Daera Vrintica: Unknown royal put in charge of Arnsworth after the Kaltosar Incursion.
 - Osdimir Lataniel Daera Vrintica: Great descendant of Os, became a top sorcerer
 ## Wotera Line
