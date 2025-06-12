@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-12T16:17:35.936Z
+date: 2025-06-12T16:18:18.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -166,7 +166,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party gets an audience with the king due to them slaying the Devastation Shark Scorpion.
 - The king tells them that there are 5 more devastation vermin terrorizing the world. He asks the party to slay the remaining devastation vermin like they did with the first one as they are clearly a capable bunch. The party accepts this quest. 
 - He also tells the party that his daughter was kidnapped by the Witch King and he asks the party to get her back. He informs the party of where to find the Witch King's castle, and tells them that he is an evil tyrant who must be stopped.
-- He tells the party of one of the devastation vermin in the south of the kingdom which is a giant beetle. 
+- He tells the party about one of the devastation vermin in the south of the kingdom which is a giant beetle. 
 - He gave the party some items and money and then the party goes shopping for some supplies before heading out.
 - Before dealing with King Sunfenix's requests, the party travels with Nut's carriage south from Hellaress along the coastline.  During their journey, Nut sells Spoops the Jack Sparrow's compass. - Then they travel along the plains where they run into centaur tribes. The party defends the caravan from some hostile tribes as they pass through. While talking to some of the centaur's they come across a speaking stone that the centaurs claim their god speaks to them through, the party hears a booming godlike voice coming through it, which they realize is fake. In response they use Dio to locate the source, go to the location and confront the false god. Upon discovering the false god is Fiad up to his old schemes, the party attacks. Fiad pleads for mercy by explaining that he had worked under Darmuth but planned to betray her the whole time because he knew about her loyalities to the Emperor and he believed he could get a better deal. He offered the party power and service under the Emperor, but the party declined his foolish offer and killed him.
 - The party proceeds with Nut's caravan and continue their journey under the ocean. Nut's carriage shows it has submersible capabilities. 
