@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T13:18:38.024Z
+date: 2025-06-13T13:21:28.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -235,7 +235,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Return to Fywick
 - Inferno's wedding to the princess of the parrot shogunate
 - Fighting Assassins hired by The Emperor.
-- Bazzdows draws a card and is grented 50 gems, each worth 1000 gold.
+- Bazzdows draws a card and is granted 50 gems, each worth 1000 gold.
 - The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
 - 
 - 
