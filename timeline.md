@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T12:17:59.651Z
+date: 2025-06-13T12:38:37.821Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -283,12 +283,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party traverses the circles of hell, dodging fireballs and warships they quickly teleport their way to the innermost circle. Due to the nature of the hells, direct teleportation to the inner circle was impossible. 
 - Upon arrival, the party are greeted by a servant of Asmodeus who takes care of their needs and escorts them to rooms for them to use while waiting for their meeting with Asmodeus. After some time, Asmodeus is ready and the party meets he and his daughter in the throne room. Asmodeus introduces himself and tells the party that he will be acting as mediator in negotiations between Mortis Lux and the Council of Gods. He then presents the party with terms. The party, unhappy with the initial terms, makes demands of their own to be presented to the gods. They want the Gods to refrain from interfering with them from now on, and due to the scale of the Ithilid problem, they want the Gods to step up and provide assistance in dealing with this issue. Asmodeus takes these terms back to the Council, leaving the party to explore his realm in the meantime. 
 - Spoops wanders off on his own, exploring the hallways of the castle, he overhears various rumours about Asmodeus and his daughter. 
-- Spoops wanders outside the castle where he sees a gargantuan serpent in the lava far below the castle, encircling the base. Being a big fan of serpents, he dives towards the creature hoping to tame them. Before he can reach it, he gets a message from Asmodeus asking him to please leave it alone. Not wanting to delay negotiations, he obliges.
+- Spoops wanders outside the castle where he sees a gargantuan serpent in the lava far below the castle, encircling the base. Being a big fan of serpents, he dives towards the creature hoping to tame them. Before he can reach it, he gets a message from Asmodeus asking him to please leave it alone. Not wanting to delay negotiations, he obliges. 
 - Asmodeus' daughter invites the party to a meeting of her own. She wishes to rule over all of Hell and seeks her own deal with Mortis Lux to make this happen. 
 - The party is fairly uninterested in this deal as they distrust the princess even more than her father. However they hear her out anyway. 
 - During this meeting, Breezy-E starts itching for a fight, so he gets involved with the princess' arena death matches after asking her where he can find some good fights around here. She obliges snd sends him into the arena.
-- While wandering the castle
-- 
+- After wandering the castle Spoops finds his way into the same arena where Breezy-E is fighting devils. - Spoops admires the gargantuan corpse of a dragon which he thinks would be a perfect addition to Mortis Lux' army. He contacts Asmodeus through prayer, offering information on his daughter's plans to betray him in exchange for the dragon corpse. Asmodeus tells the party the corpse is rheirs if they acquire names, details, and proof of this plot against him. Adalynn then calls Spoops and Breezy-E back to thr meeting room as the princess is anxious to get started.
+- The princess gathers the larty into a sealed room warded against communications with the outside. During the meeting, the princess brings in multiple generals who are betraying Asmodeus to serve her. They divulge their plan to turn on Asmodeus and allow angels into hell to fight against the demons and install her as ruler of the hells. Once all have arrived and begin speaking of betrayal, the party spring into action. Breezy-E and Bazzdos create a distraction while Spoops pretends to fall backwards out of his chair, Adalynn immediately opens a gate below Spoops, sending him out of the sealed room. Once outside, he contacts Asmodeus, informing him that they have all the traitors in one room and they've already divilged details of their plan to have generals betray him. Asmodeus arrives in the meeting room, and his daughter and generals are taken into custody. He thanks the party and allows them to send the dragon corpse back to Mortis Lux HQ.
+- After some more time, Asmodeus sends a devil to retrieve the party to go over the new terms of the treaty. 
 - Treaty With the Council of Gods
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
 - [The Ithilid War](/Events/ithilid-war)
