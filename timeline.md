@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T13:47:53.988Z
+date: 2025-06-13T13:47:58.800Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -281,7 +281,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - [Weakening of Cyric](/Events/weakening-of-cyric)
 - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
-- 
 - [Treaty With the Council of Gods](/Events/treaty-with-the-council-of-gods)
 - 
 - Meeting The Norse Gods. 
