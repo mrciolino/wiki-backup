@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T13:21:28.511Z
+date: 2025-06-13T13:24:20.883Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -265,9 +265,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops meets Rabiah the storm giant woman in her tower at the spawning stone in the elemental plane of chaos. Upon finding himself in this plane, he ascends the tower and finds two golems guarding an control panel. Spoops cautiously approaches and activates the panel, causing the platform to begin descending into thr tower. Upon reaching the bottom, he is greeted by Rabiah's butler and Rabiah herself. Rabiah welcomes Spoops into her home and introduces herself as a forge-master and merchant. She has set up shop around an infinitely generating pillar of mithril which she uses to build her magical golems. Spoops begins trying to recruit her into Mortis Lux, but she refuses. Instead she offers to sell golems to Mortis Lux, and provides a "method of secure communication" 59 Spoops in case he wishes to discuss this further. This communicator is what appears to be a humanoid creature, heavily bound and chained, Rabiah is able to speak through the mouth of this creature. Spoops puts the creature in his demi-plane and leaves. As he departs, the butler takes a look at his Shard of Divinity and comments on the single flaw in the hilt. Saying it would have to be remade to fix it entirely. Spoops takes this under consideration.
 - The party arrives at the spawning stone to retrieve Spoops. 
 - [Saving the Sun](/Events/saving-the-sun)
-- Searching for Gond Souls: 
+- Searching for Gond Souls
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
+- Shar grants Spoops access to the shadow weave. 
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
 - The party begins preparations for the final War against the Ithilids.
 - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
