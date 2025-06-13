@@ -2,15 +2,14 @@
 title: Meeting With Asmodeus
 description: The party goes to hell to negotiate the treaty
 published: true
-date: 2025-06-13T13:39:18.380Z
+date: 2025-06-13T13:39:30.670Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T13:32:16.173Z
 ---
 
 # Meeting With Asmodeus
-The party is invited to meet eith Asmodeus in the hells to
-negotiate the treaty with the council of gods.
+The party is invited to meet eith Asmodeus in the hells to negotiate the treaty with the council of gods.
 
 
 ## Traveling Nessus
