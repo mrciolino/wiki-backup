@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T13:08:21.911Z
+date: 2025-06-13T13:08:49.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -256,7 +256,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party seeks out Hephaestus in Olympus. Bazzdos wants to use Hephaestus as a forging mentor to elevate his skills.
 - Breezy-E gets really into some Ambrosia wine while in Olympus. Upon sharing it with the party they all gain a boon which empowers them further.
 - Spoops' immovable rod is destroyed when he uses it to keep the revolving door to Hephaestus' forge open to allow he and Os to pass.
-- Hephaestus, having a shared hatred for Zeus, agrees to allow Bazzdos to make a pact with him.
+- Hephaestus, having a shared hatred for Zeus, agrees to allow Bazzdos to make a pact with him to elevate Bazzdos' skills with the forge.
 - [Selune's Gathering](/Events/selunes-gathering)
 - [Spoops' Ascention](/Events/spoops-ascention)
 - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
