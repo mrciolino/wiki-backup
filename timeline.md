@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T12:09:48.609Z
+date: 2025-06-13T12:10:43.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -280,7 +280,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Weakening of Cyric](/Events/weakening-of-cyric)
 - Meeting With Asmodeus
 - The party receives a magical invitation from the council of gods to meet with a third party to discuss terms of a potential treaty. This third party is Asmodeus, lord of the hells. Knowing how ticky devils can be, and wanting to be prepared for anything, the party hires a lawyer. Bazzdos contacts the lawyer he met at Assassination Note Mountain to represent Mortis Lux. After hiring the lawyer, they agree to the meeting. The invitation itself acts as their pass to travel unharmed through the hells to meet Asmodeus in his castle.
-- The party traverses the circles of hell, dodging fireballs and warships they quickly teleport their way to the innermost circle. Upon arrival, the party are greeted by a servant of Asmodeus who takes care of their needs and escorts them to rooms for them to use while waiting for their meeting with Asmodeus. After some time, Asmodeus is ready and the party meets he and his daughter in the throne room. Asmodeus introduces himself and tells the party that he will be acting as mediator in negotiations between Mortis Lux and the Council of Gods. He then presents the party with terms. The party, unhappy with the initial terms, makes demands of their own to be presented to the gods. They want the Gods to refrain from interfering with them from now on, and due to the scale of the Ithilid problem, they want the Gods to step up and provide assistance in dealing with this issue. Asmodeus takes these terms back to the Council, leaving the party to explore his realm in the meantime. 
+- The party traverses the circles of hell, dodging fireballs and warships they quickly teleport their way to the innermost circle. Due to the nature of the hells, direct teleportation to the inner circle was impossible. Upon arrival, the party are greeted by a servant of Asmodeus who takes care of their needs and escorts them to rooms for them to use while waiting for their meeting with Asmodeus. After some time, Asmodeus is ready and the party meets he and his daughter in the throne room. Asmodeus introduces himself and tells the party that he will be acting as mediator in negotiations between Mortis Lux and the Council of Gods. He then presents the party with terms. The party, unhappy with the initial terms, makes demands of their own to be presented to the gods. They want the Gods to refrain from interfering with them from now on, and due to the scale of the Ithilid problem, they want the Gods to step up and provide assistance in dealing with this issue. Asmodeus takes these terms back to the Council, leaving the party to explore his realm in the meantime. 
 - Spoops wanders off on his own, exploring the hallways of the castle, he overhears various rumours about Asmodeus. 
 - Asmodeus' daughter invites the party to a meeting of her own. She wishes to rule over all of Hell and seeks her own deal with Mortis Lux to make this happen. 
 - The party is fairly uninterested in this deal as they distrust the princess even more than her father. However they hear her out anyway. 
