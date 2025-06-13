@@ -2,7 +2,7 @@
 title: Spoops vs. Zeus
 description: Bazzdows signs Spoops up for a fight without his consent
 published: true
-date: 2025-06-12T18:15:57.675Z
+date: 2025-06-13T11:58:53.881Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T15:38:30.393Z
@@ -19,7 +19,7 @@ Spoops gets roped into the fight against Zeus who is wants revenge for the crash
 
 
 ## Repairing Bazzdows
-Bazzdows was so injured during the explosion that he reverted to his ball form. Spoops reboots Bazzdows, however the supercharged divine lightning fused with his body, and triggered a sort of update or adaptation. As his physical form recovered, his operating system updated and he became Bazzdos.
+Bazzdows was broken and slain during the explosion that he reverted to his ball form. Spoops and adalynn repair what they can of Bazzdows before Spoops reboots Bazzdows. Adalynn implants the ryes of her dragon form into Bazzdos, allowing her to see what he sees. The supercharged divine lightning from Zeus' attack, fused with his body, supercharging his soul core and triggering an update upon reboot. As his physical form recovered, his operating system updated and he became Bazzdos.
 
 *Adalynn does something with Bazzdos' soul core and her eyes???
 
