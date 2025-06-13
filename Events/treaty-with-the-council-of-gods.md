@@ -2,13 +2,13 @@
 title: Treaty With The Council of Gods
 description: The signing of the treaty
 published: true
-date: 2025-06-13T13:47:38.341Z
+date: 2025-06-13T18:24:38.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T13:42:18.209Z
 ---
 
-# Treaty With Tbe Council of Gods
+# Treaty With The Council of Gods
 Mortis Lux and the Council of Gods meet to sign their treaty.
 
 
