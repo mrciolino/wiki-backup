@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T12:11:06.348Z
+date: 2025-06-13T12:12:27.647Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -285,7 +285,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops wanders off on his own, exploring the hallways of the castle, he overhears various rumours about Asmodeus. 
 - Asmodeus' daughter invites the party to a meeting of her own. She wishes to rule over all of Hell and seeks her own deal with Mortis Lux to make this happen. 
 - The party is fairly uninterested in this deal as they distrust the princess even more than her father. However they hear her out anyway. 
-- During this meeting, Breezy-E gets involved with the princess' arena death matches.
+- During this meeting, Breezy-E starts itching for a fight, so he gets involved with the princess' arena death matches after asking her where he can find some good fights around here. She obliges snd sends him into the arena.
 - 
 - Treaty With the Council of Gods
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to turther enhanced the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mechatarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle.
