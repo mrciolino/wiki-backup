@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T11:48:37.779Z
+date: 2025-06-13T12:00:10.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -249,7 +249,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [The Second Great Sin of Spoops](/Events/the-second-great-sin-of-spoops)
 - The party goes to the Library Dimension
 - Breezy-E starts tearing pages out of some books, and using them to roll joints. Sharing with Os.
-- The party encounters two terrasques. A robotic terrasque and another one. They begin fighting the terrasques and intending to capture the robotic one, Bazzdos yells at the party not to hill his new robot pet.
+- The party encounters two terrasques fighting in a cave. A robotic terrasque and another one. They begin fighting the terrasques and intending to capture the robotic one, Bazzdos yells at the party not to hill his new robot pet.
 - Spoops uses his Ring of Magnificent size to grow to maximum size, then he attacks the terrasques.
 - Bazzdos captures and tames the robot terrasque.
 - Bazzdos uses his ring of enlightenment to cast awaken on the Mecha-Terrasque.
