@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T13:08:49.536Z
+date: 2025-06-13T13:12:28.853Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -287,7 +287,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Asmodeus' daughter invites the party to a meeting of her own. She wishes to rule over all of Hell and seeks her own deal with Mortis Lux to make this happen. 
 - The party is fairly uninterested in this deal as they distrust the princess even more than her father. However they hear her out anyway. 
 - During this meeting, Breezy-E starts itching for a fight, so he gets involved with the princess' arena death matches after asking her where he can find some good fights around here. She obliges snd sends him into the arena.
-- After wandering the castle Spoops finds his way into the same arena where Breezy-E is fighting devils. - Spoops admires the gargantuan corpse of a dragon which he thinks would be a perfect addition to Mortis Lux' army. He contacts Asmodeus through prayer, offering information on his daughter's plans to betray him in exchange for the dragon corpse. Asmodeus tells the party the corpse is rheirs if they acquire names, details, and proof of this plot against him. Adalynn then calls Spoops and Breezy-E back to thr meeting room as the princess is anxious to get started.
+- After seeing Breezy-E struggling to fight some of the devils, Spoops enters the arena as well. During thr dight against one of the devils, Spoops takes a liking to them and asks their name, they introduce themselves as Martin Martinique Del La Velasco. Spoops tells them he likes their style and asks them if they would like to join up with Mortis Lux. Martin says he would, but is bound to service here.
+- Spoops admires the gargantuan corpse of a dragon which he thinks would be a perfect addition to Mortis Lux' army. He contacts Asmodeus through prayer, offering information on his daughter's plans to betray him in exchange for the dragon corpse. Asmodeus tells the party the corpse is rheirs if they acquire names, details, and proof of this plot against him. Adalynn then calls Spoops and Breezy-E back to thr meeting room as the princess is anxious to get started.
 - The princess gathers the larty into a sealed room warded against communications with the outside. During the meeting, the princess brings in multiple generals who are betraying Asmodeus to serve her. They divulge their plan to turn on Asmodeus and allow angels into hell to fight against the demons and install her as ruler of the hells. Once all have arrived and begin speaking of betrayal, the party spring into action. Breezy-E and Bazzdos create a distraction while Spoops pretends to fall backwards out of his chair, Adalynn immediately opens a gate below Spoops, sending him out of the sealed room. Once outside, he contacts Asmodeus, informing him that they have all the traitors in one room and they've already divilged details of their plan to have generals betray him. Asmodeus arrives in the meeting room, and his daughter and generals are taken into custody. He thanks the party and allows them to send the dragon corpse back to Mortis Lux HQ.
 - After some more time, Asmodeus sends a devil to retrieve the party to go over the new terms of the treaty. 
 - Treaty With the Council of Gods
