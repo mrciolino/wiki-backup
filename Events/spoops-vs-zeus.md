@@ -2,7 +2,7 @@
 title: Spoops vs. Zeus
 description: Bazzdows signs Spoops up for a fight without his consent
 published: true
-date: 2025-06-13T11:58:53.881Z
+date: 2025-06-13T11:59:34.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T15:38:30.393Z
@@ -26,4 +26,4 @@ Bazzdows was broken and slain during the explosion that he reverted to his ball 
 
 
 ## Quest for Power
-After being humiliated and slain, Spoops gets desperate for more strength. He puts all his focus on acquiring more power quickly. This leads him to commit his [Two Great Sins](/Events/the-great-sins-of-spoops).
+After being humiliated and slain, Spoops gets desperate for more strength. He puts all his focus on acquiring more power quickly. This leads him to commit his [Second Great Sin](/Events/the-second-great-sin-of-spoops).
