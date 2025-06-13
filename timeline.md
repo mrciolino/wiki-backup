@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-13T13:40:26.742Z
+date: 2025-06-13T13:47:53.988Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -282,10 +282,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Weakening of Cyric](/Events/weakening-of-cyric)
 - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
 - 
-- Treaty With the Council of Gods
-- The party snd their lawyer arrive in the divine realm of Bahamut. They stand before Bahamut atop a massive pillar covered in magical runes which seem to describe a history of Bahamut and the dragons. Surrounding the pillar are floating platforms. Upon each platform is a different avatar of the council gods. The party notices Os among them, they know of his role as a fertility god bit sre surprised to see him among the council.
-- Bahamut summons the magical treaty, presenting it before the party. The treaty itself is a powerful reality warping document, Bahamut explains that all who sign it tie their souls into the contract, binding themselves to its terms.
-- Bahamut offers Spoops a pen, but Spoops declines saying he brought his own. Bahamut snd the other Gods stare in shock and some gasp as Spoops takes out the Feathered Pen of Jergal. He then uses it to manifest some of his own blood which he uses to sign the treaty. Bahamut asks Spoops to lend them the pen to sign the treaty, Spoops reluctantly agrees but asks that the pen be returned to him after. Each God takes a turn signing the treaty in their own blood. When it gets to Bahamut, Spoops offers his blade to Bahamut to draw his blood. Bahamut accepts, pricking his finger with the sword and signing the treaty. Then the rest of the party signs their names. When it comes to be Os' turn, everyone stares at him, waiting to see if he will sign on the Mortis Lux side or Council side. After a dramatic paise, Os signs with Mortis Lux, bringing a smile to the party's faces. The treaty is then signed by Asmodeus, completing the magical contract. The party are then invited to meet with the Norse Gods in Valhalla to prepare for the coming battle.
+- [Treaty With the Council of Gods](/Events/treaty-with-the-council-of-gods)
+- 
 - Meeting The Norse Gods. 
 - Bazzdos creates machines of immense power: Magically enhanced lasers are created by Bazzdos. Spoops helps Bazzdos create rings inscribed with runic spells to further enhance the lasers. Every ship is equipped with a small laser beam. Tu'narath, Mecha-tarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle. 
 - [The Ithilid War](/Events/ithilid-war)
