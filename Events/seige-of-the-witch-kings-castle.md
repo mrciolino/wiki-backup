@@ -2,7 +2,7 @@
 title: Siege of The Witch King’s Castle
 description: Shiva the destroyer leads an army to destroy the Witch King
 published: true
-date: 2025-06-14T11:56:39.180Z
+date: 2025-06-14T12:12:07.946Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T23:59:29.633Z
@@ -15,7 +15,7 @@ The black dragon named Shiva the Destroyer is on her way to obliterate the Witch
 ## Arrival at The Castle
 The party travel to the Witch King's castle. After their journey, the Witch King invited the party to rest in his guest rooms. The party accepts, however the next morning thr party awakes to find Spoops missing. 
 
-Spoops finds himself sealed within a tiny magical prison. After failing to use his anti-magic armor to escape, Spoops uses Cleansing Touch to escape the imprisonment. Upon emerging he tinds himself in front of the party and Witch King who after a moment of surprise, smirks and says "Hello Myrkul".
+Spoops finds himself sealed within a tiny magical prison. After failing to use his anti-magic armor to escape, Spoops uses Cleansing Touch to escape the imprisonment. Upon emerging he finds himself in front of the party and Witch King who after a moment of surprise, smirks and says "Hello Myrkul". The Witch King jogs Spoops' memories, reminding him of when he was once known as Myrkul, his adventures with Bane and Bhaal, and their ascention to godhood and eventual downfall in the time of troubles.
 
 ## The Witch King Seeks Sympathy
 The Witch King tells the party that he is simply playing thr role of the villian and doing what is necessary to gain power so that he can protect the world from the true threats it faces. He explains that the evil dragon Shiva The Destroyer is leading an army across the land and that if his bastion falls, it is only a matter of time before Hellaress and the other cities fall too. The party is still suspicious of The Witch King, but agree to help defend against Shiva's insasion.
