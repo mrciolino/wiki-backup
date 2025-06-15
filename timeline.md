@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-15T19:57:22.069Z
+date: 2025-06-15T20:03:03.958Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -223,7 +223,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party meets Verondora the giant feywild spider.
 - Spoops tells Verondora all about his religion. They take great interest in it and convert to the religion. Verondora and her children are all now worshippers of Spoops.
 - gaudiena gave us right to enter to the vale -> gives us two medallions, each is a gold chain with an emerald medallian, that says "friend and warrior". She says we must visit to talk to meldrion.
-- The party return the princess of Hellaress home.
+- The party return the princess of Hellaress to her home.
 
 
 - Delivering the ring to King Sunfenix. When the king puts on the ring, Bane takes over his body.
