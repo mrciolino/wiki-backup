@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-15T19:32:24.809Z
+date: 2025-06-15T19:32:32.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -266,7 +266,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party arrives at the spawning stone to retrieve Spoops. 
 - [Saving the Sun](/Events/saving-the-sun)
 - [Searching for Gond Souls](/Events/searching-for-gond-souls)
-- 
 - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
 - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
 - Shar grants Spoops access to the shadow weave. 
