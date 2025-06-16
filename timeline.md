@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T14:45:02.467Z
+date: 2025-06-16T14:51:38.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -173,10 +173,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Upon arrival to the city, they are met by a strange wizard named Donald Duck. They appear to be a duck in a little blue outfit. However, despite their appearance, they are quite a serious person and regard the party with suspicion and caution them against traveling eith Spoops. He refuses to elaborste on why.
 - The party meet with Aphir.
 - Donald duck gives the party directions to the ancient elven city beneath the ocean as it is supposedly somewhere related to Spoops. He provides the party with a belt of intellect and tells the party to make Spoops wear it as it will wipe any memories he makes with it on once he removes it. For some reason Donald is adamant that Spoops not learn more about his past. Spoops does wear it, but the party fills him in on everything he forgets later.
-- Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
-- Just before entering the throne room, The Witch King arrives saying hell help them out. The party doesnt particularly want hos help as they dont trust him, but he just laughs and joins anyway.
-- The party arrive in the throne room where they see a massive ball of energy above a pedestal. Here Jormungandr is sealed away. Spoops uses his blade, The Cleanser, to break the seal, and at the same time, he Soul Steals the serpent. Spoops is overcome with memories and has flashbacks to his time living among the people here, and remembers how he had initially sealed Jormungandr here to put an end to Glub Glub's invasion. The party engages Jormungandr, attempting to subdue him as he thrashes about, resisting the Soul Steal. Spoops then successfully Soul Steals Joungandr, as he prys Jormungandr's soul out with all his might. Needing a vessel to hold the soul, The Witch King gifts Spoops a diamond inscribed with various magical runes to create a soul prison. Spoops seals Jormungandr's soul within the Diamond and uses soverign glue to attach the diamond to the front of his spine. The party uses rathwing's memory device to play out the visions and memories Spoops saw.
-- The party returns to the surface without the witch king where they take the belt back from Spoops and fill him in on what happened. 
+- [Exploring The Ancient Sunken Elven City](/Events/exploring-the-ancient-sunken-elven-city)
 - 
 - Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade. Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
 - Magical College of Porthy
