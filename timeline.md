@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T14:51:38.255Z
+date: 2025-06-16T14:51:59.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -172,7 +172,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party seeks out Aphir The Mighty
 - Upon arrival to the city, they are met by a strange wizard named Donald Duck. They appear to be a duck in a little blue outfit. However, despite their appearance, they are quite a serious person and regard the party with suspicion and caution them against traveling eith Spoops. He refuses to elaborste on why.
 - The party meet with Aphir.
-- Donald duck gives the party directions to the ancient elven city beneath the ocean as it is supposedly somewhere related to Spoops. He provides the party with a belt of intellect and tells the party to make Spoops wear it as it will wipe any memories he makes with it on once he removes it. For some reason Donald is adamant that Spoops not learn more about his past. Spoops does wear it, but the party fills him in on everything he forgets later.
 - [Exploring The Ancient Sunken Elven City](/Events/exploring-the-ancient-sunken-elven-city)
 - 
 - Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade. Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
