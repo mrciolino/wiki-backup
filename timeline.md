@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T19:43:45.552Z
+date: 2025-06-16T19:44:32.371Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -192,7 +192,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party meets King Lancel Highhold.
 - [Escape From Sigil](/Events/escape-from-sigil)
 - The party reunites at the Magical College of Highhold with the addition of Elira.
-- The party continue fighting Illithids. Os uses Dominate Monster to dominate one of thr Illithids.
+- The party continue fighting Illithids. Os uses Dominate Monster to dominate one of the Illithids.
 - The party meets Archmage Snorri
 - Bazzdows picks up some assassination notes off the ground.
 - assassination note 1) the emperor- salavation guarenteed
