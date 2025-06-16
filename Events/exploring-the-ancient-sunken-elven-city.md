@@ -2,7 +2,7 @@
 title: Exploring The Ancient Sunken Elven City
 description: The party delves into an ancient city in search of treasure
 published: true
-date: 2025-06-16T14:51:16.520Z
+date: 2025-06-16T14:54:35.409Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:50:53.887Z
@@ -10,6 +10,9 @@ dateCreated: 2025-06-16T14:50:53.887Z
 
 # Exploring The Ancient Sunken Elven City
 The party delves below the ocean to explore an ancient elven city that may contain valuable treasures.
+
+## Donald's Strange Request
+The party asks Donald Duck where they could find hidden treasures and magical items. After pressing him for an answer, he reluctantly gives the party directions to the ancient elven city beneath the ocean as it is supposedly somewhere related to Spoops. He provides the party with a belt of intellect and tells the party to make Spoops wear it as it will wipe any memories he makes with it on once he removes it. For some reason Donald is adamant that Spoops not learn more about whatever is in the city. Spoops does wear it, but not trusting Donald, the party fills him in on everything he forgets later.
 
 ## Exploring The Castle.
 The party explore the city castle,
