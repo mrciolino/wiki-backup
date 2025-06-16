@@ -2,7 +2,7 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-06-16T12:38:28.646Z
+date: 2025-06-16T12:38:50.360Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
@@ -17,6 +17,9 @@ The party meets Tamara Strenger, another member of the Guardison family.
 While traveling to Bahryst, the party encountered Otto Hurtszog accompanied by a group of ice devils, the party was overmatched and forced to retreat. Despite their best efforts, Narascus was captured, even and for a moment they worried he was dead.
 
 After locating him with Dio, Os and Spoops were able to save Narascus, fighting off frost giants long enough for Os to teleport him out of the ice castle of Bahryst, though they were off target. Luckily, Os was able to Polymorph into a dragon and carry everyone to safety.
+
+
+
 
 After finally returning to the ship, a massive flying beast was attacking the rest of the party. Os, having had enough for the day, used Eyebite to put the beast to sleep, causing it to fall into the icy city below. The citizens, discovered earlier to be werebeasts and having transformed, began attacking and eating the beast. The party fled to rest.
 
