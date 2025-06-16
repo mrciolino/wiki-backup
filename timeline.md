@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T16:31:44.922Z
+date: 2025-06-16T16:35:56.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -290,8 +290,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
 - [Deal with Lolth](/Events/deal-with-lolth)
 - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
-- Investigating Godsbane: The party tries various methods to destroy Godsbane.
-- Spoops attempts to destroy Godsbane using his 12th level spell "The Banhammer". However it does not work. He accidentally strikes Adalynn with the Banhammer, causing her to disappear from existence. The party looks in stunned silence unable to stop her from disappearing. All attempts to contact Adalynn via message and speaking stone fail. As the party realizes Adalynn may truly be gone forever, they receive reports of Illithids on Mardun and decide to go take out their frustration on them. 
+- [Investigating Godsbane](/Events/investigating-godsbane)
 - Adalynn Captured by Daurgothoth
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - [Weakening of Cyric](/Events/weakening-of-cyric)
