@@ -2,7 +2,7 @@
 title: Arrival To Fywick
 description: Fleeing Carl, the party arrives at the city of Fywick
 published: true
-date: 2025-06-06T15:00:52.118Z
+date: 2025-06-16T14:23:04.319Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T15:00:52.118Z
@@ -17,3 +17,6 @@ The party arrives in Fywick to seek the Oracles guidance on how to defeat Darmut
 
 ## Heading to The Oracle's Temple
 Spoops and Narascus are more interested in doing some shopping so they briefly explore the city before walking up to the Oracle's temple in the center of town. Once outside the temple, they meet up with the rest of the part except for Frederina, before heading in to meet the Oracle.
+
+
+
