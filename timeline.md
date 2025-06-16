@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T18:08:15.887Z
+date: 2025-06-16T19:43:45.552Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -170,7 +170,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
 - 
 - The party seeks out Aphir The Mighty
-- Upon arrival to the city, they are met by a strange wizard named Donald Duck. They appear to be a duck in a little blue outfit. However, despite their appearance, they are quite a serious person and regard the party with suspicion and caution them against traveling eith Spoops. He refuses to elaborste on why.
+- Upon arrival to the city, they are met by a strange wizard named Donald Duck. They appear to be a duck in a little blue outfit. However, despite their appearance, they are quite a serious person and regard the party with suspicion and caution them against traveling eith Spoops. He refuses to elaborate on why.
 - The party meet with Aphir.
 - [Exploring The Ancient Sunken Elven City](/Events/exploring-the-ancient-sunken-elven-city)
 - [The First Time Chamber](/Events/the-first-time-chamber)
