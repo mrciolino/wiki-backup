@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T14:35:55.560Z
+date: 2025-06-16T14:36:17.214Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -167,7 +167,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - 
 - The party proceeds with Nut's caravan and continue their journey under the ocean. Nut's carriage shows it has submersible capabilities. 
 - While under the water, Crocgar teaches Os some interesting vocal tricks. 
-- The party finds an underwater pyramind complex and goes in. Nut stays with the carriage claiming to not have the ability to breath underwater. 
+- The party finds an underwater pyramind complex and go in. Nut stays with the carriage claiming to not have the ability to breath underwater. 
 - Within the pyramid they find the spawn of Glub Glub which are giant black crabs with a near impenetrable carapace whom they defeat. 
 - The party finds a hoard of cursed weapons. While investigating the weapons, suddenly Nut appears behind them. Nut drops the act and begins to act much more intimidating. He takes off the disguise revealing himself to be the Witch King. He offers a deal to the party to work with him. He claimed to share a goal with the party of slaying the devastation creatures and other threats to the world. After much back and forth the party agreed believing they could perhaps have a common goal, especially when it came to dealing with extra-planar threats like Darmuth's master.
 - Suddenly the demons who own the hoard show up and its the demon geese, alot of them. The party fights them off, killing the demons. The witch king does a spell to remove the curses on the weapons, allowing the party to claim some of them. (list of weapons is in the log). 
