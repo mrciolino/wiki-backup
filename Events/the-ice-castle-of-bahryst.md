@@ -2,7 +2,7 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-06-03T16:31:25.809Z
+date: 2025-06-16T12:37:38.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
@@ -12,6 +12,21 @@ dateCreated: 2025-05-21T15:01:58.179Z
 The party travels to the city of Bahryst to investigate the castle Spoops was granted by the deck of many things. Upon arrival they discover the castle has been tsken over by an evil wizard named Fiad. 
 
 The party meets Tamara Strenger, another member of the Guardison family.
+
+## Capturing Otto Hurtzog and Arrival in Bahryst
+While traveling to Bahryst, the party encountered Otto Hurtszog accompanied by a group of ice devils, the party was overmatched and forced to retreat. Despite their best efforts, Narascus was captured, even and for a moment they worried he was dead.
+
+After locating him with Dio, Os and Spoops were able to save Narascus, fighting off frost giants long enough for Os to teleport him out of the ice castle of Bahryst, though they were off target. Luckily, Os was able to Polymorph into a dragon and carry everyone to safety.
+
+After finally returning to the ship, a massive flying beast was attacking the rest of the party. Os, having had enough for the day, used Eyebite to put the beast to sleep, causing it to fall into the icy city below. The citizens, discovered earlier to be werebeasts and having transformed, began attacking and eating the beast. The party fled to rest.
+
+The party returned to the city in an attempt to capture Otto and get information from him. They met an assassin named Mort, an older human with surprising nimbleness and a killer instinct. With a new friend to help, the party assaulted the mountain north of the town where Otto had allied himself with ice giants. Managing to pry Otto out of the defensive formation of the giants, the party returned to the ship with their prisoner in tow. After a short session of threats and questioning, the party not only got the information they needed, but recruited Otto to their cause.
+
+The party encounters Otto Hurtzog on their way north to Bahryst. Otto opens fire on the party from below attempting to tske out Os. Given the party's increased experience, they have no trouble desling with Otto. Otto is captured during the fight and interrogated by Narascus. Otto has his hands sovereign glued to the floor of Narascus' room during the interrogation.
+
+
+## Mort Joins The Party
+[Mort](/characters/mort), disguised as an eccentric old man, is found in the arctic. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
 
 ## The Lycanthropy Problem and Start of Spoops' Paladin Order
 When the party found out from the innkeeper that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard Fiad who recently took over the castle, the party rallied the townsfolk around the filthy fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing the polluted water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer. A few other citizens stepped forward to become paladins, namely Ghazali, Niebhur, Tilich, Luther, and Wolterstoff. Spoops trained them in the basics and together they permanantly purified the cities water.
