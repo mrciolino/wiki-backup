@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T17:34:48.198Z
+date: 2025-06-16T17:35:28.495Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -257,7 +257,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
 - Meeting Obox-Ob
 - The party try to escspe Obox-Ob's lair in the abyss. While Obox-ob is trying to convince the party to accept his "blessings", Spoops and Adalynn are working on a way out of his realm.
-- They try scapung through the windows of the dining room, however they find the rest if the realm to be a barren wasteland.
+- They try escaping through the windows of the dining room, however they find the rest if the realm to be a barren wasteland.
 - Adalynn tried to gate out of the realm, but is unable to cast any meaningful spells. Spoops realizes the entire layer of the Abyss is like Obox-ob's divine realm. 
 - Spoops manages to activate his anti-magic armor and use his spell to teleport to the library dimension, escsping Obox-ob's grasp. However the rest of the party, kierkegaard, and his now wife are still trapped. Now that he is free, he is able to execute a plan to get the others out. 
 - As Spoops escapes, knowing he must have something up his sleeve and won't abandon them, Adalynn carefully works to get the rest of the party and their friends close together. However despite her efforts she is unable to do so before everyone is convinced to accept Obox-ob's "blessings". In the end, even Adalynn accepted. 
