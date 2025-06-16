@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T17:18:41.506Z
+date: 2025-06-16T17:34:48.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -262,6 +262,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Spoops manages to activate his anti-magic armor and use his spell to teleport to the library dimension, escsping Obox-ob's grasp. However the rest of the party, kierkegaard, and his now wife are still trapped. Now that he is free, he is able to execute a plan to get the others out. 
 - As Spoops escapes, knowing he must have something up his sleeve and won't abandon them, Adalynn carefully works to get the rest of the party and their friends close together. However despite her efforts she is unable to do so before everyone is convinced to accept Obox-ob's "blessings". In the end, even Adalynn accepted. 
 - Once he was in the library, Spoops used his ability to lend his anti-magic armor to Adalynn, causing it to immediatly envelop her, allowing her to activate it and plane shift everyone to the library.
+- The party then traded information with the Tree of Knowledge to obtain a book containing information on exactly how to defeat and kill Obox-ob, they hid the book beneath the tree and the Tree of Knowledge made a pledge to only divulge this information in thr future if requested by a member of Mortis Lux.
 - Spoops meets Rabiah the storm giant woman in her tower at the spawning stone in the elemental plane of chaos. Upon finding himself in this plane, he ascends the tower and finds two golems guarding an control panel. Spoops cautiously approaches and activates the panel, causing the platform to begin descending into the tower. Upon reaching the bottom, he is greeted by Rabiah's butler and aRabiah herself. Rabiah welcomes Spoops into her home and introduces herself as a forge-master and merchant. She has set up shop around an infinitely generating pillar of mithril which she uses to build her magical golems. Spoops begins trying to recruit her into Mortis Lux, but she refuses. Instead she offers to sell golems to Mortis Lux, and provides a "method of secure communication" 59 Spoops in case he wishes to discuss this further. This communicator is what appears to be a humanoid creature, heavily bound and chained, Rabiah is able to speak through the mouth of this creature. Spoops puts the creature in his demi-plane and leaves. As he departs, the butler takes a look at his Shard of Divinity and comments on the single flaw in the hilt. Saying it would have to be remade to fix it entirely. Spoops takes this under consideration.
 - The party arrives at the spawning stone to retrieve Spoops. 
 - [Saving the Sun](/Events/saving-the-sun)
