@@ -2,7 +2,7 @@
 title: The Council of Gods Convene
 description: The council meets to discuss the Spoops problem
 published: true
-date: 2025-05-20T18:24:35.739Z
+date: 2025-06-16T16:20:06.237Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T18:19:46.738Z
@@ -10,6 +10,9 @@ dateCreated: 2025-05-20T18:19:46.738Z
 
 # The Council of Gods Convene
 The Council of Gods meets to discuss the Spoops problem. 
+
+## The Emperor Captures Zeus 
+Zeus travels to the Ithilid flagship to kill the Prophet of Profit. Weakened from his duel with Spoops, Zeus' mind is vulnerable to Illithid actions and they convert him into a dark god. The new Zeus turns into a floating head with tentacles, and can conjure physical memories as well as erase them permanently.
 
 
 ## Seeking Divine Aid
