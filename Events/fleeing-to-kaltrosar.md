@@ -2,7 +2,7 @@
 title: Fleeing To Kaltrosar
 description: The party makes landfall and flees towards Kaltrosar after the death of Krorg
 published: true
-date: 2025-06-16T14:18:34.163Z
+date: 2025-06-16T14:18:53.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:26:04.757Z
@@ -25,3 +25,5 @@ The party arrives in Kaltrosar Bay. Still wary of attack, they want to prepare f
 
 ## Os Meets His First Wife
 During his first adventure back with the crew, Os met a beautiful dwarf woman named Glorora. After a night of glorious passion, Glorora joined Os as his fiancee, becoming a background member of the crew.
+
+The party then depart for Fywick.
