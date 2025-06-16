@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T12:17:55.175Z
+date: 2025-06-16T12:20:46.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -133,6 +133,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
 - The party returns to Kaltrosar Bay (I dont remember why, i think this ends with it burning down again).
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
+- [Meeting Inferno]
 - The party decide to investigate the devastated landscape they previously saw after drawing a card from the deck of many things. 
 - The party use Dio to travel to the location of the devastated landscape they saw after draeing a card from the deck of many things. Upon arrival, they come upon the ancient red dragon Inferno who was awoken from his centuries of slumber when thr party drew the card. 
 - The party tell Inferno of their travels and quest to defeat Darmuth. Inferno shares with the party his long held hatred of Darmuth. Through their shared hatred they form the start of a friendship. 
