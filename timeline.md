@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T14:51:59.172Z
+date: 2025-06-16T14:58:47.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -173,8 +173,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Upon arrival to the city, they are met by a strange wizard named Donald Duck. They appear to be a duck in a little blue outfit. However, despite their appearance, they are quite a serious person and regard the party with suspicion and caution them against traveling eith Spoops. He refuses to elaborste on why.
 - The party meet with Aphir.
 - [Exploring The Ancient Sunken Elven City](/Events/exploring-the-ancient-sunken-elven-city)
+- [The First Time Chamber](/Events/the-first-time-chamber)
 - 
-- Spoops uses a Wish to allow he and Bazzdos to spend 10000 years forging. During this time they combined Spoops' powerful magical swords into the Spoops Blade. Also Spoops subjugated Jormungandr by using thr calming power of his Teddy Bear Heart to weaken their will, and many years of psycological torment to break their spirit. Spoops also spent time tinkering with Bazzdows' terminal, learning roboscript. After exiting what they dub "The Time Chamber", Spoops writes a script for Bazzdows that allows him to overclock his systems based on a perceived threat level. 
 - Magical College of Porthy
 - Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
 - [Siege of The Witch King's Castle](/Events/seige-of-the-witch-kings-castle)
