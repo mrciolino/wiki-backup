@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T16:19:24.633Z
+date: 2025-06-16T16:22:34.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -291,6 +291,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Deal with Lolth](/Events/deal-with-lolth)
 - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
 - Investigating Godsbane: The party tries various methods to destroy Godsbane.
+- Spoops attempts to destroy Godsbane using his 12th level
 - Adalynn Captured by Daurgothoth
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - [Weakening of Cyric](/Events/weakening-of-cyric)
