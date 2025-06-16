@@ -2,7 +2,7 @@
 title: Meeting The Oracle of Fywick
 description: The party meets the Oracle of Fywick and battles a demon goose
 published: true
-date: 2025-06-04T12:37:40.587Z
+date: 2025-06-16T14:26:01.776Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T14:36:24.623Z
@@ -23,6 +23,12 @@ During their meeting, the party was attacked by a Demonic Goose wielding a magic
 
 ## Frederina's Betrayal
 After battling the demon goose and knowing Frederina's demonic allegiances, Meade challenges Frederina to a duel. Frederina, is slain by Meade and the party during the fight. Meade then departs the party and creates the "Three Swishes" bar in Fywick.
+
+
+## Illiard Returns
+Spoops fully resurrects Illiard. 
+After regaining his senses, and learning of all that transpired since being murdered by Frederina, the party is told by the resurrected Illiard that they are going to need to save the world. The evil Darmuth, thought long defeated, who has returned to the living world, is a threat to all who live in it. After this, the party realizes the severity of the situation, Darmuth is not simply a mere cultist to be killed for revenge, but is a world ending evil who must be slain for the good of the world.
+
 
 
 
