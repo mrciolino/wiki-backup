@@ -2,7 +2,7 @@
 title: Traveling to Bahryst
 description: The party flys to Bahryst
 published: true
-date: 2025-06-16T13:13:54.248Z
+date: 2025-06-16T13:22:52.168Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:24:47.283Z
@@ -12,7 +12,14 @@ dateCreated: 2025-06-08T02:24:47.283Z
 The party travels to bahryst in their flying ship. They make a few stops along the way.
 
 
+## Searching for Treasure
+The party has since gone in search of promised treasures and prizes, A first attempt by Os to teleport to a previous location with the party failed, and the group ended up on a somewhat familiar island. Spoops and Bazzvrah met a female T-rex they attempted to flirt with until an ancient red dragon showed up, angry at being awakened and forced a retreat... but not before Os was inspired to become its friend. 
+
+Spoops would discover a dragon charm ring, which he has given to Os.
+
+
 ## Elon Musk
 The party stops at a beach on the way to Bahryst. Here they meet Elon Musk. Bazzvrah asks Elon for future technology but Musk says no; Bazzvrah tries to steal his polyester suit thinking that could lead to new materials. Spoops also completes the resurrection of the undead unicorn, releasing it into the wild. 
+
 
 
