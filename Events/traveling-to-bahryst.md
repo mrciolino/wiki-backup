@@ -2,7 +2,7 @@
 title: Traveling to Bahryst
 description: The party flys to Bahryst
 published: true
-date: 2025-06-16T13:13:05.846Z
+date: 2025-06-16T13:13:48.257Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:24:47.283Z
