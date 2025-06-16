@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T14:59:14.512Z
+date: 2025-06-16T15:00:34.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -199,7 +199,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - assassination note 2) the rich man who lived - giving a kingdom
 - assassination note 3) Gloutonies Maximus - Kingdom
 - The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only way to beat them is to work together from now on. The party brings both Highhold and the Magical College of Highhold into their new organization.
-- Mortis Lux Established: Spoops proposes the party establish an alliance called Mortis Lux and begin recruiting allies to fight off the Illithids.  
 - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
 - [Bazzdows Wishes For Boons](/Events/bazzdows-wishes-for-boons)
 - [Recruiting Old Allies to Mortis Lux](/Events/recruiting-old-allies-to-mortis-lux)
