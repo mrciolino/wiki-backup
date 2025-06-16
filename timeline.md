@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T14:26:59.530Z
+date: 2025-06-16T14:27:34.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -133,7 +133,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
   - [Meeting Inferno](/Events/meeting-inferno)
 - The party returns to Kaltrosar Bay (I dont remember why, i think this ends with it burning down again).
-- The party meet with a group of Dragonborn aligned with Darmuth, believing her to be the world's savior.
+- The party meet with a group of Dragonborn aligned with Darmuth. They believe her to be the world's savior.
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
 - [The Infinite Library Dimension](/Events/the-library-dimension)
 - The party seeks out Bazzalt, the third Bazz brother. They find him in the mountains near Inferno's rest. They use the memory device obtained from Rathwing to show Bazzalt everything that happened during the adventure so far.
