@@ -2,7 +2,7 @@
 title: Fleeing To Kaltrosar
 description: The party makes landfall and flees towards Kaltrosar after the death of Krorg
 published: true
-date: 2025-06-06T14:30:16.383Z
+date: 2025-06-16T14:18:34.163Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:26:04.757Z
@@ -22,3 +22,6 @@ From here they ride their carriage to Kaltrosar Bay.
 
 ## Return to Kaltrosar Bay
 The party arrives in Kaltrosar Bay. Still wary of attack, they want to prepare for their journey to Fywick. They hire Dilliard, Illiard's cousin to outfit the carriage with armor plating. They also do some shopping for supplies and potions before departing.
+
+## Os Meets His First Wife
+During his first adventure back with the crew, Os met a beautiful dwarf woman named Glorora. After a night of glorious passion, Glorora joined Os as his fiancee, becoming a background member of the crew.
