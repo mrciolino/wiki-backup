@@ -2,13 +2,13 @@
 title: Reuniting in Gothriathon
 description: The party is sent by Krorg to capture Os
 published: true
-date: 2025-06-16T14:13:50.086Z
+date: 2025-06-16T14:16:23.017Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:10:46.071Z
 ---
 
-#  Reuniting in Gothriathon
+# Reuniting in Gothriathon
 After three years, Krorg is ready to go to war with Gothriathon over the economic situation. He wants Os captured and returned to Altricia to be forced to open up Gothriathon to the dragon sea trading network.
 
 
@@ -45,11 +45,9 @@ After finding Os, Frederina is captured by Os' faction in gothriathon.
 
 This led to Os reuniting with Narascus, the party member responsible for his banishment. 
 
-They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him at first. While the two clashed initially, this meeting allowed Os to finally confront Narascus, who recognized his mistake(and had an existential crisis along the way). Os sends Frederina back to Krorg with a message of peace.
+They trade her for Narascus who Os questions and tries to convince that he wishes for peace. Narascus doesnt believe him at first. Os sends Frederina back to Krorg with a message of peace.
 
 The party (Frederina) acquires a flying ship while in Gothriathon from the deck of many things. The ship is manned by skeletons with strange power symbols on their heads. This skeletal crew can be commanded by whoever is at the wheel steering the ship. Frederina departs on this ship when sent back to Krorg by Os.
-
-Os was accepted back into the party, exonerated and forgiven.
 
 
 ## Meade Joins The Party
@@ -60,3 +58,5 @@ After joining the group, Meade does pull a card from the deck of many things and
 
 ## Os Comes Willingly
 The party attack Os and his dwarven guards, trying to capture him. Spoops intervenes, trying to negotiate peace between the party and Os while fighting back Bazzvrah and saving Narascus from being beaten by Os and the dwarves. Os, Meade, and Narascus come to terms. Os surrenders, asking that he he brought back to Altricia to answer for his crimes against capitalism and to negotiate peace. The party fully reunites and sails back to Altricia.
+
+While Os and Narascus clashed initially, their meeting allowed Os to finally confront Narascus, who recognized his mistake(and had an existential crisis along the way). During the journey home, Os was accepted back into the party, exonerated and forgiven.
