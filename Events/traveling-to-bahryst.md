@@ -2,14 +2,14 @@
 title: Traveling to Bahryst
 description: The party flys to Bahryst
 published: true
-date: 2025-06-16T13:13:48.257Z
+date: 2025-06-16T13:13:54.248Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:24:47.283Z
 ---
 
 # Traveling to Bahryst
-The party travels to bahryst in their flying ship. Thry make a few stops along the way.
+The party travels to bahryst in their flying ship. They make a few stops along the way.
 
 
 ## Elon Musk
