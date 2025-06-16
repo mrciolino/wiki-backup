@@ -1,8 +1,8 @@
 ---
 title: Exploring The Ancient Sunken Elven City
-description: The party delves into an ancient city in search of Spoops’ memories.
+description: The party delves into an ancient city in search of treasure
 published: true
-date: 2025-06-16T14:50:53.888Z
+date: 2025-06-16T14:51:16.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:50:53.887Z
