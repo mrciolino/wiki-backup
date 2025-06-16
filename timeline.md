@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-16T14:41:41.138Z
+date: 2025-06-16T14:42:05.031Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -169,7 +169,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party finds some psychic fish people called the Kroatoa.
 - The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
 - 
-- The party seeks out Aphir the Mighty
+- The party seeks out Aphir The Mighty
 - Donald duck gives the party directions to the ancient elven city beneath the ocean as it is supposedly somewhere related to Spoops. He provides the party with a belt of intellect and tells the party to make Spoops wear it as it will wipe any memories he makes with it on once he removes it. For some reason Donald is adamant that Spoops not learn more about his past. Spoops does wear it, bjt the party fills him in on everything he forgets later.
 - Seeking treasure in the sunken high elf kingdom (finding Jormungandr)
 - Just before entering the throne room, The Witch King arrives saying hell help them out. The party doesnt particularly want hos help as they dont trust him, but he just laughs and joins anyway.
