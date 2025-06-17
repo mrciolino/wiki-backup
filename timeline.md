@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T14:28:50.557Z
+date: 2025-06-17T14:29:53.357Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
