@@ -2,7 +2,7 @@
 title: Meeting With Asmodeus
 description: The party goes to hell to negotiate the treaty
 published: true
-date: 2025-06-17T18:50:21.714Z
+date: 2025-06-17T19:00:54.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T13:32:16.173Z
