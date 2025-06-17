@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T15:31:27.374Z
+date: 2025-06-17T15:43:41.261Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -299,13 +299,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Weakening of Cyric](/Events/weakening-of-cyric)
 - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
 - [Treaty With the Council of Gods](/Events/treaty-with-the-council-of-gods)
-- 
 - Meeting The Norse Gods. 
-- The Third Time Chamber
-- Bazzdos improves the Earrings of Tiny Respite, improving the time dilation to allow them to reopen after a few days rather than 7 years. 
-- After improving the earrings, Bazzdos and Spoops order some wights and todds to quickly bring crates of materials and supplies into the room. With everything they need inside, Bazzdos and Spoops enter the room and close the gate behind them. They spend the next 5000 years re-forging the Shard of Divinity into its perfect form, and crafting machines of immense power including the magically enhanced laser lenses, laser power sources, magical enhancement rings inscribed with runic spells, etc. 
-- One of the Todds ended up stuck in the room with them, so they spent some time teaching it to forge and attempted to teach him to speak.
-- Upon leaving the Time Chamber, Spoops and Bazzdos have every ship equipped with a small laser beam. Tu'narath, Mecha-tarasque, HQ and the party's ship are equipped with large lasers. The Penne-trator missiles are also created to be piloted by the vanguard during the start of the final battle. 
+- [The Third Time Chamber](/Events/the-third-time-chamber)
 - [The Ithilid War](/Events/ithilid-war)
 - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun. The Age of Mortals ends and the Age of Ascended begins.
 - Spoops spends the next 1000 years fulfilling his promises to Mortis Lux and the Council of Gods.
