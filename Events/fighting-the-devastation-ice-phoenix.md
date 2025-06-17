@@ -2,14 +2,14 @@
 title: Fighting The Devastation Ice Phoenix
 description: The party engages a new kind of devastation creature
 published: true
-date: 2025-06-17T13:56:00.316Z
+date: 2025-06-17T13:56:46.454Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T13:56:00.316Z
 ---
 
 # Fighting The Devastation Ice Phoenix
-
+While hunting for more Devastation Vermin, the party encounters a new Devastation Creature unrelated to the others.
 
 ## Narrowly Escaping 
 The party locates the devastation Ice Phoenix and battles it atop a mountain. However after seeing its powerful icey abilities first hand, they retreat to do some preparation.
