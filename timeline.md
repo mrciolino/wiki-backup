@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T17:59:09.350Z
+date: 2025-06-17T18:16:15.809Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -214,10 +214,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party return the princess of Hellaress to her home.
 
 
-- Delivering the ring to King Sunfenix. When the king puts on the ring, Bane takes over his body.
-- Bane reveals that he has taken full control over King Sunfenix's body and gloats that he rules Hellaress. 
-- The party rest in the castle for the night. The next morning, Spoops tells Bazzdows not to tell Bane that he had woken up yet. Spoops teleports to the library dimension where he asks Bazzalt to teleport him to Wegate. Once in Wegate Spoops and his paladins begin raising wights for his army.
-- As a reward for bringing him back, Bane grants Adalynn her choice of 10th level spells from his collection. Bane grants her the Blade of Cataclysm, Ushorans Catastrophe, and Moving Mountains spells.
+- [Returning Princess Sunfenix Home](/Events/returning-princess-sunfenix-home)
 - 
 - The party meets up with Spoops in Wegate. Bazzdows uses Dio to locate a potion master. He detects one far to the south east, the party travels there and meets the potion master who lives in a floating island or on a giant crab or something. 
 - On their way back to Wegate, the party find a giant hermit crab with a shipwreck for a shell. Within the shipwreck they find the phylactery of a lich. Spoops soul steals the phylactery, extracting the soul of a lich from the necrotic wars named Baxter Stradavahri.. After introductions are made, the Lich pledges loyalty to Spoops and reverence for Ralindu before being allowed to return to a living body.
