@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T12:30:44.172Z
+date: 2025-06-17T12:31:44.522Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -147,7 +147,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - The party finds Darmuth's Phylactery which is in the knot in the portal in the hole in the hat.
 
-- Bazzalt restrains an unconscious Darmuth.
 
 - The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
 - [Spoops Escapes The Dragon Lair](/Events/spoops-escapes-the-dragon-lair)
