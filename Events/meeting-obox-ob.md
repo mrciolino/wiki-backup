@@ -2,7 +2,7 @@
 title: Meeting Obox-ob
 description: The party is captured by a powerful demon
 published: true
-date: 2025-06-17T14:21:37.368Z
+date: 2025-06-17T14:24:15.927Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T14:21:37.368Z
@@ -18,6 +18,8 @@ After reading a name (Obox-ob), they found on an item in Vlaakith's treasury, th
 
 ## Dinner Party in The Abyss
 They find themselves in a dining room with a few others, namely the Witch King Bane, and another individual dressed in green who introduces themselves as the Norse God Loki.
+
+Loli gives Spoops a rocky green orb and says to break it if hes ever in a bind.
 
 Obox-ob welcomes the party to his home and expresses a wish to become allys. He makes offers of power to thr party in exchange for a pact with him. The party attempt to politely refuse, wanting nothing to do with a creature as immensely powerful and evil as Obox-ob.
 
