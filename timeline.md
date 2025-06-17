@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T14:02:07.173Z
+date: 2025-06-17T14:02:37.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -245,7 +245,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Breezy-E starts tearing pages out of some books, and using them to roll joints. Sharing with Os.
 - The party encounters two tarasques fighting in a cave. A robotic tarasque and another one. They begin fighting the tarasque and intending to capture the robotic one, Bazzdos yells at the party not to kill his new robot pet.
 - Spoops uses his Ring of Magnificent size to grow to maximum size, then he attacks the tarasques. He absolutely obliterates the first tarasque
-- Bazzdos uses his magical knowledge and technical expertise to analyze the source code of the Mecha-Tarasque, allowing him to capture and tames it.
+- Bazzdos uses his magical knowledge and technical expertise to analyze the source code of the Mecha-Tarasque, allowing him to capture and tame it.
 - Bazzdos uses his ring of enlightenment to cast awaken on the Mecha-Tarasque.
 - The party seeks out Hephaestus in Olympus. Bazzdos wants to use Hephaestus as a forging mentor to elevate his skills.
 - Breezy-E gets really into some Ambrosia wine while in Olympus. Upon sharing it with the party they all gain a boon which empowers them further.
