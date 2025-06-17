@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T14:28:12.397Z
+date: 2025-06-17T14:28:50.557Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -285,6 +285,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - 
 - The party proceed to the final section guided by Adalynn. Breezy-E wandered off and was left behind.
 - Breezy-E enters a new room and encounters Athin. They proceed together to the next section.
+- 
 - 
 - 
 - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
