@@ -2,7 +2,7 @@
 title: Meeting With Asmodeus
 description: The party goes to hell to negotiate the treaty
 published: true
-date: 2025-06-13T13:39:30.670Z
+date: 2025-06-17T18:50:21.714Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T13:32:16.173Z
@@ -47,7 +47,7 @@ Spoops admires the gargantuan corpse of a dragon which he thinks would be a perf
 
 
 ## The Princess' Betrayal
-The princess gathers the party into a sealed room warded against communications with the outside. During the meeting, the princess brings in multiple generals who are betraying Asmodeus to serve her. They divulge their plan to turn on Asmodeus and allow angels into hell to fight against the demons and install her as ruler of the hells. Once all have arrived and begin speaking of betrayal, the party spring into action. Breezy-E and Bazzdos create a distraction while Spoops pretends to fall backwards out of his chair, Adalynn immediately opens a gate below Spoops, sending him out of the sealed room. Once outside, he contacts Asmodeus, informing him that they have all the traitors in one room and they've already divilged details of their plan to have generals betray him. Asmodeus arrives in the meeting room, and his daughter and generals are taken into custody. He thanks the party and allows them to send the dragon corpse and Martin back to Mortis Lux HQ.
+The princess gathers the party into a sealed room warded against communications with the outside. During the meeting, the princess brings in multiple generals who are betraying Asmodeus to serve her. They divulge their plan to turn on Asmodeus and allow angels into hell to fight against the demons and install her as ruler of the hells. Once all have arrived and begin speaking of betrayal, the party spring into action. Breezy-E and Bazzdos create a distraction while Spoops pretends to fall backwards out of his chair, Adalynn immediately opens a gate below Spoops, sending him out of the sealed room, back to where the dragon corpse was. Once outside, he contacts Asmodeus, informing him that they have all the traitors in one room and they've already divilged details of their plan to have generals betray him. Asmodeus arrives in the meeting room, and his daughter and generals are taken into custody. He thanks the party and allows them to send the dragon corpse and Martin back to Mortis Lux HQ. Spoops enlarges himself and attempts to remove the dragon corpse by force, Asmodeus stops him and says hell take care of it in a bit.
 
 
 ## Reaching Terms
