@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T14:01:05.215Z
+date: 2025-06-17T14:02:07.173Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -227,7 +227,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - On their way back to Wegate, the party find a giant hermit crab with a shipwreck for a shell. Within the shipwreck they find the phylactery of a lich. Spoops soul steals the phylactery, extracting the soul of a lich from the necrotic wars named Baxter Stradavahri.. After introductions are made, the Lich pledges loyalty to Spoops and reverence for Ralindu before being allowed to return to a living body.
 - 
 - Return to Fywick
-- Inferno's wedding to the princess of the parrot shogunate
+- Inferno's wedding to the princess of the parrot shogunate.
 - Fighting Assassins hired by The Emperor.
 - Bazzdows draws a card and is granted 50 gems, each worth 1000 gold.
 - The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
