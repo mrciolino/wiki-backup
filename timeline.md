@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T17:52:56.825Z
+date: 2025-06-17T17:54:44.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -151,11 +151,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
 - [Spoops Escapes The Dragon Lair](/Events/spoops-escapes-the-dragon-lair)
 
-- The party decide to travel to Wegate to finish Spoops' rebellion. They begin flying towards Wegate, going east over the dragon sea.
-
-- The party decides to take out Breezy-E's enemy Aku. Aku is slain at the stronghold of fiery ruin. The party is able to take him out by true polymorphing some small creatures into dragon turtles as they are dropped from the ship onto his castle. The massive impacts from the dragon turtles caused massive explosions, obliterating the castle and enlarging the caldera of the volcano.
-- Dave Bones is encountered as a big bone monster on an island in the dragon sea to the east of Waford castle. The party slays him once again, destroying his body and soul. Or so they think!
-- While flying over the dragon sea, the party finds treasure in an old dragon hoard under the Dragon Sea. They fill a demi plane with gold, jewels, and magic items.
+- [Adventures in The Dragon Sea]
 - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
 - [Invading Darmuth's Lair](/Events/invading-darmuths-lair)
 - [Fighting Darmuth](/Events/fighting-darmuth)
