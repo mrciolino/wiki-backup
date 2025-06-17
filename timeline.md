@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T12:31:44.522Z
+date: 2025-06-17T13:52:40.665Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -176,7 +176,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Exploring The Ancient Sunken Elven City](/Events/exploring-the-ancient-sunken-elven-city)
 - [The First Time Chamber](/Events/the-first-time-chamber)
 - 
-- Magical College of Porthy
+- Exploring The Magical College of Porthy
 - Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
 - [Siege of The Witch King's Castle](/Events/seige-of-the-witch-kings-castle)
 - The party returns to Hellaress to rest and report to King Sunfenix. 
