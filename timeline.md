@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T16:58:17.656Z
+date: 2025-06-17T17:48:25.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -136,8 +136,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - The party meet with a group of Dragonborn aligned with Darmuth. They believe her to be the world's savior.
 - Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
 - [The Infinite Library Dimension](/Events/the-library-dimension)
-- The party seeks out Bazzalt, the third Bazz brother. They find him in the mountains near Inferno's rest. They use the memory device obtained from Rathwing to show Bazzalt everything that happened during the adventure so far.
-- After joining up with Bazzalt, the party journeys to Hastow to search for Darmuth's phylactery and investigate any Illithid activity.
+- [Bazzalt Joins The Party](/Events/bazzalt-joins-the-party)
 - [Return to Hastow](/Events/return-to-hastow)
 - Drakham's mother Adalynn joins the party.
 
