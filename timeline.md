@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T18:47:28.719Z
+date: 2025-06-17T19:33:12.755Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -292,7 +292,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
 - [Weakening of Cyric](/Events/weakening-of-cyric)
 - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
-- Upon returning to Mortis lux HQ, Spoops returns to normal size as he steps through the gate. Instead of leaving Spoops' ribcage, he gets curious about Spoops' leather stomach and goes in. He is transported to the elemental plane if water where Glub Glub lives. 
+- Upon returning to Mortis lux HQ, Spoops returns to normal size as he steps through the gate. Instead of leaving Spoops' ribcage, he gets curious about Spoops' leather stomach and goes in. He is transported to the elemental plane of water where Glub Glub lives. 
 - Glub Glub finds Bazzdos and mind controls him, forcing him to serve. Through speaking to Bazzdos, Glub Glub finds out about Bazz' new lasers, so he demands Bazzdos gice some to him.
 - Bazzdos mounts some lasers on Glub Glub's claw.
 - Upon realising Bazzdos went in his stomach, and finding him unresponsive via speaking stone, the party gate to the plane of eater to retrieve him. Upon arrival, Glub Glub tries to blast the party with a laser, Spoops redirects Glub Glub's laser back at him, knocking it off his claw. 
