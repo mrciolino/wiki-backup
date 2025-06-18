@@ -2,7 +2,7 @@
 title: Meeting The Dragonborn of Kaltrosar
 description: The party return to kaltrosar to meet with darmuth sympathizers
 published: true
-date: 2025-06-18T12:09:00.169Z
+date: 2025-06-18T12:11:08.588Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T12:08:46.308Z
@@ -11,6 +11,8 @@ dateCreated: 2025-06-18T12:08:46.308Z
 # Meeting The Dragonborn of Kaltrosar
 The party returns to Kaltrosar Bay to meet with the dragonborn clans. 
 
+
+## Meeting The Dragonborn Clans
 The party meet with a group of Dragonborn aligned with Darmuth. They believe her to be the world's savior.
 
 
