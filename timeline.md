@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T13:33:20.749Z
+date: 2025-06-18T13:35:20.943Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -282,7 +282,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
   - [Glub Glub Mind Controls Bazzdos](/Events/glub-glub-mind-controls-bazzdos)
   - [Treaty With the Council of Gods](/Events/treaty-with-the-council-of-gods)
-  - Meeting The Norse Gods. 
+  - [Meeting The Norse Gods]
   - [The Third Time Chamber](/Events/the-third-time-chamber)
   - [The Ithilid War](/Events/ithilid-war)
   - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun. The Age of Mortals ends and the Age of Ascended begins.
