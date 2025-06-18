@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:13:48.694Z
+date: 2025-06-18T12:18:45.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -137,7 +137,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Bazzalt Joins The Party](/Events/bazzalt-joins-the-party)
   - [Return to Hastow](/Events/return-to-hastow)
   
-  - [Searching For The Phylactery]
+  - [Searching For Darmuth's Phylactery](/Events/searching-for-darmuths-phylactery)
 - [Spoops Escapes The Dragon Lair](/Events/spoops-escapes-the-dragon-lair)
 
 - [Adventures in The Dragon Sea](/Events/adventures-in-the-dragon-sea)
