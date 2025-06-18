@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:21:01.409Z
+date: 2025-06-18T12:24:35.671Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -151,41 +151,41 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Arrival To Hellaress](/Events/arrival-to-hellaress)
   - [Killing Fiad](/Events/killing-fiad)
   - [Exploring The Sunken Pyramid](/Events/exploring-the-sunken-pyramid)
-- 
-- The party finds some psychic fish people called the Kroatoa.
-- The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
-- 
-- The party seeks out Aphir The Mighty
-- Upon arrival to the city, they are met by a strange wizard named Donald Duck. They appear to be a duck in a little blue outfit. However, despite their appearance, they are quite a serious person and regard the party with suspicion. They caution the party against traveling with Spoops. He refuses to elaborate on why. Donald escorts the party to Aphir.
-- The party meet with the mysterious demi-god leader of the city named Aphir.
-- [Exploring The Ancient Sunken Elven City](/Events/exploring-the-ancient-sunken-elven-city)
-- [The First Time Chamber](/Events/the-first-time-chamber)
-- 
-- Exploring The Magical College of Porthy
-- Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
-- [Siege of The Witch King's Castle](/Events/seige-of-the-witch-kings-castle)
-- The party returns to Hellaress to rest and report to King Sunfenix. 
-- The party locate Princess Vilra Sunfenix in the Feywild where The Witch King had been keeping her. She was helping care for refugees who fled the Devastation creatures and did not want to leave until all Devastation creatures were wiped out. The party inform her that only two remain and in the meantime they will send Adalynn's simulacrum to protect the princess and refugees, and prepare them for extraction. Adalynn's simulacrum possesses a a bearded red headed man in their late thirties and stays among the refugees.
-- [Fighting The Devastation Phoenix](/Events/fighting-the-devastation-ice-phoenix)
-- The party meets Glaculs the necromancer. 
-- 
-- Magical College of Highhold
-- The party fights Illithids underground beneath the Highhold Magic College Library.
-- The party meets Edward the golden warforged knight. 
-- The mind flayers attempt to eat Spoops' brain but find nothing there because hes a skeleton.
-- The party fights an Illithid dragon.
-- The party meets King Lancel Highhold.
-- [Escape From Sigil](/Events/escape-from-sigil)
-- The party reunites at the Magical College of Highhold with the addition of Elira.
-- The party continue fighting Illithids. Os uses Dominate Monster to dominate one of the Illithids.
-- The party meets Archmage Snorri
-- Bazzdows picks up some assassination notes off the ground.
-- assassination note 1) the emperor- salavation guarenteed
-- assassination note 2) the rich man who lived - giving a kingdom
-- assassination note 3) Gloutonies Maximus - Kingdom
-- The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only way to beat them is to work together from now on. The party brings both Highhold and the Magical College of Highhold into their new organization.
-- [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
-- [Bazzdows Wishes For Boons](/Events/bazzdows-wishes-for-boons)
+  - 
+  - The party finds some psychic fish people called the Kroatoa.
+  - The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
+  - 
+  - The party seeks out Aphir The Mighty
+  - Upon arrival to the city, they are met by a strange wizard named Donald Duck. They appear to be a duck in a little blue outfit. However, despite their appearance, they are quite a serious person and regard the party with suspicion. They caution the party against traveling with Spoops. He refuses to elaborate on why. Donald escorts the party to Aphir.
+  - The party meet with the mysterious demi-god leader of the city named Aphir.
+  - [Exploring The Ancient Sunken Elven City](/Events/exploring-the-ancient-sunken-elven-city)
+  - [The First Time Chamber](/Events/the-first-time-chamber)
+  - 
+  - Exploring The Magical College of Porthy
+  - Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
+  - [Siege of The Witch King's Castle](/Events/seige-of-the-witch-kings-castle)
+  - The party returns to Hellaress to rest and report to King Sunfenix. 
+  - The party locate Princess Vilra Sunfenix in the Feywild where The Witch King had been keeping her. She was helping care for refugees who fled the Devastation creatures and did not want to leave until all Devastation creatures were wiped out. The party inform her that only two remain and in the meantime they will send Adalynn's simulacrum to protect the princess and refugees, and prepare them for extraction. Adalynn's simulacrum possesses a a bearded red headed man in their late thirties and stays among the refugees.
+  - [Fighting The Devastation Phoenix](/Events/fighting-the-devastation-ice-phoenix)
+  - The party meets Glaculs the necromancer. 
+  - 
+  - Magical College of Highhold
+  - The party fights Illithids underground beneath the Highhold Magic College Library.
+  - The party meets Edward the golden warforged knight. 
+  - The mind flayers attempt to eat Spoops' brain but find nothing there because hes a skeleton.
+  - The party fights an Illithid dragon.
+  - The party meets King Lancel Highhold.
+  - [Escape From Sigil](/Events/escape-from-sigil)
+  - The party reunites at the Magical College of Highhold with the addition of Elira.
+  - The party continue fighting Illithids. Os uses Dominate Monster to dominate one of the Illithids.
+  - The party meets Archmage Snorri
+  - Bazzdows picks up some assassination notes off the ground.
+  - assassination note 1) the emperor- salavation guarenteed
+  - assassination note 2) the rich man who lived - giving a kingdom
+  - assassination note 3) Gloutonies Maximus - Kingdom
+  - The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only way to beat them is to work together from now on. The party brings both Highhold and the Magical College of Highhold into their new organization.
+  - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
+  - [Bazzdows Wishes For Boons](/Events/bazzdows-wishes-for-boons)
 - [Recruiting Old Allies to Mortis Lux](/Events/recruiting-old-allies-to-mortis-lux)
 - [Creating The Protein Shake of Power](/Events/creating-the-protein-shake-of-power)
 - Hunting down the last devastation vermin.
