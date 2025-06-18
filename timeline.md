@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:12:11.821Z
+date: 2025-06-18T12:12:49.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -138,7 +138,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Return to Hastow](/Events/return-to-hastow)
   
   - The party goes into the caves under Hastow. 
-  
  
 - Drakham's mother Adalynn joins the party.
 
