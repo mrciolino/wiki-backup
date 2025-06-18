@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:11:36.126Z
+date: 2025-06-18T12:12:11.821Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -136,9 +136,11 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Infinite Library Dimension](/Events/the-library-dimension)
   - [Bazzalt Joins The Party](/Events/bazzalt-joins-the-party)
   - [Return to Hastow](/Events/return-to-hastow)
+  
+  - The party goes into the caves under Hastow. 
+  
+ 
 - Drakham's mother Adalynn joins the party.
-
-- The party goes into the caves under Hastow. 
 
 - In the cave system the party encounters Darmuth's forces.
 
