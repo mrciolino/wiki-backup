@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:05:46.157Z
+date: 2025-06-18T12:11:21.879Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -132,7 +132,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Traveling to Bahryst](/Events/traveling-to-bahryst)
   - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
   - [Meeting Inferno](/Events/meeting-inferno)
-- [Meeting The Dragonborn of Kaltrosar]
+- [Meeting The Dragonborn of Kaltrosar](/Events/meeting-the-dragonborn-of-kaltrosar)
 - [The Infinite Library Dimension](/Events/the-library-dimension)
 - [Bazzalt Joins The Party](/Events/bazzalt-joins-the-party)
 - [Return to Hastow](/Events/return-to-hastow)
