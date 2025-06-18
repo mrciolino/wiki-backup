@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-17T20:26:14.059Z
+date: 2025-06-18T12:05:46.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -132,10 +132,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Traveling to Bahryst](/Events/traveling-to-bahryst)
   - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
   - [Meeting Inferno](/Events/meeting-inferno)
-- The party returns to Kaltrosar Bay to meet with the dragonborn clans. 
-- The party meet with a group of Dragonborn aligned with Darmuth. They believe her to be the world's savior.
-- Spoops Hires Gilly the dwarven smith to forge the dragon scale he received from Inferno into a new sword. Gilly crafts an absolute masterpiece, the greatsword known as Blazing Glory. It is a sword whose blade can burn so hot it can melt trees. Spoops immediately tests it iut on a nearby tree, cutting it in half, melting it and setting the remains on fire.
-- Achilles joins the party. He tries to steal their dicks so the party kills him. They bring him back to life and then he joins after settling down.
+- [Meeting The Dragonborn of Kaltrosar]
 - [The Infinite Library Dimension](/Events/the-library-dimension)
 - [Bazzalt Joins The Party](/Events/bazzalt-joins-the-party)
 - [Return to Hastow](/Events/return-to-hastow)
