@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:12:49.487Z
+date: 2025-06-18T12:13:48.694Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -137,16 +137,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Bazzalt Joins The Party](/Events/bazzalt-joins-the-party)
   - [Return to Hastow](/Events/return-to-hastow)
   
-  - The party goes into the caves under Hastow. 
- 
-- Drakham's mother Adalynn joins the party.
-
-- In the cave system the party encounters Darmuth's forces.
-
-- The party finds Darmuth's Phylactery which is in the knot in the portal in the hole in the hat.
-
-
-- The party fights a dragon named Karroash. Spoops gets knocked out and swallowed. He awakens in the dragons lair.
+  - [Searching For The Phylactery]
 - [Spoops Escapes The Dragon Lair](/Events/spoops-escapes-the-dragon-lair)
 
 - [Adventures in The Dragon Sea](/Events/adventures-in-the-dragon-sea)
