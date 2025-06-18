@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T18:36:58.371Z
+date: 2025-06-18T18:38:45.573Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -281,7 +281,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Investigating Godsbane](/Events/investigating-godsbane)
   - [Adalynn Captured by Daurgothoth](/Events/adalynn-captured-by-daurgothoth)
   - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
-  - The party teleport to the Elemental Plane of Chaos in search of a titanic gemstone.
+  - The party teleport to the Elemental Plane of Chaos in search of a titanic gemstone. After they returned from their last trip empty handed due to Rabiah owning the resources around the spawning stone they preciously found, they go in search of another spawning stone. 
   - Upon arrival, they see a massive storm of magical energy and material in the distance. They bet that they will find huge stones and gems there, so they teleport once again, this time to the middle lf the shorm. They assumed there would be a calm eye of the storm, however they were wrong. 
   - They accidentally arrive in the xosive chaos in the middle kf the Spawning Stone which is a giant torrent of magical energy and material. Spoops is able to negate the damage using his boon of invincibility, however Bazzdos is obliterated. Spoops grabs his soul at the last moment as Adalynn gates them away. Bazzdos asks Spoops to release his soul so that he can return using the clone body Adalynn prepared for him. Spoops complies and Bazzdos goes to his new body.
   - [Weakening of Cyric](/Events/weakening-of-cyric)
