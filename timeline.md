@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T20:34:32.407Z
+date: 2025-06-18T20:35:20.791Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -239,7 +239,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
   - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
   - [Meeting Obox-Ob](/Events/meeting-obox-ob)
-  - [The Spawning Stone and Rabiah](/Events/the-spawning-stone-and-rabiah)
   - [Saving the Sun](/Events/saving-the-sun)
   - [Searching for Gond Souls](/Events/searching-for-gond-souls)
   - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
@@ -270,6 +269,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - 
   - 
   - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
+  - [The Spawning Stone and Rabiah](/Events/the-spawning-stone-and-rabiah)
   - The party begins preparations for the final War against the Ithilids.
   - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank. 
   - [Illithids in Krorg's Hometown](/items/illithids-in-krorgs-hometown)
