@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T14:23:21.822Z
+date: 2025-06-18T14:24:33.303Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -188,10 +188,12 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Bazzdows Wishes For Boons](/Events/bazzdows-wishes-for-boons)
   - [Recruiting Old Allies to Mortis Lux](/Events/recruiting-old-allies-to-mortis-lux)
   - [Creating The Protein Shake of Power](/Events/creating-the-protein-shake-of-power)
+  - 
   - Hunting down the last devastation vermin.
+  - 
   - Spoops magically obtains the can of whoop ass.
   - The party hunts down and fights the devastation Beetle. 
-
+  - 
   - Feywild Buffoonery
   - Retrieving the princess of Hellaress from the feywild: Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
   - The party meets Reginald the fey creature.
