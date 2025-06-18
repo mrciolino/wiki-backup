@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T14:17:40.154Z
+date: 2025-06-18T14:21:56.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -255,14 +255,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The demi-god Athin impedes the party's expedition as he seeks information for the gods and has standing orders to take them out. Some of the party battle Atin and slay him, sending him back to the heavens, Breezy-E was not present for this battle. 
   - Spoops encounters a terrified group of paladins who serve Bahamut. They are on a holy mission to expel the demons within this section of the library and take control for the Council of Gods, however they ran into a particularly powerful creature that killed some of their men. They immediately recognize Spoops for who he is and prepare for the worst. Spoops has to calm them down as he explains he means them no harm, he tells them that given their weakened state they should stick with him and they would get out of here together. Spoops tells them more about how he really just wants the Gods to quit trying to kill him and as long as they don't try to fight him, Spoops won't either. Eventually They re-group with the rest of the party and encounter the creature that was killing these paladins.
   - 
-  -  
-  - Shar grants Spoops access to the shadow weave. 
-  - The party encounters an Illithid in the library. 
-  - 
   - 
   - The party enters a wing of the library where all of the books and shelves are giant sized. 
   - Spoops uses his ring to increase in size so thst he would be closer in size to the scale of the shelves and books. The rest of the party ride into the room atop Spoops.
   - Within this room are demons and worshipers of Shar both riding chariots into battle against each other. The party assist the worshippers of Shar against the demons obliterating them entirely.
+  - 
+  - The party and Shar worshippers manage to escape to the next room where they thank the party for their help. Spoops then prays to Shar to tell her that he just ran into some of her followers in the library and gave them a hand. After a flirtatious reunion between the two, Shar grants Spoops access to the shadow weave.
+  - 
+  - The party encounters an Illithid in the library. 
   - 
   - The party proceed to the final section guided by Adalynn. Breezy-E wandered off and was left behind.
   - Breezy-E enters a new room and encounters Athin. They proceed together to the next section.
