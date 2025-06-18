@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T14:21:56.502Z
+date: 2025-06-18T14:22:15.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -252,7 +252,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - 
   - As they proceed deeper into the forbidden section, they enter a wing of the library that is stragely dark. 
   - The party splits up to explore the area. 
-  - The demi-god Athin impedes the party's expedition as he seeks information for the gods and has standing orders to take them out. Some of the party battle Atin and slay him, sending him back to the heavens, Breezy-E was not present for this battle. 
+  - The demi-god Athin impedes the party's expedition as he seeks information for the gods and has standing orders to take Spoops out. Some of the party battle Atin and slay him, sending him back to the heavens, Breezy-E was not present for this battle. 
   - Spoops encounters a terrified group of paladins who serve Bahamut. They are on a holy mission to expel the demons within this section of the library and take control for the Council of Gods, however they ran into a particularly powerful creature that killed some of their men. They immediately recognize Spoops for who he is and prepare for the worst. Spoops has to calm them down as he explains he means them no harm, he tells them that given their weakened state they should stick with him and they would get out of here together. Spoops tells them more about how he really just wants the Gods to quit trying to kill him and as long as they don't try to fight him, Spoops won't either. Eventually They re-group with the rest of the party and encounter the creature that was killing these paladins.
   - 
   - 
