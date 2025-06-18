@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:32:18.942Z
+date: 2025-06-18T12:39:14.164Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -260,33 +260,33 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The party encounters an Illithid in the library. 
   - 
   - 
-- The party enters a wing of the library where all of the books and shelves are giant sized. 
-- Spoops uses his ring to increase in size so thst he would be closer in size to the scale of the shelves and books. The rest of the party ride into the room atop Spoops.
-- Within this room are demons and worshipers of Shar both riding chariots into battle against each other. The party assist the worshippers of Shar against the demons obliterating them entirely.
-- 
-- The party proceed to the final section guided by Adalynn. Breezy-E wandered off and was left behind.
-- Breezy-E enters a new room and encounters Athin. They proceed together to the next section.
-- 
-- 
-- 
-- **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
-- The party begins preparations for the final War against the Ithilids.
-- Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
-- [Illithids in Krorg's Hometown](/items/illithids-in-krorgs-hometown)
-- [Deal with Lolth](/Events/deal-with-lolth)
-- [The Council of Gods Convene](/Events/the-council-of-gods-convene)
-- [Investigating Godsbane](/Events/investigating-godsbane)
-- Adalynn Captured by Daurgothoth
-- [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
-- [Weakening of Cyric](/Events/weakening-of-cyric)
-- [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
-- [Glub Glub Mind Controls Bazzdos](/Events/glub-glub-mind-controls-bazzdos)
-- [Treaty With the Council of Gods](/Events/treaty-with-the-council-of-gods)
-- Meeting The Norse Gods. 
-- [The Third Time Chamber](/Events/the-third-time-chamber)
-- [The Ithilid War](/Events/ithilid-war)
-- Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun. The Age of Mortals ends and the Age of Ascended begins.
-- Spoops spends the next 1000 years fulfilling his promises to Mortis Lux and the Council of Gods.
+  - The party enters a wing of the library where all of the books and shelves are giant sized. 
+  - Spoops uses his ring to increase in size so thst he would be closer in size to the scale of the shelves and books. The rest of the party ride into the room atop Spoops.
+  - Within this room are demons and worshipers of Shar both riding chariots into battle against each other. The party assist the worshippers of Shar against the demons obliterating them entirely.
+  - 
+  - The party proceed to the final section guided by Adalynn. Breezy-E wandered off and was left behind.
+  - Breezy-E enters a new room and encounters Athin. They proceed together to the next section.
+  - 
+  - 
+  - 
+  - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
+  - The party begins preparations for the final War against the Ithilids.
+  - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank.
+  - [Illithids in Krorg's Hometown](/items/illithids-in-krorgs-hometown)
+  - [Deal with Lolth](/Events/deal-with-lolth)
+  - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
+  - [Investigating Godsbane](/Events/investigating-godsbane)
+  - Adalynn Captured by Daurgothoth
+  - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
+  - [Weakening of Cyric](/Events/weakening-of-cyric)
+  - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
+  - [Glub Glub Mind Controls Bazzdos](/Events/glub-glub-mind-controls-bazzdos)
+  - [Treaty With the Council of Gods](/Events/treaty-with-the-council-of-gods)
+  - Meeting The Norse Gods. 
+  - [The Third Time Chamber](/Events/the-third-time-chamber)
+  - [The Ithilid War](/Events/ithilid-war)
+  - Overcoming the strongest opponents and obstacles, the Low Bar Brawlers usher in a new age of godlike beings taking control on Mardun. The Age of Mortals ends and the Age of Ascended begins.
+  - Spoops spends the next 1000 years fulfilling his promises to Mortis Lux and the Council of Gods.
 
 ---
 
