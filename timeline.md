@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:24:35.671Z
+date: 2025-06-18T12:30:13.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -186,79 +186,78 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - The party convinces the ruler of Highhold and Archmages of the college that the Illithids are a major threat and the only way to beat them is to work together from now on. The party brings both Highhold and the Magical College of Highhold into their new organization.
   - [Saragassa Mortis Lux Recruitment](/Events/saragassa-mortis-lux-recruitment)
   - [Bazzdows Wishes For Boons](/Events/bazzdows-wishes-for-boons)
-- [Recruiting Old Allies to Mortis Lux](/Events/recruiting-old-allies-to-mortis-lux)
-- [Creating The Protein Shake of Power](/Events/creating-the-protein-shake-of-power)
-- Hunting down the last devastation vermin.
-- Spoops magically obtains the can of whoop ass.
-- The party hunts down and fights the devastation Beetle. 
+  - [Recruiting Old Allies to Mortis Lux](/Events/recruiting-old-allies-to-mortis-lux)
+  - [Creating The Protein Shake of Power](/Events/creating-the-protein-shake-of-power)
+  - Hunting down the last devastation vermin.
+  - Spoops magically obtains the can of whoop ass.
+  - The party hunts down and fights the devastation Beetle. 
 
-- Feywild Buffoonery
-- Retrieving the princess of Hellaress from the feywild: Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
-- The party meets Reginald the fey creature.
-- The party end up in a strange village. 
-- The party realizes that the villiage is an illusion. Spoops activities his anti-magic armor to break the illusion. It turns out it was no simple illusion, the party was trapped in the web of a giant dream spider, all of them experiencing a shared dream.
-- The party meets Verondora the giant feywild spider.
-- Spoops tells Verondora all about his religion. They take great interest in it and convert to the religion. Verondora and her children are all now worshippers of Spoops.
-- gaudiena gave us right to enter to the vale -> gives us two medallions, each is a gold chain with an emerald medallian, that says "friend and warrior". She says we must visit to talk to meldrion.
-- The party return the princess of Hellaress to her home.
+  - Feywild Buffoonery
+  - Retrieving the princess of Hellaress from the feywild: Princess Alarielle Ariadne Estalla Zirina faralla verturu liara westebelle Sunfenix.
+  - The party meets Reginald the fey creature.
+  - The party end up in a strange village. 
+  - The party realizes that the villiage is an illusion. Spoops activities his anti-magic armor to break the illusion. It turns out it was no simple illusion, the party was trapped in the web of a giant dream spider, all of them experiencing a shared dream.
+  - The party meets Verondora the giant feywild spider.
+  - Spoops tells Verondora all about his religion. They take great interest in it and convert to the religion. Verondora and her children are all now worshippers of Spoops.
+  - gaudiena gave us right to enter to the vale -> gives us two medallions, each is a gold chain with an emerald medallian, that says "friend and warrior". She says we must visit to talk to meldrion.
+  - The party return the princess of Hellaress to her home.
 
 
-- [Returning Princess Sunfenix Home](/Events/returning-princess-sunfenix-home)
-- 
-- The party meets up with Spoops in Wegate. Bazzdows uses Dio to locate a potion master. He detects one far to the south east, the party travels there and meets the potion master who lives in a floating island or on a giant crab or something. 
-- On their way back to Wegate, the party find a giant hermit crab with a shipwreck for a shell. Within the shipwreck they find the phylactery of a lich. Spoops soul steals the phylactery, extracting the soul of a lich from the necrotic wars named Baxter Stradavahri.. After introductions are made, the Lich pledges loyalty to Spoops and reverence for Ralindu before being allowed to return to a living body.
-- 
-- Return to Fywick
-- Inferno's wedding to the princess of the parrot shogunate.
-- Fighting Assassins hired by The Emperor.
-- Bazzdows draws a card and is granted 50 gems, each worth 1000 gold.
-- The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
-- 
-- 
-- 
-- [Creation of Mortis Lux HQ](/Events/creation-of-mortis-lux-hq)
-- [Vlaakith's Offer](/Events/vlaakiths-offer)
-- [The First Great Sin of Spoops](/Events/the-first-great-sin-of-spoops)
-- [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
-- [The Second Time Chamber](/Events/the-second-time-chamber)
-- [Spoops vs. Zeus](/Events/spoops-vs-zeus)
-- [The Second Great Sin of Spoops](/Events/the-second-great-sin-of-spoops)
-- The party goes to the Library Dimension
-- Breezy-E starts tearing pages out of some books, and using them to roll joints. Sharing with Os.
-- The party encounters two tarasques fighting in a cave. A robotic tarasque and another one. They begin fighting the tarasque and intending to capture the robotic one, Bazzdos yells at the party not to kill his new robot pet.
-- Spoops uses his Ring of Magnificent size to grow to maximum size, then he attacks the tarasques. He absolutely obliterates the first tarasque
-- Bazzdos uses his magical knowledge and technical expertise to analyze the source code of the Mecha-Tarasque, allowing him to capture and tame it.
-- Bazzdos uses his ring of enlightenment to cast awaken on the Mecha-Tarasque.
-- The party seeks out Hephaestus in Olympus. Bazzdos wants to use Hephaestus as a forging mentor to elevate his skills.
-- Breezy-E gets really into some Ambrosia wine while in Olympus. Upon sharing it with the party they all gain a boon which empowers them further.
-- Spoops' immovable rod is destroyed when he uses it to keep the revolving door to Hephaestus' forge open to allow he and Os to pass.
-- Hephaestus, having a shared hatred for Zeus, agrees to allow Bazzdos to make a pact with him to elevate Bazzdos' skills with the forge.
-- [Selune's Gathering](/Events/selunes-gathering)
-- [Spoops' Ascention](/Events/spoops-ascention)
-- [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
-- [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
-- [Meeting Obox-Ob](/Events/meeting-obox-ob)
-- 
-- Spoops meets Rabiah the storm giant woman in her tower at the spawning stone in the elemental plane of chaos. Upon finding himself in this plane, he ascends the tower and finds two golems guarding an control panel. Spoops cautiously approaches and activates the panel, causing the platform to begin descending into the tower. Upon reaching the bottom, he is greeted by Rabiah's butler and aRabiah herself. Rabiah welcomes Spoops into her home and introduces herself as a forge-master and merchant. She has set up shop around an infinitely generating pillar of mithril which she uses to build her magical golems. Spoops begins trying to recruit her into Mortis Lux, but she refuses. Instead she offers to sell golems to Mortis Lux, and provides a "method of secure communication" 59 Spoops in case he wishes to discuss this further. This communicator is what appears to be a humanoid creature, heavily bound and chained, Rabiah is able to speak through the mouth of this creature. Spoops puts the creature in his demi-plane and leaves. As he departs, the butler takes a look at his Shard of Divinity and comments on the single flaw in the hilt. Saying it would have to be remade to fix it entirely. Spoops takes this under consideration.
-- The party arrives at the spawning stone to retrieve Spoops. 
-- [Saving the Sun](/Events/saving-the-sun)
-- [Searching for Gond Souls](/Events/searching-for-gond-souls)
-- Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
-- Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
-- 
-- Searching The Forbidden Section of The Library
-- The party returns to the Infinite Library Dimension in search of books that can tell them information on The Emperor and his current wherabouts.
-- The party battles various angels and demons all fighting for control of the powerful books contained within the forbidden section of the libary.
-- As a librarian of the infinite library, Adalynn is able to guide the party through the maze of halls and studies that make up the libary.
-- 
-- As they proceed deeper into the forbidden section, they enter a wing of the library that is stragely dark. 
-- The party splits up to explore the area. 
-- The demi-god Athin impedes the party's expedition as he seeks information for the gods and has standing orders to take them out. Some of the party battle Atin and slay him, sending him back to the heavens, Breezy-E was not present for this battle. 
-- Spoops encounters a terrified group of paladins who serve Bahamut. They are on a holy mission to expel the demons within this section of the library and take control for the Council of Gods, however they ran into a particularly powerful creature that killed some of their men. They immediately recognize Spoops for who he is and prepare for the worst. Spoops has to calm them down as he explains he means them no harm, he tells them that given their weakened state they should stick with him and they would get out of here together. Spoops tells them more about how he really just wants the Gods to quit trying to kill him and as long as they don't try to fight him, Spoops won't either. Eventually They re-group with the rest of the party and encounter the creature that was killing these paladins.
-- 
--  
-- Shar grants Spoops access to the shadow weave. 
-- The party encounters an Illithid in the library. 
+  - [Returning Princess Sunfenix Home](/Events/returning-princess-sunfenix-home)
+  - 
+  - The party meets up with Spoops in Wegate. Bazzdows uses Dio to locate a potion master. He detects one far to the south east, the party travels there and meets the potion master who lives in a floating island or on a giant crab or something. 
+  - On their way back to Wegate, the party find a giant hermit crab with a shipwreck for a shell. Within the shipwreck they find the phylactery of a lich. Spoops soul steals the phylactery, extracting the soul of a lich from the necrotic wars named Baxter Stradavahri.. After introductions are made, the Lich pledges loyalty to Spoops and reverence for Ralindu before being allowed to return to a living body.
+  - 
+  - Return to Fywick
+  - Inferno's wedding to the princess of the parrot shogunate.
+  - Fighting Assassins hired by The Emperor.
+  - Bazzdows draws a card and is granted 50 gems, each worth 1000 gold.
+  - The party is attacked by some Evil Os. Spoops makes a wish to kill them: "I wish that each member of the party, including Bazzdows, Spoops, Elira, Adalynn, and Os each gain a 3rd level boon by using the lives of the Evil Os' as a sacrifice to gain this power."
+  - 
+  - 
+  - [Creation of Mortis Lux HQ](/Events/creation-of-mortis-lux-hq)
+  - [Vlaakith's Offer](/Events/vlaakiths-offer)
+  - [The First Great Sin of Spoops](/Events/the-first-great-sin-of-spoops)
+  - [Building The Great Port of Wegate](/Events/building-the-great-port-of-wegate)
+  - [The Second Time Chamber](/Events/the-second-time-chamber)
+  - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
+  - [The Second Great Sin of Spoops](/Events/the-second-great-sin-of-spoops)
+  - The party goes to the Library Dimension
+  - Breezy-E starts tearing pages out of some books, and using them to roll joints. Sharing with Os.
+  - The party encounters two tarasques fighting in a cave. A robotic tarasque and another one. They begin fighting the tarasque and intending to capture the robotic one, Bazzdos yells at the party not to kill his new robot pet.
+  - Spoops uses his Ring of Magnificent size to grow to maximum size, then he attacks the tarasques. He absolutely obliterates the first tarasque
+  - Bazzdos uses his magical knowledge and technical expertise to analyze the source code of the Mecha-Tarasque, allowing him to capture and tame it.
+  - Bazzdos uses his ring of enlightenment to cast awaken on the Mecha-Tarasque.
+  - The party seeks out Hephaestus in Olympus. Bazzdos wants to use Hephaestus as a forging mentor to elevate his skills.
+  - Breezy-E gets really into some Ambrosia wine while in Olympus. Upon sharing it with the party they all gain a boon which empowers them further.
+  - Spoops' immovable rod is destroyed when he uses it to keep the revolving door to Hephaestus' forge open to allow he and Os to pass.
+  - Hephaestus, having a shared hatred for Zeus, agrees to allow Bazzdos to make a pact with him to elevate Bazzdos' skills with the forge.
+  - [Selune's Gathering](/Events/selunes-gathering)
+  - [Spoops' Ascention](/Events/spoops-ascention)
+  - [Preparing for the Githyanki War](/Events/githyanki-war-preparation)
+  - [The Githyanki War](/Events/githyanki-war) and fall of Vlaakith's Empire. 
+  - [Meeting Obox-Ob](/Events/meeting-obox-ob)
+  - 
+  - Spoops meets Rabiah the storm giant woman in her tower at the spawning stone in the elemental plane of chaos. Upon finding himself in this plane, he ascends the tower and finds two golems guarding an control panel. Spoops cautiously approaches and activates the panel, causing the platform to begin descending into the tower. Upon reaching the bottom, he is greeted by Rabiah's butler and aRabiah herself. Rabiah welcomes Spoops into her home and introduces herself as a forge-master and merchant. She has set up shop around an infinitely generating pillar of mithril which she uses to build her magical golems. Spoops begins trying to recruit her into Mortis Lux, but she refuses. Instead she offers to sell golems to Mortis Lux, and provides a "method of secure communication" 59 Spoops in case he wishes to discuss this further. This communicator is what appears to be a humanoid creature, heavily bound and chained, Rabiah is able to speak through the mouth of this creature. Spoops puts the creature in his demi-plane and leaves. As he departs, the butler takes a look at his Shard of Divinity and comments on the single flaw in the hilt. Saying it would have to be remade to fix it entirely. Spoops takes this under consideration.
+  - The party arrives at the spawning stone to retrieve Spoops. 
+  - [Saving the Sun](/Events/saving-the-sun)
+  - [Searching for Gond Souls](/Events/searching-for-gond-souls)
+  - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
+  - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
+  - 
+  - Searching The Forbidden Section of The Library
+  - The party returns to the Infinite Library Dimension in search of books that can tell them information on The Emperor and his current wherabouts.
+  - The party battles various angels and demons all fighting for control of the powerful books contained within the forbidden section of the libary.
+  - As a librarian of the infinite library, Adalynn is able to guide the party through the maze of halls and studies that make up the libary.
+  - 
+  - As they proceed deeper into the forbidden section, they enter a wing of the library that is stragely dark. 
+  - The party splits up to explore the area. 
+  - The demi-god Athin impedes the party's expedition as he seeks information for the gods and has standing orders to take them out. Some of the party battle Atin and slay him, sending him back to the heavens, Breezy-E was not present for this battle. 
+  - Spoops encounters a terrified group of paladins who serve Bahamut. They are on a holy mission to expel the demons within this section of the library and take control for the Council of Gods, however they ran into a particularly powerful creature that killed some of their men. They immediately recognize Spoops for who he is and prepare for the worst. Spoops has to calm them down as he explains he means them no harm, he tells them that given their weakened state they should stick with him and they would get out of here together. Spoops tells them more about how he really just wants the Gods to quit trying to kill him and as long as they don't try to fight him, Spoops won't either. Eventually They re-group with the rest of the party and encounter the creature that was killing these paladins.
+  - 
+  -  
+  - Shar grants Spoops access to the shadow weave. 
+  - The party encounters an Illithid in the library. 
 - 
 - 
 - The party enters a wing of the library where all of the books and shelves are giant sized. 
