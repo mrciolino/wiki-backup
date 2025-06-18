@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T14:24:33.303Z
+date: 2025-06-18T14:44:59.531Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -280,6 +280,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Investigating Godsbane](/Events/investigating-godsbane)
   - [Adalynn Captured by Daurgothoth](/Events/adalynn-captured-by-daurgothoth)
   - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
+  - Spoops and Bazzdos attempt to teleport to the Elemental Plane of Chaos.
+  - They accidentally arrive at the Spawning Stone which is a giant torrent of magical energy and material. Spoops is able to negate the damage using his boon of invincibility, however Bazzdos is obliterated. Spoops grabs his soul at the last moment as Adalynn gates them home.
   - [Weakening of Cyric](/Events/weakening-of-cyric)
   - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
   - [Glub Glub Mind Controls Bazzdos](/Events/glub-glub-mind-controls-bazzdos)
