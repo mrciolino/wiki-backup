@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:19:09.941Z
+date: 2025-06-18T12:19:36.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -147,10 +147,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Waking Bazzdows](/Events/waking-bazzdows)
 
 ### Adventures in Ereriad and Beyond
-- [Arrival To Ereriad](/Events/arrival-to-ereriad)
-- [Arrival To Hellaress](/Events/arrival-to-hellaress)
-- [Killing Fiad](/Events/killing-fiad)
-- [Exploring The Sunken Pyramid](/Events/exploring-the-sunken-pyramid)
+  - [Arrival To Ereriad](/Events/arrival-to-ereriad)
+  - [Arrival To Hellaress](/Events/arrival-to-hellaress)
+  - [Killing Fiad](/Events/killing-fiad)
+  - [Exploring The Sunken Pyramid](/Events/exploring-the-sunken-pyramid)
 - 
 - The party finds some psychic fish people called the Kroatoa.
 - The party kills 10s of fish people, an aboleth, and iron golem while Bazzdos terrorizes a mimic.
