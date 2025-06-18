@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T12:30:13.177Z
+date: 2025-06-18T12:32:18.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -258,8 +258,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   -  
   - Shar grants Spoops access to the shadow weave. 
   - The party encounters an Illithid in the library. 
-- 
-- 
+  - 
+  - 
 - The party enters a wing of the library where all of the books and shelves are giant sized. 
 - Spoops uses his ring to increase in size so thst he would be closer in size to the scale of the shelves and books. The rest of the party ride into the room atop Spoops.
 - Within this room are demons and worshipers of Shar both riding chariots into battle against each other. The party assist the worshippers of Shar against the demons obliterating them entirely.
