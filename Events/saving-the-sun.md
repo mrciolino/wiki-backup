@@ -2,7 +2,7 @@
 title: Saving The Sun
 description: A cult is trying to extinguish the sun
 published: true
-date: 2025-05-20T14:32:08.125Z
+date: 2025-06-18T15:01:29.693Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T14:23:15.910Z
@@ -28,4 +28,10 @@ During the battle Spoops uses his ring to maximize his size, using his giant mir
 ## Within The Sun
 The party finds themselves surrounded by a field of millions of roses, each one is the manifestation of the shattered soul of one of the sacrifices. Spoops is devastated by this sight and upon realizing the souls are irreparable, he uses Soul Absorption to put them to a final rest. He distributes this energy among the party, granting them minor boons to help punish those who committed this sin. This solemn use of Soul Absorption gave Spoops the will to seek redemption for guilt he carried after previously using the same spell to obliterate billions of owlbears. 
 
-The party proceeds to the nest of the Solar Dragon where they fight off the enemy and Adalynn is able to make a deal with the Ancient Solar Dragon to become a dragon herself.
+The party proceeds to the nest of the Solar Dragon. Where they fight the enemy. 
+
+The enemy leader managed to infect the solar dragon, and it was now under their control. 
+
+During the battle, Spoops manages to use his ability to cut off the solar drahon from the weave, dropping their magical defenses and making them vulnerable. Adalynn was then able to use wish to cure the dragon and free it from enemy control.
+
+Adalynn is able to make a deal with the Ancient Solar Dragon to become a dragon herself.
