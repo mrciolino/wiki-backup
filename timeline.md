@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-18T13:53:42.505Z
+date: 2025-06-18T13:59:25.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -277,6 +277,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
   - [Investigating Godsbane](/Events/investigating-godsbane)
   - Adalynn Captured by Daurgothoth
+  - Daurgothoth uses some unknown method to extract Adalynn from the emptiness she was in after being struck by the Banhammer. Recognizing her powerful magicsl ability, he then binds Adalynn to his sevice by creating a magical collar using is magic and her own blood, and placing it around her neck, binding it to her soul.
+  - Daurgothoth seems to have enslaved an entire community of gnomes and has also started to gather Gond souls fragments. He commands Adalynn to retrieve more Gond soul fragments.
   - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
   - [Weakening of Cyric](/Events/weakening-of-cyric)
   - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
