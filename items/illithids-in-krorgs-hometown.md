@@ -2,7 +2,7 @@
 title: Illithids in Krorg’s Hometown
 description: The party prepares to fight Illithids in Krorg’s Hometown
 published: true
-date: 2025-06-17T17:44:59.408Z
+date: 2025-06-19T17:40:03.358Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T15:49:57.260Z
@@ -23,7 +23,7 @@ The party soon find out that the people here have basically no defenses, so Mort
 
 
 ## The Illithids Arrive
-As the party is explaining thr situation to the townsfolk in the center of town, the Illithids begin their attack. Some of the townsfolk had already been infected by tadpoles, so they turn into mind flayers in the middle of the crowd and begin their attack. One of their ships is also atttacked while above the town. The Nautiloid ships are using the clouds for cover while circling and attacking Mortis Lux and the town.
+As the party is explaining the situation to the townsfolk in the center of town, the Illithids begin their attack. Some of the townsfolk had already been infected by tadpoles, so they turn into mind flayers in the middle of the crowd and begin their attack. One of their ships is also atttacked while above the town. The Nautiloid ships are using the clouds for cover while circling and attacking Mortis Lux and the town.
 
 The party orders some of their ships to patrol higher in the sky and destroy any ships they encounter. Their other ships begin evacuating the town and deploying undead troops to exterminate any Illithids on the ground. 
 
