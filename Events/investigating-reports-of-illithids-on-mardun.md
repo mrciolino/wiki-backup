@@ -2,7 +2,7 @@
 title: Investigating Reports of Illithids on Mardun
 description: The party descends on Mardun hunting Illithids
 published: true
-date: 2025-06-19T17:43:45.316Z
+date: 2025-06-19T17:44:59.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T16:02:47.357Z
@@ -17,6 +17,7 @@ Bane insists on coming along and goes on Breezy's ship. Bane discovers hes the o
 Breezy-E plays dance music over the ships speakers and starts drinking.
 While on the ship Breezy-E sends drunk messages to his old vampire girlfriend and to Frost, his ice queen dragon girlfriend who never texts back. Then he starts playing beer pong with Bane, Luther, and Lokunai.
 
+After some more games, Breezy-E grumbles to himself: "Witch *hic* King... mother freaking cheater at *hic* flip cup"
 
 ## Descent Underground
 With Adalynn missing, the party travels to the frostfell mountains via Spelljammer warship. Breezy commands a squad of four warships patrolling the surface while Spoops and Bazzdos blast their way through the ground towards the supposed nest, guided by Spoops' knife leg.
