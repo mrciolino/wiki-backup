@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-19T01:51:37.200Z
+date: 2025-06-19T14:57:59.833Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -224,12 +224,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Second Time Chamber](/Events/the-second-time-chamber)
   - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
   - [The Second Great Sin of Spoops](/Events/the-second-great-sin-of-spoops)
-  - The party goes to the Library Dimension
-  - Breezy-E starts tearing pages out of some books, and using them to roll joints. Sharing with Os.
-  - The party encounters two tarasques fighting in a cave. A robotic tarasque and another one. They begin fighting the tarasque and intending to capture the robotic one, Bazzdos yells at the party not to kill his new robot pet.
-  - Spoops uses his Ring of Magnificent size to grow to maximum size, then he attacks the tarasques. He absolutely obliterates the first tarasque
-  - Bazzdos uses his magical knowledge and technical expertise to analyze the source code of the Mecha-Tarasque, allowing him to capture and tame it.
-  - Bazzdos uses his ring of enlightenment to cast awaken on the Mecha-Tarasque.
+  - [Capturing Mecha-Tarasque]
   - The party seeks out Hephaestus in Olympus. Bazzdos wants to use Hephaestus as a forging mentor to elevate his skills.
   - Breezy-E gets really into some Ambrosia wine while in Olympus. Upon sharing it with the party they all gain a boon which empowers them further.
   - Spoops' immovable rod is destroyed when he uses it to keep the revolving door to Hephaestus' forge open to allow he and Os to pass.
