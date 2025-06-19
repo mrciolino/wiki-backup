@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-19T01:49:13.405Z
+date: 2025-06-19T01:51:28.731Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -278,7 +278,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Investigating Godsbane](/Events/investigating-godsbane)
   - [Adalynn Captured by Daurgothoth](/Events/adalynn-captured-by-daurgothoth)
   - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
-  - [Return To The Plane of Chaos]
+  - [Return To The Plane of Chaos](/Events/return-to-the-plane-of-chaos)
   - [Weakening of Cyric](/Events/weakening-of-cyric)
   - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
   - [Glub Glub Mind Controls Bazzdos](/Events/glub-glub-mind-controls-bazzdos)
