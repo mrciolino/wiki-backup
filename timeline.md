@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-19T14:57:59.833Z
+date: 2025-06-19T15:02:06.715Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -224,7 +224,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Second Time Chamber](/Events/the-second-time-chamber)
   - [Spoops vs. Zeus](/Events/spoops-vs-zeus)
   - [The Second Great Sin of Spoops](/Events/the-second-great-sin-of-spoops)
-  - [Capturing Mecha-Tarasque]
+  - [Capturing Mecha-Tarrasque](/Events/capturing-mecha-tarrasque)
   - The party seeks out Hephaestus in Olympus. Bazzdos wants to use Hephaestus as a forging mentor to elevate his skills.
   - Breezy-E gets really into some Ambrosia wine while in Olympus. Upon sharing it with the party they all gain a boon which empowers them further.
   - Spoops' immovable rod is destroyed when he uses it to keep the revolving door to Hephaestus' forge open to allow he and Os to pass.
