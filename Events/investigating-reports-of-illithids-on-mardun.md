@@ -2,7 +2,7 @@
 title: Investigating Reports of Illithids on Mardun
 description: The party descends on Mardun hunting Illithids
 published: true
-date: 2025-06-19T17:42:36.598Z
+date: 2025-06-19T17:43:45.316Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T16:02:47.357Z
@@ -14,7 +14,7 @@ The party hears of an Illithid nest somewhere under the Frostfell mountains on M
 ## Bane and Breezy
 Bane insists on coming along and goes on Breezy's ship. Bane discovers hes the only one of the dead three not to have blessed Breezy-E so much to Spoops' dismay and Breezy-E's excitement he grants his blessing. 
 
-
+Breezy-E plays dance music over the ships speakers and starts drinking.
 While on the ship Breezy-E sends drunk messages to his old vampire girlfriend and to Frost, his ice queen dragon girlfriend who never texts back. Then he starts playing beer pong with Bane, Luther, and Lokunai.
 
 
