@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-19T16:17:52.730Z
+date: 2025-06-19T17:30:25.588Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -238,33 +238,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Saving the Sun](/Events/saving-the-sun)
   - [Searching for Gond Souls](/Events/searching-for-gond-souls)
   - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit.
-  - Book on the Emperor: The party goes to the library dimension in search of a book containing information on the Emperor. However the book is located in the Forbidden section where angels and demons are fighting a war.
   - 
-  - Searching The Forbidden Section of The Library
-  - The party returns to the Infinite Library Dimension in search of books that can tell them information on The Emperor and his current wherabouts.
-  - The party battles various angels and demons all fighting for control of the powerful books contained within the forbidden section of the libary.
-  - As a librarian of the infinite library, Adalynn is able to guide the party through the maze of halls and studies that make up the libary.
+  - [Searching The Forbidden Section of The Library](/Events/searching-the-forbidden-section-of-the-library)
   - 
-  - As they proceed deeper into the forbidden section, they enter a wing of the library that is stragely dark. 
-  - The party splits up to explore the area. 
-  - The demi-god Athin impedes the party's expedition as he seeks information for the gods and has standing orders to take Spoops out. Some of the party battle Atin and slay him, sending him back to the heavens, Breezy-E was not present for this battle. 
-  - Spoops encounters a terrified group of paladins who serve Bahamut. They are on a holy mission to expel the demons within this section of the library and take control for the Council of Gods, however they ran into a particularly powerful creature that killed some of their men. They immediately recognize Spoops for who he is and prepare for the worst. Spoops has to calm them down as he explains he means them no harm, he tells them that given their weakened state they should stick with him and they would get out of here together. Spoops tells them more about how he really just wants the Gods to quit trying to kill him and as long as they don't try to fight him, Spoops won't either. Eventually They re-group with the rest of the party and encounter the creature that was killing these paladins.
-  - 
-  - 
-  - The party enters a wing of the library where all of the books and shelves are giant sized. 
-  - Spoops uses his ring to increase in size so thst he would be closer in size to the scale of the shelves and books. The rest of the party ride into the room atop Spoops.
-  - Within this room are demons and worshipers of Shar both riding chariots into battle against each other. The party assist the worshippers of Shar against the demons obliterating them entirely.
-  - 
-  - The party and Shar worshippers manage to escape to the next room where they thank the party for their help. Spoops then prays to Shar to tell her that he just ran into some of her followers in the library and gave them a hand. After a flirtatious reunion between the two, Shar grants Spoops access to the shadow weave.
-  - 
-  - The party encounters an Illithid in the library. 
-  - 
-  - The party proceed to the final section guided by Adalynn. Breezy-E wandered off and was left behind.
-  - Breezy-E enters a new room and encounters Athin. They proceed together to the next section.
-  - 
-  - 
-  - 
-  - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
+  
+  - Ascention of Ghazali
+	- Spoops calls Ghazali into the room, he tells him that in recognition of both his failures and successes, he will be elevated to the position of his first Archangel. Spoops uses his divine powers to morph Ghazali's form into that of a skeletal winged angel. Spoops then names him Ghazali, The Archangel of Atonement. Spoops orders him to forge himself new armor and weapon fit for his position and form as an archangel. Spoops gives him the silver necklace of Ry-ann and an empty soul crystal to use in the creation of his armor. Bazzdos sends Ghazali into the forge dimension to begin.
+
+  
   - [The Spawning Stone and Rabiah](/Events/the-spawning-stone-and-rabiah)
   - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank. 
   - [Illithids in Krorg's Hometown](/items/illithids-in-krorgs-hometown)
