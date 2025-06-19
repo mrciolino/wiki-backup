@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-19T15:03:06.538Z
+date: 2025-06-19T16:17:52.730Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -162,7 +162,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The First Time Chamber](/Events/the-first-time-chamber)
   - 
   - Exploring The Magical College of Porthy
-  - Investigating the Magic College of Porthy. The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
+  - The party explores the magic college library. On a statue in the library is a magical iron halo. It is a religious artifact of the fire Goddess Pyrocinae. It has important historical and religious significance to the people of the city, and Spoops wants it. While the rest of the party is looking for books and Adalynn is searching for powerful ancient spells, Spoops quickly steals the Iron Halo and leaves.
   - [Siege of The Witch King's Castle](/Events/seige-of-the-witch-kings-castle)
   - The party returns to Hellaress to rest and report to King Sunfenix. 
   - The party locate Princess Vilra Sunfenix in the Feywild where The Witch King had been keeping her. She was helping care for refugees who fled the Devastation creatures and did not want to leave until all Devastation creatures were wiped out. The party inform her that only two remain and in the meantime they will send Adalynn's simulacrum to protect the princess and refugees, and prepare them for extraction. Adalynn's simulacrum possesses a a bearded red headed man in their late thirties and stays among the refugees.
