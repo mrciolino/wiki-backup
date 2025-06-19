@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-19T01:51:28.731Z
+date: 2025-06-19T01:51:37.200Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -270,7 +270,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - 
   - **[Breezye](/characters/breezye)** creates the **[Spaghetti God](/entities/spaghetti-god)**.  
   - [The Spawning Stone and Rabiah](/Events/the-spawning-stone-and-rabiah)
-  - The party begins preparations for the final War against the Ithilids.
   - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank. 
   - [Illithids in Krorg's Hometown](/items/illithids-in-krorgs-hometown)
   - [Deal with Lolth](/Events/deal-with-lolth)
