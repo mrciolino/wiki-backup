@@ -2,7 +2,7 @@
 title: Investigating Reports of Illithids on Mardun
 description: The party descends on Mardun hunting Illithids
 published: true
-date: 2025-06-19T17:44:59.562Z
+date: 2025-06-19T17:47:01.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T16:02:47.357Z
@@ -24,7 +24,14 @@ With Adalynn missing, the party travels to the frostfell mountains via Spelljamm
 
 Spoops ends up crashing directly into the tower of a city inhabited by deep gnomes who unbeknownst to him serve Daurgothoth. Bazz is far more graceful with his flying and landing using his rocket gauntlets. 
 
-They reunite with Adalynn who was bound to service of Daaurgothoth.
+
+Somehow Adalynn frees herself. She becomes an ice clone or something???
+
+Adalynn flees upwards through the caves through the gnome city.
+
+The party reunite with Adalynn now free from her service to Daaurgothoth.
+
+
 
 
 ## Finding The Nest
