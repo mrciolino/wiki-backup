@@ -2,7 +2,7 @@
 title: Pirate Raid
 description: When the party starting planning things
 published: true
-date: 2025-06-20T17:20:37.107Z
+date: 2025-06-20T17:21:26.791Z
 tags: todo
 editor: markdown
 dateCreated: 2025-03-25T16:06:20.138Z
@@ -89,9 +89,6 @@ Phoenix in a cage
 On the night of celebration, the party breaks out the Deck of Many Things, and decides to start pulling cards in their less than sober state. Bazzert pulls the card of ruin, and Krorg informs him that his Pirate accountants made a mistake, and his share of 128,000 gold was left unaccounted for. Angered, Bazzert pulls another card to try and win his money back, but pulls a bad card and gets put into a coma. Os pulls the traitor card. Narascus immediately turns against Os, accusing him of betraying the party. The party begin trying to kill Os, however Spoops steps in and stops them. Spoops wants to hear Os out and doesn't want Os murdered. Os takes this opportunity to run from his friends in Altricia. When Krorg hears the news about Os and Bazzert, he concludes Os must have stolen Bazzert's soul. He then takes Os's share of the treasure and puts a bounty on his head, making him the most wanted man in the world. By sunrise, the members of the party depart each to go their own way for the next few years as a means to use their new treasure. Frederina, stays in the service of Krorg, however Spoops wants nothing to do with the manhunt for Os, so he departs for [Wegate](/locations/Mardun/Wegate). Narascus also departs to lead his growing church in [Hastow](/locations/Mardun/Hastow).  
 
 - [Krorg](/characters/krorg) stays in Altricia to lead it as the new king.
-- [Spoops](/characters/spoops) goes to [Wegate](/locations/Mardun/Wegate)
-- [Narascus](/characters/Narascus) goes to Hastow to build a cathedral.
-- [Breezy-E](/characters/breezy)
 - [Bazzert](/characters/bazzert) remains in his soulless coma, kept safely inside the castle vault.
 - [Os](/characters/os) goes on the run, and ends up in [Gothriathon](/locations/Mardun/Gothriathon)
 - Frederina is given a ship and beings sailing around the dragon sea.
