@@ -2,7 +2,7 @@
 title: Spoops vs. Zeus
 description: Bazzdows signs Spoops up for a fight without his consent
 published: true
-date: 2025-06-20T01:47:36.135Z
+date: 2025-06-20T01:56:54.666Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T15:38:30.393Z
@@ -17,7 +17,11 @@ While Spoops and Adalynn were with Vlaakith, Bazzdos was investigating Assassina
 ## Spoops and Zeus fight 1v1: 
 The party travels to a colessium on Olympus where an angry Zeus is waiting to fight Spoops. Zeus had been decieved by the [Prophet of Profit](/characters/krorg) into replacing all of Olympus' treasury with Bombcoin, and after Spoops freed Bomb's soul, the value of Bombcoin dropped to 0. Unable to locate the Prophet, Zeus decides to take out his frustration on Spoops instead.
 
-Breezy-E and Bazzdows watch from the stands, drinking from gravy boats of wine. Spoops immediately uses 10 charges of enlarge on himself, dwarfing Zeus in size, but no matter what attacks he makes at Zeus, he cant even scratch him. Zeus also has difficulty damaging Spoops as he is immune to lightning damage and magic, and is forced to settle for physical damage. He is able to drag Zeus through the far realms by drinking a Protein Shake of Power. This greatly affects Zeus' mind, and Spoops took the opportunity to use his 12th level spell: The Banhammer. However to Spoops' surprise the hammer has no effect on Zeus. Instead Zeus grabs the hammer and smashes Spoops into the ground, killing him. Zeus then entirely obliterates the arena before leaving, Breezy-E manages to survive the explosion, however Bazzdows is shattered. Spoops resurrects and sneaks away. Spoops receives a message from Adalynn asking what is going on, he replies "zeus too strong, he thinks us dead, bazz shattered, unsure about resurrection until repaired, seeking hepheastus. breezyE lives, must plan stop zeus, help". In response, Adalynn opens a gate to retrieve them.
+Breezy-E and Bazzdows watch from the stands, drinking from gravy boats of wine. Spoops immediately uses 10 charges of enlarge on himself, dwarfing Zeus in size, but no matter what attacks he makes at Zeus, he cant even scratch him. Zeus also has difficulty damaging Spoops as he is immune to lightning damage and magic, and is forced to settle for physical damage. With all of his normal moves failing, and the rounds counting down until his enlarge spell wears off, Spoops is forced to pull some wacky shenanigans. He tries using world seed to summon a planets worth of dragons to attack Zeus, but Zeus is able to swallow them in a single breath. Spoops then  drinks a Protein Shake of Power to open a portal into the Far Realms and exposes Zeus to an outer god. This greatly affects Zeus' mind, and Spoops took the opportunity to use his 12th level spell: The Banhammer. However to Spoops' surprise the hammer has no effect on Zeus, and Zeus grabs the hammer and smashes Spoops into the ground, crushing his skull. Breezy-E attacks Zeus with his bow, but his attacks go beneath his notice. 
+
+Zeus, furious that Spoops possesses Titan weaponry, decides to use his most powerful attack, ***Hyperion Demolition of Supreme Obliteration*** to atomize Spoops so he could never return. Before launching this attack, Zeus tells everyone in the crowd to leave which Bazzdows ignores. The attack entirely obliterates the arena, Breezy-E left when Zeus told him to via a portal, and Bazzdows is shattered and his corpse is blasted into space. Afterwards, Zeus gets intel that the Prophet of Profit has been located on the Illithid Flagship, and departs to go kill him next. Spoops manages to survive this with his boon that lets him take no damage and sneaks away. 
+
+Spoops receives a message from Adalynn asking what is going on, he replies "zeus too strong, he thinks us dead, bazz shattered, unsure about resurrection until repaired, seeking hepheastus. breezyE lives, must plan stop zeus, help". In response, Adalynn opens a gate to retrieve them.
 
 
 ## Repairing Bazzdows
