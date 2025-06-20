@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-20T00:39:23.914Z
+date: 2025-06-20T00:44:05.987Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -250,6 +250,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   
   - [Deal with Lolth](/Events/deal-with-lolth)
   - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
+  - [Gathering Materials For The Imprisonment Spell](/Events/gathering-materials-for-the-imprisonment-spell)
   - [Weakening of Cyric](/Events/weakening-of-cyric)
   
   - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
