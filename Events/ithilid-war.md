@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-20T00:52:04.377Z
+date: 2025-06-20T01:36:33.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -28,6 +28,10 @@ During the final war against the Ithilids, the party mustered the full force of 
 The Ithilid's creature and Nautiloids break through the crystal sphere of Mardun, beginning their attack in multiple cities. Mortis Lux begins the assault on the the creature, and sends squads of ships to each city being attacked on the surface.
 
 During the assault, the party was stationed on their command ship where they blasted through the battlefield using their lasers. Upon their arrival to the city atop the beast's head, they fired all lasers to attempt to tunnel into its brain to kill it. The laser attack caused countless tentacles to emerge from the beast's flesh, ripping their ship apart. Before the ship fell, all aboard managed to mount the Mechatarasque piloted by Bazzdos as they fell into the opening they created in the creature's head. Spoops managed to grab ahold of the main laser and power supply before using Peace Was Never an Option to descend into the city.
+
+
+## Wegate incursion
+10 ships were sent to assist Wegate.
 
 ## Within the Ithilid's Creature
 
