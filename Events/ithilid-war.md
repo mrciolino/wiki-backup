@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-20T02:45:09.891Z
+date: 2025-06-20T02:46:44.390Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -55,7 +55,10 @@ Spoops then realised this "Execution" would not be enough to stop him during the
 With Zeus defeated, the party freed their remaining friends who were held captive in the crystal pillars, sending them back to HQ via gate. Then they made their way to the next room where the Emperor was waiting.
 
 ## The Emperor
-Finally the final battle began, the party found themselves at one end of an immense hallway, the Emperor at the other wearing the crown of Karsus, and hundreds of enemies in between. The Emperor gloated that they were too late and began his spell to reshape reality as they wished. The party realized they did not have time to fight through the hall, resist the Ithillid's creatures Abilities, and deal with the emperor's powerfull spells. Odin used a powerful spell to forcibly teleport the party, Creature, and Emperor to the elemental plane of chaos near the Spawning Stone. He positioned the creature directly in front of the rapidly growing pillar of matter which impaled the giant creature, killing it. With the giant creature's environmental psionic effects and illusions broken, the party was now free to engage the Emperor directly. 
+Finally the final battle began, the party found themselves at one end of an immense hallway, the Emperor at the other wearing the crown of Karsus, and hundreds of enemies in between. The Emperor gloated that they were too late and began his spell to reshape reality as they wished. The party realized they did not have time to fight through the hall, resist the Ithillid's creatures Abilities, and deal with the emperor's powerful spells. Odin used a powerful spell to forcibly teleport the party, Creature, and Emperor to the elemental plane of chaos near the Spawning Stone. He positioned the creature directly in front of the rapidly growing pillar of matter which impaled the giant creature, killing it. With the giant creature's environmental psionic effects and illusions broken, the party was now free to engage the Emperor directly. 
+
+Knott Emportant was mind controlled by the Emperor, so to prevent his interference with the fight, he was imprisoned by Adalynn within a Hedged Prison. The place he was imprisoned was within the elemental plane of chaos. The condition for his release is as follows: 
+"knott emportent must find his honor in the hedge, but if someone on the outside wants to free him, they must travel to the spot of his imprisonment and place a letter assigned to knott emportent, and upon reading the letter, that letter must restore his honor to free him"
 
 Breezy-e mentioned to the party the vision he received long ago about "the crystals" being the weakness of the emperor. They saw the crystals on the crown of Karsus worn by the Emerpor and knew what they had to do. Spoops and the party began their attack, destroying the crystals breaking the power of the crown. This caused the crown to begin pulsing with waves of magical energy. It was clear that the crown would soon explode with devastating power. Spoops enlarged to maximum size to move quickly. He made use of his immense size to maneuver behind the Emperor and stab them with the Spelldrinker blade. This attack combined with the 12th level spell: Divine Command, allowed him to force the Emperor to submit to his will. He demanded the Emperor stop he blast, however the Emperor admitted they would be unable to do so. Out of time, Spoops looked to Breezy-e who spoke "Omae Wa Mou Shindeiru" before beginning a chain attack which executed the Emperor. With only a few moments to spare, Spoops had no time to fly over to the party to gate to safety. He yelled to them "get of here I can take it!" as the blast went off. The rest of the party gated to safety while Spoops was able to negate much of the blast with his anti-magic armor and jump into the Well of his divine realm. The battle was finally over. The Emperor defeated and party safe.
 
@@ -64,10 +67,6 @@ Breezy-e mentioned to the party the vision he received long ago about "the cryst
 ## The Ithilids Defeated
 With the Emperor and Ithilid Menace defeated, the universe is safe from their crusade to break the chains of Carceri.
 
-
-## Knott Emportant Imprisoned
-Knott Emportant was imprisoned by Adalynn within a Hedged Prison. The place he was imprisoned was within the elemental plane of chaos. The condition for his release is as follows: 
-"knott emportent must find his honor in the hedge, but if someone on the outside wants to free him, they must travel to the spot of his imprisonment and place a letter assigned to knott emportent, and upon reading the letter, that letter must restore his honor to free him"
 
 ## Zeus
 Zeus' soul is freed however due to Spoops' desperate plan to eliminate the Corrupted Zeus, he is doomed to fade away forgotten by all.  
