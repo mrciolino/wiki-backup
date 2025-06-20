@@ -2,7 +2,7 @@
 title: Three Year Timeskip
 description: The party splits up for three years
 published: true
-date: 2025-06-02T13:44:10.425Z
+date: 2025-06-20T16:57:55.461Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-02T13:25:52.186Z
@@ -28,22 +28,22 @@ Despite his bounty, Os becomes the secret ruler and law enforcer of [Gothriathon
 On a fateful journey for the Robin Trading Co, Os' brother Eugene Vrintia is eaten by a dragon turtle.
 
 ## Spoops
-Spoops and his friend Vesrahaan begin the failed
+[Spoops](/characters/spoops) and his friend [Vesrahaan](/characters/vesrahaan) begin the failed
 [Wegate Revolution](/Events/wegate-revolution).
 
 
 ## Breezy-E
-Breezy-E gathers his Samurai clan and 200 pirates sent by Krorg to attempt to slay Aku. They fail.
+[Breezy-E](/characters/breezy) gathers his Samurai clan and 200 pirates sent by Krorg to attempt to slay [Aku](/characters/aku). They fail.
 
 
 ## Narascus
-Narascus establishes a cathedral worshipping Ry-ann, however it is run bu clerics of his own cult who believe him to be a chosen prophet of Ry-ann.
+[Narascus](/characters/Narascus) establishes a cathedral worshipping [Ry-ann](/characters/spoops), however it is run by clerics of his own cult who believe him to be a chosen prophet of Ry-ann.
 
 
 ## Bazzert 
-Bazzert remains trapper in a coma after pulling a card. He remains asleep in a barrel, kept safe in Altricia.
+[Bazzert](/characters/bazzert) remains trapped in a coma after pulling a card. He remains asleep in a barrel, kept safe in [Altricia](/locations/Mardun/Allford).
 
 
 ## Frederina
-Remains in the service of Krorg in Altricia
+[Frederina](/characters/Frederina) remains in the service of Krorg in Altricia
 
