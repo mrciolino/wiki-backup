@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-20T00:40:18.538Z
+date: 2025-06-20T00:52:04.377Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -14,6 +14,11 @@ After massive amounts or planning snd preparation, the final dawn if the final b
 
 
 # The Battle
+
+
+## Spaghetti Forces
+The total Sphagetti elementals (todds and theodores) participating in the battle is: 53,328
+
 
 ## The Plan
 During the final war against the Ithilids, the party mustered the full force of Mortis Lux and their allies and devised a plan of attack. Step one of the plan was for Breezy-e and a small elite force to pilot the Penne-trator Missile to the city on the head of the Ithillid's Creature. Then Spoops commanded their warships to form up into three waves, the first would gate into the battlefield and begin a heavy assault on the Nautiloids around the creature. The second wave would engage Nautiloids when needed but would primarily make their way to the creature to engage it and the Ithilids directly, This second wave would carry the party, whos goal was to find and eliminate the Emperor. Finally the third wave would gate in and fly above the Nautiloids, dropping troops to land on enemy ships and engage Ithilids in combat. Spoops also put his paladins in command of the defense of various cities which were being attacked by Nautiloids and tentacles of the creature.
