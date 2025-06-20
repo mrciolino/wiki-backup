@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-20T02:46:44.390Z
+date: 2025-06-20T02:47:37.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -60,7 +60,10 @@ Finally the final battle began, the party found themselves at one end of an imme
 Knott Emportant was mind controlled by the Emperor, so to prevent his interference with the fight, he was imprisoned by Adalynn within a Hedged Prison. The place he was imprisoned was within the elemental plane of chaos. The condition for his release is as follows: 
 "knott emportent must find his honor in the hedge, but if someone on the outside wants to free him, they must travel to the spot of his imprisonment and place a letter assigned to knott emportent, and upon reading the letter, that letter must restore his honor to free him"
 
-Breezy-e mentioned to the party the vision he received long ago about "the crystals" being the weakness of the emperor. They saw the crystals on the crown of Karsus worn by the Emerpor and knew what they had to do. Spoops and the party began their attack, destroying the crystals breaking the power of the crown. This caused the crown to begin pulsing with waves of magical energy. It was clear that the crown would soon explode with devastating power. Spoops enlarged to maximum size to move quickly. He made use of his immense size to maneuver behind the Emperor and stab them with the Spelldrinker blade. This attack combined with the 12th level spell: Divine Command, allowed him to force the Emperor to submit to his will. He demanded the Emperor stop he blast, however the Emperor admitted they would be unable to do so. Out of time, Spoops looked to Breezy-e who spoke "Omae Wa Mou Shindeiru" before beginning a chain attack which executed the Emperor. With only a few moments to spare, Spoops had no time to fly over to the party to gate to safety. He yelled to them "get of here I can take it!" as the blast went off. The rest of the party gated to safety while Spoops was able to negate much of the blast with his anti-magic armor and jump into the Well of his divine realm. The battle was finally over. The Emperor defeated and party safe.
+Breezy-e mentioned to the party the vision he received long ago about "the crystals" being the weakness of the emperor. They saw the crystals on the crown of Karsus worn by the Emerpor and knew what they had to do. Spoops and the party began their attack, destroying the crystals breaking the power of the crown. This caused the crown to begin pulsing with waves of magical energy. It was clear that the crown would soon explode with devastating power. Spoops enlarged to maximum size to move quickly. He made use of his immense size to maneuver behind the Emperor and stab them with the Spelldrinker blade. This attack combined with the 12th level spell: Divine Command, allowed him to force the Emperor to submit to his will. The command he issued is as follows: "obey all further commands issued by Spoops or his friends who are members of the Low Bar Brawlers, so long as they are not mind controlled, charmed, or otherwise not in control of their minds upon issuing said commands."
+
+
+He demanded the Emperor stop he blast, however the Emperor admitted they would be unable to do so. Out of time, Spoops looked to Breezy-e who spoke "Omae Wa Mou Shindeiru" before beginning a chain attack which executed the Emperor. With only a few moments to spare, Spoops had no time to fly over to the party to gate to safety. He yelled to them "get of here I can take it!" as the blast went off. The rest of the party gated to safety while Spoops was able to negate much of the blast with his anti-magic armor and jump into the Well of his divine realm. The battle was finally over. The Emperor defeated and party safe.
 
 # Conclusion
 
