@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-20T01:45:47.962Z
+date: 2025-06-20T02:45:09.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -63,6 +63,11 @@ Breezy-e mentioned to the party the vision he received long ago about "the cryst
 
 ## The Ithilids Defeated
 With the Emperor and Ithilid Menace defeated, the universe is safe from their crusade to break the chains of Carceri.
+
+
+## Knott Emportant Imprisoned
+Knott Emportant was imprisoned by Adalynn within a Hedged Prison. The place he was imprisoned was within the elemental plane of chaos. The condition for his release is as follows: 
+"knott emportent must find his honor in the hedge, but if someone on the outside wants to free him, they must travel to the spot of his imprisonment and place a letter assigned to knott emportent, and upon reading the letter, that letter must restore his honor to free him"
 
 ## Zeus
 Zeus' soul is freed however due to Spoops' desperate plan to eliminate the Corrupted Zeus, he is doomed to fade away forgotten by all.  
