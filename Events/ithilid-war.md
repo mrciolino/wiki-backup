@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-20T01:45:22.996Z
+date: 2025-06-20T01:45:47.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -48,7 +48,6 @@ The two enemies from the side halls were Nihilis, Avatar of Violence, and Coreli
 During the battle, Spoops did massive damage and was able to eliminate one of the two creatures. Ceremorph-Zeus was far more difficult, especially after Bazzdos accudentally ran into the Emperor's room alone and emerged mind controlled against the party. After finding that Zeus could not be tergeted by attacks and was immune to magic, Spoops sought to weaken him by contacting the Council of gods and asking warning them of his plan. He then used the Pen of Jergal to Kill all worshippers of Zeus. Spoops writes the following:
 
 "all worshippers of zeus are killed, their souls wrenched from their bodies and sent to the afterlife. a letter with insignias indicating immediate importance, bearing the signature of Spoops appear before The Raven Queen's Eyes, It instructs her that Zeus has been overtaken by the Ithilid enemy, and she is to immediately remove his memory from all. A similar letter appears before all members of the council of gods, saying that a letter has been sent to the raven queen with instruction to remove all memory of zeus from all, and that they must provide her immediate assistance in this task or all are at risk of perishing."
-
 
 The he asked the Raven Queen to begin removing the memories of Zeus from all living and dead, including the Gods. The Council of Gods sat in stunned silence as they realized what Spoops had done. He had just begin the slow agonizing process of "executing" a God. This would slowly begin to drain Zeus's divine power and cause him to fade.
 Spoops then realised this "Execution" would not be enough to stop him during the fight. Spoops grabbed the laser and positioned himself opposite Bazzdos with Zeus between them. He then fired his laser, targetting Bazzdos. Zeus who happened to be between them was grazed and injured by this powerful beam of non-magical damage! Then Bazzdos who was riding his Mechatarasque used its Armor plating to deflect the laser back at Spoops who did the same with his Mirror Shield. This "laser ping pong" struck Zeus eith every pass, doing immense damage each time. Eventually Zeus succumbed to his wounds and his divine soul was freed. Zeus thanked Spoops for freeing him before returning home, Spoops flipped that bitch off.
