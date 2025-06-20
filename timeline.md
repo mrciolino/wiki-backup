@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-19T17:37:16.641Z
+date: 2025-06-20T00:39:23.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -240,16 +240,18 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Somehow, Krorg returns to the realm of the living under the persona of the Prophet of Profit. (Link this out to the events of the Prophet of Profit adventure)
   - [Searching The Forbidden Section of The Library](/Events/searching-the-forbidden-section-of-the-library)
   - [Ascention of Ghazali](/Events/ascention-of-ghazali)
-  - [The Spawning Stone and Rabiah](/Events/the-spawning-stone-and-rabiah)
-  - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank. 
-  - [Illithids in Krorg's Hometown](/items/illithids-in-krorgs-hometown)
-  - [Deal with Lolth](/Events/deal-with-lolth)
-  - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
   - [Investigating Godsbane](/Events/investigating-godsbane)
   - [Adalynn Captured by Daurgothoth](/Events/adalynn-captured-by-daurgothoth)
   - [Investigating Reports of Illithids on Mardun](/Events/investigating-reports-of-illithids-on-mardun)
+  - [The Spawning Stone and Rabiah](/Events/the-spawning-stone-and-rabiah)
+  - Mortis Lux acquires a potion master. To counter the Ithilids psionics they mass produce potions of Mind Blank. 
   - [Return To The Plane of Chaos](/Events/return-to-the-plane-of-chaos)
+  - [Illithids in Krorg's Hometown](/items/illithids-in-krorgs-hometown)
+  
+  - [Deal with Lolth](/Events/deal-with-lolth)
+  - [The Council of Gods Convene](/Events/the-council-of-gods-convene)
   - [Weakening of Cyric](/Events/weakening-of-cyric)
+  
   - [Meeting With Asmodeus](/Events/meeting-with-asmodeus)
   - [Glub Glub Mind Controls Bazzdos](/Events/glub-glub-mind-controls-bazzdos)
   - [Treaty With the Council of Gods](/Events/treaty-with-the-council-of-gods)
