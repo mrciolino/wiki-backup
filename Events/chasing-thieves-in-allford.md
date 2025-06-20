@@ -2,14 +2,14 @@
 title: Chasing Thieves in Allford
 description: Some of the party get robbed upon arrival in Allford
 published: true
-date: 2025-05-22T16:09:57.644Z
+date: 2025-06-20T15:19:27.394Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T15:51:12.075Z
 ---
 
 # Chasing Thieves in Allford
-After arriving in Allford and looming for more work, the party is robbed.
+After arriving in Allford and while looking for more work, the party is robbed.
 
 ## Arrival in Allford
 After a three day voyage the party arrives to Allford and immediately get referred by Captain John Robin of the Seabird to The West Sorea Trading Company for more work. However Otto and Frederina were immediately pickpocketed and were out to get their money back.
