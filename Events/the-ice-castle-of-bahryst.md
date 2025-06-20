@@ -2,7 +2,7 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-06-16T13:12:53.322Z
+date: 2025-06-20T14:30:57.955Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
@@ -35,4 +35,10 @@ With a new friend to help, the party assaulted the mountain north of the town wh
 
 
 ## Investigating the Castle
-The party then goes to inflitrate the castle. They find the castle to be heavily guarded with magical traps and illusions. Spoops takes a turn into s room alone and finds himself trapped within nester illusions. After activating his Anti-magic armor he begins breaking out of the illusions at which point he finds he has been captured and restrained to a chair within a prison cell in the dungeon. With his armor activated he uses his knife leg and brute force to get out of his cell and retrieve the rest of his weapons. Spoops then flies through the bone devil infested dungeon to rejoin the party. After the party departed the city, Kierkegaard led the newly formed paladin order in training, cleansing sickness and death, recruitment, as well as running the affairs of the city now that Fiad was defeated and Spoops was away.
+The party then goes to inflitrate the castle. They find the castle to be heavily guarded with magical traps and illusions. Spoops takes a turn into a room alone and finds himself trapped within nested illusions. After activating his Anti-magic armor he begins breaking out of the illusions at which point he finds he has been captured and restrained to a chair within a prison cell in the dungeon. With his armor activated he uses his knife leg and brute force to get out of his cell and retrieve the rest of his weapons. Spoops then flies through the bone devil infested dungeon to rejoin the party. 
+
+The party confront Fiad at the top of the castle's tower. During their fight they are also attacked by a dragon. 
+
+At the end of the battle, Fiad escapes and not even Dio can locate him.
+
+After the party departed the city, Kierkegaard led the newly formed paladin order in training, cleansing sickness and death, recruitment, as well as running the affairs of the city now that Fiad was defeated and Spoops was away.
