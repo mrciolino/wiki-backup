@@ -2,7 +2,7 @@
 title: Fleeing Darmuth’s Pet
 description: After Darmuth located the party, her giant pet gives chase
 published: true
-date: 2025-06-23T13:47:37.516Z
+date: 2025-06-23T14:27:46.237Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:40:43.965Z
@@ -22,4 +22,4 @@ As they fly away, the party checks Dio and realizes Carl is geting closer. Someh
 
 
 ## The Emperor Tries to Recruit Narascus 
-During their flight to Fywick, [Narascus](/characters/Narascus) is visited by an Illithid representative of [The Emperor](/characters/the-emperor) named [Jerazzle](/characters/jerazzle) who the party calls Jerry, they try to recruit him but he declines. 
+During their flight to Fywick, [Narascus](/characters/Narascus) is visited by an Illithid representative of [The Emperor](/characters/Emperor) named [Jerazzle](/characters/jerazzle) who the party calls Jerry, they try to recruit him but he declines. 
