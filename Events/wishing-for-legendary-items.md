@@ -2,7 +2,7 @@
 title: Wishing For Legendary Items
 description: Spoops uses one of his wishes to obtain legendary items for the party
 published: true
-date: 2025-06-23T14:42:18.203Z
+date: 2025-06-23T14:42:50.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T15:05:30.919Z
@@ -21,5 +21,5 @@ Spoops uses a wish he gained from the deck of many things to wish for helpful le
 - [Bazvrah](/characters/Bazvrah) receives The Blood Fury Tattoo.
 - [Narascus](/characters/Narascus) received Sovereign Glue.
 - [Os](/characters/os) receives The [Horn of Valhalla](/items/horn-of-valhalla).
-- Meade receives ?
-- Breezy-E receives ?
+- [Meade](/characters/meade) receives ?
+- [Breezy-E](/characters/breezy) receives ?
