@@ -2,14 +2,14 @@
 title: Creation of Mortis Lux HQ
 description: Adalynn creates a new realm for Mortis Lux
 published: true
-date: 2025-06-08T00:25:45.304Z
+date: 2025-06-24T18:44:39.168Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T00:25:45.304Z
 ---
 
 # Creation of Mortis Lux HQ
-Adalynn uses her new spell to create the headquarters for Mortis Lux within its own custom demiplane
+[Adalynn](/characters/adalynn) uses her new spell to create the headquarters for [Mortis Lux](/organizations/mortis-lux) within its own custom demiplane.
 
 
 ## Raising The Mountain Castle
