@@ -2,7 +2,7 @@
 title: Fighting Darmuth
 description: The party engages Darmuth in battle within her lair
 published: true
-date: 2025-06-24T14:04:02.832Z
+date: 2025-06-24T14:04:26.152Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T20:39:02.181Z
@@ -43,4 +43,4 @@ Bazzalt left the party to live in the library dimension and spend time with his 
 
 
 ## Luther Rebuilds Altricia
-Luther stepped up to become regent of Altricia while the party, more concerned with the big picture, left.
+[Luther](/characters/luther) stepped up to become regent of Altricia while the party, more concerned with the big picture, left.
