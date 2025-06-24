@@ -2,13 +2,13 @@
 title: Frederina
 description: A Cat who not one wanted
 published: true
-date: 2025-06-24T02:46:06.036Z
+date: 2025-06-24T02:47:13.602Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-07T20:08:03.887Z
 ---
 
-# Federina
+# Frederina
 The Cat who didn't last
 
 ## 📜 Character Art {.tabset}
