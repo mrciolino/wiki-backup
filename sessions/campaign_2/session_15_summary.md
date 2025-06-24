@@ -2,7 +2,7 @@
 title: session_15_summary
 description: 
 published: true
-date: 2025-06-17T02:36:34.990Z
+date: 2025-06-24T03:29:26.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T02:36:34.990Z
@@ -10,7 +10,7 @@ dateCreated: 2025-06-17T02:36:34.990Z
 
 ### **[Session Metadata]**
 - **Date:** June 16th, 2025
-- **Session Number:** 14
+- **Session Number:** 15
 - **Duration:** 143.59 minutes
 - **Players Present:** Missing Logan
 
