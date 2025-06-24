@@ -2,7 +2,7 @@
 title: Fighting The Devastation Ice Phoenix
 description: The party engages a new kind of devastation creature
 published: true
-date: 2025-06-24T18:07:50.894Z
+date: 2025-06-24T18:08:26.345Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T13:56:00.316Z
@@ -20,4 +20,4 @@ The party locates the devastation Ice Phoenix and battles it atop a mountain. Ho
 
 
 ## Fighting The Ice Phoenix
-Bazzdows and Adalynn use Wall of Force and Forcecage to trap the phoenix in a demiplane where they can keep it cornered. [Spoops](/characters/spoops) keeps up the melee damage while tanking the phoenix, Bazzdows, Adalynn, and [Os](/characters/os) continue doing ranged attacks. The Ice Phoenix attempts to continuously freeze and shatter the party. Spoops manages to defend against this using his [anti-magic armor](/items/anti-magic-armor). The force cage protects the rest of the party. 
+Bazzdows and Adalynn use Wall of Force and Forcecage to trap the phoenix in a demiplane where they can keep it cornered. [Spoops](/characters/spoops) keeps up the melee damage while tanking the phoenix, Bazzdows, Adalynn, and [Os](/characters/os) continue doing ranged attacks. The Ice Phoenix attempts to continuously freeze and shatter the party. Spoops manages to defend against this using his [anti-magic armor](/items/Anti-Magic-Armor). The force cage protects the rest of the party. 
