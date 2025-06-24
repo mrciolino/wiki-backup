@@ -2,7 +2,7 @@
 title: Returning Princess Sunfenix Home
 description: The party finally returns to Hellaress with the princess
 published: true
-date: 2025-06-24T18:41:11.778Z
+date: 2025-06-24T18:43:46.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T18:08:11.075Z
