@@ -2,29 +2,29 @@
 title: Arrival To Ereriad
 description: The party travels to Ereriad and engages the Devastation Shark Scorpion
 published: true
-date: 2025-06-12T16:15:09.015Z
+date: 2025-06-24T14:16:47.365Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-12T16:09:42.139Z
 ---
 
 # Arrival To Ereriad
-The party travel through the well of many worlds to Ereriad with the purpose of eliminating all the Devastation Vermin.
+The party traveled through the [well of many worlds](/items/Well-Of-Many-Worlds) to [Ereriad](/locations/Ereriad) with the purpose of eliminating all the Devastation Vermin.
 
 
 ## Fighting The Devastation Shark Scorpion
-The party goes through the well to engage the Devastation Shark Scorpion. During the fight, Adalynn is struck by the creature snd comes close to death, Bazzdows and Spoops have difficulty piercing the creatures carapace, but when they find weak points are able to do massive damage. During the fight, Spoops manages to sever one of the scorpion's claws. They manage to kill it after a tough fight. 
+The party went through the well to engage the Devastation Shark Scorpion. During the fight, [Adalynn](/characters/adalynn) was struck by the creature and came close to death. [Bazzdows](/characters/bazzdos) and [Spoops](/characters/spoops) had difficulty piercing the creatures carapace, but when they find weak points were able to do massive damage. During the fight, Spoops managed to sever one of the scorpion's claws. They managed to kill it after a tough fight. 
 
 
 ## Dio Needs to Re-Calibrate
-Spoops tries to use Dio to chart a course between Mardun and Ereriad, Dio is unable to do so. He even tries flyong up into space using his knife leg, but gives up once realizing it would take a while.
+Spoops tried to use [Dio](/items/dio) to chart a course between [Mardun](/locations/Mardun) and [Ereriad](/locations/Ereriad), however Dio was unable to do so. He even tried flyong up into space using his [knife leg](/items/peace-was-never-an-option-dagger), but gave up once realizing it would take a while.
 
 
 ## Goats Dick End
-After defeating the creature, they find themselves outside the town of Goats Dick End. 
+After defeating the creature, they found themselves outside the town of [Goats Dick End](/locations/Ereriad/goats-dick-end). 
 
-The party meets the pissed off mayor who wanted to bribe the party to kill their useless duke, the party not knowing this man refused.
+The party met the pissed off [mayor](/characters/mayor-of-goats-dick-end) who wanted to bribe the party to kill their useless duke, the party not knowing this man refused.
 
-Spoops brings along the severed claw just in case they ever want to use it to create a weapon. Spoops tried to use Dio to find the closest large city, but Dio seems to need more time to calibrate within this new world. With Dio still calibrating, the party asks around town about the closest city. They find a traveling merchant named Nut who offers to take them along with him to the city of Hellaress.
+Spoops brought along the severed claw just in case they ever wanted to use it to create a weapon. Spoops tried to use Dio to find the closest large city, but Dio seemed to need more time to calibrate within this new world. With Dio still calibrating, the party asked around town about the closest city. They found a traveling merchant named [Nut](/characters/bane) who offers to take them along with him to the city of [Hellaress](/locations/Ereriad/Hellaress).
 
 
