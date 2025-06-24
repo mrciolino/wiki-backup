@@ -2,7 +2,7 @@
 title: Meeting The Dragonborn of Kaltrosar
 description: The party return to kaltrosar to meet with darmuth sympathizers
 published: true
-date: 2025-06-24T13:09:47.150Z
+date: 2025-06-24T13:12:50.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T12:08:46.308Z
@@ -14,6 +14,8 @@ The party returns to [Kaltrosar Bay](/locations/Mardun/Kaltrosar) to meet with t
 
 ## Meeting The Dragonborn Clans
 The party meet with a group of Dragonborn aligned with [Darmuth](/characters/Darmuth). They believe her to be the world's savior.
+
+The Caipao clan was in attendance. The head and founder of the clan, named Cai, knocked Spoops out at the start of the meeting after Spoops said something offensive.
 
 
 ## Forging Blazing Glory
