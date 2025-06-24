@@ -2,7 +2,7 @@
 title: Creation of Mortis Lux HQ
 description: Adalynn creates a new realm for Mortis Lux
 published: true
-date: 2025-06-24T18:44:39.168Z
+date: 2025-06-24T18:47:58.862Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T00:25:45.304Z
@@ -13,7 +13,7 @@ dateCreated: 2025-06-08T00:25:45.304Z
 
 
 ## Raising The Mountain Castle
-The party returns to the underwater elven city beneath the ocean on Ereriad. Adalynn casts her Moving Mountains 10th level spell to raise the city and some of the surrounding forest into the sky. The city itself was a massive city built atop a mountain. The city itself was surrounded by massive stone docks, except for the region behind the castle which consisted of a large wooded area. Then Adalynn uses a powerful 10th level spell of her own creation to carve out a demiplane of her own from the deep ethereal, using part of her soul to anchor the plane to multiple other worlds. She then inserts the mountain city into the demiplane, creating a secure private world to be used as Mortis Lux's HQ. 
+The party returns to the underwater elven city beneath the ocean on [Ereriad](/locations/Ereriad). Adalynn casts her Moving Mountains 10th level spell to raise the city and some of the surrounding forest into the sky. The city itself was a massive city built atop a mountain. The city itself was surrounded by massive stone docks, except for the region behind the castle which consisted of a large wooded area. Then Adalynn uses a powerful 10th level spell of her own creation to carve out a demiplane of her own from the deep ethereal, using part of her soul to anchor the plane to multiple other worlds. She then inserts the mountain city into the demiplane, creating a secure private world to be used as Mortis Lux's HQ. 
 
 
 ## Shaping The Demiplane
