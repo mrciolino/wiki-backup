@@ -2,7 +2,7 @@
 title: Meeting Inferno
 description: The party travels to Inferno’s rest
 published: true
-date: 2025-06-24T13:06:40.472Z
+date: 2025-06-24T13:07:03.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T12:22:34.159Z
@@ -19,7 +19,7 @@ The party use [Dio](/items/dio) to travel to the location of the devastated land
 ## Conversation With Inferno
 The party tell Inferno of their travels and quest to defeat [Darmuth](/characters/Darmuth). Inferno shares with the party his long held hatred of Darmuth. Through their shared hatred they form the start of a friendship. 
 
-After asking some questions, the party learned that Dartmouth had, at a point millennia ago, dated the dragon. Now, in a fit of rage and reminded of her scorn, the dragon seeks to destroy Darmuth and flies toward the city of [Altricia](/locations/Mardun/allford), Dartmouth's current base of operations. Before the dragon got there, the party recovered [Bazzert's](/characters/bazzert) body by teleporting in and out of the Altricia castle vault so he would not be destroyed as well.
+After asking some questions, the party learned that Dartmouth had, at a point millennia ago, dated the dragon. Now, in a fit of rage and reminded of her scorn, the dragon seeks to destroy Darmuth and flies toward the city of [Altricia](/locations/Mardun/Allford), Dartmouth's current base of operations. Before the dragon got there, the party recovered [Bazzert's](/characters/bazzert) body by teleporting in and out of the Altricia castle vault so he would not be destroyed as well.
 
 ## Spoops is Granted a Scale
 Inferno notices one of the swords [Spoops](/characters/spoops) carries is made of [Dragon Bone](/items/Dragon-Bone-Greatsword) and asks to see it. Spoops nervously complies while saying that he did not kill a dragon for the sword, he only found the bone. After examining it, Inferno told him that it matters not, as the bone belonged to some foolish whelp.
