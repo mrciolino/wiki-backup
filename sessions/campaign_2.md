@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-06-23T23:53:09.161Z
+date: 2025-06-24T03:37:47.645Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
@@ -28,6 +28,7 @@ dateCreated: 2025-04-12T13:24:16.371Z
 | **Session 13** | [Session 13 Summary](/sessions/campaign_2/session_13_summary) | The party navigates the magical Owl Woods and forms uneasy alliances with necromancers. | The party escapes pursuing guards through reality-warping forest paths; Teegal Beetal (druid) joins after revealing his hag's curse; Black Song necromancers provide shelter and gift zombie scarecrows; Tiberian blames Oran for mechanism loss; Thomas achieves literacy breakthrough; Terry transitions from prisoner to ally after interrogation about prison hierarchy. |
 | **Session 14** | [Session 14 Summary](/sessions/campaign_2/session_14_summary) | The party navigates the Owlwoods' magical distortions while grappling with moral dilemmas over a stolen dragon egg. | Thomas pulls a mithril-alloy axe from stone after visions; Teegal discovers and claims a royal purple dragon egg despite Tiberian's warnings; Breezy befriends fairy dragons at healing pools; Kael and Teegal engage in mutual pickpocketing (magic ring vs emerald coins); the party becomes hopelessly lost in the ever-changing forest. |
 | **Session 15** | [Session 15 Summary](/sessions/campaign_2/session_15_summary) | Inside the Owlwoods, the party experiences shared prophetic dreams and battles owlbears while accumulating owlbear eggs, violating endangered species laws. | Breezy, Kael and Teegal share violet-water dream with blood sacrifice prophecy; Oran and Thomas experience fire nightmare revealing "Asmartina" entity; collective fire-pissing ritual banishes fiery threat; party kills two owlbears (violating bird law) and claims three eggs; Teegal's failed spider seduction leads to combat; Thomas tanks 44 damage while raging; dragon egg and owlbear eggs now in party's care. |
+| **Session 16** | [Session 16 Summary](/sessions/campaign_2/session_16_summary) |  |  |
 
 # Knowledge Graph
 Around session 14 the party describes a relationship graph between known entities in the campaign thus far.
