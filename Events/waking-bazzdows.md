@@ -2,15 +2,15 @@
 title: Waking Bazzdows
 description: The mysterious robot found beneath Gothriathon awakens
 published: true
-date: 2025-06-08T03:15:13.108Z
+date: 2025-06-24T14:08:17.159Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T03:14:58.529Z
 ---
 
 # Waking Bazzdows
-The party returns to Gothriathon to find the council investigating a strange robotic being found buried beneath the city.
+The party returns to [Gothriathon](/locations/Mardun/Gothriathon) to find the council investigating a strange robotic being found buried beneath the city.
 
 
 ## Bazzdows Awakens
-The party returns to Gothriathon where the dwarven council found what appears to be a metallic homunculus which is being studied and argued over by the council. The metallic being glows slightly and can snap itself back together. As the party investigates, Spoops finds a panel of keys and a screen which prompts him to enter a name. Missing the Bazz brothers, he enters the name Bazzdos. The creature awakens and introduces itself as Bazzdos. Intrigued, the rest of the party try entering things too, particulary Adalynn and Os who try entering commands saying to "leave to another world" and "be gone from this world" seemingly afraid of the possibility Bazzdos was some sort of invader. Luckily Bazzdos was friendly to the party, and after Bazzalt left, they needed a new member to join them. So Bazzdos joined the party and they immediately left for Ereriad.
+The party returned to Gothriathon where the dwarven council found what appeared to be a metallic homunculus which they were studying and arguing over. The metallic being glowed slightly and could snap itself back together when manipulated. As the party investigated, [Spoops](/characters/spoops) found a panel of keys and a screen which prompted him to enter a name. Missing the Bazz brothers, he entered the name [Bazzdows](/characters/bazzdos). The creature awoke and introduced itself as Bazzdos. Intrigued, the rest of the party tried entering things too, particulary [Adalynn](/characters/adalynn) and [Os](/characters/os) who try entering commands saying to "leave to another world" and "be gone from this world" seemingly afraid of the possibility Bazzdos was some sort of invader. Luckily Bazzdos was friendly to the party, and after [Bazzalt](/characters/Bazzalt) left, they needed a new member to join them. So Bazzdos joined the party and they immediately left for [Ereriad](/locations/Ereriad).
