@@ -2,14 +2,14 @@
 title: Waking Bazzdows
 description: The mysterious robot found beneath Gothriathon awakens
 published: true
-date: 2025-06-24T14:08:17.159Z
+date: 2025-06-24T14:08:30.249Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T03:14:58.529Z
 ---
 
 # Waking Bazzdows
-The party returns to [Gothriathon](/locations/Mardun/Gothriathon) to find the council investigating a strange robotic being found buried beneath the city.
+The party returned to [Gothriathon](/locations/Mardun/Gothriathon) to find the council investigating a strange robotic being found buried beneath the city.
 
 
 ## Bazzdows Awakens
