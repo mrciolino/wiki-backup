@@ -1,8 +1,8 @@
 ---
-title: Federina
+title: Frederina
 description: A Cat who not one wanted
 published: true
-date: 2025-04-13T14:21:32.437Z
+date: 2025-06-24T02:46:06.036Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-07T20:08:03.887Z
