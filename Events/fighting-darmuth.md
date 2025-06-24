@@ -2,28 +2,28 @@
 title: Fighting Darmuth
 description: The party engages Darmuth in battle within her lair
 published: true
-date: 2025-06-24T14:04:26.152Z
+date: 2025-06-24T14:10:35.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T20:39:02.181Z
 ---
 
 # Fighting Darmuth
-The party arrive at [Darmuth's lair](/locations/Mardun/darmuths-lair), and upon discovering [Darmuth's](/characters/Darmuth) identity as an elder brain, they engage her in a battle for the fate of [Mardun](/locations/Mardun).
+The party arrived at [Darmuth's lair](/locations/Mardun/darmuths-lair), and upon discovering [Darmuth's](/characters/Darmuth) identity as an elder brain, they engaged her in a battle for the fate of [Mardun](/locations/Mardun).
 
 
 ## Assault on Darmuth Begins
-The party finds an illithid nest. They see pools filled with illithid tadpoles that attempt to infect the party. Many of the party narrowly avoid the tadpoles, the tadpoles attempting to inhabit [Spoops](/characters/spoops) find no brain to infect. However one does atttach to [Adalynn](/characters/adalynn) which the party has to remove later. At the center of the room is a massive elder brain, Darmuth's true form.
+The party found an illithid nest. They saw pools filled with illithid tadpoles that attempted to infect them. Many of the party narrowly avoid the tadpoles. The tadpoles attempting to inhabit [Spoops](/characters/spoops) found no brain to infect. However one did atttach to [Adalynn](/characters/adalynn) which the party had to remove later. At the center of the room was a massive elder brain, Darmuth's true form.
 
-The party begin the battle for the fate of Mardun. They attack Darmuth with everything they have.
+The party began the battle for the fate of Mardun. They attacked Darmuth with everything they had.
 
-During the battle, [Bazzalt](/characters/Bazzalt) turns the party into adult copper dragons to assist in the fight.
+During the battle, [Bazzalt](/characters/Bazzalt) turned the party into adult copper dragons to assist in the fight.
 
-Throughout the fight, the party has to desperately resist the psionic attacks from Darmuth while keeping up their attack.
+Throughout the fight, the party had to desperately resist the psionic attacks from Darmuth while keeping up their attack.
 
 
 ## Os Travels Through Time
-[Os](/characters/os) made a wish to be stronger. This caused him to suddenly disappear. Suddenly one of the stalagtites in the arena fell and shattered on the ground, reveling a coffin. Os was sent back in time over 1000 years to the ancient ash elf kingdom far to the north. Here he lived an entire lifetime where he became [King Tiyamani the Awesome](/characters/os). He got even stronger during this time, eventually being sealed and buried in a coffin beneath [Altricia](/locations/Mardun/Allford), directly at the site of the current battle. 
+[Os](/characters/os) made a wish to be stronger. This caused him to suddenly disappear. Suddenly one of the stalagtites in the arena fell and shattered on the ground, revealing a coffin. Os was sent back in time over 1000 years to the ancient ash elf kingdom far to the north. Here he lived an entire lifetime where he became [King Tiyamani the Awesome](/characters/os). He got even stronger during this time, eventually being sealed and buried in a coffin beneath [Altricia](/locations/Mardun/Allford), directly at the site of the current battle. 
 
 
 ## Os Defeats Darmuth
