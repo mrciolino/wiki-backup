@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-06-25T02:32:44.057Z
+date: 2025-06-25T13:06:55.658Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -106,6 +106,9 @@ Tu'narsth was once home to the Githyanki before Spoops raised thr titan corpse a
 {.links-list}
 
 
+
+
+
 # Divine Realms
 
 ## Realm: Well of Souls
@@ -153,18 +156,23 @@ Home to Bahamut's divine realm. Mortis Lux and the Council of Gods gathered here
 
 The Raven Queen's divine realm, Letherna resides in the Shadowfell. The party visited here to make a deal with the raven queen to empower the Protein Shake of Power.
 
-- [🕯️ Visit Letherna *Home to The Raven Queen's Divine Realm*](/locations/letherna)
+- [🕯️ Visit Letherna *Home to The Raven Queen's Divine Realm*](/locations/shadowfell/letherna)
 {.links-list}
 
 
 ## Realm: Asgard
 
-The Norse god's divine realm, Asgard is ruled by [Odin](/characters/odin) and is home to all
-the Norse gods. The party visited here to plan and train with Odin and his soms prior to the Ithilid war.
+The Norse god's divine realm, Asgard is ruled by [Odin](/characters/odin) and is home to all the Norse gods. The party visited here to plan and train with Odin and his soms prior to the Ithilid war.
 
 - [🛡️ Visit Asgard *Home to The Norse god's Divine Realm*](/locations/asgard)
 {.links-list}
 
 
+## Realm: The Abyss: Zionyn
+
+Home to Obox-ob's somewhat divine realm. Zionyn is the 663rd layer of the Abyss and home to he ancient demon Obox-ob.
+
+- [🕊️ Visit Zionyn *Home to Obox-ob Divine Realm*](/locations/the-abyss/zionyn)
+{.links-list}
 
 
