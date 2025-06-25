@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-20T00:49:40.122Z
+date: 2025-06-25T13:18:24.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -385,6 +385,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 ## The Voyage of Breezy-E (365 AC / 165 VY)
 
+- ReInPaDe, the secretive anti-necromancy division of the Church of Os is established by the scholarly **Permanex Kindad Daera Vrintia**. It was formed under political pressure and concern about the ever raging Hastow-Wegate war.
 - Despite his heroic deeds which saved the world, being a powerful force of protection, easily fighting against the strongest foes, and their long standing friendship, **Breezy-E** is mournfully banished from the lands of Vrintia by Os for being undead. The Royals and Nobility fear and revile his necrotic nature, and his newest contract with Asmodeus makes him far less useful as a protector or weapon. 
 - Breezy-E leaves for the west seeking the best place to grow spaghetti on Mardun. He goes over the Saber river, and through Arn, and his departure from the lands of Vrintia is marked with the Lost Wind Gate. 
 - He spends the next few decades travelling up and down the Wild Coast, planting spaghetti and becoming a folk legend as a wandering samurai.
@@ -401,6 +402,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
 - **550 AC / 350 VY**: At age 2700 Inferno's slumber begins. While not dead, Inferno enters a very deep sleep which he has not waken up from.
+- **377 AC 177 VY** In a joint effort with Fywick and Kaltrosar, ReInPaDe begins its multi decade long investigation into the [Desolation of Asmal](/Events/desolation-of-asmal).
 
 ## Arn's Rebellion (553-555 AC / 353-355 VY)
 
@@ -412,21 +414,25 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - In the end, Arn's Rebellion is crushed, **Duke Othniel** is executed for treason, and a new elvish **Duke Feno Herfiel Lozzit Vrintia** is put in charge of Arnsworth. Arnsworth would remain under elvish occupation for 445 years until 798 VY when human **Duke Blackshield** would be symbolically given power.
 - After the rebellion is put down, Os becomes more reclusive.
 
-## The Mysterious Disappearance
+## Worldly Happenings
 
-- **??? AC** Os disappears from Vrintia.
+- **??? AC** Os disappears from Vrintia. A council of 12 is put in place to maintain control of the country.
 - **??? AC** Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
+- **??? AC** Vaudis, a city on the Wild Coast to the west of Vrintia grows in prominence. 
+- **??? AC** The War of the Great Maw begins on Felldora, threatening all Fywick colonies. Vampires, cultists, dinosaurs, kaiju, elderitch horrors, and wizards duke it out epic style. Estis locks its gates for good.
+- **??? AC** Encouraged by mysterious beepings, a remote artificer in Helmaer constructs the Phantom Lighthouse as a means of one-way transport through the Sea of Ice. The Brotherhood of the Beep is formed to follow its guidance.
 
 # The New Campaign Era
-
+- **798 VY**: Human **Duke Blackshield** is given symbolic power over Arnsworth, ending 445 years of elvish leadership.
 - **??? AC** Tiberian's family is killed
-- **??? AC** Tomas' mother is forced to jump of Queen Daera Bridge by Walter Beste Wotera Vrintia
+- **??? AC** Tomas' mother is forced to jump off Queen Daera Bridge by Walter Beste Wotera Vrintia
 
 ## The Present Day (1000 AC / 800 VY)
 
 - **[Goopy](/characters/goopy)** arrives from space.
 - The party is inducted into the [Royal Vrintian Academy](/organizations/rvasss)
-- An urgent deadline sees the party leave to go free Oran's brother Verrick from the evil **Vaymir** in the Church of Crows. However the party is defeated and put in a slave pit, and **Goopy** and **Verrick** are killed.
+- An urgent deadline sees the party leave to go free Oran's brother Verrick from the evil **Vaymir** in the Church of Crows. However the party is defeated and put in a slave pit, and **Goopy**, **Verrick**, and **Baloo** are killed.
+- The party gets lost in the [Owlwoods]().
 
 # Future Events
 
