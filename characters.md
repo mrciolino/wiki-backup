@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-25T14:22:21.200Z
+date: 2025-06-25T14:24:17.982Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -63,7 +63,7 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Role | Description |
 |------|------|-------------|
 | [Eugene Vrntica](/characters/eugene-vrntica) | Os' cousin | worked for the Robin Trading Co. |
-| [Daera Vrntica](/characters/Daera) | Os' 1st Wife | From [Gothriathon](/locations/Mardun/Gothriathon). Died of natural causes at 83 years old. |
+| [Glorora (Daera) Vrntica](/characters/glorora) | Os' 1st Wife. His elven descendsnts are attempting to bastardize her name to be Daera to sound more elvish.  | From [Gothriathon](/locations/Mardun/Gothriathon). Died of natural causes at 83 years old. |
 | TBD | Os' 2nd Wife | - |
 | [Maria Luigi](/characters/maria-luigi) | Saragassa Pirate Captain | [Elira](/characters/elira)'s Wife. Met on [Saragassa](/locations/Mardun/Saragassa).|
 | [Anya](/characters/anya) | [Elira's](/characters/elira) sister | [Elira's](/characters/elira) sister. Held captive by Diavala until freed. |
