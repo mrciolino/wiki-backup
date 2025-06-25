@@ -2,14 +2,14 @@
 title: Searching The Forbidden Section of The Library
 description: The party search for books containing knowledge of The Emperor
 published: true
-date: 2025-06-25T14:02:53.172Z
+date: 2025-06-25T14:03:08.185Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T17:29:57.431Z
 ---
 
 # Searching The Forbidden Section of The Library
-The party returns to the [Infinite Library Dimension](/locations/Library-Dimension) in search of books that can tell them information on [The Emperor](/characters/Emperor) and his current wherabouts. They first ask the [Tree of Knowledge](/characters/Tree-of-Knowledge) where they might find such a book, the tree tells them that this info can be found in the [Forbidden section](/locations/library-dimension/the-forbidden-section) where angels and demons are fighting a war.
+The party returns to the [Infinite Library Dimension](/locations/Library-Dimension) in search of books that can tell them information on [The Emperor](/characters/Emperor) and his current wherabouts. They first ask the [Tree of Knowledge](/characters/Tree-of-Knowledge) where they might find such a book, the tree tells them that this info can be found in the [Forbidden section](/locations/library-dimension/forbidden-section) where angels and demons are fighting a war.
 
 
 ## Fighting Their Way In
