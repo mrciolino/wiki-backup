@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-05-28T11:35:38.291Z
+date: 2025-06-25T02:32:44.057Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -124,6 +124,13 @@ Home of the Gods of Olympus, and ruled by Zeus.
 - [⚡ Visit Olympus *Divine realm of the Olympians*](/locations/olympus)
 {.links-list}
 
+
+## Realm: The Gates of The Moon
+
+Home of Selune.
+
+- [⚡ Visit The Gates of The Moon *Divine realm of Selune*](/locations/the-gates-of-the-moon)
+{.links-list}
 
 
 ## Realm: The Bone Castle
