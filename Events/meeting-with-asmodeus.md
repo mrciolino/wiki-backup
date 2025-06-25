@@ -2,18 +2,18 @@
 title: Meeting With Asmodeus
 description: The party goes to hell to negotiate the treaty
 published: true
-date: 2025-06-17T19:00:54.346Z
+date: 2025-06-25T20:11:42.819Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T13:32:16.173Z
 ---
 
 # Meeting With Asmodeus
-The party is invited to meet eith Asmodeus in the hells to negotiate the treaty with the council of gods.
+The party is invited to meet with [Asmodeus](/characters/asmodeus) in the hells to negotiate the treaty with the [council of gods](/organizations/council-of-gods).
 
 
 ## Traveling Nessus
-The party receives a magical invitation from the council of gods to meet with a third party to discuss terms of a potential treaty. This third party is Asmodeus, lord of the hells. Knowing how ticky devils can be, and wanting to be prepared for anything, the party hires a lawyer. Bazzdos contacts the lawyer he met at Assassination Note Mountain to represent Mortis Lux. After hiring the lawyer, they agree to the meeting. The invitation itself acts as their pass to travel unharmed through the hells to meet Asmodeus in his castle.
+The party receives a magical invitation from the council of gods to meet with a third party to discuss terms of a potential treaty. This third party is Asmodeus, lord of the hells. Knowing how tricky devils can be, and wanting to be prepared for anything, the party hires a lawyer. [Bazzdos](/characters/bazzdos) contacts the lawyer he met at [Assassination Note Mountain](/locations/library-dimension/assassination-note-mountain) to represent [Mortis Lux](/organizations/mortis-lux). After hiring the lawyer, they agree to the meeting. The invitation itself acts as their pass to travel unharmed through the hells to meet Asmodeus in his castle.
 
 The party traverses the circles of hell, dodging fireballs and warships they quickly teleport their way to the innermost circle. Due to the nature of the hells, direct teleportation to the inner circle was impossible. 
 
@@ -27,7 +27,7 @@ Spoops wanders off on his own, exploring the hallways of the castle, he overhear
 
 Spoops wanders outside the castle where he sees a gargantuan serpent in the lava far below the castle, encircling the base. Being a big fan of serpents, he dives towards the creature hoping to tame them. Before he can reach it, he gets a message from Asmodeus asking him to please leave it alone. Not wanting to delay negotiations, he obliges.
 
-Bazzdos, Addalynn, and Breezy-E explore the dungeons.
+Bazzdos, [Adalynn](/characters/adalynn), and [Breezy-E](/characters/breezy) explore the dungeons.
 
 Spoops then asks an imp servant to take him to his party who are investigating the dungeons, the devil escorts him and as thanks, Spoops grsnts the nameless imp a name. He quickly learns that being named empowers and elevates devils, and being named by a God empowers them even further, as the imp suddenly evolves into a far more intelligent and powerful devil.
 
@@ -41,9 +41,9 @@ The party is fairly uninterested in this deal as they distrust the princess even
 ## The Arena
 During this meeting, Breezy-E starts itching for a fight, so he gets involved with the princess' arena death matches after asking her where he can find some good fights around here. She obliges snd sends him into the arena.
 
-After seeing Breezy-E struggling to fight some of the devils, Spoops enters the arena as well. During thr dight against one of the devils, Spoops takes a liking to them and asks their name, they introduce themselves as Martin Martinique Del La Velasco. Spoops tells them he likes their style and asks them if they would like to join up with Mortis Lux. Martin says he would, but is bound to service here. Spoops tells him he will take care of it.
+After seeing Breezy-E struggling to fight some of the devils, Spoops enters the arena as well. During thr dight against one of the devils, Spoops takes a liking to them and asks their name, they introduce themselves as [Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco). Spoops tells them he likes their style and asks if they would like to join up with Mortis Lux. Martin says he would, but is bound to service here. Spoops tells him he will take care of it.
 
-Spoops admires the gargantuan corpse of a dragon which he thinks would be a perfect addition to Mortis Lux' army. He contacts Asmodeus through prayer, offering information on his daughter's plans to betray him in exchange for the dragon corpse. Asmodeus tells the party the corpse is rheirs if they acquire names, details, and proof of this plot against him. Adalynn then calls Spoops and Breezy-E back to thr meeting room as the princess is anxious to get started.
+Spoops admires the gargantuan corpse of a dragon which he thinks would be a perfect addition to Mortis Lux' army. He contacts Asmodeus through prayer, offering information on his daughter's plans to betray him in exchange for the dragon corpse. Asmodeus tells the party the corpse is rheirs if they acquire names, details, and proof of this plot against him. Adalynn then calls Spoops and Breezy-E back to the meeting room as the princess is anxious to get started.
 
 
 ## The Princess' Betrayal
