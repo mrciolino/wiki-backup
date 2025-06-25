@@ -2,7 +2,7 @@
 title: Investigating Reports of Illithids on Mardun
 description: The party descends on Mardun hunting Illithids
 published: true
-date: 2025-06-25T14:13:48.536Z
+date: 2025-06-25T14:14:52.307Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T16:02:47.357Z
@@ -20,7 +20,7 @@ While on the ship Breezy-E sends drunk messages to his old vampire girlfriend an
 After some more games, Breezy-E grumbles to himself: "Witch *hic* King... mother freaking cheater at *hic* flip cup"
 
 ## Descent Underground
-With Adalynn missing, the party travels to the frostfell mountains via Spelljammer warship. Breezy-E commands a squad of four warships patrolling the surface while [Spoops](/characters/spoops) and [Bazzdos](/characters/bazzdos) blast their way through the ground towards the supposed nest, guided by Spoops' [knife leg](/items/peace-was-never-an-option-dagger).
+With Adalynn missing, the party travels to the frostfell mountains via Spelljammer warship. Breezy-E commands a squad of four warships patrolling the surface while [Spoops](/characters/spoops) and [Bazzdos](/characters/bazzdos) blast their way through the ground towards the supposed nest, guided by Spoops' [knife leg](/items/Peace-Was-Never-An-Option-Dagger).
 
 Spoops ends up crashing directly into the tower of a city inhabited by deep gnomes who unbeknownst to him serve [Daurgothoth](/characters/daurgothoth). Bazzdos is far more graceful with his flying and landing using his rocket gauntlets. 
 
