@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-06-25T13:49:49.264Z
+date: 2025-06-25T14:01:53.544Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -74,11 +74,11 @@ The Forge Dimension exists within the Plane of Fire and is owned by the Forgemas
 - [🔥 Visit Forge Dimension *Home of Forgemaster Bazzdos and legendary artifacts.*](/locations/Forge-Dimension)
 {.links-list}
 
-## Dimension: Elemental Plane of Chaos (Spawning Stone)
+## Dimension: Elemental Plane of Chaos
 
 Location of Rabiah the storm giant's golem factory at the spawning stone. Also the site of the final battle between the Low Bar Brawlers and the Emperor of the Ithillid.
 
-- [🌪️ Visit The Spawning Stone *Vortex of Chaotic Energy*](/locations/Spawning-Stone)
+- [🌪️ Visit The Elemental Plane of Chaos *Plane of Chaotic Energy*](/locations/elemental-plane-of-chaos)
 {.links-list}
 
 ## Dimension: The Feywild
