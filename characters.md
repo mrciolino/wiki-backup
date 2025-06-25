@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-24T18:43:36.975Z
+date: 2025-06-25T14:20:01.864Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -65,7 +65,14 @@ List of non-player-characters from both campaigns and some information about the
 | [Eugene Vrntica](/characters/eugene-vrntica) | Os' cousin | worked for the Robin Trading Co. |
 | [Daera Vrntica](/characters/Daera) | Os' 1st Wife | From [Gothriathon](/locations/Mardun/Gothriathon). Died of natural causes at 83 years old. |
 | TBD | Os' 2nd Wife | - |
-| [Maria Luigi](/characters/maria-luigi) | Saragassa Pirate Captain | [Elira](/characters/elira)'s Wife. Met on [Saragassa](/locations/Mardun/Saragassa). |
+| [Maria Luigi](/characters/maria-luigi) | Saragassa Pirate Captain | [Elira](/characters/elira)'s Wife. Met on [Saragassa](/locations/Mardun/Saragassa).|
+
+
+## Breezy-E's Girlfriends
+| Name | Role | Description |
+|------|------|-------------|
+| [Frost](/characters/frost) | Ice Dragon | ice queen dragon |
+| [vampire woman](/characters/unknown) | vampire | vampire |
 
 
 ## Party Pets and Companions
