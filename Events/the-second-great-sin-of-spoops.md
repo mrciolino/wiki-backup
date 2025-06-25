@@ -2,7 +2,7 @@
 title: The Second Great Sin of Spoops
 description: The dark actions of a desperate man
 published: true
-date: 2025-06-25T01:02:02.927Z
+date: 2025-06-25T01:02:13.439Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T14:50:40.977Z
