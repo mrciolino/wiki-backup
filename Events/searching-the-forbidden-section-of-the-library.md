@@ -2,7 +2,7 @@
 title: Searching The Forbidden Section of The Library
 description: The party search for books containing knowledge of The Emperor
 published: true
-date: 2025-06-25T13:48:16.460Z
+date: 2025-06-25T14:02:06.542Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T17:29:57.431Z
