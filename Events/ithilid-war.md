@@ -2,14 +2,14 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-20T02:51:03.662Z
+date: 2025-06-25T21:23:58.616Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
 ---
 
 # The Ithilid War
-After massive amounts or planning snd preparation, the final dawn if the final battle arrived. Mortis Lux and the Ithilid menace led by The Emperor clashed in glorious combat.
+After massive amounts or planning snd preparation, the final dawn if the final battle arrived. [Mortis Lux](/organizations/mortis-lux) and the Ithilid menace led by The [Emperor](/characters/Emperor) clashed in glorious combat.
 
 
 
@@ -21,7 +21,7 @@ The total Sphagetti elementals (todds and theodores) participating in the battle
 
 
 ## The Plan
-During the final war against the Ithilids, the party mustered the full force of Mortis Lux and their allies and devised a plan of attack. Step one of the plan was for Breezy-e and a small elite force to pilot the Penne-trator Missile to the city on the head of the Ithillid's Creature. Then Spoops commanded their warships to form up into three waves, the first would gate into the battlefield and begin a heavy assault on the Nautiloids around the creature. The second wave would engage Nautiloids when needed but would primarily make their way to the creature to engage it and the Ithilids directly, This second wave would carry the party, whos goal was to find and eliminate the Emperor. Finally the third wave would gate in and fly above the Nautiloids, dropping troops to land on enemy ships and engage Ithilids in combat. Spoops also put his paladins in command of the defense of various cities which were being attacked by Nautiloids and tentacles of the creature.
+During the final war against the Ithilids, the party mustered the full force of Mortis Lux and their allies and devised a plan of attack. Step one of the plan was for [Breezy-e](/characters/breezy) and a small elite force to pilot the Penne-trator Missile to the city on the head of the Ithillid's Creature. Then Spoops commanded their warships to form up into three waves, the first would gate into the battlefield and begin a heavy assault on the Nautiloids around the creature. The second wave would engage Nautiloids when needed but would primarily make their way to the creature to engage it and the Ithilids directly, This second wave would carry the party, whos goal was to find and eliminate the Emperor. Finally the third wave would gate in and fly above the Nautiloids, dropping troops to land on enemy ships and engage Ithilids in combat. Spoops also put his paladins in command of the defense of various cities which were being attacked by Nautiloids and tentacles of the creature.
 
 
 ## The Battle Begins
