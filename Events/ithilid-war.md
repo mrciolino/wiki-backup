@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-25T21:23:58.616Z
+date: 2025-06-25T21:48:55.156Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
