@@ -2,7 +2,7 @@
 title: Chaos in Kaltrosar
 description: The party arrives in Kaltrosar Bay looking for work, chaos ensues
 published: true
-date: 2025-06-20T15:12:17.131Z
+date: 2025-06-26T18:44:20.470Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:24:28.249Z
@@ -25,7 +25,7 @@ Then they head to the merchant's guild where they get a job to clear out the sew
 While this was happening, [Bazzert](/characters/bazzert) had transformed into a squirrel and infiltrated the castle himself. However Bazzert screws up his disguise as a squirrel and is led to the dungeon.
 
 ## Frederina Gets Arrested
-[Drakham](/sessions/campaign_1/overview) and [Krorg](/characters/krorg) later get inside the castle with [Otto](/characters/Otto-Hurtszog), and [Frederina](/characters/Frederina). However Frederina gets arrested for touching the soft hands of the prince of kaltrosar.
+[Drakham](/sessions/campaign_1/overview) and [Krorg](/characters/krorg) later get inside the castle with [Otto](/characters/Otto-Hurtszog), and [Frederina](/characters/frederina). However Frederina gets arrested for touching the soft hands of the prince of kaltrosar.
 
 
 ## An Attempt Was Made to Actually Do The Sewer Quest
