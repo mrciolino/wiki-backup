@@ -2,7 +2,7 @@
 title: Arrival in Trelston
 description: The party arrives in the small fishing village of Trelston
 published: true
-date: 2025-06-20T15:06:22.273Z
+date: 2025-06-26T15:57:54.499Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T16:12:40.172Z
