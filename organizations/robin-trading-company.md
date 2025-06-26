@@ -2,7 +2,7 @@
 title: Robin Trading Company
 description: A merchant trading company in the dragon sea 
 published: true
-date: 2025-06-26T18:56:57.215Z
+date: 2025-06-26T18:58:15.045Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-26T18:47:54.313Z
@@ -16,5 +16,7 @@ The [Low Bar Brawlers](/organizations/low-bar-brawlers) hid aboard the company s
 
 
 After the encounter with pirates, [Os] discovered that his cousin [Eugene Vrntica](/characters/eugene-vrntica) was the task master of the company. After a reunion, they made landfall in [Allford](/locations/Mardun/Allford).
+
+Before the party departed, Captain John recommended they find work with [The West Sorea Trading Company](/organizations/the-west-sorea-trading-company).
 
 
