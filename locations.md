@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-06-25T20:15:03.844Z
+date: 2025-06-26T13:59:06.149Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -98,20 +98,28 @@ Home of [Verondera](/characters/verondera) the giant dream spider who was recrui
 {.links-list}
 
 
-## Demiplane: Mortis Lux Flying City(HQ)  
+## Demiplane: Mortis Lux HQ
 
 The capital city of [Mortis Lux](/organizations/mortis-lux), this city exists as a flying island fortress within a demiplane created by the [Archmage Adalynn](/characters/adalynn). Access to and from the city is entirely at Adalynn’s discretion, as the realm exists as a part of her soul. After Adalynn's death, the portion of her soul tied to the demiplane was soul-surgically transferred to Illiard.
 
-- [🏰 Visit Mortis Lux Flying City *Headquarters of Mortis Lux*](/locations/mortis-lux-flying-city)
+- [🏰 Visit Mortis Lux Flying City *Headquarters of Mortis Lux*](/locations/mortis-lux-hq)
 {.links-list}
 
 
 
 ## Astral Plane: Tu'narath
 
-Tu'narsth was once home to the Githyanki before Spoops raised thr titan corpse as an undead servant. It served as a military asset of Mortis Lux until its destruction during its battle with the titan Iapetus.
+Tu'narath was once home to the Githyanki before Spoops raised thr titan corpse as an undead servant. It served as a military asset of Mortis Lux until its destruction during its battle with the titan Iapetus.
 
 - [🌠 Visit Tu'narath *Titan Corpse*](/locations/tunarath)
+{.links-list}
+
+
+## Prison: Carseri
+
+Carseri is the realm in which [Kronos](/characters/kronos) is imprisoned.
+
+- [🕊️ Visit Carseri *Prison of Kronos*](/locations/carseri)
 {.links-list}
 
 
@@ -169,11 +177,11 @@ The Raven Queen's divine realm, Letherna resides in the Shadowfell. The party vi
 {.links-list}
 
 
-## Realm: Asgard
+## Realm: Valhalla
 
-The Norse god's divine realm, Asgard is ruled by [Odin](/characters/odin) and is home to all the Norse gods. The party visited here to plan and train with Odin and his soms prior to the Ithilid war.
+The Norse god's divine realm, Valhalla is ruled by [Odin](/characters/odin) and is home to all the Norse gods. The party visited here to plan and train with Odin and his soms prior to the Ithilid war.
 
-- [🛡️ Visit Asgard *Home to The Norse god's Divine Realm*](/locations/asgard)
+- [🛡️ Visit Valhalla *Home to The Norse god's Divine Realm*](/locations/valhalla)
 {.links-list}
 
 
@@ -183,5 +191,11 @@ Home to Obox-ob's somewhat divine realm. Zionyn is the 663rd layer of the Abyss 
 
 - [🕊️ Visit Zionyn *Home to Obox-ob Divine Realm*](/locations/the-abyss/zionyn)
 {.links-list}
+
+
+
+
+
+
 
 
