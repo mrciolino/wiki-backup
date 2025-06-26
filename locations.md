@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-06-26T13:59:06.149Z
+date: 2025-06-26T13:59:14.510Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -115,7 +115,7 @@ Tu'narath was once home to the Githyanki before Spoops raised thr titan corpse a
 {.links-list}
 
 
-## Prison: Carseri
+## Plane: Carseri
 
 Carseri is the realm in which [Kronos](/characters/kronos) is imprisoned.
 
