@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-26T13:44:07.789Z
+date: 2025-06-26T13:44:37.160Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -98,7 +98,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Bahamut](/characters/bahamut) | Dragon God of law and judgement | Leader of the Council of Gods |
 | [Pyrocinae](/characters/pyrocinae) | Goddess of fire | Became a friend to Spoops after he took began using her Iron Halo |
 | [Gond](/characters/Gond) | God of the forge | His soul was torn apart by Spoops during his time as Myrkul. |
-| [The Raven Queen](/characters/the-raven-queen) | Goddess of memories | Helped the party with the protein shake of power, brokering the treaty with the Council, and defeating Zeus | 
+| [The Raven Queen](/characters/raven-queen) | Goddess of memories | Helped the party with the protein shake of power, brokering the treaty with the Council, and defeating Zeus | 
 | [Mask](/characters/mask) | Trickster God | Masqueraded as Mystra for most of the campaign. Slain by Breezy-e during the timeskip. |
 | [Mystra](/characters/mystra) | Goddess of Magic | Imprisoned by Mask for most of the campaign. |
 | [Lolth](/characters/lolth) | Spider Goddess | Allied with Mortis Lux against the Ithilid even before the treaty. |
