@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-05-23T21:48:12.034Z
+date: 2025-06-26T19:19:12.743Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -32,7 +32,7 @@ dateCreated: 2025-03-22T19:33:14.617Z
 | Name                                               | Race       | Class             | Background        | Notable Traits                                     |    Image |
 |----------------------------------------------------|------------|-------------------|-------------------|-----------------------------------------------------|----------|
 | [Otto Hurtszog](/characters/Otto-Hurtszog) | Wood Elf | Hunter Ranger 9 | Bounty Hunter | Trophy-collector, Refuses to harm the helpless, Feels socially out of place, Forged by hardship | <img src="/characters/other/otto.png" class="img-fluid" style="max-height: 100px;" alt="Otto Hurtszog"> |
-| [Federina](/characters/Federina) | Undead (Elf origin) | Warlock (Great Old One) 9 | Wandering Angst | Telepathic, Necrotic-fueled, Arrogant, Precise, Haunted by grudges | <img src="/characters/other/federina.jpg" class="img-fluid" style="max-height: 100px;" alt="Federina"> |
+| [Frederina](/characters/Frederina) | Undead (Elf origin) | Warlock (Great Old One) 9 | Wandering Angst | Telepathic, Necrotic-fueled, Arrogant, Precise, Haunted by grudges | <img src="/characters/other/federina.jpg" class="img-fluid" style="max-height: 100px;" alt="Federina"> |
 | [Achilles](/characters/Achilles) | Reborn | Fighter (Echo Knight) | Stoic, Vengeful | Don't Touch My Dick! | <img src="/characters/other/achilles.webp" class="img-fluid" style="max-height: 100px;" alt="Achilles"> |
 | [Seiriphi](/characters/Seiriphi) | | Druid |  |  | <img src="/characters/other/seiriphi.webp" class="img-fluid" style="max-height: 100px;" alt="Seiriphi"> |
 | [Kiwi](/characters/Kiwi)     | | Rogue |  |  | <img src="/characters/other/kiwi.webp" class="img-fluid" style="max-height: 100px;" alt="Kiwi"> | 
