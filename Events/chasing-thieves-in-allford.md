@@ -2,7 +2,7 @@
 title: Chasing Thieves in Allford
 description: Some of the party get robbed upon arrival in Allford
 published: true
-date: 2025-06-26T18:57:23.609Z
+date: 2025-06-26T19:03:52.228Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T15:51:12.075Z
