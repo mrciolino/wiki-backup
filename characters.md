@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-26T15:40:02.902Z
+date: 2025-06-26T15:41:29.368Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -153,7 +153,8 @@ List of non-player-characters from both campaigns and some information about the
 
 ## **Villains**  
 | Name | Role | Notable Actions |  
-|------|------|----------------|  
+|------|------|----------------|
+| [Goblin Captain](/characters/goblin-captain) | Invader of [Fort Suro](/locations/Mardun/Fort-Suro) | Led the goblins that infested the Fort Suro iron mine. | 
 | [Darmuth](/characters/Darmuth) | Harbinger of The Emperor | Darmuth paved the way for the [Emperor](/characters/Emperor)'s arrival. | 
 | [Rathwing](/characters/Rathwing) | Demon Servant of Darmuth | He and his Cult terrorized the city of Demsford and [Altricia/Allford](/locations/Mardun/Allford). | 
 | [Vlaakith](/characters/vlaakith) | Queen of the Gith-Yankii | After thr party asked her to ally with them against thr Ithilids, she offered her help in exchange for servitude. The party killed her for that. |
