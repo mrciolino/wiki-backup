@@ -2,7 +2,7 @@
 title: Chasing Thieves in Allford
 description: Some of the party get robbed upon arrival in Allford
 published: true
-date: 2025-06-26T19:03:52.228Z
+date: 2025-06-26T19:05:08.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T15:51:12.075Z
@@ -12,7 +12,7 @@ dateCreated: 2025-05-22T15:51:12.075Z
 After arriving in [Allford](/locations/Mardun/Allford) and while looking for more work, the party is robbed.
 
 ## Arrival in Allford
-After a three day voyage the party arrives to Allford and immediately get referred by [Captain John Robin](/characters/captain-john-robin) of the [Seabird](/organizaions/robin-trading-company) to [The West Sorea Trading Company](/organizations/the-west-sorea-trading-company) for more work. However [Otto](/characters/Otto-Hurtszog) and [Frederina](/characters/Frederina) were immediately pickpocketed and were out to get their money back.
+After a three day voyage the party arrives to Allford and immediately get referred by [Captain John Robin](/characters/captain-john-robin) of the [Seabird](/organizations/robin-trading-company) to [The West Sorea Trading Company](/organizations/the-west-sorea-trading-company) for more work. However [Otto](/characters/Otto-Hurtszog) and [Frederina](/characters/Frederina) were immediately pickpocketed and were out to get their money back.
 
 
 ## Tracking The Thief to The Sewers
