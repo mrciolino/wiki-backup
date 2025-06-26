@@ -2,7 +2,7 @@
 title: Chaos in Kaltrosar
 description: The party arrives in Kaltrosar Bay looking for work, chaos ensues
 published: true
-date: 2025-06-26T18:44:56.938Z
+date: 2025-06-26T18:45:55.828Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:24:28.249Z
@@ -41,6 +41,6 @@ After fighting through a large meaty man, the group frees themselves from the du
 
 
 ## The City Burns
-Then Freedom sets fire to the castle, and as the group escapes they gather [Os](/characters/os), [Seiriphi](/characters/Seiphiri), [Spoops](/characters/spoops), and [Kiwi](/characters/Kiwi).
+Then Freedom sets fire to the castle, and as the group escapes they gather [Os](/characters/os), [Seiriphi](/characters/Seiriphi), [Spoops](/characters/spoops), and [Kiwi](/characters/Kiwi).
 
 The group escapes by distracting dock workers with free beer while freeedom set fire to the dock before they everyone stowed away in cargo crates on a ship owned by the [Robin Trading Company](/organizations/robin-trading-company) who was leaving Kaltrosar Bay.
