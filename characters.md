@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-26T13:17:31.017Z
+date: 2025-06-26T13:43:42.486Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -159,7 +159,9 @@ List of non-player-characters from both campaigns and some information about the
 | [Bill the Buttlicker](/characters/Bill-Buttlicker) | Licker of Butts | A disturbing man who became a ghost. Human / Ghost |
 | [Nemotih](/characters/Nemotih) | Betrayer of Ry-ann | During the two year timeskip, betrayed Spoops and Vesrahan's rebellion in Wegate leading to the deaths of hundreds or Spoops' worshippers. Forced the rebellion back underground. |
 | [Dave Bones](/characters/Dave-Bones) | An immortal being of spite. | Preserved in the memories of those he victimizes, he always seems to find a way back. |   
-| [Emperor](/characters/Emperor) | The final boss | Sought the destruction of the Anchor Worlds which keep Cronos sealed in Carceri. |  
+| [Emperor](/characters/Emperor) | The final boss | Sought the destruction of the Anchor Worlds which keep Kronos sealed in Carceri. |
+| [Nihilus, Avatar of Violence](/characters/nihilus) | Ithilid Lieutenant | Fought the party alongside [Corelious](/characters/corelious). |  
+| [Corelipis, Avatar of Chaos](/characters/corelious) | Ithilid Lieutenant | Fought the party alongside [Nihilus](/characters/nihilus). |  
 
 
 ## Other Characters
