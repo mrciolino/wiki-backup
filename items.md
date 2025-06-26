@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-26T21:06:24.800Z
+date: 2025-06-26T21:08:05.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
