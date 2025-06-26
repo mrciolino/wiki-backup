@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-05-01T23:21:03.148Z
+date: 2025-06-26T13:46:51.655Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -129,7 +129,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Magic Bronze Discus](/items/Magic-Bronze-Discus) | Rare | Shield | Achilles |  A magical discus shield that can be thrown.  |
 | [Robes of the Journeyman](/items/Robes-Of-The-Journeyman) | Rare | Robe | Bazzvrah |  A magical robe with many magical pockets.  |
 | [Jumping Scale Armor of Goo](/items/Jumping-Scale-Armor-Of-Goo) | Rare | Armor | Bazzvrah |  Sticky bouncy armor.  |
-| [Spiked Bracers](/items/Spiked-Bracers) | Rare | Bracers | Bazzvrah |  Spiked bracers grant +1 AC and allow the user to fire spikes. |
+| [Spiked Bracers](/items/Spiked-Bracers) | Rare | Bracers | Bazzvrah | Spiked bracers grant +1 AC and allow the user to fire spikes. |
+| [Crown of Karsus](/items/crown-of-karsus) | Legendary | Crown | [The Emperor](/characters/Emperor) | The legendary crown grants immense power to the wearer. |
 
 ---
 
