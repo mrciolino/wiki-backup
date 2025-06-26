@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-26T15:41:29.368Z
+date: 2025-06-26T15:43:25.357Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -171,6 +171,7 @@ List of non-player-characters from both campaigns and some information about the
 | Name | Role | Description |  
 |------|------|-------------|
 | [Lothario](/characters/lothario) | Senior scout of the first battalion of the slitherlings | ruby snake scout |
+| [Pickle Rick](/characters/pickle-rick) | A ghostly pickle | Appeared to [Otto Hurtszog](/characters/Otto-Hurtszog) in Fort Suro. |
 
 # **Campaign 2**  
 
