@@ -2,7 +2,7 @@
 title: Meeting The Norse Gods
 description: The party go to Valhalla to meet the Norse gods
 published: true
-date: 2025-06-26T15:24:58.946Z
+date: 2025-06-26T15:25:23.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T13:38:23.491Z
@@ -25,7 +25,7 @@ The party present their battle plan to the Norse Gods and ask what assistsnce th
 
 
 ## Titan Slaying
-After discussing the immediate threat of the Ithilids, Spoops asks Odin about his experience in battle. To this, Odin tells him of how he led many of the battles against the Titans, becoming and expert in killing them. Spoops tells Odin of his control over [Tu'narath](/locations/tunarath) and his responsibility to defeat [Iaeptus](/characters/iapetus) once this war is finished. Odin offers to train Mortis Lux in slaying Titans once the Ithilids are defeated. 
+After discussing the immediate threat of the Ithilids, Spoops asks Odin about his experience in battle. To this, Odin tells him of how he led many of the battles against the Titans, becoming and expert in killing them. Spoops tells Odin of his control over [Tu'narath](/locations/tunarath) and his responsibility to defeat [Iapetus](/characters/iapetus) once this war is finished. Odin offers to train Mortis Lux in slaying Titans once the Ithilids are defeated. 
 
 The party thanks the Norse Gods for their hospitality before departing for [Mortis Lux HQ](/locations/mortis-lux-hq) for their final preparations.
 
