@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-26T13:46:51.655Z
+date: 2025-06-26T13:50:17.885Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -163,7 +163,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Tome of The Stilled Tongue](/items/Tome-Of-The-Stilled-Tongue) | Rare | Book | LBB |  The spellbook of Adalynn. |
 | [Apprentice Wizard Spellbook](/items/Apprentice-Wizard-Spellbook) | Rare | Book | LBB |  A book for apprentice wizards. |
 | [How to be a good friend](/items/How-To-Be-A-Good-Friend) | Rare | Book | Spoops |  A book on how to be a good friend. |
-| [How to Kill Gods](/items/How-To-Kill-Gods) | Rare | Book | Bazzdos |  A procesudre for killing the ithilds. Also known as `The Druid Book` |
+| [How to Kill Gods](/items/How-To-Kill-Gods) | Rare | Book | Bazzdos |  A procedure for killing the ithilds. Also known as `The Druid Book` |
 
 ---
 
@@ -206,6 +206,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Magic Lucky Charm](/items/Magic-Lucky-Charm) | Epic | Item | Achilles |  Provides and enhanced version of Lucky. |
 | [Meade's Flask](/items/Meades-Flask) | Epic | Item | Meade |  A genie flask with a lovely bar inside. |
 | [Anti-Magic Field Generator](/items/Anti-Magic-Field-Generator) | Epic | Item | LBB |  A machine that generates a massive Anti-Magic field. |
+| [Horn of Valhalla](/items/horn-of-valhalla) | Legendary | Item | Os | A horn capable of summoning ghostly warriors from [Valhalla](/locations/valhalla) to assist in battle. |
+| [Divine Horn of Valhalla](/items/divine-horn-of-valhalla) | Legendary | Item | Spoops | A horn capable of summoning avatars of the Norse gods from [Valhalla](/locations/valhalla) to assist in battle. |
 
 ---
 
