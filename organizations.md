@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-06-26T19:05:24.613Z
+date: 2025-06-26T19:07:15.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -72,6 +72,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | Name | Description | Headquarters | Leader | Status |  
 |------|-------------|-------------|--------|--------|  
 | [Robin Trading Company](/organizations/robin-trading-company) | Ferried the LBB after [Kaltrosar](/locations/Mardun/Kaltrosar) Bay fire. | - | - | Bankrupted |  
+| [The West Sorea Trading Company](/organizations/the-west-sorea-trading-company) | [Captain John Robin](/characters/captain-john-robin) recommended the party find work there. | - | - | - |  
 | [Assassins Guild - Library Dimension](/organizations/assassins-guild)  | A secretive guild. | [Library-Dimension](/locations/Library-Dimension) | - | Active |  
 | [Adventurer's-Guild](/organizations/Adventurer's-Guild) | Supports adventurers. | [Fywick](/locations/Mardun/Fywick) | - | Active |  
 | [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
