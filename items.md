@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-26T13:50:29.327Z
+date: 2025-06-26T21:06:24.800Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -208,6 +208,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Anti-Magic Field Generator](/items/Anti-Magic-Field-Generator) | Epic | Item | LBB |  A machine that generates a massive Anti-Magic field. |
 | [Horn of Valhalla](/items/horn-of-valhalla) | Legendary | Item | Os | A horn capable of summoning ghostly warriors from [Valhalla](/locations/valhalla) to assist in battle. |
 | [Divine Horn of Valhalla](/items/divine-horn-of-valhalla) | Legendary | Item | Spoops | A horn capable of summoning avatars of the Norse gods from [Valhalla](/locations/valhalla). |
+| [Hendrica Capsule](/items/hendrica-capsule) | Epic | Item | Dave Bones | A magic jar used to extract [Lokunai's](/characters/lokunai) soul from [Freedom's](/characters/freedom) body. |
 
 ---
 
