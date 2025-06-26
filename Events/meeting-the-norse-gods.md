@@ -2,7 +2,7 @@
 title: Meeting The Norse Gods
 description: The party go to Valhalla to meet the Norse gods
 published: true
-date: 2025-06-25T20:28:33.124Z
+date: 2025-06-26T13:59:41.034Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T13:38:23.491Z
@@ -21,7 +21,7 @@ After the party arrives, Odin introduces his sons [Thor](/characters/thor) and [
 
 
 ## Divine Assistance
-The party present their battle plan to the Norse Gods and ask what assistsnce they will be providing, as they were assured by the council that there would be direct divine intervention. Odin tells them that he and his two sons will manifest their avatars to directly assist in the fight. Also he commits his ravens and shadows to assist in the fight as well. Odin hands Spoops a [horn](/items/horn-of-valhalla) and instructs him to blow it when [Mortis Lux](/organizations/mortis-lux) requires their direct assistance. The party expresses that they had hoped for more assistance than only the three of them, but were happy to have them fight for the cause.
+The party present their battle plan to the Norse Gods and ask what assistsnce they will be providing, as they were assured by the council that there would be direct divine intervention. Odin tells them that he and his two sons will manifest their avatars to directly assist in the fight. Also he commits his ravens and shadows to assist in the fight as well. Odin hands Spoops a [horn](/items/divine-horn-of-valhalla) and instructs him to blow it when [Mortis Lux](/organizations/mortis-lux) requires their direct assistance. The party expresses that they had hoped for more assistance than only the three of them, but were happy to have them fight for the cause.
 
 
 ## Titan Slaying
