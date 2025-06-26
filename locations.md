@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-06-26T15:24:22.072Z
+date: 2025-06-26T15:24:39.904Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -92,7 +92,7 @@ Location of [Glub Glub The Immortal's](/characters/glub-glub) home.
 
 ## Dimension: The Feywild
 
-Home of [Verondora](/characters/verondora) the giant dream spider who was recruited into Mortis Lux and is a devout worshipper of Spoops.
+Home of [Verondora](/characters/verondora) the giant dream spider who was recruited into [Mortis Lux](/organizations/mortis-lux) and is a devout worshipper of Spoops.
 
 - [🌲 Visit The Feywild *Dream Spider's Domain*](/locations/Feywild)
 {.links-list}
