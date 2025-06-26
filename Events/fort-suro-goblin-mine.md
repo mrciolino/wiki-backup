@@ -2,14 +2,14 @@
 title: Fort Suro Goblin Mine
 description: The first real quest for the Low Bar Brawlers
 published: true
-date: 2025-06-26T15:36:22.619Z
+date: 2025-06-26T15:36:53.816Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T12:57:33.341Z
 ---
 
 # Fort Suro Goblin Mine
-The first real quest the party receives after their [brawl at the tavern](/Events/fort-suro-tavern-brawl). The party is tasked by the Captain of the Fort Suro Guard, [Guardison](/characters/captain-guardison), to eliminate the goblin menace that has taken over [the fort's](/locations/Mardun/Fort-Suro) iron mine. The party accepts and gets to work.
+The first real quest the party receives after their [brawl at the tavern](/Events/fort-suro-tavern-brawl). The party is tasked by the Captain of the [Fort Suro](/locations/Mardun/Fort-Suro) Guard, [Guardison](/characters/captain-guardison), to eliminate the goblin menace that has taken over the fort's iron mine. The party accepts and gets to work.
 
 ## The Quest
 Prior to beginning the quest, [Spoops](/characters/spoops) stops at a local church on the way to the mine. His memory still hazy after washing ashore, he knows he is a paladin, but needs to remember what god he served and receive their blessing. Unfortunately he didn’t get the blessing he was looking for from the priests instead he was turned away due to being a skeleton.
