@@ -2,7 +2,7 @@
 title: Entertaining Bandits
 description: The party runs into bandits on their way to Trelston
 published: true
-date: 2025-06-26T15:54:35.403Z
+date: 2025-06-26T15:57:38.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T16:48:53.186Z
