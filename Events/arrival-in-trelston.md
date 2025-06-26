@@ -2,7 +2,7 @@
 title: Arrival in Trelston
 description: The party arrives in the small fishing village of Trelston
 published: true
-date: 2025-06-26T15:57:54.499Z
+date: 2025-06-26T15:58:14.507Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T16:12:40.172Z
@@ -14,7 +14,7 @@ The party arrives in the small fishing village of [Trelston](/locations/Mardun/T
 ## The Party Take Care of Individual Things
 While in the village, the party have very different ideas on what to do next. 
 
-[Frederina](/characters/Frederina), [Os](/characters/os), and [Drakham](/characters/drakham) hang around the docks. Suddenly Frederina's patron, a giant faceless tentacled [golden lobster](/characters/The-Emperor), appears to Frederina. A void portal opens, and Os and Drakham join Frederina in jumping into the void, encountering lots of teeth and evil patron vibes. Federina accepts servitude to her patron. Os and Drakham agree to help her out as well.
+[Frederina](/characters/Frederina), [Os](/characters/os), and [Drakham](/characters/drakham) hang around the docks. Suddenly Frederina's patron, a giant faceless tentacled [golden lobster](/characters/Emperor), appears to Frederina. A void portal opens, and Os and Drakham join Frederina in jumping into the void, encountering lots of teeth and evil patron vibes. Federina accepts servitude to her patron. Os and Drakham agree to help her out as well.
 
 [Bazzert](/characters/bazzert) almost started a fight with the locals over them not having a magic staff for him to buy
 
