@@ -2,7 +2,7 @@
 title: Mortis Lux HQ
 description: Risen from the Ocean, Floating above the Rest
 published: true
-date: 2025-06-26T14:01:40.265Z
+date: 2025-06-26T14:03:33.697Z
 tags: todo
 editor: markdown
 dateCreated: 2025-05-28T11:50:04.123Z
@@ -31,4 +31,4 @@ The Mortis Lux Flying City is the legendary headquarters of the Mortis Lux organ
 
 ## Role in the Campaign
 
-- **Headquarters:** Served as the central hub for planning and launching// filepath: locations/mortis-lux-flying-city.md
+- **Headquarters:** Served as the central hub for planning and launching// filepath: locations/mortis-lux-hq.md
