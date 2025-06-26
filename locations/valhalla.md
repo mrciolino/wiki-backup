@@ -2,7 +2,7 @@
 title: Valhalla
 description: Home of the Norse Gods
 published: true
-date: 2025-06-26T15:22:44.977Z
+date: 2025-06-26T15:23:20.669Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-26T15:21:57.647Z
@@ -17,7 +17,7 @@ Prior to the [Battle of Fywick](/Events/the-battle-of-fywick), Os' received the 
 
 
 ## Ithilid War
-Prior to the [Ithilid War](/Events/ithilid-war), the party visited Valhalla to meet with [Odin](/characters/odin), [Thor](/characters/thor), and [Loki](/characters/loki) in the great mead hall, where they reviewed their battle plans and received the [Divine Horn of Valhalla] from Odin.
+Prior to the [Ithilid War](/Events/ithilid-war), the party visited Valhalla to meet with [Odin](/characters/odin), [Thor](/characters/thor), and [Loki](/characters/loki) in the great mead hall, where they reviewed their battle plans and received the [Divine Horn of Valhalla](/items/divine-horn-of-valhalla) from Odin.
 
 
 ## Titan Slaying
