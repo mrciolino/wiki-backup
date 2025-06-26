@@ -2,7 +2,7 @@
 title: Chaos in Kaltrosar
 description: The party arrives in Kaltrosar Bay looking for work, chaos ensues
 published: true
-date: 2025-06-26T18:45:55.828Z
+date: 2025-06-26T18:49:03.570Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T14:24:28.249Z
