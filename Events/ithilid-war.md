@@ -2,7 +2,7 @@
 title: Ithilid War
 description: The final battle of the first campaign
 published: true
-date: 2025-06-26T13:39:52.612Z
+date: 2025-06-26T13:40:36.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T15:27:02.670Z
@@ -50,7 +50,7 @@ During the assault, the party was stationed on their command ship where they bla
 
 ## Within the Ithilid's Creature
 
-Spoops beheld the chaos before him as the tentacles writed and flesh heaved. He tried to contact the party via speaking stone but could not get a message through. He resolved to follow them into the wound and find them, he flew upwards, hauling the massive laser into the air, then redirecting his flight into the wound. He then fired the laser, dodging tentacles and burrowing into the flesh of the beast. He managed to dig his way down, eventually finding a system of tunnels. Rather than waste time exploring he began using the laser to blast his way through. After going deeper he finally accidentally blasted a hole into a wider cavern where he found [Knott Emportent](/characters/knott-emportent) and the rest of his party. Together they proceeded deeper into the creature until coming upon the [golden lobster](/characters/emperor) who directed them to a portal.
+Spoops beheld the chaos before him as the tentacles writed and flesh heaved. He tried to contact the party via speaking stone but could not get a message through. He resolved to follow them into the wound and find them, he flew upwards, hauling the massive laser into the air, then redirecting his flight into the wound. He then fired the laser, dodging tentacles and burrowing into the flesh of the beast. He managed to dig his way down, eventually finding a system of tunnels. Rather than waste time exploring he began using the laser to blast his way through. After going deeper he finally accidentally blasted a hole into a wider cavern where he found [Knott Emportent](/characters/knott-emportent) and the rest of his party. Together they proceeded deeper into the creature until coming upon the [golden lobster](/characters/Emperor) who directed them to a portal.
 
 Upon entering the portal, they found themselves in a massive hall within the creature. 
 
