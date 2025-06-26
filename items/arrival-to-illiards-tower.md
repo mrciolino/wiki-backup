@@ -2,7 +2,7 @@
 title: Arrival to Illiard’s Tower
 description: The party attempts to infiltrate the mage tower of Lucidel Illiard to find Freedom.
 published: true
-date: 2025-06-20T15:39:17.753Z
+date: 2025-06-26T21:08:13.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T16:16:51.794Z
