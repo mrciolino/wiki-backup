@@ -2,7 +2,7 @@
 title: Traveling to Demsford
 description: The party makes their way to investigate cult activity in Demsford
 published: true
-date: 2025-06-20T15:55:03.530Z
+date: 2025-06-27T00:05:56.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:48:06.633Z
@@ -14,7 +14,7 @@ The party departs to make their way to [Demsford](/locations/Mardun/demsford) to
 ## Underwater Cavern
 [Bazzert](/characters/bazzert) and [Krorg](/characters/krorg) meet with Bazzert's master [Ayod](/characters/ayod) in an underwater cave. Ayod has come to tell his estranged student Bazzert that some stars are disappearing from the sky and he doesn't know why. Then Ayod helps train Bazzert to read the weird book.
 
-Krorg resurfaces to see [Frederina](/characters/Frederina) talking to the [golden lobster](/characters/the-emperor). Upon closer inspection, he realizes she is entranced by it and doesn't notice Krorg. [Os Vrntica](/characters/os) and Krorg try to lift the lobster, treating this almost like a competition, but they both fail completely to lift said golden lobster. After all that and having their horses be inconveniently dead, [Bomb](/characters/Bomb-the-Bear) and Bazzert (transformed into a bear) pull the carriage to Demsford.
+Krorg resurfaces to see [Frederina](/characters/Frederina) talking to the [golden lobster](/characters/Emperor). Upon closer inspection, he realizes she is entranced by it and doesn't notice Krorg. [Os Vrntica](/characters/os) and Krorg try to lift the lobster, treating this almost like a competition, but they both fail completely to lift said golden lobster. After all that and having their horses be inconveniently dead, [Bomb](/characters/Bomb-the-Bear) and Bazzert (transformed into a bear) pull the carriage to Demsford.
 
 
 ## Spoops Makes Haste to Demsford
