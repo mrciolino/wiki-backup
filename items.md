@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T15:28:04.646Z
+date: 2025-06-27T15:28:42.852Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -32,7 +32,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Longsword of Mist](/items/Longsword-Of-Mist) | Uncommon | Sword | Spoops' Wight | Allows the user to cast Misty Step. |
 | [Spelldrinker Blade](/items/Spelldrinker-Blade) | Legendary | Sword | Spoops | Stores and casts spells. |
 | [Short Swords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
-
+| [Magic Olympic Torch Sword](/items/Magic-Olympic-Torch-Sword) | Rare | Sword | Achilles |  A magical flaming sword of olympus.  |
 
 
 ## **Weapons**  
@@ -55,7 +55,6 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Blunder Gat](/items/Blunder-Gat) | Epic | Gun | LBB |  ??? |
 | [Witch King's Dagger](/items/Witch-Kings-Dagger) | Epic | Dagger | LBB |  ??? |
 | [Staff of Power](/items/Staff-Of-Power) | Epic | Staff | LBB |  A staff granting various powerful abilities. |
-| [Magic Olympic Torch Sword](/items/Magic-Olympic-Torch-Sword) | Rare | Sword | Achilles |  A magical flaming sword of olympus.  |
 | [Krorg's Axe](/items/Krorgs-Axe) | Rare | Axe | Spoops |  The axe once used by Krorg.  |
 | [Staff of the Woodlands](/items/Staff-Of-The-Woodlands) | Rare | Staff | Bazzvrah |  Contains various woodland abilities.  |
 | [Lifetime Supply of Arrows](/items/Lifetime-Supply-Of-Arrows) | Rare | Arrows | Spoops |  Magically infinite +2 arrows.  |
