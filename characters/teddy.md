@@ -2,7 +2,7 @@
 title: Teddy
 description: A child claim by Rathwing’s cult
 published: true
-date: 2025-06-27T13:14:12.569Z
+date: 2025-06-27T13:15:12.849Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-27T13:14:12.569Z
@@ -13,7 +13,7 @@ A child slain by [Rathwing's](/characters/Rathwing) cult.
 
 
 ## Cult Activity in Demsford
-Teddy was formerly a resident of [Demsford](/locations/Mardun/demsford). During the party's battle to eliminate the cultists, tesdy was slain in the church. 
+Teddy was formerly a resident of [Demsford](/locations/Mardun/demsford). During the party's [investigation of cultists](/Events/fighting-cultists-in-demsford), Teddy was slain in the church. 
 
 
 ## The Party Flees Allford
