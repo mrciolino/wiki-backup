@@ -2,7 +2,7 @@
 title: Traveling to Demsford
 description: The party makes their way to investigate cult activity in Demsford
 published: true
-date: 2025-06-27T00:05:56.024Z
+date: 2025-06-27T00:11:39.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:48:06.633Z
