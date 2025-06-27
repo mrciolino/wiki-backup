@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T16:07:54.498Z
+date: 2025-06-27T16:09:12.984Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -159,7 +159,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Diadem of the Witch King](/items/Diadem-of-the-Witch-King) | Wonderous | Helmet | Bazzdos | Glimpses of the future begin to press in on your awareness, this diadem seems very lucky. |
 | [Tiara of Life and Death](/items/Tiara-Of-Life-And-Death) | Legendary | Tiara | Spoops |  A tiara created by Ry-an to hold the memories of Spoops until he was ready to reunite with them.|
 | [Iron Halo of Pyrocinae](/items/Iron-Halo-Of-Pyrocinae) | Legendary | Halo | Spoops |  A Halo created by the Fire Goddess Pyrocinae, blessed with a fragment of her power. |
-
+| [Helm of Sturdy Icey Awareness](/items/Helm-of-Sturdy-Icey-Awareness) | Legendary | Helmet | Bazzdos | A helmet with 3 gem inlays allowing various effects to be used by the wearer. |
 
 
 
@@ -169,7 +169,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | --- | --- | --- | --- | --- |
 | [Mechanical Mirror Shield](/items/Mechanical-Mirror-Shield) | Legendary | Shield | Spoops | A shield that can reflect any ray attack back at the attacker. Can be found at [Mechanical Mirror Shield](https://www.dndbeyond.com/magic-items/8596950-mechanical-mirror-shield) on DnD Beyond. |
 | [Bulwark of Decimation](/items/Bulwark-of-Decimation) | Wonderous | Shield | Bazzdos | Soul-forged shield with an aura of undeath and hunger surrounding it. |
-
+| [Magic Bronze Discus](/items/Magic-Bronze-Discus) | Rare | Shield | Achilles |  A magical discus shield that can be thrown.  |
 
 
 ## **Belts**  
@@ -178,6 +178,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | --- | --- | --- | --- | --- |
 | [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
 | [Belt of Swift Movement](/items/Belt-Of-Swift-Movement) | Rare | Belt | Spoops |  A belt granting powerful agility. |
+| [Belt of Intellect](/items/Belt-Of-Intellect) | Wonderous | Belt | Spoops |  A belt of intellect created by Bazzdows.  |
 
 
 
@@ -195,6 +196,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | --- | --- | --- | --- | --- |
 | [Bracers of Defense](/items/Bracers-Of-Defense) | Uncommon | Armor | Spoops | +2 AC |
 | [Gilembror's Appeasement](/items/Gilembror's-Appeasement) | Legendary | Glove | Bazzdos | Cloth gloves. The first item forged in the [Forge Dimension](/locations/Forge-Dimension). |
+| [Gauntlets of Devastation](/items/Gauntlets-of-Devastation) | Wonderous | Gaunlet | Bazzdos | Gauntlets of death and destruction, allows the user to impart addition force into attacks.|
+| [Silver Gauntlet](/items/Silver-Gauntlet) | Wonderous | Gauntlet | Spoops |  A Silver Gauntlet that allows the user to see a particular ghostly apparition, and improves non-magical ranged accuracy and damage.  |
 
 
 
@@ -204,19 +207,9 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | --- | --- | --- | --- | --- |
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
-
-
-
-
-
-| [Helm of Sturdy Icey Awareness](/items/Helm-of-Sturdy-Icey-Awareness) | Legendary | Helmet | Bazzdos | A helmet with 3 gem inlays allowing various effects to be used by the wearer. |
-| [Gauntlets of Devastation](/items/Gauntlets-of-Devastation) | Wonderous | Gaunlet | Bazzdos | Gauntlets of death and destruction, allows the user to impart addition force into attacks.|
 | [Carapace of Domination](/items/Carapace-of-Domination) | Wonderous | Plate | Bazzdos | Plate armor with AC, magical resistance, a Constitution boost, immovable gear, and enchantment capabilities. |
 
 
-| [Silver Gauntlet](/items/Silver-Gauntlet) | Wonderous | Gauntlet | Spoops |  A Silver Gauntlet that allows the user to see a particular ghostly apparition, and improves non-magical ranged accuracy and damage.  |
-| [Belt of Intellect](/items/Belt-Of-Intellect) | Wonderous | Belt | Spoops |  A belt of intellect created by Bazzdows.  |
-| [Magic Bronze Discus](/items/Magic-Bronze-Discus) | Rare | Shield | Achilles |  A magical discus shield that can be thrown.  |
 | [Robes of the Journeyman](/items/Robes-Of-The-Journeyman) | Rare | Robe | Bazzvrah |  A magical robe with many magical pockets.  |
 | [Jumping Scale Armor of Goo](/items/Jumping-Scale-Armor-Of-Goo) | Rare | Armor | Bazzvrah |  Sticky bouncy armor.  |
 | [Spiked Bracers](/items/Spiked-Bracers) | Rare | Bracers | Bazzvrah | Spiked bracers grant +1 AC and allow the user to fire spikes. |
