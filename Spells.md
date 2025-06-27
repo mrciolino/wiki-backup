@@ -2,7 +2,7 @@
 title: Spells
 description: Custom homebrew spells that have come into the world.
 published: true
-date: 2025-06-27T13:36:53.581Z
+date: 2025-06-27T13:39:12.375Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:34:44.598Z
@@ -30,4 +30,6 @@ Custom spells created by [Bazzdos](/characters/bazzdos), [Spoops](/characters/sp
 | 1st | Tasha's Caustic Grease | Bazzdos | Fire damage instead of acid damage from Tasha's Caustic Brew. Also, the grease is slippery. |
 | Cantrip| Bidding Clockwork | Bazzdos | Mage Hand but spectral clockworks appear. |
 | Cantrip | [Hologram Projector](/Spells/Hologram-Projector) | Bazzdos | Minor Illusion but can play movies. |
+| Cantrip | [Soul Steal](/Spells/soul-steal) | Spoops | Allows the user to pull the soul out of a creature they touch. |
+| Cantrip | [Soul Surgery](/Spells/soul-surgery) | Spoops | Allows the user to manipulate the properties and structure of souls. |
 
