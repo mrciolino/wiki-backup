@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T15:26:37.343Z
+date: 2025-06-27T15:28:04.646Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -25,7 +25,13 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [The Spoops Blade](/items/The-Spoops-Blade) | Legendary | Sword | Spoops | The combined blade of spoops. |
 | [The Cleanser](/items/The-Cleanser) | Epic | Sword | Spoops | Spoops' Blade from his first time on Ereriad. |
 | [Godsbane](/items/Godsbane) | Epic | Sword | Breezy\* | A sword capable of slaying deities and other divine beings. Godsbane was [destroyed](https://wiki.lowbarbrawlers.com/items/Godsbane#the-disjunction-of-godsbane) when Bazzdos cast [Mordenkainen's Disjunction](/Spells/Mordekainen's-Disjunction) on the blade in an attempt to destroy Cyric. |
-
+| [Lightning Shortsword](/items/Lightning-Shortsword) | Uncommon | Sword | LBB | Electrifying sword that also stings the user. |
+| [Vampire Blade](/items/Vampire-Blade) | Epic | Sword | Breezy-e | Vampiric in a way... |
+| [Blade of Wall Walking](/items/Blade-Of-Wall-Walking) | Uncommon | Sword | Spoops' Wight | Allows the user to walk on walls. |
+| [Quick Frost Short Sword](/items/Quick-Frost-Short-Sword) | Uncommon | Sword | Spoops' Wight | Freezes everything it touches. |
+| [Longsword of Mist](/items/Longsword-Of-Mist) | Uncommon | Sword | Spoops' Wight | Allows the user to cast Misty Step. |
+| [Spelldrinker Blade](/items/Spelldrinker-Blade) | Legendary | Sword | Spoops | Stores and casts spells. |
+| [Short Swords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
 
 
 
@@ -36,17 +42,10 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [The Spoops Gun](/items/The-Spoops-Gun) | Legendary | Gun | Spoops |  A special gun created specifically to launch the Spoops Blade / Shared of Divinity as a projectile. |
 | [Arc of Death](#arc-of-death) | Mythic | Bow | Breezy | A powerful bow that bring instant death to foes. |
 | [Rocket Gauntlets](/items/Rocket-Gauntlets) | Uncommon | Gauntlets | Bazzdos | Gauntlets that provide enhanced strength and the ability attack with ranged or melee attacks. Can be found at [Rocket Gauntlets](https://www.dndbeyond.com/magic-items/8596750-mechanized-rocket-gauntlets) on DnD Beyond. |
-| [Lightning Shortsword](/items/Lightning-Shortsword) | Uncommon | Sword | LBB | Electrifying sword that also stings the user. |
-| [Vampire Blade](/items/Vampire-Blade) | Epic | Sword | Breezy-e | Vampiric in a way... |
 | [Wrist Mounted Crossbow](/items/Wrist-Mounted-Crossbow) | Epic | Crossbow | Spoops | Its a crossbow on your wrist. |
-| [Blade of Wall Walking](/items/Blade-Of-Wall-Walking) | Uncommon | Sword | Spoops' Wight | Allows the user to walk on walls. |
-| [Quick Frost Short Sword](/items/Quick-Frost-Short-Sword) | Uncommon | Sword | Spoops' Wight | Freezes everything it touches. |
-| [Longsword of Mist](/items/Longsword-Of-Mist) | Uncommon | Sword | Spoops' Wight | Allows the user to cast Misty Step. |
-| [Spelldrinker Blade](/items/Spelldrinker-Blade) | Legendary | Sword | Spoops | Stores and casts spells. |
 | [Mahogany Bow](/items/Mahogany-Bow) | Uncommon | Bow | LBB | Formerly owned by Otto Herzog. |
 | [Kingslayer](/items/Kingslayer) | Epic | Mace | Spoops | Mace used by the Witch King. |
 | [Norixi Razor](/items/Norixi-Razor) | Epic | Dagger | Spoops | Soulbinding Dagger. |
-| [Short Swords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
 | [Staff of Ice Age](/items/Staff-Of-Ice-Age) | Epic | Staff | Spoops |  A Staff with Icy power. |
 | [Staff of Princely Escort](/items/Staff-Of-Princely-Escort) | Epic | Staff | Spoops |  Creates illusions of royalty. |
 | [Totem to the Last Prince](/items/Totem-to-the-Last-Prince) | Wonderous | Staff | Adalynn | Powerful spell staff capable of interdimensional travel |
