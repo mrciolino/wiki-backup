@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-26T21:08:05.134Z
+date: 2025-06-27T15:26:37.343Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -12,8 +12,8 @@ dateCreated: 2024-06-03T12:56:40.877Z
 
 Custom homebrew items created or found during the campaign. This list comprises items worn/made by [Bazzdos](/characters/bazzdos), [Breezy](/characters/breezy), [Spoops](/characters/spoops) and [Adalynn](/characters/adalynn) and others.
 
-## **Weapons**  
 
+## **Swords**
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Shard of Divinity](/items/shard-of-divinity) | Legendary | Sword | Spoops | A fragment of Spoops' divine power, said to grant godlike abilities. |
@@ -24,8 +24,16 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Titanite Blade](/items/Titanite-Blade) | Legendary | Sword | Spoops |  Created by Iaeptus using his own titanite prison.  |
 | [The Spoops Blade](/items/The-Spoops-Blade) | Legendary | Sword | Spoops | The combined blade of spoops. |
 | [The Cleanser](/items/The-Cleanser) | Epic | Sword | Spoops | Spoops' Blade from his first time on Ereriad. |
-| [The Spoops Gun](/items/The-Spoops-Gun) | Legendary | Gun | Spoops |  A special gun created specifically to launch the Spoops Blade / Shared of Divinity as a projectile. |
 | [Godsbane](/items/Godsbane) | Epic | Sword | Breezy\* | A sword capable of slaying deities and other divine beings. Godsbane was [destroyed](https://wiki.lowbarbrawlers.com/items/Godsbane#the-disjunction-of-godsbane) when Bazzdos cast [Mordenkainen's Disjunction](/Spells/Mordekainen's-Disjunction) on the blade in an attempt to destroy Cyric. |
+
+
+
+
+## **Weapons**  
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+| [The Spoops Gun](/items/The-Spoops-Gun) | Legendary | Gun | Spoops |  A special gun created specifically to launch the Spoops Blade / Shared of Divinity as a projectile. |
 | [Arc of Death](#arc-of-death) | Mythic | Bow | Breezy | A powerful bow that bring instant death to foes. |
 | [Rocket Gauntlets](/items/Rocket-Gauntlets) | Uncommon | Gauntlets | Bazzdos | Gauntlets that provide enhanced strength and the ability attack with ranged or melee attacks. Can be found at [Rocket Gauntlets](https://www.dndbeyond.com/magic-items/8596750-mechanized-rocket-gauntlets) on DnD Beyond. |
 | [Lightning Shortsword](/items/Lightning-Shortsword) | Uncommon | Sword | LBB | Electrifying sword that also stings the user. |
