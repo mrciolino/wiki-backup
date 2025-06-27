@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T16:02:49.057Z
+date: 2025-06-27T16:03:49.222Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -139,6 +139,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Screaming Shoes](/items/Screaming-Shoes) | Uncommon | Sword | Spoops | Light blue shoes that scream when you walking around in them. |
 | [Ruby Boots of Confusion](/items/Ruby-Boots-Of-Confusion) | Epic | Boots | Spoops | Click the heels to confuse the enemy. |
 | [Sabatons of Dance](/items/Sabatons-Of-Dance) | Epic | Boots | Bazzdows | They'll get you and your partner dancing! |
+| [Magic Slippers](/items/Magic-Slippers) | Epic | Slippers | Spoops |  A pair of sneaky slippers. |
+
 
 
 ## **Headgear**  
@@ -152,7 +154,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Magic Tiara Mark of Skill](/items/Magic-Tiara-Mark-Of-Skill) | Epic | Tiara | Spoops |  A tiara that allows the wearer to cast empowerment on a creature without using a spell slot or concentration. |
 | [Magic Earrings of Respite](/items/Magic-Earrings-Of-Respite) | Epic | Earrings | Spoops |  Magic earrings studded with 8 gemstones each. |
 | [Magic Tiara of KnOwLeDgE](/items/Magic-Tiara-Of-Knowledge) | Epic | Tiara | Bazzdows | Legend lore and renewal. |
-
+| [Magic Eyepatch](/items/Magic-Eyepatch) | Epic | Eyepatch | Spoops |  An eyepatch that covers both eyes. |
+| [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
 
 
 ## **Shields**  
@@ -169,7 +172,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
-
+| [Belt of Swift Movement](/items/Belt-Of-Swift-Movement) | Rare | Belt | Spoops |  A belt granting powerful agility. |
 
 
 
@@ -197,13 +200,6 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
 
-
-
-
-| [Magic Eyepatch](/items/Magic-Eyepatch) | Epic | Eyepatch | Spoops |  An eyepatch that covers both eyes. |
-| [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
-| [Magic Slippers](/items/Magic-Slippers) | Epic | Slippers | Spoops |  A pair of sneaky slippers. |
-| [Belt of Swift Movement](/items/Belt-Of-Swift-Movement) | Rare | Belt | Spoops |  A belt granting powerful agility. |
 | [Tiara of Life and Death](/items/Tiara-Of-Life-And-Death) | Legendary | Tiara | Spoops |  A tiara created by Ry-an to hold the memories of Spoops until he was ready to reunite with them.|
 | [Bulwark of Decimation](/items/Bulwark-of-Decimation) | Wonderous | Shield | Bazzdos | Soul-forged shield with an aura of undeath and hunger surrounding it. |
 | [Diadem of the Witch King](/items/Diadem-of-the-Witch-King) | Wonderous | Helmet | Bazzdos | Glimpses of the future begin to press in on your awareness, this diadem seems very lucky. |
