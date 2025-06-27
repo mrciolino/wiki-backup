@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T15:31:42.087Z
+date: 2025-06-27T15:36:00.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -14,6 +14,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 
 ## **Swords**
+
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Shard of Divinity](/items/shard-of-divinity) | Legendary | Sword | Spoops | A fragment of Spoops' divine power, said to grant godlike abilities. |
@@ -36,6 +37,9 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 
 ## **Staves**
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
 | [Staff of Ice Age](/items/Staff-Of-Ice-Age) | Epic | Staff | Spoops |  A Staff with Icy power. |
 | [Staff of Princely Escort](/items/Staff-Of-Princely-Escort) | Epic | Staff | Spoops |  Creates illusions of royalty. |
 | [Totem to the Last Prince](/items/Totem-to-the-Last-Prince) | Wonderous | Staff | Adalynn | Powerful spell staff capable of interdimensional travel |
@@ -45,26 +49,48 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 
 ## **Daggers**
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
 | [Norixi Razor](/items/Norixi-Razor) | Epic | Dagger | Spoops | Soulbinding Dagger. |
 | [Peace Was Never An Option Dagger](/items/Peace-Was-Never-An-Option-Dagger) | Wonderous | Dagger | Spoops |  A Dagger once weilded by a demonic Goose. Now serves as the leg of Spoops |
 | [Dagger of Rellund](/items/Dagger-Of-Rellund) | Epic | Dagger | LBB |  ??? |
+| [Witch King's Dagger](/items/Witch-Kings-Dagger) | Epic | Dagger | LBB |  ??? |
 
 
 
-## **Weapons**  
+## **Bows, Guns, and Ammo**
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [The Spoops Gun](/items/The-Spoops-Gun) | Legendary | Gun | Spoops |  A special gun created specifically to launch the Spoops Blade / Shared of Divinity as a projectile. |
 | [Arc of Death](#arc-of-death) | Mythic | Bow | Breezy | A powerful bow that bring instant death to foes. |
-| [Rocket Gauntlets](/items/Rocket-Gauntlets) | Uncommon | Gauntlets | Bazzdos | Gauntlets that provide enhanced strength and the ability to attack with ranged or melee attacks. Can be found at [Rocket Gauntlets](https://www.dndbeyond.com/magic-items/8596750-mechanized-rocket-gauntlets) on DnD Beyond. |
 | [Wrist Mounted Crossbow](/items/Wrist-Mounted-Crossbow) | Epic | Crossbow | Spoops | Its a crossbow on your wrist. |
 | [Mahogany Bow](/items/Mahogany-Bow) | Uncommon | Bow | LBB | Formerly owned by Otto Herzog. |
-| [Kingslayer](/items/Kingslayer) | Epic | Mace | Spoops | Mace used by the Witch King. |
 | [Blunder Gat](/items/Blunder-Gat) | Epic | Gun | LBB |  ??? |
-| [Witch King's Dagger](/items/Witch-Kings-Dagger) | Epic | Dagger | LBB |  ??? |
-| [Krorg's Axe](/items/Krorgs-Axe) | Rare | Axe | Spoops |  The axe once used by Krorg.  |
 | [Lifetime Supply of Arrows](/items/Lifetime-Supply-Of-Arrows) | Rare | Arrows | Spoops |  Magically infinite +2 arrows.  |
+
+
+## **Maces**
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+| [Kingslayer](/items/Kingslayer) | Epic | Mace | Spoops | Mace used by the Witch King. |
+
+
+## **Axes**
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+| [Krorg's Axe](/items/Krorgs-Axe) | Rare | Axe | Spoops |  The axe once used by Krorg.  |
+
+
+
+## **Fist Weapons**
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+| [Rocket Gauntlets](/items/Rocket-Gauntlets) | Uncommon | Gauntlets | Bazzdos | Gauntlets that provide enhanced strength and the ability to attack with ranged or melee attacks. Can be found at [Rocket Gauntlets](https://www.dndbeyond.com/magic-items/8596750-mechanized-rocket-gauntlets) on DnD Beyond. |
 
 ---
 
