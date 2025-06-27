@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T16:03:49.222Z
+date: 2025-06-27T16:07:05.508Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -156,6 +156,9 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Magic Tiara of KnOwLeDgE](/items/Magic-Tiara-Of-Knowledge) | Epic | Tiara | Bazzdows | Legend lore and renewal. |
 | [Magic Eyepatch](/items/Magic-Eyepatch) | Epic | Eyepatch | Spoops |  An eyepatch that covers both eyes. |
 | [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
+| [Diadem of the Witch King](/items/Diadem-of-the-Witch-King) | Wonderous | Helmet | Bazzdos | Glimpses of the future begin to press in on your awareness, this diadem seems very lucky. |
+| [Tiara of Life and Death](/items/Tiara-Of-Life-And-Death) | Legendary | Tiara | Spoops |  A tiara created by Ry-an to hold the memories of Spoops until he was ready to reunite with them.|
+
 
 
 ## **Shields**  
@@ -163,7 +166,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Mechanical Mirror Shield](/items/Mechanical-Mirror-Shield) | Legendary | Shield | Spoops | A shield that can reflect any ray attack back at the attacker. Can be found at [Mechanical Mirror Shield](https://www.dndbeyond.com/magic-items/8596950-mechanical-mirror-shield) on DnD Beyond. |
-
+| [Bulwark of Decimation](/items/Bulwark-of-Decimation) | Wonderous | Shield | Bazzdos | Soul-forged shield with an aura of undeath and hunger surrounding it. |
 
 
 
@@ -200,9 +203,9 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
 
-| [Tiara of Life and Death](/items/Tiara-Of-Life-And-Death) | Legendary | Tiara | Spoops |  A tiara created by Ry-an to hold the memories of Spoops until he was ready to reunite with them.|
-| [Bulwark of Decimation](/items/Bulwark-of-Decimation) | Wonderous | Shield | Bazzdos | Soul-forged shield with an aura of undeath and hunger surrounding it. |
-| [Diadem of the Witch King](/items/Diadem-of-the-Witch-King) | Wonderous | Helmet | Bazzdos | Glimpses of the future begin to press in on your awareness, this diadem seems very lucky. |
+
+
+
 | [Gilembror's Appeasement](/items/Gilembror's-Appeasement) | Legendary | Glove | Bazzdos | Cloth gloves. The first item forged in the [Forge Dimension](/locations/Forge-Dimension). |
 | [Helm of Sturdy Icey Awareness](/items/Helm-of-Sturdy-Icey-Awareness) | Legendary | Helmet | Bazzdos | A helmet with 3 gem inlays allowing various effects to be used by the wearer. |
 | [Gauntlets of Devastation](/items/Gauntlets-of-Devastation) | Wonderous | Gaunlet | Bazzdos | Gauntlets of death and destruction, allows the user to impart addition force into attacks.|
