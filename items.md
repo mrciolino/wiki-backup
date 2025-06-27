@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T16:09:12.984Z
+date: 2025-06-27T16:11:15.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -160,6 +160,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Tiara of Life and Death](/items/Tiara-Of-Life-And-Death) | Legendary | Tiara | Spoops |  A tiara created by Ry-an to hold the memories of Spoops until he was ready to reunite with them.|
 | [Iron Halo of Pyrocinae](/items/Iron-Halo-Of-Pyrocinae) | Legendary | Halo | Spoops |  A Halo created by the Fire Goddess Pyrocinae, blessed with a fragment of her power. |
 | [Helm of Sturdy Icey Awareness](/items/Helm-of-Sturdy-Icey-Awareness) | Legendary | Helmet | Bazzdos | A helmet with 3 gem inlays allowing various effects to be used by the wearer. |
+| [Crown of Karsus](/items/crown-of-karsus) | Legendary | Crown | [The Emperor](/characters/Emperor) | The legendary crown grants immense power to the wearer. |
 
 
 
@@ -187,7 +188,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Robe of the Archmagi](/items/Robe-of-the-Archmagi) | Wonderous | Robe | Adalynn | This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. |
-
+| [Robes of the Journeyman](/items/Robes-Of-The-Journeyman) | Rare | Robe | Bazzvrah |  A magical robe with many magical pockets.  |
 
 
 ## **Gloves and Bracers**  
@@ -198,6 +199,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Gilembror's Appeasement](/items/Gilembror's-Appeasement) | Legendary | Glove | Bazzdos | Cloth gloves. The first item forged in the [Forge Dimension](/locations/Forge-Dimension). |
 | [Gauntlets of Devastation](/items/Gauntlets-of-Devastation) | Wonderous | Gaunlet | Bazzdos | Gauntlets of death and destruction, allows the user to impart addition force into attacks.|
 | [Silver Gauntlet](/items/Silver-Gauntlet) | Wonderous | Gauntlet | Spoops |  A Silver Gauntlet that allows the user to see a particular ghostly apparition, and improves non-magical ranged accuracy and damage.  |
+| [Spiked Bracers](/items/Spiked-Bracers) | Rare | Bracers | Bazzvrah | Spiked bracers grant +1 AC and allow the user to fire spikes. |
 
 
 
@@ -208,12 +210,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
 | [Carapace of Domination](/items/Carapace-of-Domination) | Wonderous | Plate | Bazzdos | Plate armor with AC, magical resistance, a Constitution boost, immovable gear, and enchantment capabilities. |
-
-
-| [Robes of the Journeyman](/items/Robes-Of-The-Journeyman) | Rare | Robe | Bazzvrah |  A magical robe with many magical pockets.  |
 | [Jumping Scale Armor of Goo](/items/Jumping-Scale-Armor-Of-Goo) | Rare | Armor | Bazzvrah |  Sticky bouncy armor.  |
-| [Spiked Bracers](/items/Spiked-Bracers) | Rare | Bracers | Bazzvrah | Spiked bracers grant +1 AC and allow the user to fire spikes. |
-| [Crown of Karsus](/items/crown-of-karsus) | Legendary | Crown | [The Emperor](/characters/Emperor) | The legendary crown grants immense power to the wearer. |
+
 
 ---
 
