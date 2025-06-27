@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-27T13:16:58.155Z
+date: 2025-06-27T13:19:14.766Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -168,6 +168,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Nihilus, Avatar of Violence](/characters/nihilus) | Ithilid Lieutenant | Fought the party alongside [Corelious](/characters/corelious). |  
 | [Corelious, Avatar of Chaos](/characters/corelious) | Ithilid Lieutenant | Fought the party alongside [Nihilus](/characters/nihilus). |
 | [Jormungandr](/characters/jormungandr) | The World Serpent | Former Servant of [Glub Glub](/characters/glub-glub). |
+| [Glub Glub The Immortal](/characters/glub-glub) | Crab Creature | A selfish crustacean of immense power who hates [Spoops](/characters/spoops). |
 
 
 ## Other Characters
