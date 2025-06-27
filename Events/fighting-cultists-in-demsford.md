@@ -2,7 +2,7 @@
 title: Fighting Cultists in Demsford
 description: The party hunts downs and battles the cultists in Demsford
 published: true
-date: 2025-06-27T13:02:16.931Z
+date: 2025-06-27T13:02:43.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T18:29:57.061Z
@@ -30,7 +30,7 @@ However the cult fortress already has holes in its walls and Krorg and Bomb woul
 ## The Second Drakham Plan
 Drakham proposes a second plan to ride around the side of the fortress and flank the cultists on horseback like a mini cavalry charge and saving Krorg and Bomb.
 
-This plan while a bit better also failed as one of the cultist ran to get his boss. During the time before the cultist boss shows up Bazzert is attack by the fortress firing squad and gets struck by crossbow bolts and fire bolts and falls unconscious in a burning tree, good thing [Frederina](characters/Frederina) stopped the flames from burning Bazzert alive and pulling him from the tree. 
+This plan while a bit better also failed as one of the cultist ran to get his boss. During the time before the cultist boss shows up Bazzert is attack by the fortress firing squad and gets struck by crossbow bolts and fire bolts and falls unconscious in a burning tree, good thing [Frederina](/characters/Frederina) stopped the flames from burning Bazzert alive and pulling him from the tree. 
 
 
 ## Veerian Rathwing Arrives
