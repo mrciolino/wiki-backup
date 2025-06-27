@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T15:59:33.626Z
+date: 2025-06-27T16:00:28.889Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -136,7 +136,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
-
+| [Screaming Shoes](/items/Screaming-Shoes) | Uncommon | Sword | Spoops | Light blue shoes that scream when you walking around in them. |
 
 
 
@@ -144,7 +144,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
-
+| [Circlet of No Word](/items/Circlet-Of-No-Word) | Epic | Circlet | Spoops | Stops the target from using a specified word. |
 
 
 
@@ -152,6 +152,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
+| [Mechanical Mirror Shield](/items/Mechanical-Mirror-Shield) | Legendary | Shield | Spoops | A shield that can reflect any ray attack back at the attacker. Can be found at [Mechanical Mirror Shield](https://www.dndbeyond.com/magic-items/8596950-mechanical-mirror-shield) on DnD Beyond. |
 
 
 
@@ -160,6 +161,9 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
+
+
+
 
 
 ## **Robes**  
@@ -171,14 +175,14 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 
 
-## **Armor & Gear**  
+## **Armor**  
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
-| [Mechanical Mirror Shield](/items/Mechanical-Mirror-Shield) | Legendary | Shield | Spoops | A shield that can reflect any ray attack back at the attacker. Can be found at [Mechanical Mirror Shield](https://www.dndbeyond.com/magic-items/8596950-mechanical-mirror-shield) on DnD Beyond. |
-| [Circlet of No Word](/items/Circlet-Of-No-Word) | Epic | Circlet | Spoops | Stops the target from using a specified word. |
-| [Screaming Shoes](/items/Screaming-Shoes) | Uncommon | Sword | Spoops | Light blue shoes that scream when you walking around in them. |
+
+
+
 | [Cool Sunglasses](/items/Shifty-Abacus) | Uncommon | Item | Spoops | They look cool. |
 | [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
