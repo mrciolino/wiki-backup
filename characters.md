@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-27T00:05:35.175Z
+date: 2025-06-27T00:19:57.386Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -20,7 +20,7 @@ List of non-player-characters from both campaigns and some information about the
 |------|------|-------------|
 | [Gilembror](/characters/Gilembror) | Dwarven Berserker | A fiery-haired dwarf ally found in the caves near the College of [Porthy](/locations/Ereriad/Porthy). Fought alongside the party before perishing in [Ereriad](/locations/Ereriad). |
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
-| [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by thebparty and traveled on thr Toy Box (flying ship) until they died when the ship crashed. |
+| [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by the party and traveled on the Toy Box (flying ship) until they died when the ship crashed. |
 | [Not Interesting](/characters/not-interesting) | Gith-serai warrior. | |
 | [Verondora](/characters/verondera) | Guardian of the Feywild Northern Territory | Giant spider of the Feywild and now worshipper of Spoops. |
 | [Knott Emportent](/characters/knott-emportent) | [Krorg's](/characters/krorg) bodyguard. | Formerly Krorg's bodyguard, now guardian of [Krorgfrey](/characters/krorgfrey) |
