@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-27T12:54:21.962Z
+date: 2025-06-27T13:04:55.258Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -175,6 +175,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Lothario](/characters/lothario) | Senior scout of the first battalion of the slitherlings | ruby snake scout |
 | [Pickle Rick](/characters/pickle-rick) | A ghostly pickle | Appeared to [Otto Hurtszog](/characters/Otto-Hurtszog) in Fort Suro. |
 | [Ayod](/characters/ayod) | Druid Master | [Bazzert's] druid master. |
+| [Teddy](/characters/teddy) | A child | Formerly a resident of [Demsford](/locations/Mardun/demsford), now his soul resides in the [teddy bear heart](/items/Teddy-Bear-Heart).  |
 
 # **Campaign 2**  
 
