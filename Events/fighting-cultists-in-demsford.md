@@ -2,7 +2,7 @@
 title: Fighting Cultists in Demsford
 description: The party hunts downs and battles the cultists in Demsford
 published: true
-date: 2025-06-20T16:05:22.958Z
+date: 2025-06-27T13:02:16.931Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T18:29:57.061Z
