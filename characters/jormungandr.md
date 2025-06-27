@@ -2,7 +2,7 @@
 title: Jormungandr
 description: The World Serpent
 published: true
-date: 2025-06-27T13:30:49.370Z
+date: 2025-06-27T13:31:12.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-27T13:30:49.370Z
@@ -20,6 +20,6 @@ While [exploring the ancient sunken elven city](/Events/exploring-the-ancient-su
 
 
 ## Subjugating Jormungander
-During the [first time chamber](/Events/the-first-time-chamber), Spoops subjugated Jormungandr by breaming hos will over many years. In the end, Spoops convinced Jormungandr to grant him power in exchange for his freedom. Jormingandr accepted this deal and blessed Spoops with new abilities. True to his word, Spoops [summoned a sea snake](/items/ring-of-snakes) and placed Jormungandr's soul within it, allowing him to slither away into the sea.
+During the [first time chamber](/Events/the-first-time-chamber), Spoops subjugated Jormungandr by breaming hos will over many years. In the end, Spoops convinced Jormungandr to grant him power in exchange for his freedom. Jormingandr accepted this deal and blessed Spoops with new abilities. True to his word, Spoops [summoned a sea snake](/items/Ring-of-Snakes) and placed Jormungandr's soul within it, allowing him to slither away into the sea.
 
 
