@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T15:36:00.139Z
+date: 2025-06-27T15:59:33.626Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -130,6 +130,46 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Wind Amulet](/items/Wind-Amulet) | Legendary | Necklace | Spoops |  Provides Immunity to Wind. |
 
 ---
+
+
+## **Boots and Shoes**  
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+
+
+
+
+## **Headgear**  
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+
+
+
+
+## **Shields**  
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+
+
+
+
+## **Belts**  
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+
+
+## **Robes**  
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+
+
+
+
 
 ## **Armor & Gear**  
 
