@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T16:00:28.889Z
+date: 2025-06-27T16:02:49.057Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -137,7 +137,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Screaming Shoes](/items/Screaming-Shoes) | Uncommon | Sword | Spoops | Light blue shoes that scream when you walking around in them. |
-
+| [Ruby Boots of Confusion](/items/Ruby-Boots-Of-Confusion) | Epic | Boots | Spoops | Click the heels to confuse the enemy. |
+| [Sabatons of Dance](/items/Sabatons-Of-Dance) | Epic | Boots | Bazzdows | They'll get you and your partner dancing! |
 
 
 ## **Headgear**  
@@ -145,6 +146,12 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Circlet of No Word](/items/Circlet-Of-No-Word) | Epic | Circlet | Spoops | Stops the target from using a specified word. |
+| [Cool Sunglasses](/items/Shifty-Abacus) | Uncommon | Item | Spoops | They look cool. |
+| [Laurel of Iksenda](/items/Laurel-Of-Iksenda) | Epic | headpiece | Breezy-e | Demon summoning laurels. |
+| [Headband of Intellect](/items/Headband-Of-Intellect) | Rare | Headband | Elira | ??? |
+| [Magic Tiara Mark of Skill](/items/Magic-Tiara-Mark-Of-Skill) | Epic | Tiara | Spoops |  A tiara that allows the wearer to cast empowerment on a creature without using a spell slot or concentration. |
+| [Magic Earrings of Respite](/items/Magic-Earrings-Of-Respite) | Epic | Earrings | Spoops |  Magic earrings studded with 8 gemstones each. |
+| [Magic Tiara of KnOwLeDgE](/items/Magic-Tiara-Of-Knowledge) | Epic | Tiara | Bazzdows | Legend lore and renewal. |
 
 
 
@@ -161,7 +168,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
-
+| [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
 
 
 
@@ -174,26 +181,25 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 
 
+## **Gloves and Bracers**  
+
+| Item Name | Rarity | Type | Wearer | Description |
+| --- | --- | --- | --- | --- |
+| [Bracers of Defense](/items/Bracers-Of-Defense) | Uncommon | Armor | Spoops | +2 AC |
+
+
+
 
 ## **Armor**  
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Anti Magic Armor](/items/Anti-Magic-Armor) | Legendary | Armor | Spoops | Armor that makes the wearer immune to magic. |
-
-
-
-| [Cool Sunglasses](/items/Shifty-Abacus) | Uncommon | Item | Spoops | They look cool. |
-| [Belt of Useful Storing](/items/Belt-Of-Useful-Storing) | Rare | Belt | LBB | Anything on the belt can be equipped as a bonus action. |
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
-| [Laurel of Iksenda](/items/Laurel-Of-Iksenda) | Epic | headpiece | Breezy-e | Demon summoning laurels. |
-| [Headband of Intellect](/items/Headband-Of-Intellect) | Rare | Headband | Elira | ??? |
-| [Magic Tiara Mark of Skill](/items/Magic-Tiara-Mark-Of-Skill) | Epic | Tiara | Spoops |  A tiara that allows the wearer to cast empowerment on a creature without using a spell slot or concentration. |
-| [Magic Earrings of Respite](/items/Magic-Earrings-Of-Respite) | Epic | Earrings | Spoops |  Magic earrings studded with 8 gemstones each. |
-| [Bracers of Defense](/items/Bracers-Of-Defense) | Uncommon | Armor | Spoops | +2 AC |
-| [Magic Tiara of KnOwLeDgE](/items/Magic-Tiara-Of-Knowledge) | Epic | Tiara | Bazzdows | Legend lore and renewal. |
-| [Ruby Boots of Confusion](/items/Ruby-Boots-Of-Confusion) | Epic | Boots | Spoops | Click the heels to confuse the enemy. |
-| [Sabatons of Dance](/items/Sabatons-Of-Dance) | Epic | Boots | Bazzdows | They'll get you and your partner dancing! |
+
+
+
+
 | [Magic Eyepatch](/items/Magic-Eyepatch) | Epic | Eyepatch | Spoops |  An eyepatch that covers both eyes. |
 | [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
 | [Magic Slippers](/items/Magic-Slippers) | Epic | Slippers | Spoops |  A pair of sneaky slippers. |
