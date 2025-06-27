@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T16:07:05.508Z
+date: 2025-06-27T16:07:54.498Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -158,6 +158,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Telescopic Glass Eye](/items/Telescopic-Glass-Eye) | Epic | Eye | Spoops |  A glass eye offering telescopic vision. |
 | [Diadem of the Witch King](/items/Diadem-of-the-Witch-King) | Wonderous | Helmet | Bazzdos | Glimpses of the future begin to press in on your awareness, this diadem seems very lucky. |
 | [Tiara of Life and Death](/items/Tiara-Of-Life-And-Death) | Legendary | Tiara | Spoops |  A tiara created by Ry-an to hold the memories of Spoops until he was ready to reunite with them.|
+| [Iron Halo of Pyrocinae](/items/Iron-Halo-Of-Pyrocinae) | Legendary | Halo | Spoops |  A Halo created by the Fire Goddess Pyrocinae, blessed with a fragment of her power. |
+
 
 
 
@@ -183,7 +185,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
-
+| [Robe of the Archmagi](/items/Robe-of-the-Archmagi) | Wonderous | Robe | Adalynn | This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. |
 
 
 
@@ -192,7 +194,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Bracers of Defense](/items/Bracers-Of-Defense) | Uncommon | Armor | Spoops | +2 AC |
-
+| [Gilembror's Appeasement](/items/Gilembror's-Appeasement) | Legendary | Glove | Bazzdos | Cloth gloves. The first item forged in the [Forge Dimension](/locations/Forge-Dimension). |
 
 
 
@@ -206,12 +208,12 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 
 
-| [Gilembror's Appeasement](/items/Gilembror's-Appeasement) | Legendary | Glove | Bazzdos | Cloth gloves. The first item forged in the [Forge Dimension](/locations/Forge-Dimension). |
+
 | [Helm of Sturdy Icey Awareness](/items/Helm-of-Sturdy-Icey-Awareness) | Legendary | Helmet | Bazzdos | A helmet with 3 gem inlays allowing various effects to be used by the wearer. |
 | [Gauntlets of Devastation](/items/Gauntlets-of-Devastation) | Wonderous | Gaunlet | Bazzdos | Gauntlets of death and destruction, allows the user to impart addition force into attacks.|
 | [Carapace of Domination](/items/Carapace-of-Domination) | Wonderous | Plate | Bazzdos | Plate armor with AC, magical resistance, a Constitution boost, immovable gear, and enchantment capabilities. |
-| [Robe of the Archmagi](/items/Robe-of-the-Archmagi) | Wonderous | Robe | Adalynn | This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. |
-| [Iron Halo of Pyrocinae](/items/Iron-Halo-Of-Pyrocinae) | Legendary | Halo | Spoops |  A Halo created by the Fire Goddess Pyrocinae, blessed with a fragment of her power. |
+
+
 | [Silver Gauntlet](/items/Silver-Gauntlet) | Wonderous | Gauntlet | Spoops |  A Silver Gauntlet that allows the user to see a particular ghostly apparition, and improves non-magical ranged accuracy and damage.  |
 | [Belt of Intellect](/items/Belt-Of-Intellect) | Wonderous | Belt | Spoops |  A belt of intellect created by Bazzdows.  |
 | [Magic Bronze Discus](/items/Magic-Bronze-Discus) | Rare | Shield | Achilles |  A magical discus shield that can be thrown.  |
