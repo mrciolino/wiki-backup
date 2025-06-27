@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T15:30:46.981Z
+date: 2025-06-27T15:31:42.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -44,6 +44,12 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Staff of the Woodlands](/items/Staff-Of-The-Woodlands) | Rare | Staff | Bazzvrah |  Contains various woodland abilities.  |
 
 
+## **Daggers**
+| [Norixi Razor](/items/Norixi-Razor) | Epic | Dagger | Spoops | Soulbinding Dagger. |
+| [Peace Was Never An Option Dagger](/items/Peace-Was-Never-An-Option-Dagger) | Wonderous | Dagger | Spoops |  A Dagger once weilded by a demonic Goose. Now serves as the leg of Spoops |
+| [Dagger of Rellund](/items/Dagger-Of-Rellund) | Epic | Dagger | LBB |  ??? |
+
+
 
 ## **Weapons**  
 
@@ -55,9 +61,6 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Wrist Mounted Crossbow](/items/Wrist-Mounted-Crossbow) | Epic | Crossbow | Spoops | Its a crossbow on your wrist. |
 | [Mahogany Bow](/items/Mahogany-Bow) | Uncommon | Bow | LBB | Formerly owned by Otto Herzog. |
 | [Kingslayer](/items/Kingslayer) | Epic | Mace | Spoops | Mace used by the Witch King. |
-| [Norixi Razor](/items/Norixi-Razor) | Epic | Dagger | Spoops | Soulbinding Dagger. |
-| [Peace Was Never An Option Dagger](/items/Peace-Was-Never-An-Option-Dagger) | Wonderous | Dagger | Spoops |  A Dagger once weilded by a demonic Goose. Now serves as the leg of Spoops |
-| [Dagger of Rellund](/items/Dagger-Of-Rellund) | Epic | Dagger | LBB |  ??? |
 | [Blunder Gat](/items/Blunder-Gat) | Epic | Gun | LBB |  ??? |
 | [Witch King's Dagger](/items/Witch-Kings-Dagger) | Epic | Dagger | LBB |  ??? |
 | [Krorg's Axe](/items/Krorgs-Axe) | Rare | Axe | Spoops |  The axe once used by Krorg.  |
