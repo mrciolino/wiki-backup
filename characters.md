@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-29T16:47:05.857Z
+date: 2025-06-29T16:50:14.342Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -52,6 +52,13 @@ List of non-player-characters from both campaigns and some information about the
 | [Tilich](/characters/tilich) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with recruiting druids and acquiring rare soporiphic herbs for Mortis Lux. |
 | [Wolterstoff](/characters/wolterstoff) | Paladin of Spoops | He was one of Spoops' first paladin recruits. He was tasked with recruiting spelljammer pilots and troops from among the gith and acting as ambassador to the gith. |
 | [Luther](/characters/luther) | Paladin of Spoops | He was one of Spoops' first paladin recruits. |
+
+
+## Pirates
+| Name | Role | Description |
+|------|------|-------------|
+| [Bugbear Captain](/characters/bugbear-captain) | Pirate Lord | A Pirate Lord of Saragassa and longtime ally to the [Low Bar Brawlers](/organizations/low-bar-brawlers) |
+
 
 
 ## Library Dimension Allies
