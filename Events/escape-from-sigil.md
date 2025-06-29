@@ -2,7 +2,7 @@
 title: Escape From Sigil
 description: Spoops and Elira escape kangaroo court on Sigil
 published: true
-date: 2025-06-29T15:21:05.732Z
+date: 2025-06-29T15:24:43.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T14:12:36.664Z
