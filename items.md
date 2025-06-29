@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-27T16:11:15.344Z
+date: 2025-06-29T15:01:00.863Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -112,6 +112,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Ring of Snakes](/items/Ring-of-Snakes) | Rare | Ring | Spoops | Ring of Snakes, what else could it be? |
 | [Ring of Sexy Seduction](/items/Ring-of-Sexy-Seduction) | Rare | Ring | LBB | ??? |
 | [Ring of Force Resistance](/items/Ring-Of-Force-Resistance) | Rare | Ring | LBB | Provides resistance to Force damage. |
+| [Ring of Force Resistance](/items/Ring-Of-Force-Resistance) | Rare | Ring | [King Sunfenix](/characters/king-sunfenix) | Causes the wearer to become the avatar of [Bane](/characters/bane). |
 
 
 ---
