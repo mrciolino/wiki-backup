@@ -2,7 +2,7 @@
 title: Siege of The Witch King’s Castle
 description: Shiva the destroyer leads an army to destroy the Witch King
 published: true
-date: 2025-06-24T18:05:49.483Z
+date: 2025-06-29T14:48:38.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T23:59:29.633Z
@@ -30,7 +30,7 @@ The party puts up a great fight, taking out Shiva's army with massive AOE spells
 
 
 ## The Party Returns to Loot the Castle
-The party returns to the devastated landscape that was once the Witch King's castle. As it begins sinking into the lava, [Bazzdows](/characters/bazzdos) and Spoops return to the [Forge of Pain](/locations/Ereriad/forge-of-pain) within at the castle, and manage to haul the massive crystals that contain the souls of powerful smiths into the [forge demiplane](/locations/forge-demiplane). They also retrieve the Armor, Weapons, and ring from the Witch King's corpse.
+The party returns to the devastated landscape that was once the Witch King's castle. As it begins sinking into the lava, [Bazzdows](/characters/bazzdos) and Spoops return to the [Forge of Pain](/locations/Ereriad/forge-of-pain) within at the castle, and manage to haul the massive crystals that contain the souls of powerful smiths into the [forge demiplane](/locations/forge-demiplane). Bazzdows also retrieves most of the Armor, Weapons, and ring from the Witch King's corpse. Spoops claims his mace, the "Kingslayer".
 
 
 Witch King's Items:
