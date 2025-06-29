@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-29T16:53:15.619Z
+date: 2025-06-29T16:54:03.821Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
