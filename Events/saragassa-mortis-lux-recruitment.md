@@ -2,7 +2,7 @@
 title: Saragassa Mortis Lux Recruitment
 description: The party returns to Saragassa to recruit the pirates into Mortis Lux
 published: true
-date: 2025-06-24T18:22:05.900Z
+date: 2025-06-29T16:55:53.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-07T17:24:11.098Z
