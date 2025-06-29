@@ -2,14 +2,14 @@
 title: Siege of The Witch King’s Castle
 description: Shiva the destroyer leads an army to destroy the Witch King
 published: true
-date: 2025-06-29T14:48:38.014Z
+date: 2025-06-29T14:49:25.413Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T23:59:29.633Z
 ---
 
 # Siege of The Witch King's Castle
-The black dragon named [Shiva the Destroyer](/characters/shiva-the-destroyer) is on her way to obliterate the [Witch King's castle](/locations/Ereriad/witch-kings-castle). The [Witch King](/characters/bane) asks the party to stay and help defend his castle as he is the only thing standing between this world and destruction. The party reluctantly agree to help.
+The black dragon named [Shiva the Destroyer](/characters/shiva-the-destroyer) is on her way to obliterate the [Witch King's castle](/locations/Ereriad/the-witch-kings-castle). The [Witch King](/characters/bane) asks the party to stay and help defend his castle as he is the only thing standing between this world and destruction. The party reluctantly agree to help.
 
 
 ## Arrival at The Castle
