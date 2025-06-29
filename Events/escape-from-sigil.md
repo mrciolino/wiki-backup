@@ -2,7 +2,7 @@
 title: Escape From Sigil
 description: Spoops and Elira escape kangaroo court on Sigil
 published: true
-date: 2025-06-29T15:24:43.378Z
+date: 2025-06-29T16:19:16.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T14:12:36.664Z
@@ -21,7 +21,7 @@ Not one to wait around, Spoops begins talking to the prisoner seated next to him
 
 
 ## Jumping Between Worlds
-After entering the well, Spoops and Elira quickly traverse a few planets using the well before arriving in an incredibly large house seemingly built for a giant. They are quickly met by someone who looks exactly like Os except they are giant sized and emanating an evil aura. Spoops quickly executes this [giant evil Os](/characters/giant-evil-os) and seals their soul within his Diamond. Spoops and Elira then use the well to travel to [Ereriad](/locations/Ereriad). Upon arrving in Ereriad they find themselves back with the rest of the party at the [Magical College of Highhold](/locations/Ereriad/magical-college-of-highhold). 
+After entering the well, Spoops and Elira quickly traverse a few planets using the well before arriving in an incredibly large house seemingly built for a giant. They are quickly met by someone who looks exactly like Os except they are giant sized and emanating an evil aura. Spoops quickly executes this [giant evil Os](/characters/giant-evil-os) and seals their soul within his Diamond. Spoops and Elira then use the well to travel to [Ereriad](/locations/Ereriad). Upon arrving in Ereriad they find themselves back with the rest of the party at the [Magical College of Highhold](/locations/Ereriad/the-magical-college-of-highhold). 
 
 
 ## Elira Joins The Party
