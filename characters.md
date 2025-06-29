@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-29T15:23:28.384Z
+date: 2025-06-29T16:47:05.857Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -180,6 +180,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Glub Glub The Immortal](/characters/glub-glub) | Crab Creature | A selfish crustacean of immense power who hates [Spoops](/characters/spoops). |
 | [Shiva The Destroyer](/characters/shiva-the-destroyer) | Ancient Dragon | Massive black dragon who led an assault on [The Witch King's Castle](/locations/Ereriad/the-witch-kings-castle). |
 | [Diavala](/characters/diavala) | Tyrant Queen | A tyrant queen who took over [Elira's](/characters/elira) original world. |
+| [Giant Evil Os](/characters/giant-evil-os) | A Giant Evil Os | A giant evil version of [Os](/characters/os). |
 
 
 ## Other Characters
