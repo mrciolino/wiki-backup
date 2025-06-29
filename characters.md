@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-29T14:53:08.516Z
+date: 2025-06-29T15:18:37.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -151,6 +151,15 @@ List of non-player-characters from both campaigns and some information about the
 | [Vesrahaan](/characters/vesrahaan) | Eternal Queen of Wegate | Loyal servant to Spoops. She led the rebellion in Wegate alongside Spoops, restoring the city as a theocratic kingdom worshipping Spoops. |
 | [Martin Martinique Del La Velasco](/characters/martin-martinique-del-la-velasco) | A Devil Fighter | A fighter from Hell, he served the daughter of Asmodeus before Spoops took a liking to him and requested he be given to Mortis Lux. |
 | [Captain John Robin](/characters/captain-john-robin) | Captain and Merchant | Captsin of the Seabird and owner of the [Robin Trading Company](/organizations/robin-trading-company) |
+
+
+
+## **Devastation Creatures**  
+| Name | Role | Notable Actions |  
+|------|------|----------------|
+| [Devastation Ice Phoenix](/characters/devastation-ice-phoenix) | Devastation Creature | Defeated in the mountains of [Ereriad](/locations/Ereriad). | 
+
+
 
 ## **Villains**  
 | Name | Role | Notable Actions |  
