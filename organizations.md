@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-06-29T17:01:46.421Z
+date: 2025-06-29T18:14:48.373Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -43,7 +43,8 @@ Groups of entities that represent various factions, guilds, nations, religious s
 
 ## **Nations and Tribes**  
 | Name | Description | Capital/Region | Ruler/Leader | Status |  
-|------|-------------|---------------|-------------|--------|  
+|------|-------------|---------------|-------------|--------|
+| [The Great Crossroads of Fywick](/organizations/the-great-crossroads-of-fywick) | The city of fywick, run by the city council. | [Fywick](/locations/Mardun/Fywick) | [Lord Kippers](/characters/lord-kippers) | Active |
 | [Parrot Shogunate](/organizations/parrot-shogunate) | A shogunate ruled by parrots. | - | - | Active |  
 | [Githzerai (and Githyankii survivors)](/organizations/githzerai) | Surviving Gith factions. | - | - | Scattered |  
 | [Kingdom of Hellaress](/locations/Ereriad/Hellaress) | A powerful kingdom. | - | - | Active |  
