@@ -2,7 +2,7 @@
 title: Giant Evil Os
 description: A massive evil version of Os
 published: true
-date: 2025-06-29T16:34:30.694Z
+date: 2025-06-29T16:38:55.539Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T16:34:16.643Z
