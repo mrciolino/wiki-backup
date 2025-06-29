@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-06-29T16:59:27.712Z
+date: 2025-06-29T17:01:46.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -46,7 +46,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 |------|-------------|---------------|-------------|--------|  
 | [Parrot Shogunate](/organizations/parrot-shogunate) | A shogunate ruled by parrots. | - | - | Active |  
 | [Githzerai (and Githyankii survivors)](/organizations/githzerai) | Surviving Gith factions. | - | - | Scattered |  
-| [Kingdom of Helares](/locations/Ereriad/Hellaress) | A powerful kingdom. | - | - | Active |  
+| [Kingdom of Hellaress](/locations/Ereriad/Hellaress) | A powerful kingdom. | - | - | Active |  
 | [Holy Nation of Elephond](/organizations/holy-nation-of-elephond) | [Aphir The Mighty](/characters/aphir-the-mighty)'s kingdom. | [Elephond](/locations/elephond) | [Aphir The Mighty](/characters/aphir-the-mighty) | Active |  
 | [Gothriathon and the Cliffs of Dover Region](/locations/gothriathon) | A significant region. | [Gothriathon](/locations/Mardun/Gothriathon) | - | Active |  
 | [Fortress of the Vampire Tyrant](/locations/fortress-of-the-vampire-tyrant) | At war with the Samurai. | - | [Vampire Tyrant](/characters/vampire-tyrant) | Conflict |  
