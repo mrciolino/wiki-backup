@@ -2,7 +2,7 @@
 title: Siege of The Witch King’s Castle
 description: Shiva the destroyer leads an army to destroy the Witch King
 published: true
-date: 2025-06-29T15:06:08.838Z
+date: 2025-06-29T15:06:23.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T23:59:29.633Z
@@ -34,7 +34,7 @@ The party returns to the devastated landscape that was once the Witch King's cas
 
 
 Witch King's Items:
-- [Witch King's Ring](/items/witch-kings-ring)
+- [Witch King's Ring](/items/the-witch-kings-ring)
 - [Kingslayer](/items/Kingslayer)
 - [Witch King's Dagger](/items/Witch-Kings-Dagger)
 - [Bulwark of Decimation](/items/Bulwark-of-Decimation)
