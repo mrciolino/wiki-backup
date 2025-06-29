@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-06-26T19:07:15.978Z
+date: 2025-06-29T16:59:27.712Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -16,6 +16,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 ## **Alliances**  
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|-----------------|--------|  
+| [Low Bar Brawlers](/organizations/low-bar-brawlers) | The party of campaign 1. | - | - | Scattered |  
 | [Council of Gods](/organizations/council-of-gods) | A coalition of deities. | - | - | Active |  
 | [Pirate Crew](/organizations/pirate-kingdom-of-saragassa) | A powerful pirate nation. | [Saragassa](/locations/Mardun/Saragassa) | - | Scattered |  
 | [Mortis Lux](/organizations/mortis-lux) | Created by the Low Bar Brawlers ro combat world ending threats such as the Ithilid threat. | Mortis Lux HQ | The Party | On Standby |  
