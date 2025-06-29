@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-29T16:50:14.342Z
+date: 2025-06-29T16:53:15.619Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -57,7 +57,7 @@ List of non-player-characters from both campaigns and some information about the
 ## Pirates
 | Name | Role | Description |
 |------|------|-------------|
-| [Bugbear Captain](/characters/bugbear-captain) | Pirate Lord | A Pirate Lord of Saragassa and longtime ally to the [Low Bar Brawlers](/organizations/low-bar-brawlers) |
+| [Bugbear Captain](/characters/bugbear-captain) | Pirate Lord | A Pirate Lord of [Saragassa](/locations/Mardun/Saragassa) and longtime ally to the [Low Bar Brawlers](/organizations/low-bar-brawlers) |
 
 
 
