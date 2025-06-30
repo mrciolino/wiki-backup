@@ -2,7 +2,7 @@
 title: Fleeing To Kaltrosar
 description: The party makes landfall and flees towards Kaltrosar after the death of Krorg
 published: true
-date: 2025-06-30T17:38:05.908Z
+date: 2025-06-30T17:42:01.584Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:26:04.757Z
