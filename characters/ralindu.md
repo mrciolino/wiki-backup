@@ -2,7 +2,7 @@
 title: Ralindu
 description: Lich lord from the Necrotic Wars
 published: true
-date: 2025-06-30T12:18:10.733Z
+date: 2025-06-30T13:27:48.866Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-30T12:01:35.726Z
