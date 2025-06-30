@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-30T13:56:42.990Z
+date: 2025-06-30T13:57:49.223Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -102,7 +102,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 ## The End of the Age of Mortals (0 AC)
   - [The Darmuth Saga](/Seasons/campaign_1/Season_2)
 
-  - [Mortis Lux](/Seasons/campaign_1/Season_3
+  - [Mortis Lux](/Seasons/campaign_1/Season_3)
   
   - [Ascention & Destiny](/Seasons/campaign_1/Season_4)
   
