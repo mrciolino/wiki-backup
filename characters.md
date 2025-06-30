@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-30T16:18:30.363Z
+date: 2025-06-30T17:35:46.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -24,6 +24,8 @@ List of non-player-characters from both campaigns and some information about the
 | [Not Interesting](/characters/not-interesting) | Gith-serai warrior. | |
 | [Verondora](/characters/verondera) | Guardian of the Feywild Northern Territory | Giant spider of the Feywild and now worshipper of Spoops. |
 | [Knott Emportent](/characters/knott-emportent) | [Krorg's](/characters/krorg) bodyguard. | Formerly Krorg's bodyguard, now guardian of [Krorgfrey](/characters/krorgfrey) |
+| [Willy The Dwarf](/characters/willy-the-dwarf) | Friend of Os | A friend of [Os](/characters/os) from [Gothriathon](/locations/Mardun/Gothriathon). |
+
 
 
 ## The Party's Oldest Allies
