@@ -2,7 +2,7 @@
 title: Season 1
 description: The Start
 published: true
-date: 2025-04-12T23:09:27.365Z
+date: 2025-06-30T13:43:52.876Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-12T16:46:00.553Z
@@ -12,13 +12,22 @@ dateCreated: 2025-04-12T16:46:00.553Z
 This encompasses the events from the start of the campaign to the pirate raid and subsequent 2.5-year time skip.
 
 
-TODO: Add minor events from memory here
-
-## Major Events:  
-- The party first meets in the tavern by [Fort Suro](/locations/Mardun/Fort-Suro).  
-- Traveling to [Allford](/locations/Mardun/Allford) to meet [illiard](/characters/illiard).  
-- Fighting [Rathwing](/characters/Rathwing)'s cult and the death of [Bomb-the-Bear](/characters/Bomb-the-Bear).  
-- [Drakham](/characters/drakham) destroying Alford, and the escape to [Saragassa](/locations/Mardun/Saragassa).  
-- The great [Pirate-Raid](/Events/Pirate-Raid) ending in the death of many of the party's enemies and an epic windfall.  
-- [Os](/characters/os)' betrayal and the bounty placed on his head by [Krorg](/characters/krorg).  
-- The 2.5-year time skip and introduction of [Bazvrah](/characters/Bazvrah).
+## Timeline of Events:  
+ The **Low Bar Brawlers** form at **[Fort Suro](/locations/Mardun/Fort-Suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
+  - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
+  - [Entertaining Bandits](/Events/entertaining-bandits)
+  - [Arrival in Trelston](/Events/arrival-in-trelston)
+  - [Chaos in Kaltrosar](/Events/chaos-in-kaltrosar)
+  - [Attacked by Pirates](/Events/attacked-by-pirates)
+  - [Chasing Thieves in Allford](/Events/chasing-thieves-in-allford)
+  - [Arrival to Illiard's Tower](/items/arrival-to-illiards-tower)
+  - [Traveling to Demsford](/Events/traveling-to-demsford)
+  - [Fighting Cultists in Demsford](/Events/fighting-cultists-in-demsford)
+  - [Investigating The Cultist's Fortress](/Events/investigating-the-cultists-fortress)
+  - [Searching For Teddy](/Events/searching-for-teddy)
+  - [Return to Allford](/Events/return-to-allford)
+  - [The Destruction of Allford](/Events/the-destruction-of-allford)
+  - [Traveling to Hastow](/Events/traveling-to-hastow)
+  - [Preparing For The Great Pirate Raid](/Events/preparing-for-the-great-pirate-raid)
+  - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
+  - [Three Year Timeskip](/Events/three-year-timeskip)
