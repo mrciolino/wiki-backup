@@ -2,7 +2,7 @@
 title: Celestial Vale
 description: A forested area surrounded by mountains 
 published: true
-date: 2025-06-30T13:01:04.480Z
+date: 2025-06-30T13:01:21.415Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-30T12:52:58.788Z
@@ -13,7 +13,7 @@ A forested area surrounded by mountains.
 
 
 ## Necrotic Wars
-During the Necrotic Wars, [Ralindu] was sealed within a ruby and buried on a mountainside of the Celestial Vale.
+During the Necrotic Wars, [Ralindu](/characters/ralindu) was sealed within a ruby and buried on a mountainside of the Celestial Vale.
 
 
 ## Finding Ralindu
