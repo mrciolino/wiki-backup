@@ -2,7 +2,7 @@
 title: The Destruction of Allford
 description: Allford is destroyed by bone spiders
 published: true
-date: 2025-06-30T16:14:41.881Z
+date: 2025-06-30T16:16:04.320Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T16:48:11.451Z
@@ -26,7 +26,7 @@ The party raided a warehouse in Allford and found a Unicorn trapped in a cage. [
 Returning to his tower with news on the beholder situation, [Illiard](/characters/illiard) is killed by [Frederina](/characters/Frederina) for seemingly no reason. Her patron, the [golden lobster](/characters/Emperor), commands her to slay Illiard and she complies. [Krorg](/characters/krorg) attempts to use Illiard's death and the beholder in the vault to cause a credit crisis in Allford's bank. However his efforts are unsuccessful. 
 
 ## Drakham Destroys Allford
-After leaving Illiard's tower, the party argues over what to do with the vial of green liquid. They all have various experiments in mind to determine potential uses. Drakham is deeply concerned with the moral directions the party is heading in and goes to report them to the king at his castle. 
+After leaving Illiard's tower, the party argues over what to do with the vial of green liquid. They all have various experiments in mind to determine potential uses. [Drakham](/characters/drakham) is deeply concerned with the moral directions the party is heading in and goes to report them to the king at his castle. 
 
 Krorg chases down Drakham in an attempt to get him to stop his good natured ways, but then Drakham does the unthinkable and drinks the vial of green liquid, which turns out to be bone spider poison!
 
