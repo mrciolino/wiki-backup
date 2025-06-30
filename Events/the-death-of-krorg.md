@@ -2,7 +2,7 @@
 title: The Death of Krorg
 description: Darmuth takes Altricia and slays Krorg
 published: true
-date: 2025-06-20T17:25:11.971Z
+date: 2025-06-30T17:37:19.286Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:19:25.352Z
