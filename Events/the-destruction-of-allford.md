@@ -2,7 +2,7 @@
 title: The Destruction of Allford
 description: Allford is destroyed by bone spiders
 published: true
-date: 2025-06-30T16:14:17.935Z
+date: 2025-06-30T16:14:41.881Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T16:48:11.451Z
@@ -23,7 +23,7 @@ Spoops' [mirror shield](/items/Mechanical-Mirror-Shield) would prove useful agai
 ## Illiard is Killed
 The party raided a warehouse in Allford and found a Unicorn trapped in a cage. [Spoops](/characters/spoops) creates [Unitard](/characters/unitard). Spoops slays and resurrects the soul of a unicorn into the body of Illiard and has them accompany the party. He raises the unicorn's body as a zombie unicorn and brings it with him as well.
 
-Returning to his tower with news on the beholder situation, [Illiard](/characters/illiard) is killed by [Frederina](/characters/Frederina) for seemingly no reason. Her patron, the [golden lobster](/characters/emperor), commands her to slay Illiard and she complies. [Krorg](/characters/krorg) attempts to use Illiard's death and the beholder in the vault to cause a credit crisis in Allford's bank. However his efforts are unsuccessful. 
+Returning to his tower with news on the beholder situation, [Illiard](/characters/illiard) is killed by [Frederina](/characters/Frederina) for seemingly no reason. Her patron, the [golden lobster](/characters/Emperor), commands her to slay Illiard and she complies. [Krorg](/characters/krorg) attempts to use Illiard's death and the beholder in the vault to cause a credit crisis in Allford's bank. However his efforts are unsuccessful. 
 
 ## Drakham Destroys Allford
 After leaving Illiard's tower, the party argues over what to do with the vial of green liquid. They all have various experiments in mind to determine potential uses. Drakham is deeply concerned with the moral directions the party is heading in and goes to report them to the king at his castle. 
