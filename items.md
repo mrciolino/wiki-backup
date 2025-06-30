@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-29T15:01:53.932Z
+date: 2025-06-30T12:22:44.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -237,10 +237,11 @@ Custom homebrew items created or found during the campaign. This list comprises 
 
 ---
 
-## **Books**  
+## **Books and Scrolls**  
 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
+| [Dio](/items/dio) | Legendary | Map | Illiard |  Dio the magical map. |
 | [Book On Fighting Angels Demons and Gods](/items/Book-On-Fighting-Angels-Demons-And-Gods) | Epic | Book | Spoops |  A book with a self explanatory title. Caution: Reading may cause instant death. |
 | [Tome of The Stilled Tongue](/items/Tome-Of-The-Stilled-Tongue) | Rare | Book | LBB |  The spellbook of Adalynn. |
 | [Apprentice Wizard Spellbook](/items/Apprentice-Wizard-Spellbook) | Rare | Book | LBB |  A book for apprentice wizards. |
