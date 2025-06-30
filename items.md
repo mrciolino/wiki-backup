@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-30T12:28:13.020Z
+date: 2025-06-30T16:12:05.360Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -162,6 +162,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Iron Halo of Pyrocinae](/items/Iron-Halo-Of-Pyrocinae) | Legendary | Halo | Spoops |  A Halo created by the Fire Goddess Pyrocinae, blessed with a fragment of her power. |
 | [Helm of Sturdy Icey Awareness](/items/Helm-of-Sturdy-Icey-Awareness) | Legendary | Helmet | Bazzdos | A helmet with 3 gem inlays allowing various effects to be used by the wearer. |
 | [Crown of Karsus](/items/crown-of-karsus) | Legendary | Crown | [The Emperor](/characters/Emperor) | The legendary crown grants immense power to the wearer. |
+| [Sleep Crown](/items/sleep-crown) | Epic | Crown | LBB | The crown causes the wearer to fall asleep. |
 
 
 
