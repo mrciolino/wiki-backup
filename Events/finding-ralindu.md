@@ -2,7 +2,7 @@
 title: Finding Ralindu
 description: The party seeks out a giant ruby they saw in a vision
 published: true
-date: 2025-06-23T14:56:41.342Z
+date: 2025-06-30T12:16:10.632Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T15:17:02.162Z
@@ -13,4 +13,6 @@ After departing from [Fywick](/locations/Mardun/Fywick), the party takes a detou
 
 
 ## Locating The Ruby and A Lich
-The party seeks out a giant ruby they saw in a vision after pulling a card from the deck of many things. Using [Dio](/items/dio), they find the location of the ruby to be on a mountainside in the [Celestial Vale](/locations/Mardun/celestial-vale) to the west of [Fywick](/locations/Mardun/Fywick). They find [Ralindu Kosimostrovu Phorumdi](/characters/ralindu) the lich sealed inside the Ruby. Upon releasing him, he provides guidance to the party and accompanies them on the flying ship.
+The [Low Bar Brawlers](/organizations/low-bar-brawlers) received a vision from a card of the [Deck of Many Things](/items/Deck_Of_Many_Things) of a massive ruby. After the [Battle of Fywick](/Events/the-battle-of-fywick) they used [Dio](/items/dio) to locate the ruby. They flew to its location in the [Celestial Vale](/locations/Mardun/celestial-vale) west of Fywick. Upon finding it, they noticed a humanoid shape trapped within. [Spoops](/characters/spoops) then used [Earth Terror](/items/Earth-Terror) to shatter the ruby, freeing Ralindu.
+
+Ralindu then introduced himself as the Lich Lord Ralindu Kosimostrovu Phorumdi. Upon releasing him, he provides guidance to the party and accompanies them on the flying ship.
