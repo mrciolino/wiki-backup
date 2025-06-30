@@ -2,7 +2,7 @@
 title: Reuniting in Gothriathon
 description: The party is sent by Krorg to capture Os
 published: true
-date: 2025-06-20T17:13:32.183Z
+date: 2025-06-30T17:36:57.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:10:46.071Z
