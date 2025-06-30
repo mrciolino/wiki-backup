@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-30T14:12:20.469Z
+date: 2025-06-30T16:18:30.363Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -202,6 +202,9 @@ List of non-player-characters from both campaigns and some information about the
 | [Ayod](/characters/ayod) | Druid Master | [Bazzert's](/characters/bazzert) druid master. |
 | [Teddy](/characters/teddy) | A child | Formerly a resident of [Demsford](/locations/Mardun/demsford), now his soul resides in the [teddy bear heart](/items/Teddy-Bear-Heart).  |
 | [Donald Duck](/characters/donald-duck) | Wizard | A strange duck in a sailor outfit. |
+| [Unitard](/characters/unitard) | Illiard/Unicorn | The soul of a unicorn in the corpse of [Illiard](/characters/illiard).  |
+
+
 
 # **Campaign 2**  
 
