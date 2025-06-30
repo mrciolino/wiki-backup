@@ -2,7 +2,7 @@
 title: Traveling to Hastow
 description: The party flees the bone spiders of Allford to Hastow
 published: true
-date: 2025-06-20T16:30:02.285Z
+date: 2025-06-30T16:19:04.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T14:50:05.703Z
