@@ -2,7 +2,7 @@
 title: Fleeing To Kaltrosar
 description: The party makes landfall and flees towards Kaltrosar after the death of Krorg
 published: true
-date: 2025-06-20T17:32:30.997Z
+date: 2025-06-30T17:38:05.908Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:26:04.757Z
@@ -17,7 +17,7 @@ The party decides to seek out the Oracle of Fywick, hoping that she may be able 
 
 
 ## Landing at The Shrine of Torment 
-The party makes landfall at the Shrine of Torment. The party discovers [Dave Bones](/characters/Dave-Bones) has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship that just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. To avoid a potential meeting with Dave Bones they ride their carriage south to [Kaltrosar](/locations/Mardun/Kaltrosar) in the morning. They would later find out the ship manned by undead wasn't even Dave Bones, it was [Frederina](/characters/Frederina) following them from [Altricia](/locations/Marrun/Allford).
+The party makes landfall at the Shrine of Torment. The party discovers [Dave Bones](/characters/Dave-Bones) has returned to life again. After arriving to the inn near the docks to rest, they hear of a ship that just arrived, manned by undead sailors. Assuming it to be Dave Bones' ship, they stay at the inn for the night to avoid contact. To avoid a potential meeting with Dave Bones they ride their carriage south to [Kaltrosar](/locations/Mardun/Kaltrosar) in the morning. They would later find out the ship manned by undead wasn't even Dave Bones, it was [Frederina](/characters/Frederina) following them from [Altricia](/locations/Mardun/Allford).
 From here they ride their carriage to Kaltrosar Bay.
 
 ## Return to Kaltrosar Bay
