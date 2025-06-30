@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-30T13:57:49.223Z
+date: 2025-06-30T17:00:31.474Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -214,9 +214,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 ## The Great Escape (333 AC / 133 VY)
 
-- **333 AC / 133 VY** [Bazzdos](/characters/bazzdos) escapes the Plane of Fire and crashes **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)**. This renders a major ocean pathway into a nigh innavigable sea of icebergs and steam. Bazzdos himself becomes trapped under thousands of tons of burning brass.
-
-- Upon hearing of a new power source that could fuel his foundries, [Bazzdos](/characters/bazzdos) drops the **The [City of Brass](/locations/city-of-brass)** into the **[Sea of Ice](/locations/sea-of-ice)** on Mardun. Inadvertently, Bazzdos the Brass becomes trapped inside his creation under thousands of tons of burning brass, along with the majority of his automatons. He loses communication with the outside, and the remaining automatons in the Realm of Fire are left to wander.
+- **333 AC / 133 VY** Upon hearing of a new power source that could fuel his foundries, [Bazzdos](/characters/bazzdos) initiates a plan to transport his mobile foundry built of **The [City of Brass](/locations/city-of-brass)** back to Mardun over New Geskoworm. However there is a malfunction in his operation and the foundry crash lands into the **[Sea of Ice](/locations/sea-of-ice)** instead. Inadvertently, Bazzdos the Brass becomes trapped inside his creation under thousands of tons of burning brass, along with the majority of his automatons. He loses communication with the outside, and the remaining automatons in the Realm of Fire are left to wander. The impact also shatter's Bazzdows' consciousness into thousands of pieces, all of which slowly try to stich themselves back together.
 - This renders a major ocean pathway near the Sea of Ice into a nearly unnavigable sea of icebergs and steam.
 
 ## Kaltrosar Incursion (343-360 AC / 143-160 VY)
@@ -246,9 +244,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 # The Era of Tensions and Transformation
 
-- **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts.
-- **550 AC / 350 VY**: At age 2700 Inferno's slumber begins. While not dead, Inferno enters a very deep sleep which he has not waken up from.
 - **377 AC 177 VY** In a joint effort with Fywick and Kaltrosar, ReInPaDe begins its multi decade long investigation into the [Desolation of Asmal](/Events/desolation-of-asmal).
+- **550 AC / 350 VY**: At age 2700 Inferno's slumber begins. While not dead, Inferno enters a very deep sleep which he has not waken up from.
 
 ## Arn's Rebellion (553-555 AC / 353-355 VY)
 
@@ -260,13 +257,17 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - In the end, Arn's Rebellion is crushed, **Duke Othniel** is executed for treason, and a new elvish **Duke Feno Herfiel Lozzit Vrintia** is put in charge of Arnsworth. Arnsworth would remain under elvish occupation for 445 years until 798 VY when human **Duke Blackshield** would be symbolically given power.
 - After the rebellion is put down, Os becomes more reclusive.
 
-## Worldly Happenings
-
-- **??? AC** Os disappears from Vrintia. A council of 12 is put in place to maintain control of the country.
+## Worldly Happenings 560 AC / 360 VY - 1000 AC / 800 VY
+- **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts. 
+- **??? AC** Os disappears from Vrintia. A council of 12 is put in place to maintain control of the country. Members of the council are primarily royal family with some rare exceptions.
 - **??? AC** Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
 - **??? AC** Vaudis, a city on the Wild Coast to the west of Vrintia grows in prominence. 
 - **??? AC** The War of the Great Maw begins on Felldora, threatening all Fywick colonies. Vampires, cultists, dinosaurs, kaiju, elderitch horrors, and wizards duke it out epic style. Estis locks its gates for good.
 - **??? AC** Encouraged by mysterious beepings, a remote artificer in Helmaer constructs the Phantom Lighthouse as a means of one-way transport through the Sea of Ice. The Brotherhood of the Beep is formed to follow its guidance.
+- **??? VY** Esoteric Magicians work with dragonborn artificers of Inferno's Rest to devise a way to "enter into" the greatwyrm's dream in the most recent attempt to wake him back up.
+- **??? VY** Barad Ashnef is rebuilt.
+- **??? VY** Representatives from Kaltrosar do the unthinkable and visit Hastow to meet with the Red Archon in person.
+
 
 # The New Campaign Era
 - **798 VY**: Human **Duke Blackshield** is given symbolic power over Arnsworth, ending 445 years of elvish leadership.
