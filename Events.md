@@ -2,7 +2,7 @@
 title: Events
 description: Glossary of Memorable Events in the Low Bar Brawlers
 published: true
-date: 2025-06-30T00:47:10.524Z
+date: 2025-06-30T00:47:45.399Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T13:18:10.934Z
@@ -14,8 +14,8 @@ dateCreated: 2025-03-25T13:18:10.934Z
 
 | Event Name         | Description | Date (if known) | Related Characters / Locations |
 |--------------------|------------|----------------|--------------------------------|
-| [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)   | The start of campaign one and The Low Bar Brawlers. | The Party | [Fort Suro](/locations/Mardun/fort-suro) |
-| [Fort Suro Goblin Mine Quest](/Events/fort-suro-tavern-brawl)   | The The Low Bar Brawlers first real quest. | The Party | [Fort Suro](/locations/Mardun/fort-suro) |
+| [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)   | The start of campaign one and The Low Bar Brawlers. | The Party | [Fort Suro](/locations/Mardun/Fort-Suro) |
+| [Fort Suro Goblin Mine Quest](/Events/fort-suro-tavern-brawl)   | The The Low Bar Brawlers first real quest. | The Party | [Fort Suro](/locations/Mardun/Fort-Suro) |
 | [**Pirate Raid**](/Events/Pirate-Raid)   | A major pirate assault that reshaped regional power. | ??? | [Allford](/locations/Mardun/Allford), [Saragassa](/locations/Mardun/Saragassa)  |
 |	**The Deal with the Council of the Gods** |	The loss of the boon, council of the gods Event to be filled in | 0 AD	|	|
 | [**Time Chambers**](/Events/Time-Chambers) 	| Spoops Blade + Jngmgander + Shard of Divinty 	| 1 BC - 0 AD	| [Bazzdos](/characters/bazzdos), [Spoops](/characters/spoops), [Shard of Divinity](/items/shard-of-divinity)	|
