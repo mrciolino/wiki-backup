@@ -2,7 +2,7 @@
 title: Preparing For The Great Pirate Raid
 description: The party arrives in Saragassa and prepares for their raid
 published: true
-date: 2025-06-20T16:48:07.509Z
+date: 2025-06-30T16:19:29.241Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-02T16:28:57.492Z
@@ -17,7 +17,7 @@ While on Saragassa, the party finds an ancient ruin with a teleportation circle 
 
 The party acquires the [Deck of Many Things](/items/Deck_Of_Many_Things) and begins drawing cards.
 
-- [Spoops](/characters/spoops) pulls a card and acquires [Dio the map](/items/dio-the-map).
+- [Spoops](/characters/spoops) pulls a card and acquires [Dio the map](/items/dio).
 - Spoops pulls a card and is teleported away, becoming trapped in a crypt and is only freed when the party finds him.
 
 
