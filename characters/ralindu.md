@@ -2,7 +2,7 @@
 title: Ralindu
 description: Lich lord from the Necrotic Wars
 published: true
-date: 2025-06-30T12:17:39.740Z
+date: 2025-06-30T12:18:10.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-30T12:01:35.726Z
@@ -24,5 +24,5 @@ At some point during the Necrotic Wars, he was sealed inside a ruby and buried o
 
 ## Freed by The Low Bar Brawlers
 
-The [Low Bar Brawlers](/organizations/low-bar-brawlers) [found and freed](/Events/finding-Ralindu) Ralindu from the ruby.
+The [Low Bar Brawlers](/organizations/low-bar-brawlers) [found and freed](/Events/finding-ralindu) Ralindu from the ruby.
 
