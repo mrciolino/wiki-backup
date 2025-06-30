@@ -2,7 +2,7 @@
 title: Finding Ralindu
 description: The party seeks out a giant ruby they saw in a vision
 published: true
-date: 2025-06-30T12:16:10.632Z
+date: 2025-06-30T13:39:06.906Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T15:17:02.162Z
