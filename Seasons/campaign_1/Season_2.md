@@ -2,7 +2,7 @@
 title: Season 2
 description: Darmuth
 published: true
-date: 2025-06-30T13:48:48.876Z
+date: 2025-06-30T17:33:26.422Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-12T23:09:22.912Z
@@ -13,7 +13,7 @@ This season focuses on the rise and fall of the illithid lich [Darmuth](/charact
 
 ## Major Events:  
 - The arrival of [Darmuth](/characters/Darmuth) and the death of [Krorg](/characters/krorg).  
-- Being hunted by Darmuth's pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/Federina).  
+- Being hunted by Darmuth's pet, resurrecting [Freedom](/characters/freedom), and fighting [Frederina](/characters/Frederina).  
 - Fighting and defeating Darmuth.  
 - Discovering the [Well of Many Worlds](/items/Well-Of-Many-Worlds) and the crack in the sky.  
 
