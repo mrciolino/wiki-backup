@@ -2,7 +2,7 @@
 title: Arrival to Illiard’s Tower
 description: The party attempts to infiltrate the mage tower of Lucidel Illiard to find Freedom.
 published: true
-date: 2025-06-26T21:08:51.117Z
+date: 2025-06-30T14:11:45.175Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T16:16:51.794Z
@@ -13,7 +13,7 @@ dateCreated: 2025-05-22T16:16:51.794Z
 
 
 ## Krorg's Crew
-This pirate crew came together after the pirate boarding at sea gone wrong on the way to [Allford](/locations/Mardun/Allford). As Krorg ended up marooned on the shore of [Saragassa](/locations/Mardun/Saragassa) with the pirate [Nathar](/characters/nathar). He was still looking to kill Freedom. They met with the [Pirate King](/characters/pirate-king) and added [Dave Bones](/characters/Dave-Bones), [Darfallen](/characters/darfallen), and [Xialethia](/characters/xialethia) to the Freedom kill team. They followed Freedom accross the sea to Allford and found clues pointing to Illiard's Tower. They burst into the city sewers to enter the tower at its weakest point to avoid the defenses Freedom would have put up. Little did they know, the defenses they were avoiding didn't exist and they were heading for a trap. Luckily they ran into the rest of the party who happened to be in the same sewer system. After reuniting Krorg had his new crew dispel the firewall stopping the party from proceeding. 
+This pirate crew came together after the pirate boarding at sea gone wrong on the way to [Allford](/locations/Mardun/Allford). As Krorg ended up marooned on the shore of [Saragassa](/locations/Mardun/Saragassa) with the pirate [Nathar](/characters/nathar). He was still looking to kill Freedom. They met with the [Pirate King](/characters/pirate-king) and added [Dave Bones](/characters/Dave-Bones), [Darfallen](/characters/darfellan), and [Xiphalia](/characters/xiphalia) to the Freedom kill team. They followed Freedom accross the sea to Allford and found clues pointing to Illiard's Tower. They burst into the city sewers to enter the tower at its weakest point to avoid the defenses Freedom would have put up. Little did they know, the defenses they were avoiding didn't exist and they were heading for a trap. Luckily they ran into the rest of the party who happened to be in the same sewer system. After reuniting Krorg had his new crew dispel the firewall stopping the party from proceeding. 
 
 
 ## Entering The Tower
