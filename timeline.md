@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-30T13:46:47.903Z
+date: 2025-06-30T13:47:28.892Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -97,7 +97,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
 
 ### 3 BC Campaign Events
-  - Campaign 1, Season 1: [The Rsthwing Saga](/Seasons/campaign_1/Season_1)
+  - [The Rathwing Saga](/Seasons/campaign_1/Season_1)
 
 ## The End of the Age of Mortals (0 AC)
   - [Reuniting in Gothriathon](/Events/reuniting-in-gothriathon)
