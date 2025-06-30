@@ -2,7 +2,7 @@
 title: Fleeing Darmuth’s Pet
 description: After Darmuth located the party, her giant pet gives chase
 published: true
-date: 2025-06-23T14:27:46.237Z
+date: 2025-06-30T23:31:36.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:40:43.965Z
