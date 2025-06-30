@@ -2,7 +2,7 @@
 title: Return To Allford
 description: The party returns to Allford after investigating the cultists in Demsford
 published: true
-date: 2025-06-20T16:16:59.729Z
+date: 2025-06-30T14:03:56.988Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T14:41:03.314Z
