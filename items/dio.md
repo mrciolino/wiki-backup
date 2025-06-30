@@ -2,7 +2,7 @@
 title: Dio
 description: He’s the map
 published: true
-date: 2025-06-30T12:26:31.659Z
+date: 2025-06-30T12:27:46.472Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-30T12:26:31.659Z
@@ -13,4 +13,4 @@ Dio was a magical interactive map, capable of various functions.
 
 The user could ask Dio to perform various mapping functions and he would display what was asked upon his magical map. 
 
-The user could ask Dio to show the locations of specific objects, people, or places, and he would display their position.
+The user could ask Dio to show the locations of specific objects, people, or places, and he would display their position. Dio could also provide various routes to these locations and targets.
