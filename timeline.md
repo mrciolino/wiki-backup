@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-30T13:47:28.892Z
+date: 2025-06-30T13:49:31.652Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -100,34 +100,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [The Rathwing Saga](/Seasons/campaign_1/Season_1)
 
 ## The End of the Age of Mortals (0 AC)
-  - [Reuniting in Gothriathon](/Events/reuniting-in-gothriathon)
-  - [The Death of Krorg](/Events/the-death-of-krorg)
-  - [Fleeing to Kaltrosar](/Events/fleeing-to-kaltrosar)
-  - [Drawing Cards in The Carriage](/Events/drawing-cards-in-the-carriage)
-  - [Fleeing Darmuth's Pet](/Events/fleeing-darmuths-pet)
-  - [Spoops Resurrects Himself](/Events/spoops-resurrects-himself)
-  - [Arrival to Fywick](/Events/arrival-to-fywick)
-  - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
-  - [Wishing For Legendary Items](/Events/wishing-for-legendary-items)
-  - [The Bastion of Tiyamani The Awesome](/Events/the-bastion-of-tiyamani-the-awesome)
-  - [The Battle of Fywick](/Events/the-battle-of-fywick)
-  - [Finding Ralindu](/Events/finding-ralindu)
-  - [Traveling to Bahryst](/Events/traveling-to-bahryst)
-  - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
-  - [Meeting Inferno](/Events/meeting-inferno)
-  - [Meeting The Dragonborn of Kaltrosar](/Events/meeting-the-dragonborn-of-kaltrosar)
-  - [The Infinite Library Dimension](/Events/the-library-dimension)
-  - [Bazzalt Joins The Party](/Events/bazzalt-joins-the-party)
-  - [Return to Hastow](/Events/return-to-hastow)
-  
-  - [Searching For Darmuth's Phylactery](/Events/searching-for-darmuths-phylactery)
-  - [Spoops Escapes The Dragon Lair](/Events/spoops-escapes-the-dragon-lair)
-
-  - [Adventures in The Dragon Sea](/Events/adventures-in-the-dragon-sea)
-  - [Finishing The Wegate Revolution](/Events/finishing-the-wegate-revolution)
-  - [Invading Darmuth's Lair](/Events/invading-darmuths-lair)
-  - [Fighting Darmuth](/Events/fighting-darmuth)
-  - [Waking Bazzdows](/Events/waking-bazzdows)
+  - [The Darmuth Saga](/Seasons/campaign_1/Season_2)
 
 ### Adventures in Ereriad and Beyond
   - [Arrival To Ereriad](/Events/arrival-to-ereriad)
