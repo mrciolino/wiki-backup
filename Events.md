@@ -2,7 +2,7 @@
 title: Events
 description: Glossary of Memorable Events in the Low Bar Brawlers
 published: true
-date: 2025-05-08T15:43:06.040Z
+date: 2025-06-30T00:46:18.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T13:18:10.934Z
