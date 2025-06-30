@@ -2,7 +2,7 @@
 title: Arrival To Fywick
 description: Fleeing Carl, the party arrives at the city of Fywick
 published: true
-date: 2025-06-23T14:34:21.375Z
+date: 2025-06-30T23:34:07.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T15:00:52.118Z
