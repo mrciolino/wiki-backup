@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-25T13:18:24.024Z
+date: 2025-06-30T13:46:47.903Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -97,24 +97,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 > The events of **[Campaign 1](/Seasons)** take place over the next 4 years.
 
 ### 3 BC Campaign Events
-  - The **Low Bar Brawlers** form at **[Fort Suro](/locations/Mardun/Fort-Suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
-  - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
-  - [Entertaining Bandits](/Events/entertaining-bandits)
-  - [Arrival in Trelston](/Events/arrival-in-trelston)
-  - [Chaos in Kaltrosar](/Events/chaos-in-kaltrosar)
-  - [Attacked by Pirates](/Events/attacked-by-pirates)
-  - [Chasing Thieves in Allford](/Events/chasing-thieves-in-allford)
-  - [Arrival to Illiard's Tower](/items/arrival-to-illiards-tower)
-  - [Traveling to Demsford](/Events/traveling-to-demsford)
-  - [Fighting Cultists in Demsford](/Events/fighting-cultists-in-demsford)
-  - [Investigating The Cultist's Fortress](/Events/investigating-the-cultists-fortress)
-  - [Searching For Teddy](/Events/searching-for-teddy)
-  - [Return to Allford](/Events/return-to-allford)
-  - [The Destruction of Allford](/Events/the-destruction-of-allford)
-  - [Traveling to Hastow](/Events/traveling-to-hastow)
-  - [Preparing For The Great Pirate Raid](/Events/preparing-for-the-great-pirate-raid)
-  - The [Great Pirate Raid](/Events/Pirate-Raid) occurs.
-  - [Three Year Timeskip](/Events/three-year-timeskip)
+  - Campaign 1, Season 1: [The Rsthwing Saga](/Seasons/campaign_1/Season_1)
 
 ## The End of the Age of Mortals (0 AC)
   - [Reuniting in Gothriathon](/Events/reuniting-in-gothriathon)
