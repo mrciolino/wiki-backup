@@ -2,7 +2,7 @@
 title: Season 2
 description: Darmuth
 published: true
-date: 2025-06-30T17:33:26.422Z
+date: 2025-06-30T17:33:36.332Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-12T23:09:22.912Z
@@ -18,7 +18,7 @@ This season focuses on the rise and fall of the illithid lich [Darmuth](/charact
 - Discovering the [Well of Many Worlds](/items/Well-Of-Many-Worlds) and the crack in the sky.  
 
 ## Key Lore:  
-- [Meade](/characters/meade), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/Federina) at the Oracle's Fortress in Fywick and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/Mardun/Fywick).  
+- [Meade](/characters/meade), [Os](/characters/os)'s close ally, defeats [Frederina](/characters/Frederina) at the Oracle's Fortress in Fywick and later retires to open the [Three Swishes Tavern](/locations/three-swishes-tavern) in [Fywick](/locations/Mardun/Fywick).  
 - The party learns of a greater illithid threat beyond [Darmuth](/characters/Darmuth).  
 - The devastation vermin (giant insectoid colossi) are introduced during early interdimensional travels.
 
