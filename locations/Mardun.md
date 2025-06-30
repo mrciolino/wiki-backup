@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-05-28T11:36:41.609Z
+date: 2025-06-30T13:02:36.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -34,7 +34,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 {.links-list}
 
 &ensp; **Notable Cities: [The Bastion of Tiyamanni the Awesome](/locations/Mardun/The-Bastion-of-Tiyamanni-the-Awesome)**  
-&ensp; <sub>Other Cities: Whispering Jungle, The Hive of Kas the Bloody, Brany, Wefeld, Estis, Llaisy Forest, Celestial Vale, The Plain of Horrors, Wyvern's River, Erpool (City of the True Name), Ellon, The Fortress of the vampire Tyrant, The Desolation of Duki, Ironwood Forest, Nimpa, The Ciadel of Namzeru, The Shrine of the Fallen, Farisetr, Bundabad Crags, Bizirukth Spires, Healey (City of the Veil of Shadows), Ampwold, The Stronghold of Poison Tears, Theawold, Sabrook (The last city of helonde), Great forest, Debrycg, Whitecrown Mountains, Gili's Hold, Nono, Tino</sub>
+&ensp; <sub>Other Cities: Whispering Jungle, The Hive of Kas the Bloody, Brany, Wefeld, Estis, Llaisy Forest, [Celestial Vale](/locations/Mardun/celestial-vale), The Plain of Horrors, Wyvern's River, Erpool (City of the True Name), Ellon, The Fortress of the vampire Tyrant, The Desolation of Duki, Ironwood Forest, Nimpa, The Ciadel of Namzeru, The Shrine of the Fallen, Farisetr, Bundabad Crags, Bizirukth Spires, Healey (City of the Veil of Shadows), Ampwold, The Stronghold of Poison Tears, Theawold, Sabrook (The last city of helonde), Great forest, Debrycg, Whitecrown Mountains, Gili's Hold, Nono, Tino</sub>
 
 ---
 
