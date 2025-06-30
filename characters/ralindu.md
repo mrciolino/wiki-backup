@@ -2,7 +2,7 @@
 title: Ralindu
 description: Lich lord from the Necrotic Wars
 published: true
-date: 2025-06-30T12:13:08.957Z
+date: 2025-06-30T12:15:23.640Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-30T12:01:35.726Z
@@ -24,6 +24,8 @@ At some point during the Necrotic Wars, he was sealed inside a ruby and buried o
 
 ## Freed by The Low Bar Brawlers
 
-The [Low Bar Brawlers](/organizations/low-bar-brawlers) received a vision from a card of the [Deck of Many Things](/items/Deck_Of_Many_Things) of a massive ruby. After the [Battle of Fywick](/Events/the-battle-of-fywick) they used [Dio](/items/dio) to locate the ruby. They flew to its location in the Celestial Vale and upon finding it noticed a humanoid shape trapped within. [Spoops](/characters/spoops) then used [Earth Terror](/items/Earth-Terror) to shatter the ruby, freeing Ralindu.
+The [Low Bar Brawlers](/organizations/low-bar-brawlers) received a vision from a card of the [Deck of Many Things](/items/Deck_Of_Many_Things) of a massive ruby. After the [Battle of Fywick](/Events/the-battle-of-fywick) they used [Dio](/items/dio) to locate the ruby. They flew to its location in the [Celestial Vale](/locations/Mardun/celestial-vale) west of Fywick. Upon finding it, they noticed a humanoid shape trapped within. [Spoops](/characters/spoops) then used [Earth Terror](/items/Earth-Terror) to shatter the ruby, freeing Ralindu.
+
+Ralindu then introduced himself as the Lich Lord Ralindu Kosimostrovu Phorumdi. Upon releasing him, he provides guidance to the party and accompanies them on the flying ship.
 
 
