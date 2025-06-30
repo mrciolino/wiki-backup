@@ -2,7 +2,7 @@
 title: Season 1
 description: The Start
 published: true
-date: 2025-06-30T13:44:13.701Z
+date: 2025-06-30T13:44:35.454Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-12T16:46:00.553Z
@@ -13,7 +13,7 @@ This encompasses the events from the start of the campaign to the pirate raid an
 
 
 ## Timeline of Events:  
-  - The **Low Bar Brawlers** form at **[Fort Suro](/locations/Mardun/Fort-Suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
+  - The [Low Bar Brawlers](/organizations/low-bar-brawlers) form at **[Fort Suro](/locations/Mardun/Fort-Suro)** during the [Fort Suro Tavern Brawl](/Events/fort-suro-tavern-brawl)
   - During the [quest to clear Fort Suro's Mine of Goblins](/Events/fort-suro-goblin-mine) [Bomb The Bear](/characters/Bomb-the-Bear) is captured by [Krorg](/characters/krorg).
   - [Entertaining Bandits](/Events/entertaining-bandits)
   - [Arrival in Trelston](/Events/arrival-in-trelston)
