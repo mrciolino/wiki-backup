@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-01T12:19:18.477Z
+date: 2025-07-01T12:21:49.424Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -249,6 +249,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [How to be a good friend](/items/How-To-Be-A-Good-Friend) | Rare | Book | Spoops |  A book on how to be a good friend. |
 | [How to Kill Gods](/items/How-To-Kill-Gods) | Rare | Book | Bazzdos |  A procedure for killing the ithilds. Also known as `The Druid Book` |
 | [Achilles' Autobiography](/items/achilles-autobiography) | Rare | Book | Achilles |  Written by [Achilles](/characters/Achilles), it contains vast lies and exagerations. |
+| [Narascene Bible](/items/narascene-bible) | Rare | Book | Tree of Knowledge |  Originally a bible of [Spoops](/characters/spoops), it has been heavily edited by [Narascus](/characters/Narascus). This book is absolute heresy. |
 
 ---
 
