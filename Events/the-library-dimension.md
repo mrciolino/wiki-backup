@@ -2,7 +2,7 @@
 title: The Library Dimension
 description: The party is transported to the infinite library dimension
 published: true
-date: 2025-07-01T12:19:36.094Z
+date: 2025-07-01T12:19:45.343Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:40:57.415Z
@@ -31,7 +31,7 @@ The tree has two guardians, [Jigglypuff](/characters/jigglypuff) and [Starfox](/
 
 The tree then speaks to the party saying that it can hear them and it seeks new tomes and knowledge for the library. The tree says that it will accept a tribute of knowledge, and will even trade information if the provided knowledge is worth it.  It will only trade if the knowledge it receives is new, and it only trade its own knowledge for information it deems of equivalent or greater value than the knowledge the party seeks.
 
-[Spoops](/characters/spoops) offers information on how he was able to resurrect himself from the dead. The tree accepts this information and Starfox shows Spoops a new trick, [Soul Steal](/spells/soul-steal). They demonstrate by pulling Spoops' soul out and putting it back in his body. Spoops then does the same.
+[Spoops](/characters/spoops) offers information on how he was able to resurrect himself from the dead. The tree accepts this information and Starfox shows Spoops a new trick, [Soul Steal](/Spells/soul-steal). They demonstrate by pulling Spoops' soul out and putting it back in his body. Spoops then does the same.
 
 [Narascus](/characters/Narascus) offers to trade his [Narascene Bible](/items/narascene-bible) in exchange for information on [Darmuth](/characters/Darmuth), in exhange the tree says this "THE NARASCUS BIBLE IS A TRADE I'M WILLING TO ACCEPT FOR ANOTHER PIECE OF KNOWLEDGE, SHE IS A LICH OF THE HIGHEST ORDER AND A MASTER OF MAGIC, SHE HAS MANY A MINION OF LYCANTHROPIC NATURE AND SHE BECOMES PREOCCUPIED ON FULL MOONS BY SPIRITUAL PRACTICES, SHE EXCHANGES ALL HER MAGICAL MIGHT PER FULL MOON TO CONTACT HER EXTERTERESTIAL GOD, IF YOU WISH FOR MORE I WOULD REQUIRE MORE NEW INFORMATION FOR THE TRADE OF KNOWLEDGE"
 
