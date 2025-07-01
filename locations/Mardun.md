@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-07-01T13:29:53.230Z
+date: 2025-07-01T13:30:15.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -58,7 +58,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 {.links-list}
 
 &ensp; **Notable Cities: [The Red Keep](/organizations/The-Red-Keep), [The Desolation of Asmal](/locations/Mardun/The-Desolation-of-Asmal), [Jade Forest](/locations/Mardun/Jade-Forest)**  
-&ensp; <sub>Other Cities: [Saragassa](/locations/Mardun/saragassa), The ruins of Woheath Stronghold, Barad Ashenef, Caer Fineli, Cahyrst Castle, Fibrook</sub>
+&ensp; <sub>Other Cities: [Saragassa](/locations/Mardun/Saragassa), The ruins of Woheath Stronghold, Barad Ashenef, Caer Fineli, Cahyrst Castle, Fibrook</sub>
 
 ---
 
