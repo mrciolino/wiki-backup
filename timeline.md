@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:27:33.416Z
+date: 2025-07-01T15:30:41.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -127,7 +127,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - Luther becomes regent of [Altricia](/locations/Mardun/Allford).
   - [Os](/characters/os) and [Breezy-e](/characters/breezy) return to [Gothriathon](/locations/Mardun/Gothriathon).
   - [Kierkegaard](/characters/kierkegaard) and his wife return to rule [Bahyrst](/locations/Mardun/Bahyrst) with his wife.
-  - [Bazzdos](/characters/bazzdos) returns to the Forge Dimension and begins creation of the first automaton prototypes—an iteration of the AI bots used for fabrication work in the Forge.
+  - [Bazzdos](/characters/bazzdos) returns to the [Forge Dimension](/locations/Forge-Dimension) and begins creation of the first automaton prototypes—an iteration of the AI bots used for fabrication work in the Forge.
   - Gilthur return to North Geskoworm.
   - Meade returns to Fywick.
   - Adalynn remains in her flying fortress for a time until her betrayal.
