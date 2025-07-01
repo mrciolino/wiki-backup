@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-07-01T13:33:51.409Z
+date: 2025-07-01T13:34:07.248Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -26,7 +26,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 {.links-list}
 
 &ensp; **Notable Cities: [Altricia](/locations/Mardun/Allford), [Hastow](/locations/Mardun/Hastow)**
-&ensp; <sub>Other Cities: [Demsford](/locations/Mardun/demsford)</sub>
+&ensp; <sub>Other Cities: [Demsford](/locations/Mardun/demsford), Medi, Cotte</sub>
 
 ---
 
