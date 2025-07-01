@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-01T12:08:34.829Z
+date: 2025-07-01T13:58:33.583Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -99,6 +99,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Josh the Drake](/characters/josh-the-drake) | Draconic Ally | A drake companion of [Os Vrintica](/characters/os) |
 | [Mechatarasque](/characters/mechatarasque) | Construct Guardian | A mechanized monstrosity, perhaps created by the [Pythagoreans](/organizations/The-Pythagorean-Empire). Profiled and commandeered by [Bazzdos](/characters/bazzdos). |
 | [Doom Slayer](/characters/doom-slayer) | Planar Warrior | A interdimensional hunter, possibly encountered during the Githyanki conflicts. |
+| [Donkey Kong](/characters/donkey-kong) | Planar Warrior | A interdimensional gorilla. |
 
 
 ## Gods and Titans
