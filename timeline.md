@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:35:06.231Z
+date: 2025-07-01T15:39:07.956Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -131,8 +131,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Gilthur](/characters/krorg) return to [North Geskoworm](/locations/Mardun/north_geskoworm).
   - [Meade](/characters/meade) returns to [Fywick](/locations/Mardun/Fywick).
   - [Adalynn](/characters/adalynn) remains in her flying fortress for a time until her betrayal.
-- The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from Mystra whos been subdued by Mask, causing Breezy-e to kill her. 
-- Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
+- The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from [Mystra](/characters/mystra) whos been subdued by [Mask](/characters/mask), causing [Breezy-e](/characters/breezy) to kill her. 
+- [Mortis Lux HQ](/locations/mortis-lux-hq) becomes inoperable for spelljammer transport until [Illiard](/characters/illiard) takes control back after [Spoops](/characters/spoops) and [Bazzdos](/characters/bazzdos) perform [Soul Surgery](/Spells/soul-surgery) to transfer control of the dimension to him.
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 
 ### ~10 AC
