@@ -2,7 +2,7 @@
 title: Kierkegaard
 description: Apprentice Spoops 
 published: true
-date: 2025-07-01T15:07:17.102Z
+date: 2025-07-01T15:10:03.588Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T13:39:11.288Z
@@ -41,14 +41,14 @@ After the party departed, he led the newly formed order in training, cleansing s
 During Spoops and [Vesrahaan's](/Events/wegate-revolution) [revolution in Wegate](/Events/wegate-revolution), Spoops contacted Kierkegaard, inviting the paladin order to join. However the paladin order was still needed in Bahyrst as they were in the middle of training, and setting up a functioning government. Not to mention the issue of traveling halfway accross the globe on short notice.
 
 ### Obox-Ob's Curse and Spoops' Blessing
-During a [dinner party](/Events/meeting-obox-ob) in Obox-ob's domain in the Abyss. Obox-ob demanded a wedding be performed and insinuated that without one nobody would leave his domain without a fight. Bane offered up the daughter of his host body, King Sunfenix. Spoops called upon Kierkegaard and asked him if he would be willing to marry the princess. Kierkegaard agreed and they were promptly wed. 
+During a [dinner party](/Events/meeting-obox-ob) in [Obox-ob's](/characters/obox-ob) domain in the Abyss. Obox-ob demanded a wedding be performed and insinuated that without one nobody would leave his domain without a fight. [Bane](/characters/bane) offered up the daughter of his host body, [King Sunfenix](/characters/king-sunfenix). Spoops called upon Kierkegaard and asked him if he would be willing to marry the princess. Kierkegaard agreed and they were promptly wed. 
 
 However, Obox-ob cursed their union, making it so that one day their lineage would produce a demonic child. In response Spoops blessed their union, granting their bloodline immortality and youthfulness. They and their direct descendants would be granted immortality so long as they wished. If one of their descendants chose to die naturally this would be allowed. Spoops made Kierkegaard and the princess aware of the demonic curse and the influence Obox-ob could have over such a child, he ordered them to watch their bloodline closely to watch out for auch a child.
 
 ### The Unified Forces of Spoops
-During the preparations for the Ithillid War, Kierkegaard was promoted to Leader of the Unified Forces of Spoops, which was comprised of the Soul Wardens, Army and Clerics of Wegate, and The Narascene Clerics of Demsford. He would hold this position until the events of the Narascene Schism. 
+During the preparations for the [Ithillid War](/Events/ithilid-war), Kierkegaard was promoted to Leader of the Unified Forces of Spoops, which was comprised of the Soul Wardens, Army and Clerics of Wegate, and The Narascene Clerics of Hastow. He would hold this position until the events of the Narascene Schism. 
 
-During the Ithillid War, he was made Military Commander of Mortis Lux, he worked with the party and other leaders to coordinate the offensive on the Ithillid's beast and ships.
+During the Ithillid War, he was made Military Commander of [Mortis Lux](/organizations/mortis-lux), he worked with the party and other leaders to coordinate the offensive on the Ithillid's beast and ships.
 
 ### After the Ithillid War
 
@@ -59,4 +59,4 @@ After the events of campaign 1, Kierkegaard returned with the rest of the Paladi
 
 ## Notes
 Bazzdos doesn't like him forging
-other spoops relgion stuff
+other spoops religion stuff.
