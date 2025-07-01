@@ -2,7 +2,7 @@
 title: Season 2
 description: Darmuth
 published: true
-date: 2025-06-30T17:33:36.332Z
+date: 2025-07-01T14:16:06.293Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-12T23:09:22.912Z
@@ -36,8 +36,8 @@ This season focuses on the rise and fall of the illithid lich [Darmuth](/charact
   - [The Bastion of Tiyamani The Awesome](/Events/the-bastion-of-tiyamani-the-awesome)
   - [The Battle of Fywick](/Events/the-battle-of-fywick)
   - [Finding Ralindu](/Events/finding-ralindu)
-  - [Traveling to Bahryst](/Events/traveling-to-bahryst)
-  - [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst)
+  - [Traveling to Bahyrst](/Events/traveling-to-bahyrst)
+  - [The Ice Castle of Bahyrst](/Events/the-ice-castle-of-bahyrst)
   - [Meeting Inferno](/Events/meeting-inferno)
   - [Meeting The Dragonborn of Kaltrosar](/Events/meeting-the-dragonborn-of-kaltrosar)
   - [The Infinite Library Dimension](/Events/the-library-dimension)
