@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-01T12:08:15.103Z
+date: 2025-07-01T12:08:34.829Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -208,7 +208,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Donald Duck](/characters/donald-duck) | Wizard | A strange duck in a sailor outfit. |
 | [Unitard](/characters/unitard) | Illiard/Unicorn | The soul of a unicorn in the corpse of [Illiard](/characters/illiard). |
 | [Dilliard](/characters/dilliard) | Illiard's Brother/ Carpenter | The brother of [Illiard](/characters/illiard). He builds carriages in [Kaltrosar Bay](/locations/Mardun/Kaltrosar). |
-| [Elon Tusk](/characters/elon-tusk) | Extra-dimensional Entity | A mysterious wealthy man from another world. |
+| [Elon Tusk](/characters/elon-tusk) | Extra-dimensional Entity | A mysterious wealthy man from another reality. |
 
 
 
