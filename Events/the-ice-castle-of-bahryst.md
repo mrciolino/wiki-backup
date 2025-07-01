@@ -2,21 +2,21 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-07-01T12:12:27.678Z
+date: 2025-07-01T14:14:58.992Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
 ---
 
-# The Ice Castle of Bahryst
-The party travels to the city of [Bahryst](/locations/Mardun/bahryst) to investigate the castle [Spoops](/characters/spoops) was granted by the [deck of many things](/items/Deck_Of_Many_Things). Upon arrival they discover the castle has been taken over by an evil wizard named [Fiad](/characters/fiad). 
+# The Ice Castle of Bahyrst
+The party travels to the city of [Bahyrst](/locations/Mardun/Bahyrst) to investigate the castle [Spoops](/characters/spoops) was granted by the [deck of many things](/items/Deck_Of_Many_Things). Upon arrival they discover the castle has been taken over by an evil wizard named [Fiad](/characters/fiad). 
 
 The party meets [Tamara Strenger](/characters/tamara-strenger), another member of the Guardison family.
 
-## Otto Hurtzog Captures Narascus and Arrival in Bahryst
-The party encounters [Otto Hurtzog](/characters/Otto-Hurtszog) accompanied by a group of ice devils on their way north to Bahryst. Otto opens fire on the party from below attempting to take out [Os](/characters/os). The party was outmatched and forced to retreat. Despite their best efforts, [Narascus](/characters/Narascus) was captured, and for a moment they worried he was dead.
+## Otto Hurtzog Captures Narascus and Arrival in Bahyrst
+The party encounters [Otto Hurtzog](/characters/Otto-Hurtszog) accompanied by a group of ice devils on their way north to Bahyrst. Otto opens fire on the party from below attempting to take out [Os](/characters/os). The party was outmatched and forced to retreat. Despite their best efforts, [Narascus](/characters/Narascus) was captured, and for a moment they worried he was dead.
 
-After locating him with [Dio](/items/dio), Os and Spoops were able to save Narascus, fighting off frost giants long enough for Os to teleport him out of the ice castle of Bahryst, though they were off target. Luckily, Os was able to Polymorph into a dragon and carry everyone to safety.
+After locating him with [Dio](/items/dio), Os and Spoops were able to save Narascus, fighting off frost giants long enough for Os to teleport him out of the ice castle of Bahyrst, though they were off target. Luckily, Os was able to Polymorph into a dragon and carry everyone to safety.
 
 
 ## Defeating The Flying Beast
@@ -37,7 +37,7 @@ With a new friend to help, the party assaulted the mountain north of the town wh
 ## Investigating the Castle
 The party then goes to inflitrate the castle. They find the castle to be heavily guarded with magical traps and illusions. Spoops takes a turn into a room alone and finds himself trapped within nested illusions. After activating his [Anti-magic armor](/items/Anti-Magic-Armor) he begins breaking out of the illusions at which point he finds he has been captured and restrained to a chair within a prison cell in the dungeon. With his armor activated, he uses his knife leg and brute force to get out of his cell and retrieve the rest of his weapons. Spoops then flies through the ice devil infested dungeon to rejoin the party. 
 
-The party confront Fiad at the top of the castle's tower. During their fight they are also attacked by a dragon. During thr fight eith thr dragon, Spoops is eaten and has to fight his way out from the inside.
+The party confront Fiad at the top of the castle's tower. During their fight they are also attacked by a dragon. During the fight with the dragon, Spoops is eaten and has to fight his way out from the inside.
 
 At the end of the battle, Fiad escapes and not even Dio can locate him.
 
