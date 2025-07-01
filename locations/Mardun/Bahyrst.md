@@ -2,7 +2,7 @@
 title: Bahyrst
 description: Ice Cold Baby
 published: true
-date: 2025-07-01T14:07:57.518Z
+date: 2025-07-01T14:08:22.560Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T12:51:39.958Z
@@ -21,4 +21,4 @@ The location of [Spoops](/characters/spoops) icy tower. Bahryst is ruled by [Kie
 | [Tilich](/characters/tilich) | Paladin of Spoops |
 | [Wolterstoff](/characters/wolterstoff) | Paladin of Spoops | 
 | [Luther](/characters/luther) | Paladin of Spoops, King of Alltricia | 
-| [Vilra Sunfenix](/characters/vilra-sunfenix) | Queen of Bahryst, Princess of [He
+| [Vilra Sunfenix](/characters/vilra-sunfenix) | Queen of Bahyrst, Princess of [He
