@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-07-01T12:33:16.379Z
+date: 2025-07-01T12:34:45.251Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -42,7 +42,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 {.links-list}
 
 &ensp; **Notable Cities: [Wegate](/locations/Mardun/Wegate)**  
-&ensp; <sub>Other Cities: [North Geskoworm / Krorg's Hometown](/locations/Mardun/north_geskoworm, [Trelston](/locations/Mardun/Trelston), Minas Galodir, Trane, Hagmoor River, Ravencrag Mountains, Highgate Hills, The Warden City of Spalleklif, Wardson Tower, Copper Hillers, Qora March, Scafa Bluffs, Frostfell mountains, The Bastion of Nabera the Infernal, The Keep of Destruction, Penmerth Woods</sub>
+&ensp; <sub>Other Cities: Trelsto (/locations/Mardun/Trelston), Minas Galodir, Trane, Hagmoor River, Ravencrag Mountains, Highgate Hills, The Warden City of Spalleklif, Wardson Tower, Copper Hillers, Qora March, Scafa Bluffs, Frostfell mountains, The Bastion of Nabera the Infernal, The Keep of Destruction, Penmerth Woods</sub>
 
 ---
 
