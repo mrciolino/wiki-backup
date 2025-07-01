@@ -2,7 +2,7 @@
 title: Kierkegaard
 description: Apprentice Spoops 
 published: true
-date: 2025-07-01T15:10:51.895Z
+date: 2025-07-01T15:11:13.871Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T13:39:11.288Z
@@ -17,7 +17,7 @@ Throughout the story, Kierkegaard found himself at the helm of various factions,
 
 After being [recruited by Spoops](/Events/the-ice-castle-of-bahyrst) to become his first paladin, Kierkegaard was granted the title First Lieutenant, and was in charge of the paladins while Spoops was away.
 
-After the events of Campaign 1, he became Grandmaster of the Paladin [Order of the Soul-Wardens](/organizations/soul-wardens). As head of the paladin order, he inherited Spoops' castle and rule over [Bahyrst](/locations/Mardun/Bahyrst) where he would bring order and faith to the region, and train many more paladins.
+After the events of Campaign 1, he became Grandmaster of the Paladin [Order of the Soul Wardens](/organizations/soul-wardens). As head of the paladin order, he inherited Spoops' castle and rule over [Bahyrst](/locations/Mardun/Bahyrst) where he would bring order and faith to the region, and train many more paladins.
 
 At the formation of [Mortis Lux](/organizations/mortis-lux), Kierkegaard joined as representative of the Order of the Soul Warden. 
 
