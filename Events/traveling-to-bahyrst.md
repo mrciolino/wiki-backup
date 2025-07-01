@@ -2,13 +2,13 @@
 title: Traveling to Bahyrst
 description: The party flys to Bahyrst
 published: true
-date: 2025-07-01T14:12:51.254Z
+date: 2025-07-01T15:17:37.698Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:24:47.283Z
 ---
 
-# Traveling to Bahryst
+# Traveling to Bahyrst
 The party travels to [Bahyrst](/locations/Mardun/Bahyrst) in their flying ship. They make a few stops along the way.
 
 
