@@ -2,21 +2,21 @@
 title: Bahryst
 description: The frozen city
 published: true
-date: 2025-07-01T14:02:14.585Z
+date: 2025-07-01T14:02:37.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-01T13:41:31.072Z
 ---
 
 # Bahryst
-The location of [Spoops](/characters/spoops) icey tower. Bahryst is ruled by [Kierkegaard](/characters/kierkegaard) and hos family, as well as the Paladin Order of Spoops, also known as the [Soulwardens](/organizations/soulwardens). 
+The location of [Spoops](/characters/spoops) icy tower. Bahryst is ruled by [Kierkegaard](/characters/kierkegaard) and hos family, as well as the Paladin Order of Spoops, also known as the [Soulwardens](/organizations/soulwardens). 
 
 
 ## Notable Characters
 | Name | Role(s) |
 |------|------|
 | [Kierkegaard](/characters/kierkegaard) | King |
-| [Ghazali](/characters/ghazali) | Palarin of Spoops, Archangel of Atonement |
+| [Ghazali](/characters/ghazali) | Paladin of Spoops, Archangel of Atonement |
 | [Niebhur](/characters/niebhur) | Paladin of Spoops |
 | [Tilich](/characters/tilich) | Paladin of Spoops |
 | [Wolterstoff](/characters/wolterstoff) | Paladin of Spoops | 
