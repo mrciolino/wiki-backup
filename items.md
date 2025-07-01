@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-01T12:21:49.424Z
+date: 2025-07-01T12:23:54.013Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -295,6 +295,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Horn of Valhalla](/items/horn-of-valhalla) | Legendary | Item | Os | A horn capable of summoning ghostly warriors from [Valhalla](/locations/valhalla) to assist in battle. |
 | [Divine Horn of Valhalla](/items/divine-horn-of-valhalla) | Legendary | Item | Spoops | A horn capable of summoning avatars of the Norse gods from [Valhalla](/locations/valhalla). |
 | [Hendrica Capsule](/items/hendrica-capsule) | Epic | Item | Dave Bones | A magic jar used to extract [Lokunai's](/characters/lokunai) soul from [Freedom's](/characters/freedom) body. |
+| [Darmuth's Phylactery](/items/darmuths-phylactery) | Legendary | Item | LBB | The phylactery of [Darmuth](/characters/Darmuth). It was kept within a bag in a magical hole in a hat. |
 
 ---
 
