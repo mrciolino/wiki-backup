@@ -2,7 +2,7 @@
 title: The Bastion of Tiyamani The Awesome
 description: The party goes on an expedition to locate an ancient relic to use against Darmuth
 published: true
-date: 2025-06-23T14:46:11.478Z
+date: 2025-07-01T12:05:56.397Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T15:10:58.067Z
