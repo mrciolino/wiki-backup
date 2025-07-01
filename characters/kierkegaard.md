@@ -2,7 +2,7 @@
 title: Kierkegaard
 description: Apprentice Spoops 
 published: true
-date: 2025-07-01T15:10:03.588Z
+date: 2025-07-01T15:10:51.895Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T13:39:11.288Z
@@ -17,7 +17,7 @@ Throughout the story, Kierkegaard found himself at the helm of various factions,
 
 After being [recruited by Spoops](/Events/the-ice-castle-of-bahyrst) to become his first paladin, Kierkegaard was granted the title First Lieutenant, and was in charge of the paladins while Spoops was away.
 
-After the events of Campaign 1, he became Grandmaster of the Paladin [Order of the Soulwardens](/organizations/soulwardens). As head of the paladin order, he inherited Spoops' castle and rule over [Bahyrst](/locations/Mardun/Bahyrst) where he would bring order and faith to the region, and train many more paladins.
+After the events of Campaign 1, he became Grandmaster of the Paladin [Order of the Soul-Wardens](/organizations/soul-wardens). As head of the paladin order, he inherited Spoops' castle and rule over [Bahyrst](/locations/Mardun/Bahyrst) where he would bring order and faith to the region, and train many more paladins.
 
 At the formation of [Mortis Lux](/organizations/mortis-lux), Kierkegaard joined as representative of the Order of the Soul Warden. 
 
@@ -33,7 +33,7 @@ Through his marriage to the [Princess of Hellaress](/characters/vilra-sunfenix),
 The party [first encountered Kierkegaard](/Events/the-ice-castle-of-bahyrst) in Bahyrst during their trip to find Spoops' castle granted to him by the [Deck of many things](/items/Deck_Of_Many_Things). 
 When the party found out that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard [Fiad](/characters/fiad) who recently took over the castle, they rallied the townsfolk around the fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer.
 
-Kirkegaard was made Lieutenant of The new [Order of the Soulwarden](/organizations/soulwardens), and began training alongside the other recurits.
+Kirkegaard was made Lieutenant of The new [Order of the Soul Warden](/organizations/soul-wardens), and began training alongside the other recurits.
 
 After the party departed, he led the newly formed order in training, cleansing sickness and death, as well as running the affairs of the city now that Fiad was defeated and Spoops was away. 
 
