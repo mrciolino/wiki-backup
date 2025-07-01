@@ -2,7 +2,7 @@
 title: Ghazali
 description: Archangel of Atonement
 published: true
-date: 2025-07-01T14:51:53.932Z
+date: 2025-07-01T14:52:50.999Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T13:25:35.173Z
@@ -29,7 +29,7 @@ As [Mortis Lux](/organizations/mortis-lux) was forming back on [Mardun](/locatio
 
 
 ## Ascention to Archangel
-The operation fell apart in the end, and Ghazali ended up dying, but as a paladin of Spoops he came back from the dead only to become lost in the wilderness around Sigil, surviving alone until Spoops called on him for a status update. As punishment for his failure, and reward for his servitude and loyalty, Spoops tranformed Ghazali into his first Archangel. He was dubbed the Archangel of Atonement and provided a powerful greataxe forged by Bazzdos.
+The operation fell apart in the end, and Ghazali ended up dying, but as a paladin of Spoops he came back from the dead only to become lost in the wilderness around Sigil, surviving alone until Spoops called on him for a status update. As punishment for his failure, and reward for his servitude and loyalty, Spoops [tranformed Ghazali](/events/ascention-of-ghazali) into his first Archangel. He was dubbed the Archangel of Atonement and provided a powerful greataxe forged by Bazzdos.
 
 ## Treaty With The Council of Gods
 Ghazali joined the party as Spoops' attendant during their meeting with the Council of Gods. 
