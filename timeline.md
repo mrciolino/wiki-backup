@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:32:03.256Z
+date: 2025-07-01T15:32:23.034Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -124,7 +124,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of Hastow and Wegate, and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
 	- Narascus becomes regent of Hastow.
   - [Vesrahaan](/characters/vesrahaan) returns to rule [Wegate](/locations/Mardun/Wegate).
-  - Luther becomes regent of [Altricia](/locations/Mardun/Allford).
+  - Luther becomes King of [Altricia](/locations/Mardun/Allford).
   - [Os](/characters/os) and [Breezy-e](/characters/breezy) return to [Gothriathon](/locations/Mardun/Gothriathon).
   - [Kierkegaard](/characters/kierkegaard) and his wife return to rule [Bahyrst](/locations/Mardun/Bahyrst) with his wife.
   - [Bazzdos](/characters/bazzdos) returns to the [Forge Dimension](/locations/Forge-Dimension) and begins creation of the first automaton prototypes—an iteration of the AI bots used for fabrication work in the Forge.
