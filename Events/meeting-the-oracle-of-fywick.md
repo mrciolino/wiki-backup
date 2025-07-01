@@ -2,7 +2,7 @@
 title: Meeting The Oracle of Fywick
 description: The party meets the Oracle of Fywick and battles a demon goose
 published: true
-date: 2025-07-01T12:00:49.737Z
+date: 2025-07-01T12:03:40.081Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T14:36:24.623Z
