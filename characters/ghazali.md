@@ -2,7 +2,7 @@
 title: Ghazali
 description: Archangel of Atonement
 published: true
-date: 2025-07-01T14:50:05.947Z
+date: 2025-07-01T14:51:37.054Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T13:25:35.173Z
@@ -25,7 +25,7 @@ Ghazali was first encoutnered by the [Low Bar Brawlers](/organizations/low-bar-b
 
 
 ## Prophet of Profit (Campaign)
-As Mortis Lux was forming back on Mardun, Spoops ordered Ghazali to acquire funds for the organization. Ghazali joined up with a band of arventurers to acquire some gold after receiving an invitation from the mysterious Prophet of Profit. He ended up dying during the adventure, acquiring nothing. 
+As [Mortis Lux](/organizations/mortis-lux) was forming back on [Mardun](/locations/Mardun), Spoops ordered Ghazali to acquire funds for the organization. Ghazali joined up with a band of adventurers to [acquire some gold](/Adventures/Prophet-of-Profit after receiving an invitation from the mysterious [Prophet of Profit](/characters/krorg). He ended up dying during the adventure, acquiring nothing. 
 
 
 ## Ascention to Archangel
