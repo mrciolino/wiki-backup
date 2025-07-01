@@ -2,7 +2,7 @@
 title: Bahryst
 description: The frozen city
 published: true
-date: 2025-07-01T13:59:02.214Z
+date: 2025-07-01T14:02:14.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-01T13:41:31.072Z
@@ -22,6 +22,9 @@ The location of [Spoops](/characters/spoops) icey tower. Bahryst is ruled by [Ki
 | [Wolterstoff](/characters/wolterstoff) | Paladin of Spoops | 
 | [Luther](/characters/luther) | Paladin of Spoops, King of Alltricia | 
 | [Vilra Sunfenix](/characters/vilra-sunfenix) | Queen of Bahryst, Princess of [Hellaress](/locations/Ereriad/Hellaress) |
+| [Tamara Strenger](/characters/tamara-strenger) | Relative of the Guardisons | 
+| [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | 
+| [Fiad](/characters/fisd) | Ice Wizard | 
 
 
 ## Events
