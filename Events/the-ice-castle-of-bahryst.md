@@ -2,7 +2,7 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-07-01T12:11:00.432Z
+date: 2025-07-01T12:11:41.770Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
@@ -35,7 +35,7 @@ With a new friend to help, the party assaulted the mountain north of the town wh
 
 
 ## Investigating the Castle
-The party then goes to inflitrate the castle. They find the castle to be heavily guarded with magical traps and illusions. Spoops takes a turn into a room alone and finds himself trapped within nested illusions. After activating his [Anti-magic armor](/items/anti-magic-armor) he begins breaking out of the illusions at which point he finds he has been captured and restrained to a chair within a prison cell in the dungeon. With his armor activated, he uses his knife leg and brute force to get out of his cell and retrieve the rest of his weapons. Spoops then flies through the ice devil infested dungeon to rejoin the party. 
+The party then goes to inflitrate the castle. They find the castle to be heavily guarded with magical traps and illusions. Spoops takes a turn into a room alone and finds himself trapped within nested illusions. After activating his [Anti-magic armor](/items/Anti-Magic-Armor) he begins breaking out of the illusions at which point he finds he has been captured and restrained to a chair within a prison cell in the dungeon. With his armor activated, he uses his knife leg and brute force to get out of his cell and retrieve the rest of his weapons. Spoops then flies through the ice devil infested dungeon to rejoin the party. 
 
 The party confront Fiad at the top of the castle's tower. During their fight they are also attacked by a dragon. 
 
