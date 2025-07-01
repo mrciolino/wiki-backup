@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-06-30T17:00:31.474Z
+date: 2025-07-01T15:23:53.716Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -113,7 +113,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 # The Age of Ascended (1 AC – 553 AC)
 
-## Sundering of Mortis Lux (1 AC - 15 AC)
+## Mortis Lux Returns Home (1 AC - 15 AC)
 - Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
 - Spoops begins by meeting up with Kelemvor to confront Cyric together. After some time they are sble to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
 - Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
