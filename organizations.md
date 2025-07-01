@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-06-29T18:14:48.373Z
+date: 2025-07-01T12:26:55.008Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -56,6 +56,7 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/Mardun/Kaltrosar) | - | Active |  
 | [Holy Empire of Wegate](/organizations/wegate) | A theocracy ruled by [Vesrahaan](/characters/vesrahaan) and the [Cult of Wegate](/organizations/cult-of-wegate). | [Vesrahaan](/characters/vesrahaan) | - | Active |  
 | [Vrintica Family](/organizations/vrintica-genealogy) | [Os](/characters/os) and his many descendants. | [Vrintia](/locations/Vrintica) | [Os](/characters/os) | Active |  
+| [The Ilinor Imperium](/organizations/the-ilinor-imperium) | The empire of Illithids ruled by [The Emperor](/characters/Emperor). | - | [The Emperor](/characters/Emperor) | Destroyed |  
 
 
 ## **Religious Groups**  
