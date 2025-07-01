@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:34:12.508Z
+date: 2025-07-01T15:35:06.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -121,8 +121,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - After the war ends and the party departs on various quests, Mortis Lux goes into standby mode. The main Generals, and lieutenants return to Mardun, with the exception of the Saragossa Pirates who stay in space after taking possession of their promised Spelljammer ships. 
 - Illiard is made regent of Mortis Lux HQ during the party's absence, and is granted immortality by Spoops. He oversees basic operations and keeps HQ secure with the help of a legion of undead granted to him by Spoops, and a small group of living members. He keeps Mortis Lux's resources and finances active in case the old treaties and armies need to be called upon again. Jergal also hangs out with him sometimes.
 - **[Ereriad](/locations/ereriad)'s Fall**: [Bane](/characters/bane) killed Ereriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
-- Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of Hastow and Wegate, and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
-	- Narascus becomes regent of Hastow.
+- Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of [Hastow](/locations/Mardun/Hastow) and [Wegate](/locations/Mardun/Wegate), and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
+	- [Narascus](/characters/Narascus) becomes Ruler of [Hastow](/locations/Mardun/Hastow).
   - [Vesrahaan](/characters/vesrahaan) returns to rule [Wegate](/locations/Mardun/Wegate).
   - Gilthur abdicates the throne of Altricia to Luther after his valiant efforts in protecting the city from Ithilid attack. Luther becomes King of [Altricia](/locations/Mardun/Allford).
   - [Os](/characters/os) and [Breezy-e](/characters/breezy) return to [Gothriathon](/locations/Mardun/Gothriathon).
