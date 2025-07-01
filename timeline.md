@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:50:04.111Z
+date: 2025-07-01T15:51:03.430Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -178,7 +178,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - A task force of paladins of [Bahryst](/locations/Mardun/Bahyrst) travel by small boat through the sea of ghosts. They pick up some undead to assist them. They begin attacking [Hastow's](/locations/Mardun/Hastow) forces on the northern shores of the continent, which forces them to divert resources away from fighting [Wegate](/locations/Mardun/Wegate). It is not enough ti turn the tide of war due to the size of Bahyrst' forces compared to the far larger armies of Hastow.
 
 ### The Eternal Battlefield
-- Wegate and Hastow land forces engage in battle to the south of wardson tower. Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new advances in the battle lines are created as both sides just send endless waves of undead at one another, and resurrect them back up to fight again.
+- [Wegate](/locations/Mardun/Wegate) and [Hastow](/locations/Mardun/Hastow) land forces engage in battle to the south of [Wardson Tower](/locations/Mardun/wardson-tower). Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new advances in the battle lines are created as both sides just send endless waves of undead at one another, and resurrect them back up to fight again.
 
 - Wegate learns that Gothriathon made their own peace and doesn't take the news well. Vesrahan sees this as a betrayal, citing written docs and alliances, however they were never signed by Os. Os sees no obligation to contribute support, but Breezy-e being a signer, must stand before Asmodeus for breach of contract. Breezye is in the wrong if he fights the Red Archon or if he doesn't. A new deal with Asmodeus is brokered where Breezy-e may never kill on Mardun again. Though he has the means, Breezy-e never leaves to other planets since quality spaghetti can only be grown on Mardun. 
 
