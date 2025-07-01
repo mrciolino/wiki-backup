@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-06-30T23:33:25.986Z
+date: 2025-07-01T11:57:49.376Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -158,7 +158,8 @@ List of non-player-characters from both campaigns and some information about the
 ## Merchants & Other Associates
 | Name | Role | Description |
 |------|------|-------------|
-| [Tony Mozzarella](/characters/Tony-Mozzarella) | Merchant/Informant | A charismatic figure with underworld ties, possibly involved in [Fywick](/locations/Mardun/Fywick)'s [Bartenders Guild](/organizations/bartenders_guild). |
+| [Tony Mozzarella](/characters/Tony-Mozzarella) | Mafioso/Informant, First Spaghetti Dragon | A charismatic figure with underworld ties, possibly involved in [Fywick](/locations/Mardun/Fywick)'s [Bartenders Guild](/organizations/bartenders_guild). |
+| [Steveo](/characters/steveo) | Mafioso/Informant | [Tony Mozzarella's](/characters/Tony-Mozzarella) right hand man. |
 | [Gnomio the Weaponsmith](/characters/gnomio-the-weaponsmith) | Weaponsmith | Built the Spoops Gun and worked as Weaponsmith for Mortis Lux |
 | [Baxter the Potion Master](/characters/baxter-the-potion-master) | Potion Master | Server Bazzdos and Mortis Lux. He developed and mass produced the Mind Blank potions necessary for thr war against the Ithilids |
 | [Vesrahaan](/characters/vesrahaan) | Eternal Queen of Wegate | Loyal servant to Spoops. She led the rebellion in Wegate alongside Spoops, restoring the city as a theocratic kingdom worshipping Spoops. |
