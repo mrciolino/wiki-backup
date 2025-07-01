@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:23:53.716Z
+date: 2025-07-01T15:26:28.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -123,10 +123,10 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - **[Ereriad](/locations/ereriad)'s Fall**: [Bane](/characters/bane) killed Ereriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
 - Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of Hastow and Wegate, and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
 	- Narascus becomes regent of Hastow.
-  - Versrahan becomes regent of Wegate.
-  - Luther becomes regent of Altricia.
-  - Os and Breeze-e return to Gothriathon.
-  - Kierkegaard returns to rule Bahryst with his wife.
+  - Versrahan becomes regent of [Wegate](/locations/Mardun/Wegate).
+  - Luther becomes regent of [Altricia](/locations/Mardun/Allford).
+  - [Os](/characters/os) and [Breezy-e](/characters/breezy) return to [Gothriathon](/locations/Mardun/Gothriathon).
+  - [Kierkegaard](/characters/kierkegaard) and his wife return to rule [Bahyrst](/locations/Mardun/Bahyrst) with his wife.
   - Bazzdos returns to the Forge Dimension and begins creation of the first automaton prototypes—an iteration of the AI bots used for fabrication work in the Forge.
   - Gilthur return to North Geskoworm.
   - Meade returns to Fywick.
