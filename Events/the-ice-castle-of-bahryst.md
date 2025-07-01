@@ -2,7 +2,7 @@
 title: The Ice Castle of Bahryst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-06-23T15:13:13.646Z
+date: 2025-07-01T12:11:00.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
@@ -14,7 +14,7 @@ The party travels to the city of [Bahryst](/locations/Mardun/bahryst) to investi
 The party meets [Tamara Strenger](/characters/tamara-strenger), another member of the Guardison family.
 
 ## Otto Hurtzog Captures Narascus and Arrival in Bahryst
-The party encounters [Otto Hurtzog](/characters/otto) accompanied by a group of ice devils on their way north to Bahryst. Otto opens fire on the party from below attempting to take out [Os](/characters/os). The party was outmatched and forced to retreat. Despite their best efforts, [Narascus](/characters/Narascus) was captured, and for a moment they worried he was dead.
+The party encounters [Otto Hurtzog](/characters/Otto-Hurtszog) accompanied by a group of ice devils on their way north to Bahryst. Otto opens fire on the party from below attempting to take out [Os](/characters/os). The party was outmatched and forced to retreat. Despite their best efforts, [Narascus](/characters/Narascus) was captured, and for a moment they worried he was dead.
 
 After locating him with [Dio](/items/dio), Os and Spoops were able to save Narascus, fighting off frost giants long enough for Os to teleport him out of the ice castle of Bahryst, though they were off target. Luckily, Os was able to Polymorph into a dragon and carry everyone to safety.
 
