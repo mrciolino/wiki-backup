@@ -2,7 +2,7 @@
 title: The Battle of Fywick
 description: Darmuth’s monster arrives and The party rises to the challenge.
 published: true
-date: 2025-06-23T14:54:23.063Z
+date: 2025-07-01T12:06:17.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T14:49:07.265Z
