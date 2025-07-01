@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:32:23.034Z
+date: 2025-07-01T15:34:12.508Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -124,14 +124,13 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of Hastow and Wegate, and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
 	- Narascus becomes regent of Hastow.
   - [Vesrahaan](/characters/vesrahaan) returns to rule [Wegate](/locations/Mardun/Wegate).
-  - Luther becomes King of [Altricia](/locations/Mardun/Allford).
+  - Gilthur abdicates the throne of Altricia to Luther after his valiant efforts in protecting the city from Ithilid attack. Luther becomes King of [Altricia](/locations/Mardun/Allford).
   - [Os](/characters/os) and [Breezy-e](/characters/breezy) return to [Gothriathon](/locations/Mardun/Gothriathon).
   - [Kierkegaard](/characters/kierkegaard) and his wife return to rule [Bahyrst](/locations/Mardun/Bahyrst) with his wife.
   - [Bazzdos](/characters/bazzdos) returns to the [Forge Dimension](/locations/Forge-Dimension) and begins creation of the first automaton prototypes—an iteration of the AI bots used for fabrication work in the Forge.
   - [Gilthur](/characters/krorg) return to [North Geskoworm](/locations/Mardun/north_geskoworm).
   - [Meade](/characters/meade) returns to [Fywick](/locations/Mardun/Fywick).
   - [Adalynn](/characters/adalynn) remains in her flying fortress for a time until her betrayal.
-- Gilthur abdicates his titles as Pirate King of Saragossa and King of Altricia.
 - The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to sieze the weave from Mystra whos been subdued by Mask, causing Breezy-e to kill her. 
 - Adalynn's fortress becomes inoperable for spelljammer transport (until Illiard takes control back in the future).
 - Narascus, forseeing disarray, makes his initial claim to be the successor of Spoops. His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
