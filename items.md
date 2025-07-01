@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-06-30T16:13:39.440Z
+date: 2025-07-01T12:19:18.477Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -248,6 +248,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Apprentice Wizard Spellbook](/items/Apprentice-Wizard-Spellbook) | Rare | Book | LBB |  A book for apprentice wizards. |
 | [How to be a good friend](/items/How-To-Be-A-Good-Friend) | Rare | Book | Spoops |  A book on how to be a good friend. |
 | [How to Kill Gods](/items/How-To-Kill-Gods) | Rare | Book | Bazzdos |  A procedure for killing the ithilds. Also known as `The Druid Book` |
+| [Achilles' Autobiography](/items/achilles-autobiography) | Rare | Book | Achilles |  Written by [Achilles](/characters/Achilles), it contains vast lies and exagerations. |
 
 ---
 
