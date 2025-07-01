@@ -1,8 +1,8 @@
 ---
 title: Bahyrst
-description: Ice Cold Baby
+description: The Frozen City of Paladins
 published: true
-date: 2025-07-01T15:15:42.496Z
+date: 2025-07-01T15:16:04.669Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T12:51:39.958Z
