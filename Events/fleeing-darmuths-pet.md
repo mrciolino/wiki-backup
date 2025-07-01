@@ -2,18 +2,18 @@
 title: Fleeing Darmuth’s Pet
 description: After Darmuth located the party, her giant pet gives chase
 published: true
-date: 2025-06-30T23:31:36.313Z
+date: 2025-07-01T01:28:20.796Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T14:40:43.965Z
 ---
 
 # Fleeing Darmuth's Pet
-While traveling to [Fywick](/locations/Mardun/Fywick), the party acvidentally alerts [Darmuth](/characters/Darmuth) to their location. In response, Darmuth sends her giant bone devil pet to kill them. The party must flee as Darmuth's pet, who they dub [Carl](/characters/carl), chases them across the continent. 
+While traveling to [Fywick](/locations/Mardun/Fywick), the party accidentally alerts [Darmuth](/characters/Darmuth) to their location. In response, Darmuth sends her giant bone devil pet to kill them. The party must flee as Darmuth's pet, who they dub [Carl](/characters/carl), chases them across the continent. 
 
 
 ## Darmuth's Mt. Suran Teleportation Circle
-While passing through [Mt. Suran](/locations/mt-suran), the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. [Frederina](/characters/Frederina) arrived on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and departed. The party dub this new threat Carl.
+While passing through [Mt. Suran](/locations/mt-suran), the party find another chamber with a runic teleportation circle in it. After touching one of the magical vines within the chamber, Darmuth was alerted to their presence, she sent her giant bone devil pet through the teleporter to pursue the party. It is initially stuck within the portal room and has to claw its way out, giving the party enough time to flee. [Frederina](/characters/Frederina) arrives on her flying ship just in time to pick up the party. They tied the carriage to the bottom of the flying ship and depart. The party dub this new threat Carl.
 
 ## Carl Gives Chase
 The giant Bone Demon creature begins pursuing the party. They must use the flying ship to constantly put distance between them. [Spoops](/characters/spoops) uses [Dio](/items/dio) to navigate and track Darmuth's pet as they fly.
