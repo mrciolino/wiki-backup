@@ -2,7 +2,7 @@
 title: Meeting The Oracle of Fywick
 description: The party meets the Oracle of Fywick and battles a demon goose
 published: true
-date: 2025-07-01T11:59:21.749Z
+date: 2025-07-01T12:00:49.737Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T14:36:24.623Z
@@ -18,7 +18,7 @@ The party enters the massive temple on the hill in the center of [Fywick](/locat
 The Oracle foresees that to survive the coming trials and conflict with [Darmuth](/characters/Darmuth), they must seek out an ancient artifact at [The Bastion of Tiyamani The Awesome](/locations/Mardun/the-bastion-of-tiyamani-the-awesome). 
 
 ## Honk
-During their meeting, the party was attacked by a Demonic Goose wielding a [magic dagger](/items/Peace-Was-Never-An-Option-Dagger). The Goose spoke the activation phrase "Peace was never an option" and the dagger was sent flying at the party. After defeating the Goose, [Spoops](/characters/spoops) took the dagger and spoke the phrase. Spoops managed to hold onto the dagger as it shot through the window next to him and he was dragged through the air to the island in the middle of the city where he met the Parrot Shogunate. After a brief conversation with these talking parrots Spoops returned to the party.
+During their meeting, the party was attacked by a Demonic Goose wielding a [magic dagger](/items/Peace-Was-Never-An-Option-Dagger). The Goose spoke the activation phrase "Peace was never an option" and the dagger was sent flying at the party. After defeating the Goose, [Spoops](/characters/spoops) took the dagger and spoke the phrase. Spoops managed to hold onto the dagger as it shot through the window next to him and he was dragged through the air to the island in the middle of the city where he met the [Parrot Shogunate](/organizations/parrot-shotunate). After a brief conversation with these talking parrots Spoops returned to the party.
 
 
 ## Frederina's Betrayal
