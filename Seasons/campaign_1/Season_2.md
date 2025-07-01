@@ -2,7 +2,7 @@
 title: Season 2
 description: Darmuth
 published: true
-date: 2025-07-01T14:16:06.293Z
+date: 2025-07-01T14:21:30.550Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-12T23:09:22.912Z
@@ -33,7 +33,7 @@ This season focuses on the rise and fall of the illithid lich [Darmuth](/charact
   - [Arrival to Fywick](/Events/arrival-to-fywick)
   - [Meeting The Oracle of Fywick](/Events/meeting-the-oracle-of-fywick)
   - [Wishing For Legendary Items](/Events/wishing-for-legendary-items)
-  - [The Bastion of Tiyamani The Awesome](/Events/the-bastion-of-tiyamani-the-awesome)
+  - [The Bastion of Tiyamanni The Awesome](/Events/the-bastion-of-tiyamanni-the-awesome)
   - [The Battle of Fywick](/Events/the-battle-of-fywick)
   - [Finding Ralindu](/Events/finding-ralindu)
   - [Traveling to Bahyrst](/Events/traveling-to-bahyrst)
