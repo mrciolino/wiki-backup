@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:44:07.013Z
+date: 2025-07-01T15:50:04.111Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -174,8 +174,8 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - Breezy-e arrives first, teleporting directly to Hastow to go and rekill Narascus. The new Narascus (aka The Red Archon) is able to not just fight off Breezy-e but gets to back down by threatening to use a wish to cause the Illithid Empire to return. Not understanding how wish works, Breezy-e backs down from fighting and killing him, and makes a peace deal. Hostilities with Gothriathon and Hastow cease. 
 
-### Bayrhys's Northern Invasion
-- They travel by small boat through the sea of ghosts. They pick up some undead to assist them. Fighting on the northern shores of the continent against Hastow, which forces them to divert resources away from fighting Wegate. It is more a distraction rather than an effective incursion due to the size of Bayrhys's forces.
+### Bahyrst's Northern Invasion
+- A task force of paladins of [Bahryst](/locations/Mardun/Bahyrst) travel by small boat through the sea of ghosts. They pick up some undead to assist them. They begin attacking [Hastow's](/locations/Mardun/Hastow) forces on the northern shores of the continent, which forces them to divert resources away from fighting [Wegate](/locations/Mardun/Wegate). It is not enough ti turn the tide of war due to the size of Bahyrst' forces compared to the far larger armies of Hastow.
 
 ### The Eternal Battlefield
 - Wegate and Hastow land forces engage in battle to the south of wardson tower. Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new advances in the battle lines are created as both sides just send endless waves of undead at one another, and resurrect them back up to fight again.
