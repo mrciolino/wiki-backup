@@ -2,7 +2,7 @@
 title: The Ice Castle of Bahyrst
 description: The party investigates Spoops’ new castle
 published: true
-date: 2025-07-01T14:15:18.815Z
+date: 2025-07-01T15:14:05.412Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T15:01:58.179Z
@@ -27,7 +27,7 @@ When the party found out from the innkeeper that there was an outbreak of lycant
 
 
 ## Mort Joins The Party
-The party returned to the city in an attempt to capture Otto and get information from him. While flying over the arctic on their way back to Bahryst, they met an assassin named [Mort](/characters/mort), disguised as an eccentric old human man with surprising nimbleness and a killer instinct. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
+The party returned to the city in an attempt to capture Otto and get information from him. While flying over the arctic on their way back to Bahyrst, they met an assassin named [Mort](/characters/mort), disguised as an eccentric old human man with surprising nimbleness and a killer instinct. Given his goal of defeating [Darmuth](/characters/Darmuth) aligns with the party, he is welcomed to join up.
 
 
 ## Capturing Otto Hurtzog
