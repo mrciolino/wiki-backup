@@ -2,7 +2,7 @@
 title: The Library Dimension
 description: The party is transported to the infinite library dimension
 published: true
-date: 2025-07-01T12:19:45.343Z
+date: 2025-07-01T12:24:17.925Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:40:57.415Z
@@ -37,7 +37,7 @@ The tree then speaks to the party saying that it can hear them and it seeks new 
 
 Narascus asks how he knows this information, the tree responds: "I HAVE THIS INFORMATION IN THE FORM OF HER DIARY. I HAVE ACCESS TO THE WRITTEN POWER WITHIN MY LIBRARY"
 
-The party offers to trade information on [bomb the bear](/characters/Bomb-the-Bear) for information on [Darmuth's phylactery](/items/darmuths-phylactery). The tree responds: "BOMB THE BEAR! I HAVE VERY FEW SOURCES ON THIS CHARACTER. HER PHALACTORY IS HIDDEN AND SHE DOESN'T DESCRIBE IT IN HER DIARY, ONLY MAKING REFERENCES TO SOMETHING IN HASTOW OF GREAT IMPORTANCE... [ITHILID](/characters/emperor)? ITHILID IS A PATRON OF MY KNOWLEDGE, HE IS THE EMPEROR OF THE ILLITHIDS. THE CUREENT RULER OF THE [ILINOR IMPERIUM](/organizatioms/the-ilinor-imperium)"
+The party offers to trade information on [bomb the bear](/characters/Bomb-the-Bear) for information on [Darmuth's phylactery](/items/darmuths-phylactery). The tree responds: "BOMB THE BEAR! I HAVE VERY FEW SOURCES ON THIS CHARACTER. HER PHALACTORY IS HIDDEN AND SHE DOESN'T DESCRIBE IT IN HER DIARY, ONLY MAKING REFERENCES TO SOMETHING IN HASTOW OF GREAT IMPORTANCE... [ITHILID](/characters/Emperor)? ITHILID IS A PATRON OF MY KNOWLEDGE, HE IS THE EMPEROR OF THE ILLITHIDS. THE CUREENT RULER OF THE [ILINOR IMPERIUM](/organizatioms/the-ilinor-imperium)"
 
 Narascus then shows the tree what having sight is like by placing his robe of eyes on its branch. The tree is overwhelmed by this new ability and makes the party an offer: "I WILL TRADE IT FOR FREE PASSAGE AGAINST MY LIBRARIANS. THE LIBRARIANS WILL AID YOU IN THEIR CAPACITY. IF YOU WISH TO BRING ME MORE KNOWLEDGE I WILL BE A POWERFUL ALLY. FOR THE FUTURE. A CONTINUING RELATIONSHIP"
 
