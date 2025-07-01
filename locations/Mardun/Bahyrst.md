@@ -2,7 +2,7 @@
 title: Bahyrst
 description: Ice Cold Baby
 published: true
-date: 2025-07-01T14:10:04.749Z
+date: 2025-07-01T14:10:24.205Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T12:51:39.958Z
@@ -34,7 +34,7 @@ The [Low Bar Brawlers](/organizations/low-bar-brawlers) first [Traveled To Bahyr
 
 
 ### Investigating The Ice Castle
-During their visit to Bahyrst, the Low Bar Brawlers investigated [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahryst) where they drove the evil wizard [Fiad](/characters/fiad) away. Upon their departure, [Spoops](/characters/spoops) left [Kierkegaard](/characters/kierkegaard) in charge of both the paladin order of Soulwardens, and the city.
+During their visit to Bahyrst, the Low Bar Brawlers investigated [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahyrst) where they drove the evil wizard [Fiad](/characters/fiad) away. Upon their departure, [Spoops](/characters/spoops) left [Kierkegaard](/characters/kierkegaard) in charge of both the paladin order of Soulwardens, and the city.
 
 
 ### Kingdom of Paladins
