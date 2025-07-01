@@ -2,14 +2,14 @@
 title: Bahyrst
 description: Ice Cold Baby
 published: true
-date: 2025-07-01T14:10:24.205Z
+date: 2025-07-01T15:15:42.496Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T12:51:39.958Z
 ---
 
 # Bahyrst
-The location of [Spoops](/characters/spoops) icy tower. Bahyrst is ruled by [Kierkegaard](/characters/kierkegaard) and hos family, as well as the Paladin Order of Spoops, also known as the [Soulwardens](/organizations/soulwardens). 
+The location of [Spoops](/characters/spoops) icy tower. Bahyrst is ruled by [Kierkegaard](/characters/kierkegaard) and his family, as well as the Paladin Order of Spoops, also known as the [Soul Wardens](/organizations/soul-wardens). 
 
 
 ## Notable Characters
@@ -30,11 +30,11 @@ The location of [Spoops](/characters/spoops) icy tower. Bahyrst is ruled by [Kie
 ## Events
 
 ### The Low Bar Brawlers Arrive at Bahyrst
-The [Low Bar Brawlers](/organizations/low-bar-brawlers) first [Traveled To Bahyrst](/Events/traveling-to-bahyrst) in search of an ice castle which Spoops magically inherited. During this visit, the Order of the Soulwardens was founded.
+The [Low Bar Brawlers](/organizations/low-bar-brawlers) first [Traveled To Bahyrst](/Events/traveling-to-bahyrst) in search of an ice castle which Spoops magically inherited. During this visit, the Order of the Soul Wardens was founded.
 
 
 ### Investigating The Ice Castle
-During their visit to Bahyrst, the Low Bar Brawlers investigated [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahyrst) where they drove the evil wizard [Fiad](/characters/fiad) away. Upon their departure, [Spoops](/characters/spoops) left [Kierkegaard](/characters/kierkegaard) in charge of both the paladin order of Soulwardens, and the city.
+During their visit to Bahyrst, the Low Bar Brawlers investigated [The Ice Castle of Bahryst](/Events/the-ice-castle-of-bahyrst) where they drove the evil wizard [Fiad](/characters/fiad) away. Upon their departure, [Spoops](/characters/spoops) left [Kierkegaard](/characters/kierkegaard) in charge of both the paladin order of Soul Wardens, and the city.
 
 
 ### Kingdom of Paladins
