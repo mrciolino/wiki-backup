@@ -2,7 +2,7 @@
 title: Wishing For Legendary Items
 description: Spoops uses one of his wishes to obtain legendary items for the party
 published: true
-date: 2025-06-23T14:42:50.685Z
+date: 2025-07-01T12:04:46.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-06T15:05:30.919Z
@@ -17,7 +17,7 @@ Spoops uses a wish he gained from the deck of many things to wish for helpful le
 
 
 ## Legendary Items Received
-- Spoops receives the [Anti-Magic Armor](/items/anti-magic-armor).
+- Spoops receives the [Anti-Magic Armor](/items/Anti-Magic-Armor).
 - [Bazvrah](/characters/Bazvrah) receives The Blood Fury Tattoo.
 - [Narascus](/characters/Narascus) received Sovereign Glue.
 - [Os](/characters/os) receives The [Horn of Valhalla](/items/horn-of-valhalla).
