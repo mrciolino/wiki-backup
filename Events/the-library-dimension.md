@@ -2,14 +2,14 @@
 title: The Library Dimension
 description: The party is transported to the infinite library dimension
 published: true
-date: 2025-07-01T12:13:36.640Z
+date: 2025-07-01T12:14:15.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:40:57.415Z
 ---
 
 # The Infinite Library Dimension
-The party is transported to the [infinite library dimension](/locations/library-dimension). The party visits the Library dimension for the first time. 
+The party is transported to the [infinite library dimension](/locations/Library-Dimension). The party visits the Library dimension for the first time. 
 
 
 ## Bazzvrah Takes Notes
