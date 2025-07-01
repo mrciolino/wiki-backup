@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T15:51:03.430Z
+date: 2025-07-01T15:55:16.493Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -178,9 +178,9 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - A task force of paladins of [Bahryst](/locations/Mardun/Bahyrst) travel by small boat through the sea of ghosts. They pick up some undead to assist them. They begin attacking [Hastow's](/locations/Mardun/Hastow) forces on the northern shores of the continent, which forces them to divert resources away from fighting [Wegate](/locations/Mardun/Wegate). It is not enough ti turn the tide of war due to the size of Bahyrst' forces compared to the far larger armies of Hastow.
 
 ### The Eternal Battlefield
-- [Wegate](/locations/Mardun/Wegate) and [Hastow](/locations/Mardun/Hastow) land forces engage in battle to the south of [Wardson Tower](/locations/Mardun/wardson-tower). Most of the remaining spelljammers are destroyed, halting the Wegate drive into Altricia. Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new advances in the battle lines are created as both sides just send endless waves of undead at one another, and resurrect them back up to fight again.
+- [Wegate](/locations/Mardun/Wegate) and [Hastow](/locations/Mardun/Hastow) land forces engage in battle to the south of [Wardson Tower](/locations/Mardun/wardson-tower). Most of the remaining spelljammers are destroyed, halting the Wegatian offensive into [Altricia](/locations/Mardun/Allford). Fortifications built, undead maintain the battle lines, Wegate and Hastow are now locked in an eternal struggle. From this point forward no new significant advances in the battle lines are created as both sides send endless waves of undead at one another, and resurrect them back up to fight again.
 
-- Wegate learns that Gothriathon made their own peace and doesn't take the news well. Vesrahan sees this as a betrayal, citing written docs and alliances, however they were never signed by Os. Os sees no obligation to contribute support, but Breezy-e being a signer, must stand before Asmodeus for breach of contract. Breezye is in the wrong if he fights the Red Archon or if he doesn't. A new deal with Asmodeus is brokered where Breezy-e may never kill on Mardun again. Though he has the means, Breezy-e never leaves to other planets since quality spaghetti can only be grown on Mardun. 
+- [Wegate](/locations/Mardun/Wegate) learns that [Gothriathon](/locations/Mardun/Gothriathon) made their own peace and doesn't take the news well. [Vesrahaan](/characters/vesrahaan) sees this as a betrayal, citing the treaties and alliances of [Mortis Lux](/organizations/mortis-lux), however they were never signed by [Gothriathon](/locations/Mardun/Gothriathon) who only had a trade deal with Mortis Lux. Os sees no obligation to contribute the support of Gothriathon, but Breezy-e, must stand before Asmodeus for breach of contract. Breezye is in the wrong if he fights the Red Archon or if he doesn't. A new deal with Asmodeus is brokered where Breezy-e may never kill on Mardun again. Though he has the means, Breezy-e never leaves to other planets since quality spaghetti can only be grown on Mardun. 
 
 - Wardson Tower, an enterance to a vicious section of the underdark, oversees the eternal battlefield of Hastow and Wegate. The tower's stonework never breaks/changes given its magical location on a minor leyline. From this, an order of fighters arise, founded by a living fighter who witnessed Spoops and Mortis Lux, developing a fighting style from it. 
 
