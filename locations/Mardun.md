@@ -2,7 +2,7 @@
 title: Mardun
 description: The first world of the Low Bar Brawlers campaign
 published: true
-date: 2025-07-01T12:28:33.717Z
+date: 2025-07-01T12:33:04.124Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-28T16:09:23.664Z
@@ -34,7 +34,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 {.links-list}
 
 &ensp; **Notable Cities: [The Bastion of Tiyamanni the Awesome](/locations/Mardun/the-bastion-of-tiyamanni-the-awesome)**  
-&ensp; <sub>Other Locations: Whispering Jungle, The Hive of Kas the Bloody, Brany, Wefeld, Estis, Llaisy Forest, [Celestial Vale](/locations/Mardun/celestial-vale), The Plain of Horrors, Wyvern's River, Erpool (City of the True Name), Ellon, The Fortress of the vampire Tyrant, The Desolation of Duki, Ironwood Forest, Nimpa, The Ciadel of Namzeru, The Shrine of the Fallen, Farisetr, Bundabad Crags, Bizirukth Spires, Healey (City of the Veil of Shadows), Ampwold, The Stronghold of Poison Tears, Theawold, Sabrook (The last city of helonde), Great forest, Debrycg, Whitecrown Mountains, Gili's Hold, Nono, Tino</sub>
+&ensp; <sub>Other Locations: Whispering Jungle, The Hive of Kas the Bloody, Brany, Wefeld, Estis, Llaisy Forest, [Celestial Vale](/locations/Mardun/celestial-vale), The Plain of Horrors, Wyvern's River, Erpool (City of the True Name), [Ellon](/locations/Mardun/ellon), The Fortress of the vampire Tyrant, The Desolation of Duki, Ironwood Forest, Nimpa, The Ciadel of Namzeru, The Shrine of the Fallen, Farisetr, Bundabad Crags, Bizirukth Spires, Healey (City of the Veil of Shadows), Ampwold, The Stronghold of Poison Tears, Theawold, Sabrook (The last city of helonde), Great forest, Debrycg, Whitecrown Mountains, Gili's Hold, Nono, Tino</sub>
 
 ---
 
@@ -42,7 +42,7 @@ dateCreated: 2024-07-28T16:09:23.664Z
 {.links-list}
 
 &ensp; **Notable Cities: [Wegate](/locations/Mardun/Wegate)**  
-&ensp; <sub>Other Cities: North Geskoworm / Krorg's Hometown, Galeton, Minas Galodir, Trane, Hagmoor River, Ravencrag Mountains, Highgate Hills, The Warden City of Spalleklif, Wardson Tower, Copper Hillers, Qora March, Scafa Bluffs, Frostfell mountains, The Bastion of Nabera the Infernal, The Keep of Destruction, Penmerth Woods</sub>
+&ensp; <sub>Other Cities: [North Geskoworm / Krorg's Hometown](/locations/Mardun/north_geskoworm, [Trelston](/locations/Mardun/trelston), Minas Galodir, Trane, Hagmoor River, Ravencrag Mountains, Highgate Hills, The Warden City of Spalleklif, Wardson Tower, Copper Hillers, Qora March, Scafa Bluffs, Frostfell mountains, The Bastion of Nabera the Infernal, The Keep of Destruction, Penmerth Woods</sub>
 
 ---
 
