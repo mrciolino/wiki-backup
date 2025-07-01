@@ -2,7 +2,7 @@
 title: Kierkegaard
 description: Apprentice Spoops 
 published: true
-date: 2025-07-01T15:01:47.895Z
+date: 2025-07-01T15:03:51.722Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-19T13:39:11.288Z
@@ -30,8 +30,8 @@ Through his marriage to the [Princess of Hellaress](/characters/vilra-sunfenix),
 ## Encounters
 
 ### Bahyrst
-The party first encountered Kierkegaard in Bahyrst during their trip to find Spoops' castle granted to him by the Deck of many things. 
-When the party found out that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard Fiad who recently took over the castle, they rallied the townsfolk around the fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer.
+The party [first encountered Kierkegaard](/Events/the-ice-castle-of-bahyrst) in Bahyrst during their trip to find Spoops' castle granted to him by the [Deck of many things](/items/Deck_Of_Many_Things). 
+When the party found out that there was an outbreak of lycanthropy in the city, and the townsfolk were being oppressed by the wizard [Fiad](/characters/fiad) who recently took over the castle, they rallied the townsfolk around the fountain in the middle of town, where Spoops made a proposal. Spoops displayed his Paladin power by purifying and blessing water from the fountain and using the new Holy Water to cure one of the lycanthropes. Then he called out to the crowd looking for new recruits to worship and train under him, it was Kierkegaard who was first to volunteer.
 
 Kirkegaard was made Lieutenant of The new Order of the Soul Warden, and began training alongside the otyer recurits.
 
