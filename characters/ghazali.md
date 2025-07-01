@@ -2,7 +2,7 @@
 title: Ghazali
 description: Archangel of Atonement
 published: true
-date: 2025-05-23T13:51:22.774Z
+date: 2025-07-01T14:50:05.947Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T13:25:35.173Z
@@ -18,10 +18,10 @@ dateCreated: 2025-05-23T13:25:35.173Z
 
 # Encounters
 ## Origin
-A satyr, born and raised in Bahryst. 
+A satyr, born and raised in [Bahyrst](/locations/Mardun/Bahyrst). 
 
 ## First Encounter
-Ghazali was first encoutnered by the party in canpaign 1 when he becsme one of Spoops' original paladin recruits in Bahryst. He joined after Kierkegaard and trained under Spoops. Together he and the other paladin recruits purified the eater and cured the outbreak of lycanthropy in Bahryst.
+Ghazali was first encoutnered by the [Low Bar Brawlers](/organizations/low-bar-brawlers) in campaign 1 when he became one of [Spoops'](/characters/spoops) original paladin recruits in Bahyrst. He joined after [Kierkegaard](/characters/kierkegaard) and trained under Spoops. Together he and the other paladin recruits purified the water and cured the outbreak of lycanthropy in Bahyrst.
 
 
 ## Prophet of Profit (Campaign)
