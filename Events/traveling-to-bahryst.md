@@ -1,8 +1,8 @@
 ---
-title: Traveling to Bahryst
-description: The party flys to Bahryst
+title: Traveling to Bahyrst
+description: The party flys to Bahyrst
 published: true
-date: 2025-07-01T14:11:53.136Z
+date: 2025-07-01T14:12:51.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:24:47.283Z
