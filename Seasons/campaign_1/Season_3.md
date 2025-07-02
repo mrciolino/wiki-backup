@@ -2,7 +2,7 @@
 title: Season 3
 description: Mortis Lux
 published: true
-date: 2025-06-30T13:51:56.415Z
+date: 2025-07-02T12:28:30.212Z
 tags: todo
 editor: markdown
 dateCreated: 2025-04-12T23:10:12.122Z
@@ -80,8 +80,8 @@ The party explores new worlds, allies with and betrays major figures, and begins
   - The party meets Reginald the fey creature.
   - The party end up in a strange village. 
   - The party realizes that the villiage is an illusion. Spoops activities his anti-magic armor to break the illusion. It turns out it was no simple illusion, the party was trapped in the web of a giant dream spider, all of them experiencing a shared dream.
-  - The party meets Verondora the giant feywild spider.
-  - Spoops tells Verondora all about his religion. They take great interest in it and convert to the religion. Verondora and her children are all now worshippers of Spoops.
+  - The party meets Verondera the giant feywild spider.
+  - Spoops tells Verondera all about his religion. They take great interest in it and convert to the religion. Verondera and her children are all now worshippers of Spoops.
   - gaudiena gave us right to enter to the vale -> gives us two medallions, each is a gold chain with an emerald medallian, that says "friend and warrior". She says we must visit to talk to meldrion.
   - The party return the princess of Hellaress to her home.
 
