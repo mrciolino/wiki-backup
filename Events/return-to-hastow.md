@@ -2,7 +2,7 @@
 title: Return To Hastow
 description: The party returns to Hastow to investigate Darmuth
 published: true
-date: 2025-07-02T13:28:27.727Z
+date: 2025-07-02T13:29:48.821Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:24:42.498Z
@@ -19,7 +19,7 @@ While flying to Hastow, [Spoops](/characters/spoops) sees a dragon in the Ethere
 
 
 ## Hastow Monastary
-The party arrives at the [Hastow Monastary](/locations/Mardun/hastow-monastary). The cathedral is magically anomated and grows a massive pair of legs. 
+The party arrives at the [Hastow Monastary](/locations/Mardun/hastow-monastary). The monastary's cathedral is magically animated and grows a massive pair of legs. 
 
 
 Spoops finds some [silverware sanctified by Ry-ann](/items/silverware-sanctified-by-ry-ann). Also he finds a [bone from one of the first undead Ry-ann ever raised](/items/bone-of-ry-anns-first-undead). Lastly he finds some [ancient text written by Ry-ann](/items/ancient-text-of-ry-ann), all of which he takes.
