@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T14:03:11.912Z
+date: 2025-07-02T14:08:06.153Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -218,6 +218,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Greaves of Pyrocinae](/items/Greaves-Of-Pyrocinae) | Epic | Boots | LBB | Greaves blessed by Pyrocinae. |
 | [Carapace of Domination](/items/Carapace-of-Domination) | Wonderous | Plate | Bazzdos | Plate armor with AC, magical resistance, a Constitution boost, immovable gear, and enchantment capabilities. |
 | [Jumping Scale Armor of Goo](/items/Jumping-Scale-Armor-Of-Goo) | Rare | Armor | Bazzvrah |  Sticky bouncy armor.  |
+| [Magical Kingly Ash Elf Armor](/items/magical-kingly-ash-elf-armor) | Rare | Armor | Os |  The amror of [Tiyamanni The Awesome](/characters/os).  |
 
 
 ---
