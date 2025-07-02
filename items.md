@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T13:56:22.254Z
+date: 2025-07-02T14:01:23.322Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -72,6 +72,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Mahogany Bow](/items/Mahogany-Bow) | Uncommon | Bow | LBB | Formerly owned by Otto Herzog. |
 | [Blunder Gat](/items/Blunder-Gat) | Epic | Gun | LBB |  ??? |
 | [Lifetime Supply of Arrows](/items/Lifetime-Supply-Of-Arrows) | Rare | Arrows | Spoops |  Magically infinite +2 arrows.  |
+| [Big Invisible Gun](/items/big-invisible-gun) | Epic | Gun | Os |  A big invisible gun. |
 
 
 ## **Maces**
