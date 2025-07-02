@@ -2,7 +2,7 @@
 title: Luck Blade
 description: Grants luck in combat
 published: true
-date: 2025-07-02T13:45:40.688Z
+date: 2025-07-02T13:48:16.717Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T13:42:16.827Z
@@ -19,17 +19,12 @@ Item Details
 Wondrous Item, legendary
 Requires Attunement
 
-Attack: 
-
-Crit Range: 
+Attack: STR + 2
 
 Range: 5 ft.
 
-Damage 1: 
-
-
-Saving Throw: 
-
+Damage 1: 2d6 + STR + 2 Slashing
+Crit: 1d6
 
 
 Description: 
