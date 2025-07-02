@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T14:08:06.153Z
+date: 2025-07-02T14:41:06.841Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -35,6 +35,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Short Swords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
 | [Magic Olympic Torch Sword](/items/Magic-Olympic-Torch-Sword) | Rare | Sword | Achilles |  A magical flaming sword of olympus.  |
 | [Luck Blade](/items/luck-blade) | Legendary | Sword | Os |  A magical sword that grants luck in combat.  |
+| [Holy Katana of Nothing Personal Kid](/items/holy-katana-of-nothing-personal-kid) | Legendary | Sword | Breezy-E |  The legendary blade of [Breezy-E](/characters/breezy).  |
 
 
 
