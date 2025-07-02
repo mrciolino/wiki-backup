@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-02T12:11:06.107Z
+date: 2025-07-02T12:18:29.179Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -212,6 +212,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Dilliard](/characters/dilliard) | Illiard's Brother/ Carpenter | The brother of [Illiard](/characters/illiard). He builds carriages in [Kaltrosar Bay](/locations/Mardun/Kaltrosar). |
 | [Elon Tusk](/characters/elon-tusk) | Extra-dimensional Entity | A mysterious wealthy man from another reality. |
 | [Rabiah](/characters/rabiah) | Storm Giant Forge-master | A woman forging mithril golems in the [elemental plane of chaos](/locations/elemental-plane-of-chaos). |
+| [Raphael](/characters/raphael) | Arch Devil | A powerful devil who bought golems from [Rabiah](/characters/rabiah) in the [elemental plane of chaos](/locations/elemental-plane-of-chaos). |
 
 
 
