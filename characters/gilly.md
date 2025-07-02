@@ -2,14 +2,14 @@
 title: Gilly
 description: Dwarven Smith
 published: true
-date: 2025-07-02T15:17:40.365Z
+date: 2025-07-02T15:17:55.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:17:40.365Z
 ---
 
 # Gilly
-A dwarven smith from [Kaltrosar Bay](/locations/Mardun/Kaltrosar).
+A dwarven woman who is a smith from [Kaltrosar Bay](/locations/Mardun/Kaltrosar).
 
 
 ## Blazing Glory
