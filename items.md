@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T13:10:15.848Z
+date: 2025-07-02T13:12:41.430Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -297,6 +297,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Divine Horn of Valhalla](/items/divine-horn-of-valhalla) | Legendary | Item | Spoops | A horn capable of summoning avatars of the Norse gods from [Valhalla](/locations/valhalla). |
 | [Hendrica Capsule](/items/hendrica-capsule) | Epic | Item | Dave Bones | A magic jar used to extract [Lokunai's](/characters/lokunai) soul from [Freedom's](/characters/freedom) body. |
 | [Darmuth's Phylactery](/items/darmuths-phylactery) | Legendary | Item | LBB | The phylactery of [Darmuth](/characters/Darmuth). It was kept within a bag in a magical hole in a hat. |
+| [Silverware Sanctified by Ry-ann](/items/silverware-sanctified-by-ry-ann) | Rare | Item | Ghazali | An ancient set of silverware blessed by [Ry-ann](/characters/spoops). Melted down to adorn [Ghazali's](/characters/ghazali) armor. |
 
 ---
 
