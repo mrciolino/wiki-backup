@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T13:50:24.781Z
+date: 2025-07-02T13:56:22.254Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -58,6 +58,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Peace Was Never An Option Dagger](/items/Peace-Was-Never-An-Option-Dagger) | Wonderous | Dagger | Spoops |  A Dagger once weilded by a demonic Goose. Now serves as the leg of Spoops |
 | [Dagger of Rellund](/items/Dagger-Of-Rellund) | Epic | Dagger | LBB |  ??? |
 | [Witch King's Dagger](/items/Witch-Kings-Dagger) | Epic | Dagger | LBB |  ??? |
+| [Dagger of Healing](/items/dagger-of-healing) | Epic | Dagger | Os | A magic dagger that heals instead of hurts |
 
 
 
