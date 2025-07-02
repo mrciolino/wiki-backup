@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T14:01:23.322Z
+date: 2025-07-02T14:03:11.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -305,6 +305,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Silverware Sanctified by Ry-ann](/items/silverware-sanctified-by-ry-ann) | Rare | Item | Ghazali | An ancient set of silverware blessed by [Ry-ann](/characters/spoops). Melted down to adorn [Ghazali's](/characters/ghazali) armor. |
 | [Bone of Ry-ann's First Undead](/items/bone-of-ry-anns-first-undead) | Legendary | Item | Spoops | A bone fragment from the first undead ever raised by [Ry-ann](/characters/spoops). |
 | [Decanter of Endless Water](/items/decanter-of-endless-water) | Rare | Item | Os | A magical decanter that produces an endless flow of water. |
+| [Slayer Horn](/items/slayer-horn) | Rare | Item | Os | A magical horn that summons [The Doom Slayer](/characters/doom-slayer). |
 
 
 
