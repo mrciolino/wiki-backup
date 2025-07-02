@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T13:40:12.780Z
+date: 2025-07-02T13:50:24.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -85,6 +85,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | Item Name | Rarity | Type | Wearer | Description |
 | --- | --- | --- | --- | --- |
 | [Krorg's Axe](/items/Krorgs-Axe) | Rare | Axe | Spoops |  The axe once used by Krorg.  |
+| [Magic Evocation Battleaxe](/items/magic-evocation-battleaxe) | Rare | BattleAxe | Os |  A magical axe that does Psychic damage.  |
 
 
 
