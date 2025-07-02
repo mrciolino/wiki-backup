@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-02T12:26:57.310Z
+date: 2025-07-02T15:20:11.394Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -213,6 +213,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Elon Tusk](/characters/elon-tusk) | Extra-dimensional Entity | A mysterious wealthy man from another reality. |
 | [Rabiah](/characters/rabiah) | Storm Giant Forge-master | A woman forging mithril golems in the [elemental plane of chaos](/locations/elemental-plane-of-chaos). |
 | [Raphael](/characters/raphael) | Arch Devil | A powerful devil who bought golems from [Rabiah](/characters/rabiah) in the [elemental plane of chaos](/locations/elemental-plane-of-chaos). |
+| [Gilly](/characters/gilly) | Dwarf Smith | Gilly was a dwarven woman who was a smith in [Kaltrosar Bay](/locations/Mardun/Kaltrosar) . |
 
 
 
