@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T13:37:30.738Z
+date: 2025-07-02T13:40:12.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -34,6 +34,8 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Spelldrinker Blade](/items/Spelldrinker-Blade) | Legendary | Sword | Spoops | Stores and casts spells. |
 | [Short Swords and Tiara](/items/Shortswords-And-Tiara) | Epic | Swords | Spoops |  A tiara that allows the wearer to telepathically control 3 shortswords. |
 | [Magic Olympic Torch Sword](/items/Magic-Olympic-Torch-Sword) | Rare | Sword | Achilles |  A magical flaming sword of olympus.  |
+| [Luck Blade](/items/luck-blade) | Legendary | Sword | Os |  A magical sword that grants luck in combat.  |
+
 
 
 ## **Staves**
