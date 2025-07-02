@@ -2,7 +2,7 @@
 title: Creation of Mortis Lux HQ
 description: Adalynn creates a new realm for Mortis Lux
 published: true
-date: 2025-06-29T18:09:01.868Z
+date: 2025-07-02T12:29:55.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T00:25:45.304Z
