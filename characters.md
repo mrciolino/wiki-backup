@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-01T14:01:53.659Z
+date: 2025-07-02T12:11:06.107Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -211,6 +211,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Unitard](/characters/unitard) | Illiard/Unicorn | The soul of a unicorn in the corpse of [Illiard](/characters/illiard). |
 | [Dilliard](/characters/dilliard) | Illiard's Brother/ Carpenter | The brother of [Illiard](/characters/illiard). He builds carriages in [Kaltrosar Bay](/locations/Mardun/Kaltrosar). |
 | [Elon Tusk](/characters/elon-tusk) | Extra-dimensional Entity | A mysterious wealthy man from another reality. |
+| [Rabiah](/characters/rabiah) | Storm Giant Forge-master | A woman forging mithril golems in the [elemental plane of chaos](/locations/elemental-plane-of-chaos). |
 
 
 
