@@ -2,7 +2,7 @@
 title: The Library Dimension
 description: The party is transported to the infinite library dimension
 published: true
-date: 2025-07-01T12:27:03.699Z
+date: 2025-07-02T20:15:54.878Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T02:40:57.415Z
