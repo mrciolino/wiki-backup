@@ -2,7 +2,7 @@
 title: Return To Hastow
 description: The party returns to Hastow to investigate Darmuth
 published: true
-date: 2025-07-02T13:14:55.162Z
+date: 2025-07-02T13:28:27.727Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T14:24:42.498Z
