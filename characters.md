@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-02T12:18:29.179Z
+date: 2025-07-02T12:26:57.310Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -22,7 +22,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Edward the Warforged Golden Knight](/characters/edward-the-warforged-golden-knight) | Golden Warforged | Joined Mortis Lux |
 | [Fiad's Apprentice](/characters/fiads-apprentice) | Former apprentice of the wizard Fiad | She was taken in by the party and traveled on the Toy Box (flying ship) until they died when the ship crashed. |
 | [Not Interesting](/characters/not-interesting) | Gith-serai warrior. | |
-| [Verondora](/characters/verondera) | Guardian of the Feywild Northern Territory | Giant spider of the Feywild and now worshipper of Spoops. |
+| [Verondera](/characters/verondera) | Guardian of the Feywild Northern Territory | Giant spider of the Feywild and now worshipper of Spoops. |
 | [Knott Emportent](/characters/knott-emportent) | [Krorg's](/characters/krorg) bodyguard. | Formerly Krorg's bodyguard, now guardian of [Krorgfrey](/characters/krorgfrey) |
 | [Willy The Dwarf](/characters/willy-the-dwarf) | Friend of Os | A friend of [Os](/characters/os) from [Gothriathon](/locations/Mardun/Gothriathon). |
 
