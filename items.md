@@ -2,7 +2,7 @@
 title: Items
 description: Custom homebrew items created or found during the campaign.
 published: true
-date: 2025-07-02T13:30:05.016Z
+date: 2025-07-02T13:37:30.738Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:56:40.877Z
@@ -299,6 +299,7 @@ Custom homebrew items created or found during the campaign. This list comprises 
 | [Darmuth's Phylactery](/items/darmuths-phylactery) | Legendary | Item | LBB | The phylactery of [Darmuth](/characters/Darmuth). It was kept within a bag in a magical hole in a hat. |
 | [Silverware Sanctified by Ry-ann](/items/silverware-sanctified-by-ry-ann) | Rare | Item | Ghazali | An ancient set of silverware blessed by [Ry-ann](/characters/spoops). Melted down to adorn [Ghazali's](/characters/ghazali) armor. |
 | [Bone of Ry-ann's First Undead](/items/bone-of-ry-anns-first-undead) | Legendary | Item | Spoops | A bone fragment from the first undead ever raised by [Ry-ann](/characters/spoops). |
+| [Decanter of Endless Water](/items/decanter-of-endless-water) | Rare | Item | Os | A magical decanter that produces an endless flow of water. |
 
 
 
