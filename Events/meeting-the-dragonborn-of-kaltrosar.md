@@ -2,7 +2,7 @@
 title: Meeting The Dragonborn of Kaltrosar
 description: The party return to kaltrosar to meet with darmuth sympathizers
 published: true
-date: 2025-06-24T13:13:45.110Z
+date: 2025-07-02T15:18:08.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T12:08:46.308Z
