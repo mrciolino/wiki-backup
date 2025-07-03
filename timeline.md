@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-01T16:21:39.267Z
+date: 2025-07-03T15:20:13.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -257,11 +257,12 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - After the rebellion is put down, Os becomes more reclusive.
 
 ## Worldly Happenings 560 AC / 360 VY - 1000 AC / 800 VY
-- **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts. 
+- **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts. New Geskoworm builds a wall between itself and Fywick. 
 - **??? AC** Os disappears from Vrintia. A council of 12 is put in place to maintain control of the country. Members of the council are primarily royal family with some rare exceptions.
+- **??? VY** La Rocca della Sugo discover the intentions of ReInPaDe and wipe most of them out in a single night. This is the largest slaughter of Vrintian nobility since Arn's Rebellion, and the last time a foreign soverignty engaged with hostility against Vrintia. Breezy-E begins to take a more aggressive diplomatic stance with vampiric spies around Mardun, to ensure that an org such as ReInPaDe could never form again. ReInPaDe is disbanded by the ruling council of Vrintia as part of a peace agreement with La Rocca della Sugo. ReInPaDe survivors are scattered and most of their work is destroyed, many more will die in the coming years at the hands of the Sugo vampires.
 - **??? AC** Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
 - **??? AC** Vaudis, a city on the Wild Coast to the west of Vrintia grows in prominence. 
-- **??? AC** The War of the Great Maw begins on Felldora, threatening all Fywick colonies. Vampires, cultists, dinosaurs, kaiju, elderitch horrors, and wizards duke it out epic style. Estis locks its gates for good.
+- **??? AC** The War of the Great Maw begins on Felldora, threatening all Fywick colonies. Vampires, cultists, dinosaurs, kaiju, elderitch horrors, and adventurers duke it out epic style. Estis locks its gates for good.
 - **??? AC** Encouraged by mysterious beepings, a remote artificer in Helmaer constructs the Phantom Lighthouse as a means of one-way transport through the Sea of Ice. The Brotherhood of the Beep is formed to follow its guidance.
 - **??? VY** Esoteric Magicians work with dragonborn artificers of Inferno's Rest to devise a way to "enter into" the greatwyrm's dream in the most recent attempt to wake him back up.
 - **??? VY** Barad Ashnef is rebuilt.
