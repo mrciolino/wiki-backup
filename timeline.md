@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-06T19:14:00.177Z
+date: 2025-07-06T19:45:05.280Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -31,7 +31,7 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - These chains anchor his prison to the celestial order, including [Mardun](/locations/Mardun).
 
 ## The Continuation of Creation
-- Gods, Titans, and angels collaborate to populate worlds like **[Mardun](/locations/mardun)**.
+- Gods, Titans, and angels collaborate to populate worlds like **[Mardun](/locations/Mardun)**.
 - **Magic** emerges as a natural phenomenon, not a divine creation.
 - New gods enter the divine system, such as [Zeus](/characters/zeus) and [Bane](/characters/bane).
 
