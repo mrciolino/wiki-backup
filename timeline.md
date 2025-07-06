@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-05T13:45:53.542Z
+date: 2025-07-06T18:51:56.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -113,16 +113,15 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 # The Age of Ascended (1 AC – 553 AC)
 
-## Mortis Lux Returns Home (1 AC - 15 AC)
+## Spoops Begins 1000 Years of Atonement
 - Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
-- Spoops begins by meeting up with Kelemvor to confront Cyric together. After some time they are sble to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
-- Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
-- Spoops moves onto his final task, combining all lost fragments of Gond's soul. He scours the universe, finding every last fragment of Gond for which he first scattered to be put within Bazzdos.
+- Spoops begins by meeting up with Kelemvor to confront Cyric together. After many years of planning and conflict they are able to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
+
+
+## Mortis Lux Returns Home (1 AC - 15 AC)
 - After the war ends and the party departs on various quests, Mortis Lux goes into standby mode. The main Generals, and lieutenants return to Mardun, with the exception of the Saragossa Pirates who stay in space after taking possession of their promised Spelljammer ships. 
 - Illiard is made regent of Mortis Lux HQ during the party's absence, and is granted immortality by Spoops. He oversees basic operations and keeps HQ secure with the help of a legion of undead granted to him by Spoops, and a small group of living members. He keeps Mortis Lux's resources and finances active in case the old treaties and armies need to be called upon again. Jergal also hangs out with him sometimes.
-- **[Ereriad](/locations/ereriad)'s Fall**: [Bane](/characters/bane) killed Ereriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
-- Porthy and Highhold become the only "free" nations as Bane leaves them alone as to jot incur the wrath of Mortis lux, however without the speaking stone network, and with HQ inaccessible, they are highly isolated.
-- Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of [Hastow](/locations/Mardun/Hastow) and [Wegate](/locations/Mardun/Wegate), and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so as Narascus began making his villainous moves, Hastow's fleet was the largest.
+- Many resources were distributed among the member states of Mortis Lux to help in the rebuilding of the many cities destroyed during the war. The flying ships were used for various purposes during the rebuilding. Many of the pilots during the war were clerics of [Hastow](/locations/Mardun/Hastow) and [Wegate](/locations/Mardun/Wegate), and they continued to pilot their ships during the reconstruction era. Hastow happened to supply the majority of clerics during the war and so when Narascus would later make his villainous moves, Hastow's fleet was the largest.
 	- [Narascus](/characters/Narascus) becomes Ruler of [Hastow](/locations/Mardun/Hastow).
   - [Vesrahaan](/characters/vesrahaan) returns to rule [Wegate](/locations/Mardun/Wegate).
   - Gilthur abdicates the throne of Altricia to Luther after his valiant efforts in protecting the city from Ithilid attack. Luther becomes King of [Altricia](/locations/Mardun/Allford).
@@ -132,8 +131,12 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Gilthur](/characters/krorg) return to [North Geskoworm](/locations/Mardun/north_geskoworm).
   - [Meade](/characters/meade) returns to [Fywick](/locations/Mardun/Fywick).
   - [Adalynn](/characters/adalynn) remains in her flying fortress for a time until her betrayal.
+  
+## Adalynn's Betrayal
 - The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to seize the weave from [Mystra](/characters/mystra) whos been subdued by [Mask](/characters/mask), causing [Breezy-e](/characters/breezy) to kill her. 
 - [Mortis Lux HQ](/locations/mortis-lux-hq) becomes inoperable for spelljammer transport until [Illiard](/characters/illiard) takes control back after [Spoops](/characters/spoops) and [Bazzdos](/characters/bazzdos) perform [Soul Surgery](/Spells/soul-surgery) to transfer control of the dimension to him.
+
+## Narascus Makes his Move
 - [Narascus](/characters/Narascus), forseeing disarray, makes his initial claim to be the prophet and now successor of [Spoops](/characters/spoops). His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 
 ### ~10 AC
@@ -162,6 +165,11 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - Breezy-e teleports to Narascus' command ship, demanding an explanation for this attack. Narascus almost manages to convince breezy-e that this is the will of Spoops, but to seal the deal that there is nothing suspicious, Breezy-e offers to share a bowl of spaghetti which Narascus hates. This sours his ruse with Breezy-e, leading to a duel where Narascus is defeated. Breezy-e thinks he killed Narascus and commands the fleet to leave. 
 - Hastow spelljammer forces are forced to retreat back to Hastow. Breezy-e returns to Os at Gothriathon. 
 - The Hastow land force arrive in Wegate and find out Narascus has already been defeated. Most of the living necromancers are persuaded diplomatically to side with Wegate. The turncoats inform Wegate that [Altricia](/locations/Mardun/Allford) is captured and Luther was taken prisoner back in Hastow. The new Wegate army is sent to march back to [Altricia](/locations/Mardun/Allford)
+
+## Ereriad's Fall
+- **[Ereriad](/locations/ereriad)'s Fall**: [Bane](/characters/bane) killed Ereriad's major players and took over the world following the [Emperor](/characters/illithid-emperor)'s defeat.
+- Porthy and Highhold become the only "free" nations as Bane leaves them alone as to not incur the wrath of Mortis lux, however without the speaking stone network, and with HQ inaccessible, they are highly isolated.
+- Many flee Porthy and Highhold to Mardun via Gate and Spelljammer ship, where they find the rest of the Mortis Lux Member States involved in various conflicts of their own. With major contlicts on both worlds, neither is in a position to assist the other, particularly with the speaking syone network down and Mortis Lix HQ inaccessible. 
 
 ### Preparation for the Counterattack
 - Narascus returns via spelljammer and finds Luther and other Altrician nobility imprisoned. Most of his forces are destroyed or turned to Wegate, and he himself is gravely injured. Narascus' body is rejuvinated via a demonic blood ritual where Luther and the other nobles are sacrificed. Narascus arises, empowered anew, and reinvigorated as the Red Archon.
@@ -198,6 +206,14 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - **180 AC** **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
 - **200 AC** Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared. 
 - **201 AC / 1 VY** Gothriathon is incorporated into the Kingdom of Vrintia. Dwarvish and Elvish relations at an all time high.
+
+## Mecha-Tunarath vs. Iapetus
+- After fultilling his commitments to Kelemvor, Spoops moves onto his next task. He must atone for the destruction of Dolarion by defeaing Tu'narath. Bazzdos committed to helping him with this task many years ago. 
+- Spoops meets with Bazzdos in his Forge Dimension where they prepare for the contlict with the titan Iapetus.
+- Spoops then works with Bazzdos to create an immense suit of power armor and weapons for Tu'narath. Then the two of them pilot Mecha-Tu'narath in combat against the titan Iaeptus. This results in the destruction of Iaeptus and Mecha-Tu'narath, their corpses and machinery creating a debris field that becomes a ring around Mardun.
+
+## Spoops' Final Task: The Fragments of Gond's Soul
+- Spoops moves onto his final and longest task, combining all lost fragments of Gond's soul. He scours the planes, finding every last fragment of Gond. Every so often, he sends large portions of Gond's soul to Bazzdos to add to his soul core.
 
 ## The Construction (215 AC / 15 VY)
 
