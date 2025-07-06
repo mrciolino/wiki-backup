@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-06T18:51:56.935Z
+date: 2025-07-06T19:14:00.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -113,7 +113,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 # The Age of Ascended (1 AC – 553 AC)
 
-## Spoops Begins 1000 Years of Atonement
+## Spoops Begins 1000 Years of Atonement (1 AC)
 - Spoops says his goodbyes and leaves on his journey to fulfil his 1000 year atonement. 
 - Spoops begins by meeting up with Kelemvor to confront Cyric together. After many years of planning and conflict they are able to eliminate Cyric and cement Kelemvor's place as sole God of Death. 
 
@@ -132,11 +132,11 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
   - [Meade](/characters/meade) returns to [Fywick](/locations/Mardun/Fywick).
   - [Adalynn](/characters/adalynn) remains in her flying fortress for a time until her betrayal.
   
-## Adalynn's Betrayal
+### Adalynn's Betrayal
 - The remaining Low Bar Brawlers attend the council of the gods, where [Adalynn](/characters/adalynn) attempts to seize the weave from [Mystra](/characters/mystra) whos been subdued by [Mask](/characters/mask), causing [Breezy-e](/characters/breezy) to kill her. 
 - [Mortis Lux HQ](/locations/mortis-lux-hq) becomes inoperable for spelljammer transport until [Illiard](/characters/illiard) takes control back after [Spoops](/characters/spoops) and [Bazzdos](/characters/bazzdos) perform [Soul Surgery](/Spells/soul-surgery) to transfer control of the dimension to him.
 
-## Narascus Makes his Move
+### Narascus Makes his Move
 - [Narascus](/characters/Narascus), forseeing disarray, makes his initial claim to be the prophet and now successor of [Spoops](/characters/spoops). His claim gains some sympathy from his own clerics, but his claim is challenged by others. Primarily the Wegatians.
 
 ### ~10 AC
