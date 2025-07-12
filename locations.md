@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-07-12T15:05:29.015Z
+date: 2025-07-12T15:14:59.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -92,7 +92,7 @@ Location of [Glub Glub The Immortal's](/characters/glub-glub) home.
 
 ## Dimension: Far Realms
 
-Location of the evil planet sized creature.
+Location of the [evil planet sized creature](/characters/evil-planet-sized-creature).
 
 - [Visit The Far Realms *Plane of Twisted Horror and Madness*](/locations/far-realms)
 {.links-list}
