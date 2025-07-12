@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2025-07-02T12:29:33.457Z
+date: 2025-07-12T15:05:29.015Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:55:44.366Z
@@ -87,6 +87,14 @@ Location of [Rabiah](/characters/rabiah) the storm giant's golem factory at the 
 Location of [Glub Glub The Immortal's](/characters/glub-glub) home.
 
 - [Visit The Elemental Plane of Water *Plane of Water*](/locations/elemental-plane-of-water)
+{.links-list}
+
+
+## Dimension: Far Realms
+
+Location of the evil planet sized creature.
+
+- [Visit The Far Realms *Plane of Twisted Horror and Madness*](/locations/far-realms)
 {.links-list}
 
 
