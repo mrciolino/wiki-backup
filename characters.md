@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-16T12:15:54.269Z
+date: 2025-07-16T12:23:39.529Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -198,6 +198,7 @@ List of non-player-characters from both campaigns and some information about the
 | [Diavala](/characters/diavala) | Tyrant Queen | A tyrant queen who took over [Elira's](/characters/elira) original world. |
 | [Giant Evil Os](/characters/giant-evil-os) | A Giant Evil Os | A giant evil version of [Os](/characters/os). |
 | [Fiad](/characters/fisd) | Ice Wizard | An evil wizard who terrorized [Bahryst](/locations/Mardun/bahryst) and served [The Emperor](/characters/Emperor). |
+| [Illithid-tarrasque](/characters/illithid-tarrasque) | Construct Guardian | A tarrasque infected by Illithid tadpoles. |
 
 
 ## Other Characters
