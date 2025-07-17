@@ -2,7 +2,7 @@
 title: Characters
 description: NPCs from both Campaigns
 published: true
-date: 2025-07-16T12:25:00.939Z
+date: 2025-07-17T12:45:25.023Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-03T12:57:02.680Z
@@ -42,7 +42,7 @@ List of non-player-characters from both campaigns and some information about the
 |------|------|-------------|
 | [Guardison Sr.](/characters/guardison-senior) | Father of the Family | He lived at the lighthouse north of Fort Suro. Spoops stole his wind amulet |
 | [Captain Guardison](/characters/captain-guardison) | Captain of the [Fort Suro](/locations/Mardun/Fort-Suro) Guard | He is the son of [Guardison Sr.](/characters/guardison-senior) and the first Guardison the party met. |
-| [Tamara Strenger](/characters/tamara-strenger) | Relative of the Guardisons | Tamara lives in [Bahryst](/locations/Mardun/Bahryst) |
+| [Tamara Strenger](/characters/tamara-strenger) | Relative of the Guardisons | Tamara lives in [Bahyrst](/locations/Mardun/Bahyrst) |
 
 
 ## Paladin Order of the Soul Warden
