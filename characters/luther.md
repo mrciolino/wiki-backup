@@ -2,7 +2,7 @@
 title: Luther
 description: One of the first paladins of Spoops
 published: true
-date: 2025-07-17T14:36:31.272Z
+date: 2025-07-17T14:41:26.951Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-17T14:36:31.272Z
@@ -21,10 +21,15 @@ Luther was first encoutnered by the [Low Bar Brawlers](/organizations/low-bar-br
 
 
 ## Preparations For The Ithilid War
-Luther was granted command over 5 ships. He was tasked with recruiting druids to [Mortis Lux's](/organizations/mortis-lux) cause. Alsp he was tasked to work with them to find and gather massive quantities of rare soporific herbs to be used to cast imprisonment on [Kronos](/characters/kronos).
+Luther was granted command over 10 ships. He was tasked with gathering Ithilid parts to be used to make mind blank potions. He gathered a really fucking small amount. He needed to pick up the pace so the party sent Tony Mozzarella to accompany him and establish trade relations with some merchants and lords who they freed from enslavement by the Ithilids.
     
 
 ## The Ithilid War
 During the [Ithilid war](/Events/ithilid-war), like the other original paladin recruits, Luther held a high rank as a general of Mortis Lux. He held command over a fleet of ships during the battle.
+
+During the war, his fleet was sent to defend [Altricia](/locations/Mardun/Allford). His bravery and valor in defense of the city earned him the trust and respect of the people and [Krorg's](/characters/krorg) royal family.
+
+After the war, Krorg granted him regency over the city and left it in his care.
+
 
 
