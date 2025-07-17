@@ -2,7 +2,7 @@
 title: Ghazali
 description: Archangel of Atonement
 published: true
-date: 2025-07-01T14:54:39.570Z
+date: 2025-07-17T13:23:20.522Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-23T13:25:35.173Z
