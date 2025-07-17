@@ -2,7 +2,7 @@
 title: Luther
 description: One of the first paladins of Spoops
 published: true
-date: 2025-07-17T14:41:26.951Z
+date: 2025-07-17T14:41:53.278Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-17T14:36:31.272Z
@@ -21,7 +21,7 @@ Luther was first encoutnered by the [Low Bar Brawlers](/organizations/low-bar-br
 
 
 ## Preparations For The Ithilid War
-Luther was granted command over 10 ships. He was tasked with gathering Ithilid parts to be used to make mind blank potions. He gathered a really fucking small amount. He needed to pick up the pace so the party sent Tony Mozzarella to accompany him and establish trade relations with some merchants and lords who they freed from enslavement by the Ithilids.
+Luther was granted command over 10 ships. He was tasked with gathering Ithilid parts to be used to make mind blank potions. He gathered a really fucking small amount. He needed to pick up the pace so the party sent [Tony Mozzarella](/characters/Tony-Mozzarella) to accompany him and establish trade relations with some merchants and lords who they freed from enslavement by the Ithilids.
     
 
 ## The Ithilid War
