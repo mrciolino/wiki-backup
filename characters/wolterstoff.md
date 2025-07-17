@@ -2,7 +2,7 @@
 title: Wolterstoff
 description: One of the first paladins of Spoops
 published: true
-date: 2025-07-17T14:43:37.115Z
+date: 2025-07-17T14:46:31.645Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-17T14:43:37.115Z
@@ -21,7 +21,9 @@ Wolterstoff was first encoutnered by the [Low Bar Brawlers](/organizations/low-b
 
 
 ## Preparations For The Ithilid War
-Tilich was granted command over 5 ships. He was tasked with recruiting druids to [Mortis Lux's](/organizations/mortis-lux) cause. Alsp he was tasked to work with them to find and gather massive quantities of rare soporific herbs to be used to cast imprisonment on [Kronos](/characters/kronos).
+Wolterstoff was granted command of a ship and sent to recruit new pilots / soldiers among all the gith serai settlements and any other cities / settlements he found in the astral plane. He recruiter over 1000 former githyankii, and 120 gith serai. He also recruited many other troops from the astral plane. 
+
+He served as [Mortis Lux'](/organizations/mortis-lux) ambassador to the Gith.
     
 
 ## The Ithilid War
