@@ -2,7 +2,7 @@
 title: session_18_summary
 description: 
 published: true
-date: 2025-07-18T02:52:25.628Z
+date: 2025-07-18T02:52:59.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T02:52:25.628Z
@@ -168,6 +168,7 @@ Kael and Thomas settle their differences through brutal non-lethal combat, with 
 3. "I spawned in, bro?" - Kael on his character's backstory
 4. "This order? What? Fucker." - Thomas seeing through Breezy's illusion
 5. "You know, you go, that's it." - Thomas challenging Kael
+6. "who killed your brother oran? you did" - tomas
 
 ### **[Quest Progressions]**
 
