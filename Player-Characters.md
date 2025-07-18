@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-06-26T19:19:12.743Z
+date: 2025-07-18T02:21:54.402Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -17,7 +17,7 @@ dateCreated: 2025-03-22T19:33:14.617Z
 | [Bazzdos](/characters/bazzdos)   | Warforged   | Armorer Artificer 20 / Hexblade Warlock 1 / Wizard 1  | Artificial Intelligence | Indestructible AI engineer obsessed with order and complexity.     | <img src="/characters/bazzdos.webp" class="img-fluid" style="max-height: 100px;" alt="Bazzdos"> |
 | [Breezy-E](/characters/breezy)   | Human Vampire   | Samurai Fighter    | ??         | ??     | <img src="/characters/breezy/breezy.webp" class="img-fluid" style="max-height: 100px;" alt="Breezy-e"> |
 | [Adalynn](/characters/adalynn)   | Bitch   | Wizard    | Fool | Betrayer.     | <img src="/characters/adalynn.webp" class="img-fluid" style="max-height: 100px;" alt="Adalynn"> |
-| [Elira](/characters/elira)       | Human(?) | Inkling Sorcerer / Pact Mage     | Escaped Cultist        | Rebellious, Co-dependent, Fiercely loyal, Trauma-forged leader, Divine fugitive            | <img src="/characters/other/elira_v1.jpg" class="img-fluid" style="max-height: 100px;" alt="Elira"> |
+| [Elira](/characters/elira)       | Human | Inkling Sorcerer / Pact Mage     | Escaped Cultist        | Rebellious, Co-dependent, Fiercely loyal, Trauma-forged leader, Divine fugitive            | <img src="/characters/other/elira_v1.jpg" class="img-fluid" style="max-height: 100px;" alt="Elira"> |
 | [Krorg](/characters/krorg)       | Gnome   | Barbarian    | Drifter         | Economic Schemer     | <img src="/characters/krorg/krorg.png" class="img-fluid" style="max-height: 100px;" alt="Krorg"> |
 | [Os Vrtnica](/characters/os)     | Elf   | Bard    | ??         | ??     | <img src="/characters/os.webp" class="img-fluid" style="max-height: 100px;" alt="Os"> |
 | [Meade](/characters/meade)       | Human   | Warlock    | Charlatan         | Witty Drinker     | <img src="/characters/other/meade.webp" class="img-fluid" style="max-height: 100px;" alt="Meade"> |
