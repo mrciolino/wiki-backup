@@ -2,7 +2,7 @@
 title: session_18_summary
 description: 
 published: true
-date: 2025-07-18T02:52:59.285Z
+date: 2025-07-18T14:41:16.031Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T02:52:25.628Z
@@ -15,10 +15,10 @@ dateCreated: 2025-07-18T02:52:25.628Z
 - **Players Present:** All except Teegal
 
 ### **[Recap of Previous Session]**
-The party found themselves split during a nighttime ambush on Grimsley and his guards near a waterfall. Tiberian, Kael, Thomas, and Oran positioned themselves on a ridge while Breezy and Teegal (in snake form) crossed the frigid river below. Combat ensued with the party eliminating most guards, though one escaped and another named Jeffrey was captured. Prior to this, Thomas encountered a mysterious old man identifying himself as Vermez-Yobbs (an acronym for "Vamir boss"), resulting in tense standoff where Thomas deduced the man couldn't cross water. The party executed Grimsley after his confession of crimes, debating the legality but ultimately agreeing to the execution. As the session concluded, the group was divided - Oran fled with prisoner Jeffrey while the others returned to their makeshift bone-and-fur cart.
+The party found themselves split during a nighttime ambush on Grimsley and his guards near a waterfall. Tiberian, Kael, Thomas, and Oran positioned themselves on a ridge while Breezy and Teegal (in snake form) crossed the frigid river below. Combat ensued with the party eliminating most guards, though one escaped and another named Jeffrey was captured.  The party captured and executed Grimsley after his confession of crimes, debating the legality but ultimately agreeing to the execution. Afterwards some whistling was heard in the woods and the party scattered back across the waterfall. While standing in the freezing water, a mysterious old man appeared to Tomas identifying himself as Vermese-Yobs (an acronym for "Veymere boss"), resulting in tense standoff where Thomas deduced the Vermese couldn't enter the water. Tomas and Vermese exchanged insults and threats, concluding with Tomas announcing that the party, now called "First Strike" would put an end to Vermese. As the session concluded, the group was divided - Oran fled with prisoner Jeffrey while the others returned to their makeshift bone-and-fur cart. 
 
 **Unresolved Plot Threads:**
-- What are Vermez-Yobbs' true capabilities and limitations?
+- What are Vermese Yobs' true capabilities and limitations?
 - Will the escaped guard bring reinforcements from the prison outpost?
 - How will Oran and Jeffrey navigate the enchanted woods alone?
 - What assistance can the Bear King provide against the prison forces?
@@ -34,7 +34,7 @@ The party found themselves split during a nighttime ambush on Grimsley and his g
   - **Kael Stellarion:** Half-Elf Soulblade Fighter (Astral Drifter) - Egg guardian, displaying new combat mastery
   - **Breezy Bee:** Aarakocra Sorcerer (Entertainer) - Developing revolutionary legal theories
   - **Oran:** Deep Gnome Soulknife Rogue (Bounty Hunter) - Currently separated with prisoner Jeffrey
-  - **Thomas Stonebrook:** Human Barbarian (Former Guard) - Enforcing Rintian law with extreme prejudice
+  - **Thomas Stonebrook:** Human Barbarian (Former Guard) - Enforcing Vrintian law with extreme prejudice
 
 **Relationships & Interactions:**
 1. **Thomas and Oran:** Hostility escalates after Oran attempts to sacrifice Jeffrey to the Black Songs' well. Thomas intervenes physically, leading to Oran fleeing into the woods.
@@ -45,9 +45,9 @@ The party found themselves split during a nighttime ambush on Grimsley and his g
 
 **Important Dialogue:**
 1. **"More needs killing."** - Bear King's whispered response to Tiberian's whistle, reinforcing their bloody pact.
-2. **"You cannot take the stance that killing is wrong if you yourself were so willing to become a murderer."** - Thomas confronting Oran about hypocrisy.
-3. **"Under Osbrentian law, dragons that are in Brentia are property of the government... it depends on what color it is."** - Revealing disturbing legal racial hierarchies.
-4. **"If I die and Tiberian dies and Teagle dies and Breezy and Kale and Orinald die, it's a tragedy. But if all of us die and a necromancer dies also, then it is a great triumph."** - Thomas' absolutist view of justice.
+2. **"You cannot take the stance that killing is wrong if you yourself were so willing to become a murderer. Who killed your brother Oran? You did."** - Thomas confronting Oran about hypocrisy.
+3. **"Under Os Vrintian law, dragons that are property of the government... it depends on what color it is."** - Revealing disturbing legal racial hierarchies.
+4. **"If I die and Tiberian dies and Teagle dies and Breezy and Kale and Orin all die, it's a tragedy. But if all of us die and a necromancer dies too, then it is a great triumph."** - Thomas' absolutist view of justice.
 5. **"He's effectively told us that we have to take them out, spill their blood, in order to leave the forest."** - Kale explaining the Bear King's ultimatum to the Black Songs.
 
 **Notable Actions:**
@@ -86,7 +86,7 @@ Kael and Thomas settle their differences through brutal non-lethal combat, with 
 - **Emotional Arcs:** From concerned guardian to confident leader willing to enforce his views.
 
 **Breezy Bee (Breezy)**
-- **Progress:** Developed comprehensive legal theories challenging Rintian norms.
+- **Progress:** Developed comprehensive legal theories challenging Vrintian norms.
 - **Key Actions:** Attempted legal mediation, discovered dragon ownership laws, failed illusion trick.
 - **Relationships Changed:** Strengthened intellectual bond with Tiberian, frustration with Thomas.
 - **Emotional Arcs:** From entertainer to revolutionary philosopher.
