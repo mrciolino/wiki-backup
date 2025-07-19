@@ -2,7 +2,7 @@
 title: Player Characters
 description: List of PCs for both campaigns.
 published: true
-date: 2025-07-18T02:21:54.402Z
+date: 2025-07-19T13:59:19.872Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T19:33:14.617Z
@@ -49,3 +49,7 @@ dateCreated: 2025-03-22T19:33:14.617Z
 | [Breezy Bee](/characters/breezy-bee)        			 | Aarakocra  | Sorcerer          | Entertainer       | Carefree, ambitious, gambling addiction, untapped magical potential. | <img src="/characters/breezy_b.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Breezy Bee"> | 
 | [Oran](/characters/oran)                  				 | Deep Gnome | Soulknife Rogue   | Bounty Hunter     | Cautious, resourceful, driven by debt, mysterious. | <img src="/characters/oran_dusktea.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Oran"> |
 | [Baloo](/characters/baloo)                				 | Bugbear    | Bard              | Entertainer       | Humorous, resilient, determined to change perceptions, gambling addiction. | <img src="/characters/baloo.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Baloo"> |
+| [Kael Stellaris]()               				 | Astral Elf    | Soulblade Fighter              | Astral Drifter       | ? | <img src="/characters/baloo.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Baloo"> |
+| [Teegal Beetal]()                				 | ?    | Druid              | ?       | ? | <img src="/characters/baloo.avatar.webp" class="img-fluid" style="max-height: 100px;" alt="Baloo"> |
+
+
