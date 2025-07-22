@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-07-22T16:56:25.329Z
+date: 2025-07-22T16:56:48.490Z
 tags: needsreview
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -12,7 +12,7 @@ dateCreated: 2025-04-22T13:37:57.839Z
 
 The divine realm of Spoops. The well of souls is the machinery behind life and death in the multiverse. It has always been. The realm appears as a dark rocky cave, at its center, is a single stone well on the floor. Countless souls flow upwards infinitely from the well to an identical stone well on the ceiling. The deluge of Souls glow a bright blue, illuminating the cave. 
 
-By default, all souls would flow through the well. They flow up and out into the bodies of newly born, created, risen creatures, and those to be resurrected or reborn. Through this process, Death is not the end, simply a gateway to new or continued life. 
+By default, all souls would flow through the well. They flow up and out into the bodies of newly born, created, awoken creatures, and those to be resurrected or reborn. Through this process, Death is not the end, simply a gateway to new or continued life. 
 
 
 
