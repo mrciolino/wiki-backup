@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-07-22T02:47:55.338Z
+date: 2025-07-22T02:48:16.160Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
