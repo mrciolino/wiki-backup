@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-07-22T16:56:48.490Z
+date: 2025-07-22T16:57:46.111Z
 tags: needsreview
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -19,7 +19,7 @@ By default, all souls would flow through the well. They flow up and out into the
 ---
 
 ## The Beginning
-In the beginning, before the creation of worlds and birth of the old gods, The Well existed and Spoops crafted each individual soul until the well was overflowing with them. To contain them all he built a second well on the ceiling to infinitely cycle the souls. Eventually Spoops heard a ruckus outside the door to the realm, he looked out and saw Gods creating the mortal races. Empty vessels in need of souls! As the first beings were formed Spoops quickly opened the floodgates, allowing the Well's infinite cycle of souls to flow through the universe, each time a new creature was born, they inherited a soul, which upok death passed back into the well's flowing current.
+In the beginning, before the creation of worlds and birth of the old gods, The Well existed and Spoops crafted each individual soul until the well was overflowing with them. To contain them all he built a second well on the ceiling to infinitely cycle the souls. Eventually Spoops heard a ruckus outside the door to the realm, he looked out and saw Gods creating the mortal races. Empty vessels in need of souls! As the first beings were formed Spoops quickly opened the floodgates, allowing the Well's infinite cycle of souls to flow through the universe, each time a new creature was born, they inherited a soul, which upon death passed back into the well's flowing current.
 
 ## The Heavens
 At the death of the first devout worhipper of another God, a precedent was set. The soul did not return to the Well, instead it ascended to the "heaven" within the Divine Realm of that God. Spoops was not particularly bothered by this. Perhaps a bit curious as to why someone would lock a soul away "forever" in a heaven. However it did not matter as he believes all Souls will one day return to the cycle, eternities are long and the Well is forever.
