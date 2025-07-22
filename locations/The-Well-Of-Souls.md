@@ -2,7 +2,7 @@
 title: The Well of Souls
 description: Divine Realm of Spoops
 published: true
-date: 2025-07-22T16:58:35.438Z
+date: 2025-07-22T17:40:28.175Z
 tags: needsreview
 editor: markdown
 dateCreated: 2025-04-22T13:37:57.839Z
@@ -72,7 +72,7 @@ Each Soul contains its own latent potential. This is the maximum amount of energ
 Each Soul contains a record of their memories. Upon each soul's death, the memories of that lifetime are sealed away to allow a fresh beginning during their next life. This is the most commonly overridden parameter within a soul. Many magical creatures who resurrect or rebirth themselves via spells are unknowingly overriding the mechanism that seals memories, base personality, and base power, bringing themselves or others back intact.
 
 - **Physical Form**
-Each soul contains a record of their physical form. All changes to the bory are recorded within the soul. Original Souls have an empty definition until they are first born. Reborn souls are not necessarily reborn into the same body or even the same species, however once they die and are reborn, the record of their old Physical Form is sealed away, and their new Physical Form is recorded.
+Each soul contains a record of their physical form. All changes to the body are recorded within the soul. Original Souls have an empty definition until they are first born. Reborn souls are not necessarily reborn into the same body or even the same species, however once they die and are reborn, the record of their old Physical Form is sealed away, and their new Physical Form is recorded.
 
 
 ## Processing Souls
