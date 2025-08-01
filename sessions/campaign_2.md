@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-07-29T03:17:10.517Z
+date: 2025-08-01T00:03:17.321Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
@@ -32,7 +32,8 @@ dateCreated: 2025-04-12T13:24:16.371Z
 | **Session 17** | [Session 17 Summary](/sessions/campaign_2/session_17_summary) | The party executes their waterfall ambush on Grimsley's camp, leading to deadly combat and the shocking reveal of Vermeys Yobs as the true mastermind. | Tiberian coordinates successful ambush using bone cart; Teagle assassinates guard as venomous snake; Breezy demonstrates lethal blood magic; Thomas morally conflicted during Grimsley's interrogation/execution; Vermeys Yobs appears, revealing himself as the power behind Vamir; party names themselves "First Strike"; Oran captures fleeing guard Jeffrey for intel. |
 | **Session 18** | [Session 18 Summary](/sessions/campaign_2/session_18_summary) | The party splits while navigating the enchanted woods, uncovering necromantic horrors and clashing over moral boundaries. | Tiberian receives ominous nightmares from the Bear King; Oran attempts to sacrifice Jeffrey in a corpse-filled well, triggering Thomas' intervention; Black Song necromancers' dark practices are exposed; Kael defeats Thomas in a brutal ideological duel; party reunites but remains divided on confronting the prison forces. |
 | **Session 19** | [Session 19 Summary](/sessions/campaign_2/session_19_summary) | The party assaults the prison outpost after grave discoveries and magical preparations, suffering heavy casualties before Bear King reinforcements arrive. | Oran discovers a blood magic altar and falls unconscious; Tiberian infuses party weapons/armor; group triggers necrotic crucifix traps; brutal battle against Necronites nearly kills Thomas and Tiberian; Runt's stolen greatsword is reclaimed; Bear King's owl bear forces arrive as cliffhanger. |
-| **Session 20** | [Session 20 Summary](/sessions/campaign_2/session_20_summary) |    |   |
+| **Session 20** | [Session 20 Summary](/sessions/campaign_2/session_20_summary) | The party regroups with owlbear allies while uncovering the prison's darkest secrets - including Breezy's murder of Verick. | Tiberian discovers magical golden onions with healing/blinding properties; Kael accidentally kills prisoner Fred; Oren is tortured by a six-headed Goopy construct; Breezy consumes a barrel of reagents and is exposed as Verick's killer; party develops explosive prisoner strategy to breach deeper prison levels; "Order 66" dark mandate introduced. |
+
 # Knowledge Graph
 Around session 14 the party describes a relationship graph between known entities in the campaign thus far.
 ![knowledge_graph.png](/knowledge_graph.png)
