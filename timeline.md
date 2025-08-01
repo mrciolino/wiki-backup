@@ -2,7 +2,7 @@
 title: Timeline
 description: The History of the Mardun Universe
 published: true
-date: 2025-07-06T19:45:05.280Z
+date: 2025-08-01T20:14:36.376Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-23T00:15:37.336Z
@@ -40,42 +40,9 @@ dateCreated: 2025-03-23T00:15:37.336Z
 - **Deep Gnome Lore:** *TODO*
 - **Fall of the Illithid Empire:** *TODO*
 - Spoops spends time under the name Myrkul and adventures as one of the dead 3. The Time of Troubles occurs.
-
-# The Age of Giants (??? BC - ??? BC)
-- The race of Giants become the largest and most powerful creatures on [Mardun](/locations/Mardun), their reign spread over Felldora and Felldun.
-- Ancient structures are erected and dinosaurs are bred as beasts of burden.
-
-## The Giants vs Dragon war
-- Eventually Dragons go to war with the Giants.
-- The great Giant leader **Blavog**, who rode a T-rex into battle, lead the final assault against the Dragons, but could not match up to their air superiority.
-- The Giants lost, and they became scattered across the world only the be hunted to near extinction or pass their genes off to other races (who became larger after the fact).
-- An ancient Cyclopian dungeon in what is now known as the Celestial Vale is shut away, which housed a portal that could lead to potentially anywhere.
-
-# The Age of Dragons (??? BC - ~2100 BC)
-- With no creatures on earth left to challenge them, Dragons become the hegemonic power of Mardun. **Cosmos, the Champion of the Skies**, declares to all Mardun that the Age of Dragons has begun. All major powers remaining on Mardun, be they Giant, Orc, Goblin, or Elvish, are under dominion of the Dragons. 
 - Dragons migrate to the lands of Dracofell, which becomes a holy land to their kind. Only Dragons, dragonborn, and kobolds may enter it. 
 - **2150 BC:** **[Inferno](/characters/inferno)**, who would go on to become the longest living dragon, is born in Dracofell to parents **Blazius** and **Ierris**. 
 - **[Darmuth](/characters/darmuth)**'s body begins to form in response to the heightened levels of magic on Mardun.
-- **Rise of the [Pythagorean Empire](/organizations/The-Pythagorean-Empire):**  
-	- Arcanographers, Astronomers, and Line-walkers pool their knowledge together to discover the existence and paths of the three leylines that exist on Mardun: The leylines of **Vitality**, **Flux**, and **Insight**.
-  - The multi-century leyline project, where the three leylines are aligned together, completed and **Pythas Prime** founded at the point of their union.
-  - The Arcanomancers of Pythas Price harness **[Runic Magic](/magic/runes)**, the first form of magic that can be harnassed without natural or divine forces. The field that would be known as Wizardry is begun.
-  - Asmal, an accomplished Arcanomancer (proto-wizard), is imprisoned in Pythas Prime for his dangerous and heretical ideas concerning the "antipode" powers of Vitality, Flux, and Insight. He is given the title of "*Asmal the Mad*".
-  - Dragons from Dracofell, where the antipode of Pythas Prime is located, grow concerned that the new power harnessed by mortals could threaten their strength, and coordinates a massive assault on Pythas Prime. Despite their strength, the Arcanomancers' magic is too primitive to fight off Dragons.
-
-## ~2100 BC: The Desolation of Asmal
-- Asmal, the Mad of Pythas Prime, is freed from Pythas Prime after 80 years of captivity during the Dragon assault by a cult of followers who gained interest in his heretical ideas. They decide to make the very long and perilous journey to Dracofell to get revenge on the Dragons.
-- Asmal reaches Dracofell undetected, and his thesis is correct that an enormous amount of "negative energy" has built up at the antipode of Pythas Prime. 
-- It is unclear the exact method he used, but the result was harnessing a new form of dark magic that lead to the extinction of 99% of dragons on all of [Mardun](/locations/Mardun). All surviving Dragons fled to Wyrmford, as Dracofell became a desolate wasteland hostile to all life. It is unclear what happened to Asmal and his followers, but his actions lead to the creation of dark magic. Such an enormous release of power also shook the leylines from their foundations, setting them free from the restraints setup up by Pythas Prime. Asmal the Mad leaves behind the legacy of the harbringer of dark magic (anti-Vitality, anti-Flux, anti-Insight) to Mardun.
-- Without the leylines in place, Pythas Prime falls into ruin and the Pythagorean people flee, spreading the knowledge of magic around Mardun. Being supported on an artificial island by the leyline of Vitality, Pythas Prime sinks into the water, to what is now know as the [Triangle Sea](/locations/triangle_sea).
-
-# The Age of Mortals (~2100 BC - ~1 AC)
-- During this period, magic as a discipline develops very rapidly. The primitive runic leylines eventually are replaced by the weave and the major magical schools are formalized. Great sages during this period invent the common and well known spells whose knowledge of are spread throughout Mardun.
-- Various survivng factions of the Pythagorean Empire found new settlements.
-	- A guild of astronomers travel north to the Celestial Vale and begin a new tradition of studying stars for scrying and fortelling abilities.
-  - A guild of warriors travel east to what is now called Helmaer and begin a tradition of magic for combattive purposes.
-  - A guild of vitalists travel west to Druidia and the Wild Jungles of the emerald coast to continue their traditions of healing magic, and beast husbandry. Eventually they rediscover giant beasts from the Age of Giants.
-	- The few remaining dragons scatter around the earth, forever living in fear of the Desolation of Asmal.
 
 ## Rise and Fall of Tiyamanni (1000 BC - 500 BC)  
   - **[Os Vrintia](/characters/os-vrintia)** travels back in time and founds the **[Empire of Tiyamanni](/organizations/empire-of-tiyamanni)**.
@@ -197,16 +164,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 
 - From the backing out of Os from the alliance with Wegate, a new revulsion of necromancy in all its forms occurs in Gothriathon. 
 
-## New Beginnings 
-- **17 AC** Two years after the death of his father Gilthur and the widespread destruction of North Geskoworm by Bazzdows, Krorgfrey I declares the founding of **New Geskoworm**.
-- **25 AC** Given the industry of the gnomes combined with the uniquely plentiful mineral deposits in the Silent Forest, New **Geskoworm** rapidly rebuilds itself as a premier trading port on the Dragon Sea, filling in the role that Altricia formerly played.
-- **51 AC** The Great Canal is built connecting the Gulf of Fywick to the Triangle Sea. The Fywick colonization of the dark continent of Felldora begins. 
-- **68 AC** The ancient Cyclopean settlement called Redwater Port is found. The events of **"No Heroes"** takes place. Krorgfrey I is assassinated by agents working for unknown dark forces. The blessing of Garl Glittergold is passed onto Krorgfrey's son **Glothur I of New Geskoworm**.
-- **72 AC** [Meade](/characters/meade) dies, leaving behind a legacy as a legendary bartender and friend to adventurers. Though some say his spirit still lingers among bars where adventures begin...
-- **180 AC** **[Helmær](/characters/helmaer)** ascends the Dwarven throne; the Dwarven Imperium collapses into the earth, severely weakening Gothriathon.
-- **200 AC** Os founds the **[Kingdom of Vrintia](/organizations/kingdom-of-vrintia)**. Vrintia Year (VY) 0 is declared. 
-- **201 AC / 1 VY** Gothriathon is incorporated into the Kingdom of Vrintia. Dwarvish and Elvish relations at an all time high.
-
 ## Mecha-Tunarath vs. Iapetus
 - After fultilling his commitments to Kelemvor, Spoops moves onto his next task. He must atone for the destruction of Dolarion by defeaing Tu'narath. Bazzdos committed to helping him with this task many years ago. 
 - Spoops meets with Bazzdos in his Forge Dimension where they prepare for the contlict with the titan Iapetus.
@@ -221,11 +178,6 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - With advanced automatons carrying out Bazzdos's will and Spoops continuing to provide Gond souls into the soul core, Bazzdos subsides his body inside this new vessel, becoming a Gargantuan Construct of Brass. While capable of leaving the construct, Bazzdos prefers to remain within it, as it provides a more powerful and durable body than his previous one.
 - Bazzdos initiates a 100-year plan to create a new empire of construction and infrastructure in the Plane of Fire, using the City of Brass as his base of operations. He begins creating a new army of automatons and constructs, using the city's resources to fuel his ambitions.
 
-## Early Development of Vrintia
-
-- **??? AC** Bank of Os founded in Vrintia. 
-- **??? AC** Inferno subsides at the volcano on the Osian Vale at the age of 2150+AC, becoming the first Greatwyrm due to his old age.
-- **??? AC** Royal Vrintian Academy of Swords, Songs, and Sorcery founded on the Osian Vale.
 - **250 AC / 50 VY** Refugees arrive from [Ereriad](/locations/Ereriad) fleeing from [Bane](/characters/bane). They settle around Vrintia and are welcomed in by Os.
 
 ## The Great Escape (333 AC / 133 VY)
@@ -233,61 +185,7 @@ Led by Darmuth's cruelty and mismanagement, combined with natural forces, the ca
 - **333 AC / 133 VY** Upon hearing of a new power source that could fuel his foundries, [Bazzdos](/characters/bazzdos) initiates a plan to transport his mobile foundry built of **The [City of Brass](/locations/city-of-brass)** back to Mardun over New Geskoworm. However there is a malfunction in his operation and the foundry crash lands into the **[Sea of Ice](/locations/sea-of-ice)** instead. Inadvertently, Bazzdos the Brass becomes trapped inside his creation under thousands of tons of burning brass, along with the majority of his automatons. He loses communication with the outside, and the remaining automatons in the Realm of Fire are left to wander. The impact also shatter's Bazzdows' consciousness into thousands of pieces, all of which slowly try to stich themselves back together.
 - This renders a major ocean pathway near the Sea of Ice into a nearly unnavigable sea of icebergs and steam.
 
-## Kaltrosar Incursion (343-360 AC / 143-160 VY)
-
-- **[Kaltrosar Bay](/locations/kaltrosar-bay)**: Becomes an infernal slave state ruled by a tiefling aristocracy after a devil-worshipping king took power. [Fort Suro](/locations/Mardun/Fort-Suro) and surrounding areas were abandoned as people fled [Kaltrosar Bay](/locations/Mardun/Kaltrosar)'s growing influence. 
-- Dragonborn exiles flee south towards Vrintia, and Tiamar's Bazzar.
-- Agressions from Kaltrosar begin to impede upon the human kingdom of Arnsworth. Border skirmishes become common as the slave state requires more bodies.
-- Arn continues to militarize, but cannot overcome the demonic influence of Kaltrosar, and soon full scale war breaks out. 
-- Seeking to expand westward, Os offers to protect Arnsworth in return for their fealty. King Reuben of Arnsworth begrugingly agrees. 
-- Vrintia steps in, providing much needed magical defense and assault capabilities that Arn lacks. Os, Breezy-E, and Inferno are able to easily fend off Kaltrosar, ending their incursions southward.
-- Os Vrintia establishes evlish control of Arsworth by anointing his son ??? ??? Daera Vrintia to the throne as Duke.
-
-## The Voyage of Breezy-E (365 AC / 165 VY)
-
-- ReInPaDe, the secretive anti-necromancy division of the Church of Os is established by the scholarly **Permanex Kindad Daera Vrintia**. It was formed under political pressure and concern about the ever raging Hastow-Wegate war.
-- Despite his heroic deeds which saved the world, being a powerful force of protection, easily fighting against the strongest foes, and their long standing friendship, **Breezy-E** is mournfully banished from the lands of Vrintia by Os for being undead. The Royals and Nobility fear and revile his necrotic nature, and his newest contract with Asmodeus makes him far less useful as a protector or weapon. 
-- Breezy-E leaves for the west seeking the best place to grow spaghetti on Mardun. He goes over the Saber river, and through Arn, and his departure from the lands of Vrintia is marked with the Lost Wind Gate. 
-- He spends the next few decades travelling up and down the Wild Coast, planting spaghetti and becoming a folk legend as a wandering samurai.
-- He travelled up through the Witchlight Jungles, and eventually wanders into Fywick. Missing his old days as an adventurer, and given how nobody recognized him anymore, and perhaps through the spirit of Meade, he finds himself as part of an adventuring team once more. 
-- His adventure team is part of the Fywick colonization efforts of making Felldora more habitable for mortal life, by clearing out ancient ruins, and fighting off monsters on the Emerald Shores. 
-- Getting around his ban on killing from Asmodeus, Breezy-E makes quick work of monsters and dungeons by leaving everyone at 1 hp so his party members can kill them. His party is completely at awe since they are unaware that they are in the presence of possibly the strongest fighter on Mardun and the chosen of Bhaal. 
-- Unfortunately the dark powers of Felldora take notice to this unknown lowly adventurer almost killing everything with ease, and the vampire tribe of La Bocca della Fuoco (The Mouth of Fire) are set to kill this party.
-- Breezy-E's party is deep in the Ironwood forests hunting down great beasts when suddenly they are attacked by Fuoco vampires. Breezy-E's efforts are not enough this time and the vampires kill his party. Unable to kill them, Breezy-E is left with no choice but to reveal himself. ---- Something about the spaghetti god here----
-- Breezy-E eventually finds La Bocca della Fuoco and breaks inside, casting away all opponents until he finds Dante Flamma, the powerful head vampire of the tribe. ---he defeats him in some stupid way---
-- He's so angry that he doesn't even care about his contract with Asmodeus anymore and prepares his ultimate spaghetti god attack to wipe out all the Fuoco vampires. But then he notices out of the corner of his eye a soil acidity chart, and average yearly temperature and rainfall graph and realizes that this small corner of Mardun is the optimal place for growing wheat and tomatos. This calms him down, saving the vampires and his own soul from Asmodeus.
-- As the new head of the vampire tribe, Breezy-E renames La Bocca della Fuoco **[La Rocca della Sugo](/locations/la-rocca-della-sugo)** (The Rock of Sauce).
-
-# The Era of Tensions and Transformation
-
-- **377 AC 177 VY** In a joint effort with Fywick and Kaltrosar, ReInPaDe begins its multi decade long investigation into the [Desolation of Asmal](/Events/desolation-of-asmal).
-- **550 AC / 350 VY**: At age 2700 Inferno's slumber begins. While not dead, Inferno enters a very deep sleep which he has not waken up from.
-
-## Arn's Rebellion (553-555 AC / 353-355 VY)
-
-- The mainly human inhabitants of Arnsworth are not happy under the mainly elvish and dwarvish rule of Vrintia. Incestuous bloodlines fail to keep the elvish lineage in place, and a human offspring **Othniel** takes the title of Duke. 
-- Emboldened by their defensive capabilities, the loss of Breezy-E, and the Slumber of Inferno, **Duke Othniel of Arnsworth** declares independence from Vrintia, and himself as the new king.
-- Arnsworth takes control of Tiamar's Bazzar, securing the major magical weapons depot. It is uncertain even to this day if the dragonborn clans of Tiamar's Bazzar were complicit in this takeover, preferring rule of Arnsworth over the rule of Vrintia. However it can be clear that a scism between Tiamar dragonborn and Vrintia dragonborn remains to this day.
-- Arnsworth also practices new fae magic learned from the fey forests that are near the capital castle, in an effort to counteract any of Vrintia's powerful mages.
-- ---todo wargame this out to find any cool tactics----
-- In the end, Arn's Rebellion is crushed, **Duke Othniel** is executed for treason, and a new elvish **Duke Feno Herfiel Lozzit Vrintia** is put in charge of Arnsworth. Arnsworth would remain under elvish occupation for 445 years until 798 VY when human **Duke Blackshield** would be symbolically given power.
-- After the rebellion is put down, Os becomes more reclusive.
-
-## Worldly Happenings 560 AC / 360 VY - 1000 AC / 800 VY
-- **[New Geskoworm](/locations/Mardun/north_geskoworm) vs. [Fywick](/locations/Mardun/Fywick)**: Entered a prolonged cold war with economic sanctions and proxy conflicts. New Geskoworm builds a wall between itself and Fywick. 
-- **??? AC** Os disappears from Vrintia. A council of 12 is put in place to maintain control of the country. Members of the council are primarily royal family with some rare exceptions.
-- **??? VY** La Rocca della Sugo discover the intentions of ReInPaDe and wipe most of them out in a single night. This is the largest slaughter of Vrintian nobility since Arn's Rebellion, and the last time a foreign soverignty engaged with hostility against Vrintia. Breezy-E begins to take a more aggressive diplomatic stance with vampiric spies around Mardun, to ensure that an org such as ReInPaDe could never form again. ReInPaDe is disbanded by the ruling council of Vrintia as part of a peace agreement with La Rocca della Sugo. ReInPaDe survivors are scattered and most of their work is destroyed, many more will die in the coming years at the hands of the Sugo vampires.
-- **??? AC** Bazzdows begins to regain some function, and sends out a distress signal beckoning adventurers to the [Sea of Ice]().
-- **??? AC** Vaudis, a city on the Wild Coast to the west of Vrintia grows in prominence. 
-- **??? AC** The War of the Great Maw begins on Felldora, threatening all Fywick colonies. Vampires, cultists, dinosaurs, kaiju, elderitch horrors, and adventurers duke it out epic style. Estis locks its gates for good.
-- **??? AC** Encouraged by mysterious beepings, a remote artificer in Helmaer constructs the Phantom Lighthouse as a means of one-way transport through the Sea of Ice. The Brotherhood of the Beep is formed to follow its guidance.
-- **??? VY** Esoteric Magicians work with dragonborn artificers of Inferno's Rest to devise a way to "enter into" the greatwyrm's dream in the most recent attempt to wake him back up.
-- **??? VY** Barad Ashnef is rebuilt.
-- **??? VY** Representatives from Kaltrosar do the unthinkable and visit Hastow to meet with the Red Archon in person.
-
-
 # The New Campaign Era
-- **798 VY**: Human **Duke Blackshield** is given symbolic power over Arnsworth, ending 445 years of elvish leadership.
 - **??? AC** Tiberian's family is killed
 - **??? AC** Tomas' mother is forced to jump off Queen Daera Bridge by Walter Beste Wotera Vrintia
 
