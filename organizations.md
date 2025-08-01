@@ -2,7 +2,7 @@
 title: Organziations
 description: Groups in Low Bar Brawlers
 published: true
-date: 2025-07-01T12:26:55.008Z
+date: 2025-08-01T20:34:31.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-10T21:59:49.648Z
@@ -55,7 +55,6 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [Astral Dwarf Clans](/organizations/astral-dwarf-clans) | Dwarven clans in the Astral Plane. | [Astral Plane](/locations/astral-plane) | - | Active |  
 | [Kingdom of Kaltrosar](/organizations/kingdom-of-kaltrosar) | A vast kingdom. | [Kaltrosar](/locations/Mardun/Kaltrosar) | - | Active |  
 | [Holy Empire of Wegate](/organizations/wegate) | A theocracy ruled by [Vesrahaan](/characters/vesrahaan) and the [Cult of Wegate](/organizations/cult-of-wegate). | [Vesrahaan](/characters/vesrahaan) | - | Active |  
-| [Vrintica Family](/organizations/vrintica-genealogy) | [Os](/characters/os) and his many descendants. | [Vrintia](/locations/Vrintica) | [Os](/characters/os) | Active |  
 | [The Ilinor Imperium](/organizations/the-ilinor-imperium) | The empire of Illithids ruled by [The Emperor](/characters/Emperor). | - | [The Emperor](/characters/Emperor) | Destroyed |  
 
 
@@ -78,7 +77,6 @@ Groups of entities that represent various factions, guilds, nations, religious s
 | [The West Sorea Trading Company](/organizations/the-west-sorea-trading-company) | [Captain John Robin](/characters/captain-john-robin) recommended the party find work there. | - | - | - |  
 | [Assassins Guild - Library Dimension](/organizations/assassins-guild)  | A secretive guild. | [Library-Dimension](/locations/Library-Dimension) | - | Active |  
 | [Adventurer's-Guild](/organizations/Adventurer's-Guild) | Supports adventurers. | [Fywick](/locations/Mardun/Fywick) | - | Active |  
-| [The Bartenders_Guild](/organizations/bartenders_guild)| A guild for bartenders. | - | - | Active |  
 | [The Soulblade Order](/organizations/Soulblade-Order) | Students of the Soulblade style of combat based on [Spoops'](/characters/spoops) fighting style. | Wardson Tower | - | Active |  
 
 
@@ -110,9 +108,3 @@ The [Five Dragonborn Clans](/organizations/dragonborn-clans)
 | Name | Description | Location | Notable Members | Status |  
 |------|-------------|----------|------------------|--------|  
 | [City Guard of Vrintia](/organizations/city-guard-of-vrintia) | The law enforcement organization in Vrintia. | Vrintia | [Sergeant Lemrick](/characters/sergeant-lemrick), [Thomas Stonebrook](/characters/thomas-stonebrook) | Active |  
-
-# From Other Times
-| Name | Description | Location | Notable Members | Status |  
-|------|-------------|----------|------------------|--------|  
-| [The-Pythagorean-Empire](/organizations/The-Pythagorean-Empire)| The Magic Wranglers |  |  | Fallen |  
-
