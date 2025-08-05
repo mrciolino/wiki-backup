@@ -2,7 +2,7 @@
 title: Campaign 2 Sessions
 description: Overview of Sessions for Campaign 2
 published: true
-date: 2025-08-01T13:00:39.601Z
+date: 2025-08-05T03:12:56.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T13:24:16.371Z
@@ -34,3 +34,4 @@ dateCreated: 2025-04-12T13:24:16.371Z
 | **Session 19** | [Session 19 Summary](/sessions/campaign_2/session_19_summary) | The party assaults the prison outpost after grave discoveries and magical preparations, suffering heavy casualties before Bear King reinforcements arrive. | Oran discovers a blood magic altar and falls unconscious; Tiberian infuses party weapons/armor; group triggers necrotic crucifix traps; brutal battle against Necronites nearly kills Thomas and Tiberian; Runt's stolen greatsword is reclaimed; Bear King's owl bear forces arrive as cliffhanger. |
 | **Session 20** | [Session 20 Summary](/sessions/campaign_2/session_20_summary) | The party regroups with owlbear allies while uncovering the prison's darkest secrets - including Breezy's murder of Verick. | Tiberian discovers magical golden onions with healing/blinding properties; Kael accidentally kills prisoner Fred; Oren is tortured by a six-headed Goopy construct; Breezy consumes a barrel of reagents and is exposed as Verick's killer; party develops explosive prisoner strategy to breach deeper prison levels; "Order 66" dark mandate introduced. |
 | **Session 21** | [Session 21 Summary](/sessions/campaign_2/session_21_summary) | The party navigates explosive slave traps and awakens a deadly Hellchain Weaver, barely escaping with their lives. | Tiberian identifies everbright crystals with alchemical potential; Oren discovers mysterious machinery behind prison walls; Thomas nearly dies investigating the pit before critical chain escape; Breezy saves the party with Minor Illusion diversion; owl bear allies are slaughtered by the chained spider construct; survivors hide in barrels while planning escape. |
+| **Session 22** | [Session 22 Summary](/sessions/campaign_2/session_22_summary) |   |   |
